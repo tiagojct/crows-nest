@@ -1,0 +1,19 @@
+---
+layout: layout.njk
+title: Tópicos
+permalink: /topics/index.html
+---
+<p class="back"><a href="/">&larr; Hoje</a></p>
+<h2>Tópicos</h2>
+<p class="muted small">{{ topicPages.length }} tópico{{ "s" if topicPages.length != 1 }} acompanhado{{ "s" if topicPages.length != 1 }} no arquivo, dos mais cobertos para os menos.</p>
+
+<section class="card">
+  {% for t in topicPages %}
+    <div class="trend-row">
+      <a href="/topic/{{ t.id }}/">{{ t.label }}</a>
+      <span class="trend-count">{{ t.count }} dia{{ "s" if t.count != 1 }}</span>
+    </div>
+  {% else %}
+    <p class="muted">Ainda sem tópicos.</p>
+  {% endfor %}
+</section>

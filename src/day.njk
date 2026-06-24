@@ -1,0 +1,17 @@
+---
+layout: layout.njk
+pagination:
+  data: digests
+  size: 1
+  alias: digest
+permalink: "{{ digest.date }}/index.html"
+title: "{{ digest.date }}"
+---
+{% from "group.njk" import renderGroup %}
+<p class="back"><a href="/archive/">&larr; Arquivo</a></p>
+<h2>{{ digest.date }}</h2>
+{% if digest.meta and digest.meta.generatedAt %}
+  <p class="muted small">Gerado em {{ digest.meta.generatedAt }}</p>
+{% endif %}
+
+{{ renderGroup(digest.press, digest.meta.sources, outletLinks) }}

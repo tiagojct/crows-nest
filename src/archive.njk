@@ -1,0 +1,18 @@
+---
+layout: layout.njk
+title: Arquivo
+permalink: /archive/index.html
+---
+<p class="back"><a href="/">&larr; Hoje</a></p>
+<h2>Arquivo</h2>
+<p class="muted small">{{ digests.length }} dia{{ "s" if digests.length != 1 }} em registo.</p>
+
+<section class="card">
+  <ul class="date-list clean">
+    {% for digest in digests %}
+      <li><a href="/{{ digest.date }}/">{{ digest.date }}</a></li>
+    {% else %}
+      <li class="muted">Ainda sem entradas.</li>
+    {% endfor %}
+  </ul>
+</section>

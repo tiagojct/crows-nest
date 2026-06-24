@@ -1,0 +1,17 @@
+{
+  "name": "crows-nest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "summarise": "node --env-file-if-exists=.env scripts/summarise.mjs",
+    "resolve": "node --env-file-if-exists=.env scripts/resolve-topics.mjs",
+    "build": "eleventy",
+    "daily": "npm run fetch && npm run summarise && npm run resolve && npm run build"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "rss-parser": "^3.13.0"
+  }
+}

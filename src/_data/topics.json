@@ -1,0 +1,504 @@
+{
+  "topics": [
+    {
+      "id": "calor",
+      "label": "Calor",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Isto está a aquecer muito - Público",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ycXpNVkFFZ1lEby1NajFCOW5feVVQX0k4d1RnZ0RrWkFTSXMza1FUOEpZeDVkUmdMUC04YnpGY1BuQWNMdC1OdGVCeENiNWVmdGFnMGNPam91UFJsaHh4YzVwdVh4d0tMUTRNaEg3SGR5dk5CTkE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Portão fechado a cadeado em escola de Vila Real em protesto contra o calor - Público",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjRLWktPTHlDSDBBOFp3M2tXQ2lPWGJrUFpDVVB6V3NVQzZrM0FLeEE5eTM2anBjSXNSZmRQby1ESndqSk5HNmQxVUJqcDQ4d2tFUFVvSl9obXJiamFad3B6aXZ4SG53ck9tVDh6cW9ZNVNSZzBtSVpDMDVrS3ROUHpCYV9hcVQ1U1dhT1QxUUNCeUxDSWQwMUJ3LU9PQkZ6RUFwTl9uRTNhaTljQkY0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "A montanha‑russa do calor continua. Temperaturas podem subir 10 °C numa semana - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUnFQMzUxTFdUTE5LUGV2MFFuQVVDQVZDeXhDRHFGbUQ0ZnpPcnhJZGZfaWJCNUt3TGNJU1pGaEloSXNTMXRqS3VKMVJkVWh6UU5JMzM0ZS1SSTBaRm1aOHRQdV9ZLVdIN3AyRS0tOW1sMF9DeVpvUzg1U19mb3QtZFdiM0pUZDg1cEVQbW5hNmJWbVNnQkc5cW1mcUpUU0Y2cG1OZTVTRGJ2emoxUUhNUHdrMGlPOEk4R1BmM0xVbEExbVk?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Alguns hospitais já ativaram nível mais baixo dos planos de contingência devido ao calor ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/alguns-hospitais-ja-ativaram-nivel-mais-baixo-dos-planos-de-contingencia-devido-ao-calor",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Como proteger o seu animal de estimação do calor extremo  ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/como-proteger-o-seu-animal-de-estimacao-do-calor-extremo",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "IPMA emite novos avisos: trovoadas e chuva forte vão atingir sete distritos - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc212MTlUZVdKSkdqMDNVNGhiRUR0cUhaSUh0UVJBeG9pR2FKV2F3d1VYRE9STGtoRV9pU2dodjdVeHpxbWY1Q08xS0ZScUQtOW9SRDQ1Q0ZLVHkxTVM3UldwdmFpOWFXOUIyeU92QWdNaC1FbWM5Q05pcnI2RTNpZmg3YVg1NHRLU3otcGpIUDJ5Qm9YaVJ5aTlDU0JsR0Q5VV8zaHpCQUkwdnJPSy1NbjB6VTRxRnlyamtvUE11SUdURGNZVlVVOXh3?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "CIN dá voz a campanha internacional que apela à adoção de a ‘cool roofs’",
+          "link": "https://eco.sapo.pt/2026/06/24/cin-da-voz-a-campanha-internacional-que-apela-a-adocao-de-a-cool-roofs/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Alguns hospitais já ativaram nível mais baixo dos planos de contingência devido ao calor ]]>",
+          "link": "https://www.sabado.pt/ultima-hora/detalhe/alguns-hospitais-ja-ativaram-nivel-mais-baixo-dos-planos-de-contingencia-devido-ao-calor",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Onda de calor em Espanha provoca dois mortos   ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/onda-de-calor-em-espanha-provoca-dois-mortos",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Leques, ventoinhas, chapéus e muita água: é assim que a Europa está a enfrentar a onda de calor ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/leques-ventoinhas-chapeus-e-muita-agua-e-assim-que-a-europa-esta-a-enfrentar-a-onda-de-calor",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Alerta vermelho em França leva 68 mil casas a ficarem sem energia ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/alerta-vermelho-em-franca-leva-68-mil-casas-a-ficarem-sem-energia",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Como proteger o seu animal de estimação do calor extremo ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/como-proteger-o-seu-animal-de-estimacao-do-calor-extremo",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "corrupcao",
+      "label": "Corrupção",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Transparência conclui que Isabel Moreira violou conduta",
+          "link": "https://observador.pt/2026/06/24/transparencia-conclui-que-isabel-moreira-violou-codigo-de-conduta-dos-deputados/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Transparência conclui que Isabel Moreira (PS) violou código de conduta dos deputados",
+          "link": "https://www.rtp.pt/noticias/politica/transparencia-conclui-que-isabel-moreira-ps-violou-codigo-de-conduta-dos-deputados_n1749147",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Transparência conclui que Isabel Moreira violou código de conduta dos deputados ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/transparencia-conclui-que-isabel-moreira-violou-codigo-de-conduta-dos-deputados",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Transparência conclui que Isabel Moreira violou código de conduta dos deputados",
+          "link": "https://eco.sapo.pt/2026/06/24/transparencia-conclui-que-isabel-moreira-violou-codigo-de-conduta-dos-deputados/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Transparência conclui que Isabel Moreira (PS) violou código de conduta dos deputados",
+          "link": "https://jornaleconomico.sapo.pt/noticias/transparencia-conclui-que-isabel-moreira-ps-violou-codigo-de-conduta-dos-deputados/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "MP pede ida a julgamento de ex-presidente da Junta da Estrela na Operação Tutti Frutti - Público",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOTlYYkNURGZCNjJpRGExc3BKQVp1eHVfa0NCUXRHQ0xBeUNWT0RyT2ZNWXd2SFQ4TjNaS0NBVXR2SUl0eE9pYkszLTZHb0I4NUVrcHp6Yy01X2tiYnAxZFN3RUZ6UmV1QUtkR0paakIxbHVxc21Pb0l6emp0dHI5OEFiQVRrbllYbTBjVE1tVVJKVGVIclRwUFVWLWJHVDdETkE1NkYwYTdvcjFNUkd0bm82aFoxWHN1eWI2OEVtamFIYmsteWt4RXRn?oc=5",
+          "outlet": "Público"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "economia",
+      "label": "Economia",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Pensões mais baixas e de viuvez são demasiado generosas: FMI sugere revisão - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3M5Q3hhTFJBQTUyOEhaWWxzQUNhUzFTcklJdllXbEJjX3lXaTVKWXpQRmoxbHkxOVFVMVdDSGU2NUM3UHJWUHFaRGhFcXJFMHJOTDhiMnFyOGdRNnR6aENNbDYzaHBVNjZoX2FkYzNjWGx5d2traXVRc3RnTi1EdnR6TVhnSjYzLW92N3ZUa1VrdUdaVXJzWXU4cjktNm5YRVhjTElHUjlteXBtLVhFbnIxY3FuaTMzNUV2WmljbTFxOTQtVzlPUWNjdGVkQTZlWU9EWGhnUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "FMI dá força ao Banco de Portugal nas medidas para crédito",
+          "link": "https://observador.pt/2026/06/24/fmi-da-forca-ao-banco-de-portugal-na-possibilidade-de-recomendacao-para-creditos-passar-a-vinculativa/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "FMI recomenda reversão de apoios aos jovens na compra da primeira casa",
+          "link": "https://www.rtp.pt/noticias/economia/fmi-recomenda-reversao-de-apoios-aos-jovens-na-compra-da-primeira-casa_n1749136",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Banca portuguesa está resiliente mas riscos devem ser monitorizados",
+          "link": "https://www.rtp.pt/noticias/economia/banca-portuguesa-esta-resiliente-mas-riscos-devem-ser-monitorizados_n1749138",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ BdP acolhe avaliação do FMI e diz que recomendações vão ser consideradas ]]>",
+          "link": "https://www.cmjornal.pt/economia/detalhe/bdp-acolhe-avaliacao-do-fmi-e-diz-que-recomendacoes-vao-ser-consideradas",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "FMI adia cenário de défices para 2028",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/fmi-adia-cenario-de-defices-para-2028",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "FMI baixa previsões de crescimento para 1,7% neste ano e 1,6% no próximo",
+          "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/fmi-baixa-previsoes-de-crescimento-para-1-7-neste-ano-e-1-6-no-proximo",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Apoios aos jovens para compra de casa devem ser revertidos, sugere FMI",
+          "link": "https://www.jornaldenegocios.pt/economia/habitacao/detalhe/apoios-aos-jovens-para-compra-de-casa-devem-ser-revertidos-sugere-fmi",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "FMI alerta para desafios dos supervisores na atração de talento para IA",
+          "link": "https://eco.sapo.pt/2026/06/24/fmi-alerta-para-desafios-dos-supervisores-na-atracao-de-talento-para-ia/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "FMI corta previsão de crescimento para Portugal e alerta para défices a partir de 2028",
+          "link": "https://sol.iol.pt/economia/noticias/fmi-corta-previsao-de-crescimento-para-portugal-e-alerta-para-defices-a-partir-de-2028/20260624/6a3becd60cf2d0ed34b870b3",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "incendios",
+      "label": "Incêndios",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Fogo no Ameixial, Loulé, dominado pelas 4h - Público",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWpLTnBWZDFuVTZjaDh0WmRVVXNlcXZObjVZZTV2RDZhUTRXdGlaUFZJZVVfZ2IxVmdxN25MSHpIdVR1SFhsRTRhenFzQndmNzhKTG9fYmdKTzUyaWJqUWlWQ3pOZG9FQjFMaUpGb3Y2N3B0Q0FFbXVCcURqNUExQ3pncDF2Ml9CRUNHU19rdUg3UC1ZcGg2OElEWkFwQVVIQTNZTTNpWQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Cerca de 50 concelhos em perigo máximo de incêndio - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd2FESExBTUhyZnlyQkdYNWd0ZmFZLUc0c2JDd0gtUnNpejNuZ256ek9fb1JadDlveHN2dHFkeE1iV1F1ZTFtMDRmdkdBYTBLRnVpQ1lGZzR0Y0I5NTBHbEZDbFFPZ0VqVEs2cmtJSkZqQ2pNV1pQSjRpRVZyUXlGMkNkZG8taGZuOW5NcG8xUnVPTktBLWJKSjEtVW1vLXFBbXQ4VTdRY2xhbDRoOWh6MEc2QktQLWVJMWlhVW9kRkNZTEk?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Três bombeiros feridos no incêndio em Loulé - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS3NZU0R0dkVSOVp1djB1aGlRQ05mRkNkR1gwWFoySVhoZXE3QkJ1cFJ3UG16RmNhM2x3TjlZeG5lc1BXLUpseDZfb1pQLWpGZFFCRENLZ2NaNm1HRC1UU3BKYWRNMmREUjBwRGRWRk5sZ0V6b3doRzhfT0E0Y0pvRkFFcHR2Mk4zUVphLXl5QkhLMkttSGQ2YjZ2X1RqNmo5cVk0QldlbDVfbUdjb0Y1eE44WUNjNVFQUVRkTlQtLXNsN0tTQkJ3ZQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Dominado fogo em Loulé - TSF",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zOTU1eHZzVnhJa19nN1FKVWw3cy1xV21BQnhNRFduSFlZdmJOb2JvaEFZRURZOVdlVy1xT2FieUVRMkNUa3VybTk1VHZtaDRIbTJpYndJdTVyNktDUkdBLUtQblNock1tX1hra2xwNklnUlQ2aXc?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "\"Ameixial ficou despido.\" População viveu horas de \"pânico e terror\" com fogo na Serra do Caldeirão - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnRZU3pDdDVtUDlrVk5iR0gxdS1zTHpzcl82c3poaDlaVWVYYzlYaVc4b2J0Yk9kVzBJOUxLN3IzMXkyYVA3bnRkOEk1TE9sT0JnM3VSZUJVRHdXVmhkUTJVMFRIbmIzY19Lb25ReVo4WTZMRTVFYkhRNTBmN1lDSDg4cnNFcF9FT0xKRVhmeUJVOTA4UzJOaF81MVA3dkhBMUh6MnY4OFU5ajdrWWx3RUo4TGF2M2xVeVVJbGV0eGtkVlVwRTZJbFVLN2lYLVdpY0dybXdB?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Fogo dominado, mas vento e calor preocupam: mais de 300 operacionais mantêm-se em Loulé \"até ser necessário\" - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYmJ6RGFEUkJrT1FOMEEtR28tRFBjc252RTlwVy16UzBweGxWNVd5ZlJ2NDFYVHFxVE1FVGlfbHFxTm41VHl0eHRYLXF3akQtR0RYTzM3bEd6azRaTUI5VHJfcFRrOWNGSjdXOEpKdkVEQWhMYmRxMnllM1FaTmY4SzJGWkE0R2VfNG5sdkRoeDlCLXVydjExdUgwSUVaRDVpakNHMm5hZFFBbGdqU3JhaHVUZ0JFSGwzd2F4VlFobS1KSU5ydTBuanVwS2dveVIybURZdU8zR25xcVFFM1phZU1WZw?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Nuno Melo diz que Forças Armadas estão mais empenhadas no combate aos fogos e anuncia reforço de meios",
+          "link": "https://sol.iol.pt/politica/noticias/nuno-melo-diz-que-forcas-armadas-estao-mais-empenhadas-no-combate-aos-fogos-e-anuncia-reforco-de-meios/20260624/6a3c05e60cf21fcd83776824",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "mundial2026",
+      "label": "Mundial2026",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Portugal 5-Uzbequistão 0: as notas aos jogadores portugueses - Público",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzJqeHpfRU1tWm15bDlwTUhaejJ4eU9OVWd2X0hCWHpDNVBkaW9jN0QweXR2TnpHcTI2aGtaT2hINFhrSk5qZGJ2SEh4UWdMMTNUVk5aS05zNHAxbmF1TFR2cXBGTG9JSHpJRlM2UW1Ea2xmVDZMQkdDZ0lUN1dveUVZOHptRERMQ19BQlpIQnh6RFo5LVpobV8zZjU4WU5jSXhOQUVna1J3STdZN2M0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Com derrota do Congo frente à Colômbia, apuramento de Portugal está quase garantido - Público",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1Q3UXFGOHJEVDVUbGZ6RWNjVHd2OHJ4cUJmajN0ZFVNSUFCRW9kRVNmbjlZVHZBLXIzQmpWMkRxbWFFOHg1dlpRUy1XTDlDOThONGhsOGZzLThyWVZNTmxNMHZPS0JxWkRDY0pvRURRMTA0anJUeWRfVWFTcUt3RVYzVkJQOEpGdFpqbi0zUThqekp5ZllJdHotQ2dXOE5kSW9IV091Q1ZkVzJRbVJ1ZjhySzlscUZvU2FTdFhyOA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Brasileiros reforçam time de torcedores de Portugal nos 5 a 0 contra o Uzbequistão - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbDV6TkxWN3F1cS1HS2hDVFRTTHV0a05iUlF5UG4xeXluZ2ZFdFZNNzhVWmRETkV1LVozaEtzTFZZb0NxSHd3UkVMa1lUaFdaSnIyai1lM1kzZHlMV04yb2lENXRIUEdGMHVUVFlMdDd2X0ExZ184Z2lXZnd5WktySlRGY0JlLVhGR0NvU0xuXzQ4QUpfZFIwekNmRzYzNUFpalVoRmRJWUZXS3k4NGVYTGdBdEs?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Roberto Martínez elogia nível de rendimento: “Nós somos esta equipa” - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2lsdXYyS0VQSUJOTno2UVVVOEIycm5FXzViX3FzSThrYlc3UGtEZHB1dUVBQWZpaERpQWFYYlBIVE5jQnN1aldjZUZ3VkFmQlVIVjdyTjFoeGw0bEVwaWI1WXc4Q1ZDMUNvSThZWVpPZS1ZUEV6Ul9EbS1fMVRPX1dTXzJrVFdTZVpEWWswUTlaU1Fsd1ZIZHlpQW5hR1AzSTdNOF94SWxjQQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "“Os argumentos para justificar que Cristiano Ronaldo continue a jogar aos 41 anos são bons para que continue a jogar aos 81”: Ricardo Araújo Pereira refuta alguma da lógica da titularidade de CR7 - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOY3JXSks1dC1rRUNYVXBOaS1XdVdQT3MzUTZsUXZBQmFNVm5nRXBxX1g5RmtRaUtBa243UGhPS1UycEYxZ2F2Tk1fYmNBLTdBejlidnM3WFMwZ2lIcmZIdzVmcWZUTnAyazFkMWFzZWpnaHRTbFNGRlJDaVIzaTlZbEl5SUlMVmEzX1RSRDRrOHdyNmJqU2pPSmJVQzk2aC1VWlhkNGJkcXZmeUlWWnFyQncxU1BqS004TFhKc29ZYlltWmNqSzZQbl9QOGxaZjZvQUdjRE5IbDhscjdHV05NSFhJMU1ZRGlfRk4tYzN5WnNNSEdEMU42SVM3ajFpNEhMcG5JQ2pUZk9PNUxyVHJZNEJONjVBTGkzd0hwQmpJXzZra2I0RDExbmdrNDktS2F6elBpYnA0aFo?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Jovens recebem quase 50 mil euros para ver jogos do Mundial",
+          "link": "https://observador.pt/2026/06/24/mundial-2026-dois-jovens-receberam-quase-50-mil-euros-para-assistir-aos-jogos-nos-eua/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Sósia de Hitler visto a apoiar a Alemanha no Mundial?",
+          "link": "https://observador.pt/factchecks/fact-check-sosia-de-hitler-visto-a-apoiar-a-alemanha-no-mundial/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Gana de Carlos Queiroz empata com Inglaterra e dá passo importante rumo aos 16 avos do Mundial 2026 - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdE9Ta3FBQkJJRVBmN1dLWUlsSmtIVkNQbnNUTzZ3RVNjMjJqdVktTElsRUtoR1ZGREhyU1RLQ1VLWUxQdkpnRnl1alJQaGJiT3pXdEtBdGJSNk8waktUaEdvLTdNY21OQkZiSXpydTBTVDVTRWpzOGdlM0FuUFVEZw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Croácia vence e elimina Panamá com golo de Budimir - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMlFRQTNLN0VWSW4xT3ZRenZFYVBJUUN3emJYM21mWXhtTno1cTcxZkFzRmRnd1JqY2FEWlFxTnJrWTgyOUFySmdRRVVCeTRxQ2N3ekplWXg2NzVXTVdPS1M3S2VxbTZSNmxOZnNjZE1JZ0tqYW1RY1FIbE5FVFU3ZUFiS0p1dw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "SIMMMM... O ruído que Ronaldo adora e continua a alimentar a sede de vitórias da seleção - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSG03TzMxdmloem1NemNBVEExMUkyS3pHUFRnWW1Bai1IWkMzbGtzem5kUGdXMVZyZENBX1BpVkRuNkV3Q0xzT0tFY1JNUmVRSTVzVmpkT2NtcjBPcUwxV3M2b2VNcWJMVVJBamxXTVFkSmR3Z0ZoMFM5ZFJMU0lJQ2luNm9JaEZ0VzJLT3pfWEVyTUQ4U0w0ZTN4SDRJaUhFTTRuMEFsakpyMWxqUkd4RXhR?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Quinas enchem o balão de confiança em noite de São João - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMVVhYzZDc1FTcDBpTGtDLUoxWHlMTUlqQ3d2RkkzVm1wX0F3THB0b05abjU4UVdlNGJyeEdCNmlzbmYxQm5mRVNxMFBxMDYyTlJGQzhhNUVlM0hLb1VUU0hLWC1SbG1CcTR2VjNma2pJY01QMHVIV19WM24yTU1DelZWM0ZncG9oemt3UDVlQmRQZ3B6X1U1eVpWb0U0WHM?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "António José Seguro reage à goleada no Mundial: \\\"Parabéns a Portugal\\\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOEgwWk5PMXJpY3BvS05KdjF1YUpacTFxOEc5MHVYUDBfNlJJNDlKQmNyNjh3bmhGUmNUWGlqclZQdzJjMkMwUGlfX1QwWEw1Rm5vajh2cXBfbUNmRXM4SG1oNWR5c0NpT1hrQlc4RFdkWlpwcFFwYUF5MkN4SzN5cnk5amV0ekZHTG0wOEJZWTF4LW5xeHRWUnNGUjdkdw?oc=5",
+          "outlet": "Jornal de Notícias"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "psu",
+      "label": "PSU",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Há acordo com o PS para a Prestação Social Única: cai o trabalho obrigatório e o canal de denúncias - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRW4xVXlsMXNySDktbTBQazZhOWZQRDZlMjNFMEZIUHFENnVmdDRwbEdSVGhSbFhwcHRReERJc2R5M3BvS3ByeE1IaXRWdWxScFhtM3Y1SW9wclVjbVZkNjJHa2pXM0loTDlVTEZSdXdNclNZam1qeWFVam1KRkxwdjdKTlUtMWltdmhlSXU0YkVKSTJwQlRSRTlIaFE4SDA0ZGVfM05zNlhITW9jUzVuZTQ2cGF6cVVObnFRZEhOeHJzV1JFdW9BNkJ3NGRSS1h3UGVnWmhvQ1ZBZTFOcHhsV3NxOTBSZi11OTZ4TmlR?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "O sim do PS à PSU e a ambição de um fundo soberano",
+          "link": "https://observador.pt/newsletters/economia/economia-a-psu-com-o-acordo-do-ps-a-ambicao-de-um-fundo-soberano-e-as-sugestoes-aos-reguladores/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "André Ventura: ainda não foi alcançado \"qualquer entendimento\" com o Governo sobre a PSU - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGVOSWwwTWM0ZHZRSjgzTUpOSVg1NndtYy1yU19ycldacDQ4VFBKaE5NT1NsdVFOakhNWHpHWlRVdFpKSkJuU09vSERQaEMyV1M4LUdxWEF0RzAzLVgyMTNzbUx3c213LVJBSkNEYjB1TlBENEhkYkdmZG14T1NsYzFnUk0wRGVGX20wZFBoRnZpVTFRZ3lIdXZ2eFVGT3p1eVBkVE40c0ZLZld0eU5qa3NUc0s?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Ventura diz que ainda não há acordo para PSU e insiste em restringir acesso a imigrantes ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/ventura-diz-que-ainda-nao-ha-acordo-para-psu-e-insiste-em-restringir-acesso-a-imigrantes",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ PSD contraria PS e diz que \"atividade de solidariedade social\" será obrigatória para aceder à PSU ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/psd-diz-que-atividade-de-solidariedade-social-sera-obrigatoria-para-aceder-a-psuc-audio",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "<![CDATA[ Plataforma alerta que critérios de acesso à nova PSU podem penalizar mulheres ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/plataforma-alerta-que-criterios-de-acesso-a-nova-psu-podem-penalizar-mulheres",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "18h PSU: Governo e PS chegaram a um entendimento",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/18h-psu-governo-e-ps-chegaram-a-um-entendimento_a1_1749173",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "PSD e PS chegam a acordo para a PSU. Permanecem dúvidas quanto ao \"trabalho social\"",
+          "link": "https://www.rtp.pt/noticias/economia/psd-e-ps-chegam-a-acordo-para-a-psu-permanecem-duvidas-quanto-ao-trabalho-social_n1749156",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Prestação Social Única. Montenegro confiante num entendimento com PS e Chega",
+          "link": "https://www.rtp.pt/noticias/economia/prestacao-social-unica-montenegro-confiante-num-entendimento-com-ps-e-chega_n1749150",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "17h PSU: Montenegro apela ao sentido de responsabilidade dos partidos",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/17h-psu-montenegro-apela-ao-sentido-de-responsabilidade-dos-partidos_a1_1749159",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Hugo Soares acusa Chega de desumanidade e \"não querer transformar nada\"",
+          "link": "https://www.rtp.pt/noticias/economia/hugo-soares-acusa-chega-de-desumanidade-e-nao-querer-transformar-nada_n1749176",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "PSU: PSD desmente PS e diz que trabalho social obrigatório não cai",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/psu-psd-desmente-ps-e-diz-que-trabalho-social-obrigatorio-nao-cai",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "regionalizacao",
+      "label": "Regionalização",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Regionalização sem consenso no parlamento",
+          "link": "https://observador.pt/2026/06/24/regionalizacao-em-debate-ps-quer-alianca-com-psd-chega-fala-em-tachos-e-pcp-denuncia-falsificacoes-de-decadas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "PS desafia PSD para caminho conjunto na regionalização, Chega contra \"mais tachos\"",
+          "link": "https://www.rtp.pt/noticias/politica/ps-desafia-psd-para-caminho-conjunto-na-regionalizacao-chega-contra-mais-tachos_n1749145",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Parlamento debate proposta do PCP para referendo à regionalização até 2028 - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSGhsZjJjelg0TmpDcldZbEpmUmZ5N0dLanhVcWdFc1RSSlppcnhkWkQ3UUR2SmpVTklnRFFYdHJfZU1MdmdaWFpjSGJNV2dEWjBnQXJkWkNpNXFfWUJVZUNPd1lSdWFScnpOZDd0SWlVZ3VpREJ5WUw1NjU0bXRIelB3LWp1LS1PZTVoNDJxY3N4MlM3VGtNczc5Qy1mb05VTnRDam9ZODNuUQ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Aliado de Starmer recusa entrar na corrida ao cargo de primeiro-ministro do Reino Unido contra Burnham - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOam81eUljc2llRlNZVTJlMEJPSlRlZFA0anZxQS1lU3Z1ME5jdmNhMHNZS1BGcWJyRTBCd3ctaHNXZTNIMTFRblpPNml5cTFvUk1FWVI5ZmktcFJIVzgxOXQwSEJNNURsa2JUdi1RbHN4Zkl5eGhJVFVNZmlWT09rbkJxUnlpX0xMRjRkUmYxWmlKVjl6aUh4UUpWM3pSNWlMbWN3cUlBNWVJU2puaE5EaFRWc1BoajRBLURuVXQ2SW1ndVFmTExhSE0xbk5MNmRp?oc=5",
+          "outlet": "Público"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "tecnologia",
+      "label": "Tecnologia",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-24"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-24",
+          "title": "Instagram e Whatsapp com falhas nos serviços em Portugal desde as 22h30 - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVFpGaDVnMTZkNlUwc3FzbFdWdE4zQ3RRQzZLM0otdUNJVm8xQklGbFpyWF9rS0pwa0FPWGFqa3ROXzBkanc3aHZTSGhid2pMS0NVY2E3Ni1rR19ZQy1UY28tUk5mUm9DLWc1eUZhcGxyRHNzdkw3R0NXS0tqb0tHRWpaNjMwT3hFdFU0bHladm1meWpPMHZxRnBvdmJCRUhteVJSTXRGMVdFR0Q1bExrcA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "Falhas no Instagram, Facebook e Whatsapp afetam vários países, incluindo Portugal - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjkwQU1jSHBXai1NY1Z5NHQ3Z3M1S0QzN1VtdHJENmt1emswSUtVV0dKUWpWZkxlRWc5eE1wOGw2aHltS0g0YXRrTEtXWVl3engwNmhDeVNxREZIdlNtSGtQcWZaVDJQRE1ET3NMT0EzWUlNX1NJSGdvei14dkpIU2J2WlRFSGJCVUlGUEtGWnlSeVIxWFlVNVEydXUxQ2hfbk5KZFcyWEhrTzdMbUtXdE8tYlJjWWk2YzlKQTBSUnpmUXNqakN6RWFfbG5XZw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-24",
+          "title": "WhatsApp, Instagram e Facebook estiveram em baixo - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdHp2UDZMdlp3cDVWb1BfbnZOeXNjTlNRT1RGWXBGQlhsTzV3aHR6R2NWYmk4cGFkTmdyd3pOSU5KUnVTMnNOWXBEc091c2RMVjdfMnN2VkhnR1pWTGZPRW1LR1dRX19Ed2RIYnpqOTBpWlMwanpZd1VlYnBsMlFLamt6VkVCR1dydFpXYlpRNFBJUjVQUzQyQQ?oc=5",
+          "outlet": "SIC Notícias"
+        }
+      ],
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    }
+  ]
+}

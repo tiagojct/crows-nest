@@ -1,0 +1,74 @@
+---
+layout: layout.njk
+title: Hoje
+---
+{% from "group.njk" import renderGroup %}
+{% set latest = digests[0] %}
+
+{% if latest %}
+  <h2>Resumo de hoje: <a href="/{{ latest.date }}/">{{ latest.date }}</a></h2>
+  {{ renderGroup(latest.press, latest.meta.sources, outletLinks) }}
+{% else %}
+  <div class="card">
+    <h2>Ainda sem resumos</h2>
+    <p>Corra <code>npm run daily</code> para recolher feeds, resumir, normalizar tópicos e construir.</p>
+  </div>
+{% endif %}
+
+{% if trends.trending and trends.trending.length %}
+  <section class="card">
+    <h3>Em alta esta semana</h3>
+    <p class="muted small">Tópicos a subir nos últimos 7 dias face à semana anterior.</p>
+    {% for t in trends.trending %}
+      <div class="trend-row">
+        <a href="/topic/{{ t.id }}/">{{ t.label }}</a>
+        <span class="trend-count"><span class="momentum-up">+{{ t.momentum }}</span> &middot; {{ t.count }} dia{{ "s" if t.count != 1 }}</span>
+      </div>
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if onThisDay and onThisDay.length %}
+  <section class="card">
+    <h3>Naquele dia</h3>
+    {% for entry in onThisDay %}
+      <div class="trend-row">
+        <a href="/{{ entry.date }}/">há {{ entry.yearsAgo }} ano{{ "s" if entry.yearsAgo != 1 }}</a>
+        <span class="trend-count small">{{ entry.topics | join(", ") }}</span>
+      </div>
+    {% endfor %}
+  </section>
+{% endif %}
+
+<section class="card">
+  <h3>Atividade</h3>
+  <p class="muted small">Tópicos cobertos por dia nas últimas {{ calendar.weeks }} semanas.</p>
+  <div class="heatmap" role="img" aria-label="Mapa de atividade diária">
+    {% for day in calendar.days %}
+      <span class="cell l{{ day.level }}" title="{{ day.date }}: {{ day.count }} tópico{{ 's' if day.count != 1 }}"></span>
+    {% endfor %}
+  </div>
+  <div class="legend">
+    <span>Menos</span>
+    <span class="cell" style="background: var(--heat-0)"></span>
+    <span class="cell" style="background: var(--heat-1)"></span>
+    <span class="cell" style="background: var(--heat-2)"></span>
+    <span class="cell" style="background: var(--heat-3)"></span>
+    <span class="cell" style="background: var(--heat-4)"></span>
+    <span>Mais</span>
+  </div>
+</section>
+
+<section class="card">
+  <h3>Dias recentes</h3>
+  <ul class="clean">
+    {% for digest in digests %}
+      {% if loop.index <= 10 %}
+        <li><a href="/{{ digest.date }}/">{{ digest.date }}</a></li>
+      {% endif %}
+    {% else %}
+      <li class="muted">Ainda sem entradas.</li>
+    {% endfor %}
+  </ul>
+  <p><a href="/archive/">Arquivo completo &rarr;</a></p>
+</section>

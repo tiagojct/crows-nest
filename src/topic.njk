@@ -1,0 +1,53 @@
+---
+layout: layout.njk
+pagination:
+  data: topicPages
+  size: 1
+  alias: topic
+permalink: "topic/{{ topic.id }}/index.html"
+title: "{{ topic.label }}"
+---
+<p class="back"><a href="/topics/">&larr; Todos os tópicos</a></p>
+<h2>{{ topic.label }}</h2>
+<p class="muted small">
+  {{ topic.count }} dia{{ "s" if topic.count != 1 }} &middot;
+  primeira vez {{ topic.firstSeen }} &middot; última vez {{ topic.lastSeen }}
+</p>
+
+{% if topic.aliases and topic.aliases.length %}
+  <p class="muted small">Também rotulado como: {{ topic.aliases | join("; ") }}</p>
+{% endif %}
+
+<section class="card">
+  <h3>Cobertura ao longo do tempo</h3>
+  <svg class="sparkline" width="{{ topic.sparkWidth }}" height="{{ topic.sparkHeight }}" viewBox="0 0 {{ topic.sparkWidth }} {{ topic.sparkHeight }}" preserveAspectRatio="none" aria-hidden="true">
+    {% if topic.sparkSingle %}
+      <circle cx="{{ topic.sparkWidth }}" cy="{{ topic.sparkHeight / 2 }}" r="3"></circle>
+    {% else %}
+      <polyline points="{{ topic.sparkPoints }}"></polyline>
+    {% endif %}
+  </svg>
+</section>
+
+{% if topic.articles and topic.articles.length %}
+  <section class="card">
+    <h3>Notícias</h3>
+    <ul class="clean">
+      {% for article in topic.articles %}
+        <li>
+          <a href="{{ article.link }}" rel="noopener" target="_blank">{{ article.title }}</a>
+          <span class="trend-count small">{{ article.outlet }} &middot; <a href="/{{ article.date }}/">{{ article.date }}</a></span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
+
+<section class="card">
+  <h3>Dias em que apareceu</h3>
+  <ul class="clean">
+    {% for date in topic.occurrences %}
+      <li><a href="/{{ date }}/">{{ date }}</a></li>
+    {% endfor %}
+  </ul>
+</section>

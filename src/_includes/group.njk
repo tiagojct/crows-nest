@@ -1,0 +1,29 @@
+{% macro renderGroup(group, sources, outletLinks) %}
+<section class="card group-press">
+  <h3>Tópicos do dia</h3>
+  {% if group.topics and group.topics.length %}
+    <ul class="chips">
+      {% for topic in group.topics %}
+        {% if topic.id %}
+          <li><a class="chip" href="/topic/{{ topic.id }}/">{{ topic.label }}</a></li>
+        {% else %}
+          <li><span class="chip">{{ topic }}</span></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="muted small">Sem tópicos disponíveis.</p>
+  {% endif %}
+
+  <h4>Resumos por meio</h4>
+  <ul class="clean">
+    {% for outlet in group.outlets %}
+      <li>
+        <a class="outlet-name" href="{{ outletLinks[outlet.name] }}" rel="noopener" target="_blank">{{ outlet.name }}</a>{% if sources and sources[outlet.name] == "fallback" %} <span class="badge fallback" title="Feed principal indisponível; resumo construído a partir de uma fonte alternativa">alternativa</span>{% endif %}: {{ outlet.summary }}
+      </li>
+    {% else %}
+      <li class="muted">Sem resumos disponíveis.</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endmacro %}

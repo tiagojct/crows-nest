@@ -1,0 +1,117 @@
+{
+  "date": "2026-06-24",
+  "meta": {
+    "generatedAt": "2026-06-24T17:46:44.130Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "psu",
+        "label": "PSU"
+      },
+      {
+        "id": "mundial2026",
+        "label": "Mundial2026"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "tecnologia",
+        "label": "Tecnologia"
+      },
+      {
+        "id": "regionalizacao",
+        "label": "Regionalização"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      },
+      {
+        "id": "corrupcao",
+        "label": "Corrupção"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca a goleada de Portugal no Mundial, as falhas no Instagram e WhatsApp, o incêndio em Loulé, a polémica com a prova de Matemática e o acordo para a PSU."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso noticia o acordo entre PS e Governo para a PSU, a sugestão do FMI para rever pensões, as falhas nas redes sociais e a análise de Ricardo Araújo Pereira sobre Cristiano Ronaldo."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador aborda a conclusão da Transparência sobre Isabel Moreira, a rejeição de Netanyahu em sair do Líbano, o debate da regionalização e os fact checks sobre o Mundial."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias foca-se no empate do Gana de Queiroz, na vitória da Croácia, na libertação da ativista portuguesa na Líbia e nas declarações de Ventura sobre a PSU."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias realça a confiança da seleção nacional, o surto de hantavírus, a polémica do exame de Matemática e as festas de São João no Porto."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã dá ênfase às negociações da PSU com Ventura e PSD, ao alerta do FMI sobre a banca e à ativação dos planos de contingência nos hospitais devido ao calor."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias acompanha o acordo para a PSU entre PS e PSD, a recusa de Netanyahu em retirar-se do Líbano, o apelo de Montenegro e a conclusão sobre Isabel Moreira."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias reporta as falhas no WhatsApp e Instagram, o incêndio em Loulé, as críticas de Miguel Góis a Ronaldo e a reunião para a PSU no Parlamento."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF aborda o domínio do fogo em Loulé, a circulação do exame de Matemática, as detenções por álcool no São João e a queixa de calor nos tribunais."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios destaca o acordo do PS para a PSU, as recomendações do FMI sobre a banca e pensões, e o interesse de fundos nos direitos televisivos do futebol."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO noticia o entendimento entre PSD e PS para a PSU, a contrariedade de Hugo Soares sobre o trabalho social, e as recomendações do FMI para a economia."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico foca-se no acordo para a PSU, na conclusão sobre Isabel Moreira e na evolução do mercado de finanças integradas."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol dá conta do acordo para a PSU, da onda de calor em Espanha, da descida do ouro e da análise de Filipa Damásio sobre Cristiano Ronaldo."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado realça o acordo para a PSU, a ativação dos planos de contingência nos hospitais, a onda de calor na Europa e a goleada de Portugal no Mundial."
+      }
+    ]
+  }
+}

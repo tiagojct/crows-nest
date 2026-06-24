@@ -1,0 +1,79 @@
+{
+  "press": [
+    {
+      "name": "Público",
+      "url": "https://www.publico.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:publico.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Expresso",
+      "url": "https://expresso.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:expresso.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Observador",
+      "url": "https://observador.pt/feed/",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:observador.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Diário de Notícias",
+      "url": "https://www.dn.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:dn.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Jornal de Notícias",
+      "url": "https://www.jn.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:jn.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Correio da Manhã",
+      "url": "https://www.cmjornal.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:cmjornal.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "RTP Notícias",
+      "url": "https://www.rtp.pt/noticias/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:rtp.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "SIC Notícias",
+      "url": "https://sicnoticias.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:sicnoticias.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "TSF",
+      "url": "https://www.tsf.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:tsf.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Jornal de Negócios",
+      "url": "https://www.jornaldenegocios.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:jornaldenegocios.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Notícias ao Minuto",
+      "url": "https://www.noticiasaominuto.com/rss/ultima-hora",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:noticiasaominuto.com&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "ECO",
+      "url": "https://eco.sapo.pt/feed/",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:eco.sapo.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Jornal Económico",
+      "url": "https://jornaleconomico.sapo.pt/feed/",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:jornaleconomico.sapo.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Sol",
+      "url": "https://sol.sapo.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:sol.sapo.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    },
+    {
+      "name": "Sábado",
+      "url": "https://www.sabado.pt/rss",
+      "fallback": "https://news.google.com/rss/search?q=when:1d+site:sabado.pt&hl=pt-PT&gl=PT&ceid=PT:pt"
+    }
+  ]
+}

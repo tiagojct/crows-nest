@@ -1,0 +1,67 @@
+---
+layout: layout.njk
+title: Pesquisa
+permalink: /search/index.html
+---
+<p class="back"><a href="/">&larr; Hoje</a></p>
+<h2>Pesquisar no arquivo</h2>
+<p class="muted small">Pesquisa tópicos e resumos por meio em todos os dias em registo.</p>
+
+<input id="q" class="search-box" type="search" placeholder="Pesquisar tópicos e resumos..." autocomplete="off" autofocus>
+<p id="status" class="muted small" aria-live="polite"></p>
+<ul id="results" class="clean"></ul>
+
+<script>
+  (function () {
+    var input = document.getElementById("q");
+    var status = document.getElementById("status");
+    var results = document.getElementById("results");
+    var index = [];
+
+    function plural(n) { return n === 1 ? "" : "s"; }
+
+    fetch("/search-index.json")
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        index = data;
+        status.textContent = index.length + " dia" + plural(index.length) + " indexado" + plural(index.length) + ".";
+        run();
+      })
+      .catch(function () { status.textContent = "Não foi possível carregar o índice de pesquisa."; });
+
+    function render(matches, q) {
+      results.innerHTML = "";
+      matches.slice(0, 100).forEach(function (entry) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        a.href = "/" + entry.date + "/";
+        a.textContent = entry.date;
+        li.appendChild(a);
+        if (entry.topics && entry.topics.length) {
+          var span = document.createElement("span");
+          span.className = "trend-count small";
+          span.textContent = "  " + entry.topics.join(", ");
+          li.appendChild(span);
+        }
+        results.appendChild(li);
+      });
+      if (q) {
+        status.textContent = matches.length + " dia" + plural(matches.length) + " correspondem a “" + q + "”.";
+      } else {
+        status.textContent = index.length + " dia" + plural(index.length) + " indexado" + plural(index.length) + ".";
+      }
+    }
+
+    function run() {
+      var q = input.value.trim().toLowerCase();
+      if (!q) { render(index, ""); return; }
+      var terms = q.split(/\s+/);
+      var matches = index.filter(function (entry) {
+        return terms.every(function (t) { return entry.text.indexOf(t) !== -1; });
+      });
+      render(matches, q);
+    }
+
+    input.addEventListener("input", run);
+  })();
+</script>
