@@ -1,7 +1,7 @@
 {
   "date": "2026-06-24",
   "meta": {
-    "generatedAt": "2026-06-24T17:46:44.130Z",
+    "generatedAt": "2026-06-24T22:58:06.196Z",
     "sources": {
       "Público": "fallback",
       "Expresso": "fallback",
@@ -27,90 +27,94 @@
         "label": "PSU"
       },
       {
-        "id": "mundial2026",
-        "label": "Mundial2026"
+        "id": "sismo",
+        "label": "Sismo"
       },
       {
-        "id": "calor",
-        "label": "Calor"
+        "id": "frontex",
+        "label": "Frontex"
+      },
+      {
+        "id": "neonazis",
+        "label": "Neonazis"
+      },
+      {
+        "id": "fmi",
+        "label": "FMI"
       },
       {
         "id": "incendios",
         "label": "Incêndios"
       },
       {
-        "id": "tecnologia",
-        "label": "Tecnologia"
+        "id": "mundial",
+        "label": "Mundial"
       },
       {
-        "id": "regionalizacao",
-        "label": "Regionalização"
-      },
-      {
-        "id": "economia",
-        "label": "Economia"
-      },
-      {
-        "id": "corrupcao",
-        "label": "Corrupção"
+        "id": "cultura",
+        "label": "Cultura"
       }
     ],
     "outlets": [
       {
         "name": "Público",
-        "summary": "O Público destaca a goleada de Portugal no Mundial, as falhas no Instagram e WhatsApp, o incêndio em Loulé, a polémica com a prova de Matemática e o acordo para a PSU."
+        "summary": "O Público destacou a atriz Cate Blanchett contra a IA, o caso de ébola em França, a aproximação de Portugal ao apuramento no Mundial, o incêndio em Loulé e a violência doméstica."
       },
       {
         "name": "Expresso",
-        "summary": "O Expresso noticia o acordo entre PS e Governo para a PSU, a sugestão do FMI para rever pensões, as falhas nas redes sociais e a análise de Ricardo Araújo Pereira sobre Cristiano Ronaldo."
+        "summary": "O Expresso noticiou a queixa de estrangeiros contra a Lei da Nacionalidade, o acordo entre PS e Governo para a PSU, as recomendações do FMI e o sismo na Venezuela."
       },
       {
         "name": "Observador",
-        "summary": "O Observador aborda a conclusão da Transparência sobre Isabel Moreira, a rejeição de Netanyahu em sair do Líbano, o debate da regionalização e os fact checks sobre o Mundial."
+        "summary": "O Observador cobriu a preocupação da Câmara de Lisboa com o grupo neonazi, o sismo na Venezuela, a chegada da Frontex a Portugal e o festival literário BABELL."
       },
       {
         "name": "Diário de Notícias",
-        "summary": "O Diário de Notícias foca-se no empate do Gana de Queiroz, na vitória da Croácia, na libertação da ativista portuguesa na Líbia e nas declarações de Ventura sobre a PSU."
+        "summary": "O Diário de Notícias reportou sobre a ativista portuguesa detida na Líbia, o início do ciclo de Marco Silva no Benfica, o Mundial e as recomendações do FMI."
       },
       {
         "name": "Jornal de Notícias",
-        "summary": "O Jornal de Notícias realça a confiança da seleção nacional, o surto de hantavírus, a polémica do exame de Matemática e as festas de São João no Porto."
+        "summary": "O Jornal de Notícias abordou o fim do surto de hantavírus, a chumbada regionalização, o exame de Matemática e a detenção de uma portuguesa na Indonésia."
       },
       {
         "name": "Correio da Manhã",
-        "summary": "O Correio da Manhã dá ênfase às negociações da PSU com Ventura e PSD, ao alerta do FMI sobre a banca e à ativação dos planos de contingência nos hospitais devido ao calor."
+        "summary": "O Correio da Manhã focou-se no sismo na Venezuela, na pressão do mercado de meios aéreos, na nova unidade da Frontex em Lisboa e no grupo neonazi."
       },
       {
         "name": "RTP Notícias",
-        "summary": "A RTP Notícias acompanha o acordo para a PSU entre PS e PSD, a recusa de Netanyahu em retirar-se do Líbano, o apelo de Montenegro e a conclusão sobre Isabel Moreira."
+        "summary": "A RTP Notícias deu destaque ao sismo na Venezuela, ao acordo para a PSU, às recomendações do FMI, ao Mundial e ao festival BABELL."
       },
       {
         "name": "SIC Notícias",
-        "summary": "A SIC Notícias reporta as falhas no WhatsApp e Instagram, o incêndio em Loulé, as críticas de Miguel Góis a Ronaldo e a reunião para a PSU no Parlamento."
+        "summary": "A SIC Notícias noticiou o acordo para a PSU, as contas da Seleção no Mundial, a preocupação com o grupo neonazi e a detenção de um sargento da Marinha."
       },
       {
         "name": "TSF",
-        "summary": "A TSF aborda o domínio do fogo em Loulé, a circulação do exame de Matemática, as detenções por álcool no São João e a queixa de calor nos tribunais."
+        "summary": "A TSF informou sobre o acordo para a PSU, as recomendações do FMI, o incêndio em Loulé e a detenção de condutores na noite de São João."
       },
       {
         "name": "Jornal de Negócios",
-        "summary": "O Jornal de Negócios destaca o acordo do PS para a PSU, as recomendações do FMI sobre a banca e pensões, e o interesse de fundos nos direitos televisivos do futebol."
+        "summary": "O Jornal de Negócios cobriu o sismo na Venezuela, as recomendações do FMI ao governo, o acordo para a PSU e a queda do preço do petróleo."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto reportou o sismo na Venezuela, o 14.º dia do Mundial, a detenção de uma portuguesa e o grupo neonazi."
       },
       {
         "name": "ECO",
-        "summary": "O ECO noticia o entendimento entre PSD e PS para a PSU, a contrariedade de Hugo Soares sobre o trabalho social, e as recomendações do FMI para a economia."
+        "summary": "O ECO noticiou o acordo para a PSU, as recomendações do FMI, a queixa contra a lei da nacionalidade e as obras nas linhas férreas."
       },
       {
         "name": "Jornal Económico",
-        "summary": "O Jornal Económico foca-se no acordo para a PSU, na conclusão sobre Isabel Moreira e na evolução do mercado de finanças integradas."
+        "summary": "O Jornal Económico focou-se no acordo para a PSU, no índice Ifo alemão, na queda do bitcoin e nas recomendações do FMI."
       },
       {
         "name": "Sol",
-        "summary": "O Sol dá conta do acordo para a PSU, da onda de calor em Espanha, da descida do ouro e da análise de Filipa Damásio sobre Cristiano Ronaldo."
+        "summary": "O Sol noticiou a nova prestação social, o corte do FMI no crescimento, a reabertura do estreito de Ormuz e a atribuição de medalha a Ruy de Carvalho."
       },
       {
         "name": "Sábado",
-        "summary": "O Sábado realça o acordo para a PSU, a ativação dos planos de contingência nos hospitais, a onda de calor na Europa e a goleada de Portugal no Mundial."
+        "summary": "O Sábado destacou a nova unidade da Frontex, o grupo neonazi, o acordo para a PSU e o festival BABELL."
       }
     ]
   }
