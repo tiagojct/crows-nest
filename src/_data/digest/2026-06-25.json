@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-25",
+  "meta": {
+    "generatedAt": "2026-06-25T10:49:24.731Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "psu",
+        "label": "PSU"
+      },
+      {
+        "id": "fmi",
+        "label": "FMI"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "desabamento",
+        "label": "Desabamento"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "tarifas",
+        "label": "Tarifas"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Destaque para os sismos na Venezuela, o acordo PSD-PS sobre a PSU, a recomendação do FMI para acabar com apoios aos jovens e o desabamento de um prédio no Porto."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Foco nos sismos na Venezuela, no acordo para a PSU, nas recomendações do FMI e na análise do impacto da China nas tarifas dos EUA."
+      },
+      {
+        "name": "Observador",
+        "summary": "Notícias sobre os sismos na Venezuela, a aprovação da PSU, o aval final da UE ao acordo tarifário com os EUA e o desabamento de um prédio no Porto."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Cobertura dos sismos na Venezuela, do Mundial de futebol, da extensão do Cheque-Livro e das críticas de André Ventura à PSU."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Notícias sobre os sismos na Venezuela, as críticas ao exame de Matemática, a qualificação de Portugal no Mundial e o desabamento de um prédio no Porto."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Destaque para os sismos na Venezuela, o desabamento de um prédio no Porto e a detenção de três pessoas por tráfico de droga na Madeira."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "Cobertura dos sismos na Venezuela, do acordo tarifário UE-EUA, da onda de calor em Espanha e do apuramento de Portugal no Mundial."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "Foco nos sismos na Venezuela, no acordo para a PSU, no Mundial de futebol e no desabamento de um prédio no Porto."
+      },
+      {
+        "name": "TSF",
+        "summary": "Notícias sobre os sismos na Venezuela, o acordo para a PSU, as recomendações do FMI e a onda de calor em Espanha."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Destaque para os sismos na Venezuela, a ajuda do governo português e as estimativas de milhares de vítimas, além de notícias empresariais."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Cobertura dos sismos na Venezuela com novo balanço, onda de calor em Espanha e Mundial de futebol."
+      },
+      {
+        "name": "ECO",
+        "summary": "Foco nos sismos na Venezuela, no acordo tarifário UE-EUA, na transferência de fundos para a Ucrânia e nas recomendações do BCE."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Notícias sobre o acordo tarifário UE-EUA, os resultados da CP e o programa Contacto da Sonae."
+      },
+      {
+        "name": "Sol",
+        "summary": "Destaque para os sismos na Venezuela, a PSU e as plataformas de busca de desaparecidos."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Cobertura dos sismos na Venezuela, da PSU, do Mundial de futebol e da extensão do Cheque-Livro."
+      }
+    ]
+  }
+}

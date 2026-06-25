@@ -1,6 +1,37 @@
 {
   "topics": [
     {
+      "id": "calor",
+      "label": "Calor",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-25"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "Onda de calor provocou apagão em França, duas pessoas morreram em Espanha - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPekZlVUpKMkhMcE9QajRhaHlOc1JNVGktQS1STTZ4LXF3dDlORWZtRExSZWxOWW5FaVBPN3FWRW1xclA5eVdZTmVCTTQyRk8yVGowT1lEQ3BxOGdmTzdWSVdUZnRfNk5pMjc4WEJOUC1JSWJ5eEFTUGs5ZXRqZi12NVdBVlZKX21tOUg4NDdpR0xZal9Kakx2ZS1vb1MzcV90aDJVQmF0bVhHVHdienh0Um00c1p4cWtF?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Estimativas apontam para mais de duas centenas de mortes em Espanha por causa do calor",
+          "link": "https://www.rtp.pt/noticias/mundo/estimativas-apontam-para-mais-de-duas-centenas-de-mortes-em-espanha-por-causa-do-calor_n1749321",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "França emite aviso para tempestades severas e estende alerta",
+          "link": "https://observador.pt/2026/06/25/autoridades-francesas-emitem-avisos-para-tempestades-severas-e-estendem-alerta-de-calor/",
+          "outlet": "Observador"
+        }
+      ],
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
       "id": "cultura",
       "label": "Cultura",
       "group": "press",
@@ -38,14 +69,107 @@
       "lastSeen": "2026-06-24"
     },
     {
+      "id": "desabamento",
+      "label": "Desabamento",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-25"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "Prédio desabou no centro do Porto - Público",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXVJQVFjOVllcHM2Rm5aWUQzQ2hMRjlXeGMtTnVuMWJpeXkwb0wtcV9KYlNPa0RwNG81LVVvcUQtRmF1c3hQS19HX0U5VHdiU1pBWGZjM1lfUDlvdnM4dHlvaVZDYmNrNU9LLW9lUXQ1aW5HcVZqejBRMzY2amFKSk95TGN1d3ROcEp3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Prédio ruiu no Porto. Lojista e operário saíram a tempo",
+          "link": "https://observador.pt/2026/06/25/predio-ruiu-no-porto-lojista-e-trabalhador-da-construcao-civil-sairam-a-tempo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "<![CDATA[ Prédio desaba no Porto. Proprietário de loja escapou por segundos ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/predio-desaba-no-porto-proprietario-de-loja-escapou-por-segundos",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Derrocada em edifício no centro do Porto",
+          "link": "https://www.rtp.pt/noticias/pais/derrocada-em-edificio-no-centro-do-porto_n1749348",
+          "outlet": "RTP Notícias"
+        }
+      ],
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "id": "exames",
+      "label": "Exames",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-25"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "“Regras confusas” e “avaliação pouco adequada”. SPM critica exame de Matemática A - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc0FVQ00tbWlxMmVoT1ljVjR0TkdLUXByUzJkRk5rbk43dkE1SGx2ZnhZVTJDN2lZQjBTNDFaMTVLSEJabnk2T2MwUDAxTjhkd2ZKNkFTOUhWSjNEdTRrNmlsenFubFR2YnluS0JESlBkSGZRNDktSVVXOEpaTS0xVE5XNHJ6bmtqMTROSFBCTFdTQ1V5Y0ZDQ2lEbjc1QTRrbVhNR1FCVGhDcjZUQXdPQnRJSlM4NjYzRTNZUXdvcHc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Sociedade Portuguesa de Matemática questiona rigor e equidade do exame do 12.º ano - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazJjSHhEbl93dTJXM2c0djFGb3FBRUF2d2ZRVVpKZ21ja2Q3TDhOMHZJZFRlR0lqNS1tbldQWEhfQkFKOXgyaWlad1MxQmJ4M1dQMGN6b21VOTAxb2NsTWpsS05OT2NaVFp1ekpCa2tPVzNTRVFCWG1TVUJ3OEFCeWxYT19yX2t5VkVOUTl1REktTTZyNjNvcXdEV3FIRnFMVkgyQ25FNGRoTFFyV1k4RGpyWHBnSjdSb2JUUmhCVjI?oc=5",
+          "outlet": "Jornal de Notícias"
+        }
+      ],
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
       "id": "fmi",
       "label": "FMI",
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-25"
       ],
       "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "FMI recomenda fim dos apoios aos jovens na compra da primeira casa - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWlRHbU5McTVRZURpb2RfM0NiT2pRZmptOW9LZ0xTRTZ3TmYyRXp0cVlkVWNrWWpPMVlUY0ZkMDR3Q081WFlYeFRPRXFfM0l4Y3NXVXZtcTB4SkFBYWVlOW43UVU5RDRIS3FXcHJNRUJNNXhaVWppUmg5NXU0OC1GZEZaT3EtSEpXb0JDV0tKUWlrbEhyZkxWaWlucEVzck5IaUJIcWpFVkdWSWMzNEg3Qw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "FMI defende fim dos apoios a jovens e duvida da descida do IVA na habitação: promove mais o lucro dos construtores que a oferta de casas - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOU0k4alNEQ1ZIMGd6ai1kckUwWGpVX3RWalRPam9xUEZGR1F0b2tySTczNTIwSUxqTGxKNU9VUnFSVWpDLUpHNHJkcXFPNVFIWE90OGVHX256cTYtV3BwYTNDc2Rmd1JDcUhPdEs2SlhXdnVETUZyajRCSHlrWVFSeWFxa2lIOE5mZVUxS2F5ZjJ4bFhEazVmd25XbHlpcmZHZWRoSGpka0xCY01KRVBTX1F1cjdBZTBjYUFjSkZhU05vQlNVRDhjbnU2UGdnSTM5QXQ3WTJfNDl4SDlTWFpHeVRTVnAyYUdqZldkNDNRSEpacVVoNF9Ua1VGTTRJNnhkQ3JIcnFwRkRXU2dsYkl4ZmJzZzhEQ3daQVNVUE1BNTJFY0dYN2hhYUVGSEI2QQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Pensões mais baixas e de viuvez são demasiado generosas: FMI sugere revisão - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa3M5Q3hhTFJBQTUyOEhaWWxzQUNhUzFTcklJdllXbEJjX3lXaTVKWXpQRmoxbHkxOVFVMVdDSGU2NUM3UHJWUHFaRGhFcXJFMHJOTDhiMnFyOGdRNnR6aENNbDYzaHBVNjZoX2FkYzNjWGx5d2traXVRc3RnTi1EdnR6TVhnSjYzLW92N3ZUa1VrdUdaVXJzWXU4cjktNm5YRVhjTElHUjlteXBtLVhFbnIxY3FuaTMzNUV2WmljbTFxOTQtVzlPUWNjdGVkQTZlWU9EWGhnUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Apoios aos jovens na compra da primeira casa devem ser \"revertidos\" por \"agravarem desequilíbrios do mercado\" - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQldWTEV4ZmctU3VQbXBnbFVNT2Rqb2Q3MUFsVFlkZVhfQlo4RkxjbTBhdldDWjFWUEJUTm52M1dTMGE2dnFPR05Fbzl0dENnMU1qcF9PMnNwRm0zWWkxQklOVGhjRnFTd1kzXzgyVGU3Y3JLRm9ZQzlLbHhCYjZKT1otSFRNYnE3dzNrcVhpcjZ3cE9lbWFpN3lSNjlkUWZfdTZYZlN1cUliXzJuR0dRcGxHb3V4OTY4MnotUXV2Rk53c2thaHhPaUpBdEUxN0JJRUtF?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "BdP acolhe avaliação do FMI e diz que recomendações vão ser consideradas - TSF",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSFpMZGtMYmpmQUZqaS1PSVJFUUFOYlVLRGt0UjVucHV3YXJkb0lpOHlZVFJvLWVBbnFWckxERURpcXd5YUtzX1Q3ZmlmNG5NV2RTM2pRRnQ3bXBjVzFtVkVXaV9EU1E5LVRMNndaMVhyUXhTS3RTSTd6RXA2aHVWZEJLZkhjWlhJVV9FT0VrNWF0ajBIeEZVSHhMZWNKZ2RWZFNpd3VVaw?oc=5",
+          "outlet": "TSF"
+        },
         {
           "date": "2026-06-24",
           "title": "Impostos, pensões, mercado de trabalho. O que o FMI quer",
@@ -54,7 +178,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
     },
     {
       "id": "frontex",
@@ -118,9 +242,82 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-25"
       ],
       "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "África do Sul vence Coreia do Sul e está nos 16 avos de final - Público",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEtqemhvR0hmM2t0N0xTakptVUM1LVNWZVNUX1ZORGtiUVJ4NlVsSWpxWFdfZUhtR3dxR2JLbk1fbGhGMVpadkk4d3I4VG5MQWw0ZWk2TGM3cXhkRnBJRTMtb1MyNzg2NlB0bl9HU3UySEhYNXVGTVRiWW85OHZFaDVaMVYxeVlocjdYbjRqUXB6aW9YaDhYSkszVDZFbkVoeHc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Mundial 2026: México soma terceira vitória e afasta República Checa - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNTVNdzh0ZzB2bF9uWmxObm1DSEh2NE1kVWdQUVhGQVQ1NmFYLTYzaUp5TzBvYjExcFJWMHU1ZVQ4bGNDUW1FVzdYTDFReXFELTcxZzlSUnB0T1pFSDA4X2pKTVNLOEVONl9WZGFNRjlUc2NDOFdQY3ZoUFhwX1JaTkpHYXNNR2Fqem1zajI0TTN3cE9jOU5VaW5pcUxPb0ZiNkxURjVXTzVuSmxqTkNGVmx0eTNNTDNaQlZUQjZOQ3I?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "As contas de Portugal no Mundial: ganhar à Colômbia traz (algumas) vantagens - Público",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWNiZC1NbENqWkVlcnZnNzlYcy1RRTI5X1hMTmxCcEY3T0hMcEJqQVZsRXJKMUY2Qm9aa3RCaE5hOWxYR3E5S3dqVHVkdHBkemdKakEtVFNkMW9fY18xUWI1Q3ZpZDVaOXVxeTN6MDVWYlFzamJDRFhMUk85UlBEaUtRUXRJNjd6SVRwdGdxajRqczFwczlPN3RnQXMza3NtX2lDS1dDVWlDUmwzMFlWQ3dKcw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Seleção Brasileira enfrenta a Escócia com o peso de provar que pode ser campeã - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWJFeWdEU1VzaTRmV1JOV0daM2hMTVpfbVNfbm5HQVdmYjloV0lvTHZtY3FxS1Excklnem9hQkJjUW9fM2g5aXRZa0VqOGVwSFBlYkJ1TGtXZzNidDZUQmNWWmJpWVp3TXlla0F4U09vOUIwZmZmT3lERWVvdGh2VENmdlNSTF9pWVhrX2hnVmNUejdVc0xGaEJSZWhZZjFzSHByT0hLMTFyX2xwNU4tSk5xTUNJX1RtUE5r?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "África do Sul vence Coreia do Sul e está nos 16 avos de final. México venceu a República Checa - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFViOG9vNFFoM2hMVGJrUDVpSXh4YXJFTWFSaWRtd0xlYWx5R0VaUkx6b0xycW1RTTdpMlJ1aVRrdmJfODJFUF9RZHE4QTJvRmpSZ08xVWFLQ2xBa2NOakNRRVBwTFVxOFVXajVRc0VZWXZaVXpGbGpYRnMzY19vRDUya0RlWnlJTDVaa2lFUFJWN1RjNHpyS0l4ZTJ1U3Y3WVMxRmtmMVFORG9mZEd2Mkw5NjN1OFZHMDRkWQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Portugal deverá ser um dos muitos apurados para os 16 avos no \\\"sofá\\\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUxYQ2UySEstM08zYlUtNW1XcC12RXQwMkR4Ukp4QkdvOFhiX1pVYkl5MnlkVlpDb2M5VzIySnlnRGxSTUNCU1hNN2QzQkE0X0pFajVMRUpqbGlIdzc4dGxISGRRaV9vQUN0VUpMdmgzSnRsU1EwaHdobnMzV0Y0dU45NEJBWUdB?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Portugal pode garantir os 16 avos mesmo sem jogar",
+          "link": "https://www.rtp.pt/noticias/mundial-2026/portugal-pode-garantir-os-16-avos-mesmo-sem-jogar_d1749301",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Mundial 2026. Chéquia - México",
+          "link": "https://www.rtp.pt/noticias/desporto/mundial-2026-chequia-mexico_e1749285",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Brasil deu 'show' frente à Escócia e está na próxima fase do Mundial - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQY2dkd09OWTdoYVp6U1dITldCUVo1ZVRwS3dhcFE0Ukg5eVFIUmNhRkhYY2lYNWVMQUpMcXRyaU5CMkJfMnEtZ0cxbUhRSTQ5V05Pd201N3JtTktpS1hocVpGN3VJOVdZMERHNUZScDg2NGlxaUZXbkRCb0xwcWtHWWliN3dBS1phT0tQd2ZJRlNBT1gxb3oybDNXYXZaaXk1N2pUVXBIOU5iWnhqMEJrTTRPQXlaejZUZzlrd0RnOVZ0ZDRTN19DOGpLcFNFZ2FBelVkQ1N3dmMyQzA?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "<![CDATA[ Mundial'2026: Brasil tranquilo com Vinicius em destaque e Neymar de regresso ]]>",
+          "link": "https://www.sabado.pt/desporto/detalhe/mundial-2026-brasil-tranquilo-com-vinicius-em-destaque-e-neymar-de-regresso",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "<![CDATA[ Mundial2026: África do Sul vence Coreia do Sul e está nos 16 avos de final ]]>",
+          "link": "https://www.sabado.pt/desporto/detalhe/mundial2026-africa-do-sul-vence-coreia-do-sul-e-esta-nos-16-avos-de-final",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "<![CDATA[ México garante histórico pleno de vitórias no Mundial e afasta República Checa ]]>",
+          "link": "https://www.sabado.pt/desporto/detalhe/mexico-garante-historico-pleno-de-vitorias-no-mundial-e-afasta-republica-checa",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-24",
           "title": "Cerveja a 13$, calor e peladinhas: as Fan Zone do Mundial",
@@ -141,7 +338,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
     },
     {
       "id": "neonazis",
@@ -180,9 +377,82 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-25"
       ],
       "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "Sem Chega e com 600 milhões em jogo, PSD vira-se para o PS e garante PSU - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUQ2OW1FSVhhMVMwcEppS3ZsUTF0V1BwQ2c2a1JwLUlfa2U4MkZyaXlpeGpkMlEydFE0R2dZQ0t4NmtvV19LUnhmSUVVWXJscDlQZlZiWFFYWXFrb1dfbGxlQ0NJLUJGa3JCV1pGV1VuTWlVRlcwOWU4YW0ycW1DcXdpZU9iR21aWGcyTzFwaHhDQjVxVDFXdF9Zc19ZWFQ3azZ0bEJRTVZVYjBiMTY3N0EtcTVtTEU?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "A nova prestação social única negociada entre PSD e PS deixa os imigrantes em paz | Podcast - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDJ2SWUtU0hKcWc5YUk2aEIxQXl3T2lGbWhncHVJVnlLOVNQZW83TEo5SXR2SmRTd0FKUGRlelUyRkxfbEFLMElCVloyVUR3NU5IOTFvOVFwNDc5MnZ0T3FmT0FKWnJFQVFudC1zZUtWWk14RWFRLW5pS3NxTV9DbWFOLWhrOGVWeURZQ09DbC1GNjdjc2ZrbXZZZWZRcGF4bXlyUkdyMXNfbFVSemNaLWxDOTVXYlh4R0pfVHNBZmhUU1E?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Há acordo com o PS para a Prestação Social Única: cai o canal de denúncias, trabalho social muda (mas há divergências nesse ponto) - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZV94a08yY3dyc1BncWJyVnliU3pBM3ZkaHZrTklwMF82TFVyOWx3bUNnby1ITV80dUxlRkJYV3I1emYzb3V1OW9XRFFVR1JLVndMX1FvY0FudVBRY0FXSVVSVE1nU0RlYUtMdEFGWDdaTVBkeWkzeVNxc29OUDhqaXdyRVNZX2haWlFRMU03b3hpc0JxVTRaNjFqMmFjR0x3c204V1BfcEM2WTh5WXRYdGI2eThjMXRMQmdjMm82VTMtalpQRWFkV00tc3FsQ0tScF9FdzVoWk1QMERqaVQtQ1plbFZfT0RDVkx5eEtVSUIwNmJ2MGgtNTlScVc3Tk9iSFNseUhoVHJpQ0JzbEltdk5kaHdkQQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Parlamento vota Prestação Social Única esta tarde",
+          "link": "https://observador.pt/liveblogs/parlamento-vota-prestacao-social-unica-esta-tarde/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Governo e PS chegam a acordo para aprovação da PSU - TSF",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQnh6VHBsaGFob2dtQUIycnlMMy13RmpnVjNoVnZtN1JadzRERnBxZ1ByUFVVazNvc1ZUUGQ1bHF2SzdpT1hReWF1RGhNYURRcFpMR1k4dzJ5N0VJeXlmaERoa01MSFA1eU1QdUtZXzAwWllaQm1PVjNVdk1HSUhYTWdVVQ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Governo e PS chegam a acordo para aprovação da PSU - TSF",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVnJsYW93a0gxNnpCSTB1ZjhyeVFNNF9RTVMwQkJQTDNGNFEzdDEtWFVzM3NPUWp2UkR6akJRaDI4Z3RsY0dIekFvaE1WNjZDRF82NUIyVUVLaU1OYm10bkVMYTdZa0JudUhnYWhNWmxQY1B1U18ta1gyQzh0U0NnelhNTEg0Nzc4WlNnTlJ4R0V4N2oxMm0zcmpB?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "PSD diz que \"atividade de solidariedade social\" será obrigatória para aceder à PSU - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVl1YlV3b2J0eUV6TFhYeVpJOXVUbTF2ZE5FNXYyMkpucVBiekoxOFhGSWhLQ1ZMZmk3Mk9IUEU0a0Z3RVlHWlVOYkxHdDhvZVlpd01ZelQxTkRhM09USmh2cGhTVXZWWFEzUG96b3FVbEYyM0tOYmplRWdycnEwVUFlU0s3Z1doQWpXbE5Ta1QtUjZkZ2Q4RVFzYVV6STZLUGRnNHhYT1R3czktQmZuNkJhdzl6NlZWSGk5cmdCS2NfUQ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Livre saúda diálogo entre Governo e PS sobre PSU, PCP e BE mantêm críticas - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS0xpWmVJeWppaWljdlQxSGwyYmxKNl9HUUtwMTZvVndsMnREdXMycHRCRDdGQ0x3WXNxaGlhbDVXQlZSZEVzbzdRRFdzbDFDVjFSVjV1RVZ2SDJaUGtzTmx5RkR6T0Y4RzRvNUtsQzVXVFFWLVAyOHpYLUdUVWhrTjBUZlozMlZEdzJlSFY1aVdsaFRfMWZGMUhCV25zMjVEUGgzS2pCQ0RmQm9UWmZPRVZ4OFZ6MS1H?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "PSD e PS chegam a acordo para aprovar a Prestação Social Única - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVdqcmdCOHYxZnZoWlduVnNXQ1ZYbXFHemMycHU5QTVPUzV2LWlBQThnQnpoSFFBYkdGbHVBdklkT0tjVnd3MnBMYU5jMmtGZzZUU3FwNWswNEFmN3pQM3NvYXV2bTA3LTNWSkE4SFJmMUE4WmpIRHE4dVhjcWs5M0hGYkxTU3BUakhWYlVCV3lTS1dDcVZlSmpEZHZWaEdsV1N6VWhXRFhGTnpzX0ltdTZlNm9vS1V0Uzk0?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "André Ventura: ainda não foi alcançado \"qualquer entendimento\" com o Governo sobre a PSU - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGVOSWwwTWM0ZHZRSjgzTUpOSVg1NndtYy1yU19ycldacDQ4VFBKaE5NT1NsdVFOakhNWHpHWlRVdFpKSkJuU09vSERQaEMyV1M4LUdxWEF0RzAzLVgyMTNzbUx3c213LVJBSkNEYjB1TlBENEhkYkdmZG14T1NsYzFnUk0wRGVGX20wZFBoRnZpVTFRZ3lIdXZ2eFVGT3p1eVBkVE40c0ZLZld0eU5qa3NUc0s?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Nova Prestação Social Única avança após acordo entre PS e Governo. Há mudanças no património e no acesso",
+          "link": "https://sol.iol.pt/politica/noticias/nova-prestacao-social-unica-avanca-apos-acordo-entre-ps-e-governo-ha-mudancas-no-patrimonio-e-no-acesso/20260624/6a3c21380cf21fcd83776831",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "<![CDATA[ PS chega a acordo com o Governo para viabilizar PSU: o que é e quem pode beneficiar? ]]>",
+          "link": "https://www.sabado.pt/descodificadores/detalhe/prestacao-social-unica-o-que-e-e-quem-pode-beneficiar",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-24",
           "title": "<![CDATA[ PS chega a acordo com o Governo para viabilizar PSU ]]>",
@@ -197,7 +467,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
     },
     {
       "id": "sismo",
@@ -205,9 +475,82 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-25"
       ],
       "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "Sismo forte abala várias zonas da Venezuela e faz colapsar edifícios em Caracas - Público",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVzdzTG9mb1dhRlNPT3BRLWE4TGlUNWY5R0QxVGV4N2g2aGMwYUpaSFZMZldDMEMwdjJ0RFFIYnRZYW9meGs0VTlOazJqQktOLW0zNWd2RHBTNHFWb253dUhWRFp5bnViS1JXZERUd0xDRHRhWGZuQmptajlvNmdJbWlzb19oemxIZ094LUpDY1VESXQ1cEhKUU5GbzlJZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Dois fortes sismos atingem a Venezuela. Há mortos, feridos e edifícios colapsados em Caracas - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVWdJZU9jbTlkVTlrVWRCWlljckhURmRpZFZzVTU5MTg2SkM4QW0tcVUxa0ZsQ1NQWTR2WUo1ODd1ekFqU2U3M0FQb21yNWlxSjI1RHJ2N0JkdERLcEJvVk1HNVpxNlV6dV9HOFBaRWpiS0xTSnYybUJnUUJ2LXhScXlWWUlRUFQzcnRJSnZPNVk3Y253YlozWEVaMGhpSm9kNW95WEdNS1h5eG5sbEk4VTlFUXB3YV9neS1XNXNhQ0xpVTZCTEhNN2M2cUtmYzkwR09vRTR1NmkyZGJ0U3c?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Governo venezuelano decreta emergência sem dados de vítimas e oposição denuncia “bloqueio de informação” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNnA0dU95WTROazVxY1pFZHZFQUZCX3FxWkhkb3pTZ05HdmhueTNvTjZQdlF5MEtqcEZMaUJIN0duRzNKbnExMURsU09ITi11ZFFjMW54X1VNOEo2QXotWU5lYkVyTUFnSmFZUWkyYVdNZVFHZnNNMUxhS1lPZVNMRUtRcmtyMjZhOEJqYWVCYW05NmZmemgtOW83NnVRNFM4UERjZURkQlFnX0dTRVo3Rzdyc2hsMklSUkNlazZaUU1oUW9WSHA0NjhrSllPQ1V2NjZMcVRsSEwwY0Z1UFZ6d1FNTFB5Wkk?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Sismo de magnitude 7,1 abala a Venezuela. Ministro diz que há edifícios que ruíram em Caracas - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSmJDSmFGdG1yLTc0MXRPeVA3WkRGWDduazlaWXlfNjF3bUd6UDRPNTAyc0xEWXRpbjJaMHo0YXZlUEg2SU8zLXZBUERLWXFWVTIyMlZ3WFNwekhQSjZ6Mm1SWTBZeWNCRjdsQkZ4RkVDcFJIUkdGMEdoS2dYWFpyNjFrSDB5QXhiMmlFcnE0UGR1NDVmSW5pZGwwNklQMEVTWnJkWlVQYjhYNTlCTUxjME5TdjdNYnBab1Y5bEVQOXFiZ2tXSFI4R3lGSVJvYlJlTG9KYnNJUnBFdDh6ZWtV?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Sismos na Venezuela: \"Pelo menos uma portuguesa\" entre os desaparecidos em La Guaira - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRDU1UmcxOUxscldqNEc1dWkzU1pndi1Ydnh3UkdxUUpKaXY3WnFQTlVZZS1wT0EyU1JsaWFkWEVoMGxSa3lpeEpSQnU0YTB0dFJpdHRlb1M5dTJlbEVNZ3U5dWU4aEtlTjVlX25hdnpwS05fMHQyRTQ1MXJOeHB2MGJwelNHZkFKUUZZazRXc1NldFdCbjFlczZmYlIwSndtZHNrX21meU5zZnNUSGJSVFdGU1pNaklYX2tqMHRSSUlSb1lCZmQ0RkNRS3FVTkMxZkdZ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Venezuela. Parlamento da Madeira presta homenagem a vítimas",
+          "link": "https://observador.pt/2026/06/25/venezuela-parlamento-da-madeira-cumpre-minuto-de-silencio-pelas-vitimas-do-sismo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Buscas às escuras e escombros: as imagens da Venezuela",
+          "link": "https://observador.pt/2026/06/25/buscas-as-escuras-acampamentos-e-muitos-escombros-as-imagens-que-mostram-a-venezuela-depois-de-dois-abalos-em-poucos-minutos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Sismo. Governo sem informação sobre vítimas portuguesas",
+          "link": "https://observador.pt/2026/06/25/venezuela-secretario-de-estado-diz-que-para-ja-nao-tem-informacao-de-portugueses-entre-vitimas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Venezuela. Lula presta apoio e avalia medidas de assistência",
+          "link": "https://observador.pt/2026/06/25/lula-oferece-apoio-a-venezuela-apos-sismos-e-avalia-medidas-de-assistencia/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "\"A tensão acumulada dá origem a sismos deste tamanho\"",
+          "link": "https://observador.pt/programas/resposta-pronta/miguel-miranda-acumula-tensao-e-quando-liberta-da-origem-a-sismos-deste-tamanho/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Venezuela. Chega, IL e Livre manifestam solidariedade",
+          "link": "https://observador.pt/2026/06/25/venezuela-chega-il-e-livre-manifestam-solidariedade-com-comunidade-luso-venezuelana/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Sismos na Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WZXB5UzB2bTlfX0RpWjRUTVEzZ2MzNlMtS0pRbFhfc3FQeHktOEJDS1JiYmpRUUs4S29aeXcydm5EbTdiN2oxWHVpZ1prTUlQb21RMUt2UQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
         {
           "date": "2026-06-24",
           "title": "<![CDATA[ Sismo de magnitude 7.1 registado na Venezuela. Emitido alerta de tsunami ]]>",
@@ -222,7 +565,50 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "id": "tarifas",
+      "label": "Tarifas",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-25"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-25",
+          "title": "Tarifas. Conselho da UE dá aval final ao acordo com os EUA",
+          "link": "https://observador.pt/2026/06/25/tarifas-conselho-da-ue-da-aval-final-ao-acordo-com-os-estados-unidos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Tarifas. Conselho da UE dá aval final ao acordo com os Estados Unidos",
+          "link": "https://www.rtp.pt/noticias/economia/tarifas-conselho-da-ue-da-aval-final-ao-acordo-com-os-estados-unidos_n1749329",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Conselho dá aval final aos compromissos tarifários para adotar acordo UE-EUA",
+          "link": "https://eco.sapo.pt/2026/06/25/conselho-da-aval-final-aos-compromissos-tarifarios-para-adotar-acordo-ue-eua/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "Conselho da UE dá aval final ao acordo com os Estados Unidos",
+          "link": "https://jornaleconomico.sapo.pt/noticias/conselho-da-ue-da-aval-final-ao-acordo-com-os-estados-unidos/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-06-25",
+          "title": "“A China pode tornar-se um problema ainda maior do que as tarifas dos EUA”, diz comissário europeu para as Parcerias Internacionais - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxPLVU2Nlo0TlIxMFAyYWFRYllHYVp6cXFJZzFGYU1JV3F2MWJyOFhOUXRTVEdja2pXS2lBQ0pwS0hOa1Baa1ZrMWUzRjh2dUFlS3BEdllRakQ5Tjl3Tjl0T28ya0YtZ1M3Uy1SZkVoamx2M01oSUFBOHpCMmpmOWhFcHFveHB3b0hUNWRVUjhQS0tuYjlkU3dHQldxVjQ2UWVwcE0zUWVZOW12V1NNamJpaGd0a3ZNVFU3SW8tc2s1NTBoOURoVEQwaTBUVFRZdEstTWgycUhrU1ZDNmlBVlFTWUs4ZHRLVlVRb2NMSkduSjl3T1JqMGJYYXR4andERXhCT1VXajBvdm1DdktKN1RQdzhjVzdRS0psbTBIMHd0R1l1RzlIVUFfOUhqN1F5NDJWam4wdUI1ekV2MGhNQ0lkWk1nRk9pajRJZWpLcEtoclFyMkJQU1dOOFpZbjR6WXpWMVh0M0R4cEZmY2pRYnFQZVJ1LTN6VEpoSy1IT3lGSWkzSUMyVlc3ZkUyVl8zOEc3YUhFSDlBRldPZmdXZmZhbG9XN0cwMUFQdS1ZcC1nVTlfVjhmMmhmOGNPSXljZkROaVJCY3RBRWRGLTNxYkxZVWpfVURES29mdGljMTd1em54dmQ1VEVIOUxHNHMtMTMwU2k0bFhvODVydWxYTEVqTUdZMnRqOGxadExFTjdQVWFnRmQzamdodzA0YVJqMmluN3VtWQ?oc=5",
+          "outlet": "Expresso"
+        }
+      ],
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
     }
   ]
 }
