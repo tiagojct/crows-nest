@@ -6,9 +6,52 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ],
       "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Bloqueio atmosférico põe mais de 100 milhões sob calor extremo na Europa: “Caos climático\" agrava impacto - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSG9pRlJaMjM3ek4taXBXYmRMMmYxUUZ0cmJZd3NMUkN6a2pQUWNtdXVISW01VHR3MVdwN3F6WFlpNlJmaHJKS0JvcGkxb19RYlNWU3dfZWRtVEVzeWFIMGMwODQ3cTRDMW9LcnQ1ZldSQVVyUTFGanV0UUhYRFdobzRJSHVlNV9qNFBJbFRJNndVanREdXhZeWNjQWZUeG1uaDJNVEtlSzBEcEl3LXNzNUJkZEtJZW1OdUY2M3Q3TktLYkM0cTkyWVBqY3d1dnRJbjItOEd3amROSjA3TjMzOThyRllBZGJtRG1j?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "150 milhões de europeus enfrentam altas temperaturas",
+          "link": "https://observador.pt/2026/06/26/cerca-de-150-milhoes-de-europeus-enfrentam-nesta-sexta-feira-altas-temperaturas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Alerta de \\\"calor extremo\\\" prolongado até sexta-feira em parte do Reino Unido - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdzNzajZFWUVZbW9NYXhjX2RfaDE4eGpKVzl0c3J6cXlLX2YtdWx0NDJDdmwwd1phRGlINElISjhTZEFyMHdXNEEzM3p5TmNPalJWNUJMSWQyXzAtS0RodmR2a21XdTNsazUxVlZ4ZkJOWlhxR01qMzVtZUZnbWp6LWk3UEJ0cms5dEFjZ19KVzZGNXpQZDlZR0dHOGp5dkNteUlHZlZRcVQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Onda de calor em França: sobe para 55 o número de mortes por afogamento",
+          "link": "https://www.rtp.pt/noticias/mundo/onda-de-calor-em-franca-sobe-para-55-o-numero-de-mortes-por-afogamento_n1749630",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Criança de três anos encontrada morta dentro de carro durante onda de calor em França - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORklOdEtXRzdzaEh1V2xiU1cyczV2WDV0aGpPWXc4Z3BNaU1jLUlTQ1BrQV9wNzNxTUZLaWxiRExfLUQ0cnFZcTRINVNmeVJHbkxXVF9FU3p3VFM1M1BwcEN5VzFiS2lVYk1uWEVhZllCVmVCaVQ5Rnd6Z19fcU9oeWpWdTczZzlHZHJJYzVjdHJrY0l6c1NONjdnMTBCZS1ySVhGUjdqRm9iZWVtOUJsT0JlMTVxYmJjM1JaRllYdUR5XzlxU2ZvN2FHb3JDLWc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Cerca de 150 milhões de europeus enfrentam hoje termómetros acima de 35ºC",
+          "link": "https://www.noticiasaominuto.com/mundo/3011730/cerca-de-150-milhoes-de-europeus-enfrentam-hoje-termometros-acima-de-35c#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Onda de calor deixa quase metade das cidades na Europa em stress térmico recorde",
+          "link": "https://sol.iol.pt/internacional/noticias/onda-de-calor-deixa-quase-metade-das-cidades-na-europa-em-stress-termico-recorde/20260626/6a3e41640cf27cac6fcf65af",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-06-25",
           "title": "Onda de calor provocou apagão em França, duas pessoas morreram em Espanha - Público",
@@ -29,7 +72,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-26"
     },
     {
       "id": "cultura",
@@ -104,6 +147,43 @@
       ],
       "firstSeen": "2026-06-25",
       "lastSeen": "2026-06-25"
+    },
+    {
+      "id": "educacao",
+      "label": "Educação",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-26"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Exame de Física e Química A: veja aqui a prova e os critérios de correcção | Educação - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaS1PZzBoYW1lbkpMdWdlUzhEYU1zRU5Oa0Z6QW1JOFRNTkxvUEx3SGlDRkJRcDVFV2d4clE4bVhmZmdGUHJ4UWpGSlRWSnA4TDBVMUZtYmxZUEFiRGJrYkp0SC1DRkFsdHhyWDhZdEZzQ0FIUDRLMzRoQzR3R01CcEpkbkxkX1JUai1ieXgzYnRuVExNUXlvZktlMTJqZnR4dUFLaG11bVFvRmxZV0ZyM2dDSlZUVVU?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Ministério da Educação reconhece atraso e “dificuldades técnicas” com classificação dos exames - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVDVRcjlnMzh1aEx2WkZXYm9adlNMMjRCWHR2NUdGR3VycWpwdnFmcGdFS1lzMHN2YkU0Y1N0VVRXYmJlQ2hSTkY3NFkyZGd6T0Nrb2Z3ZWpGSnp2NlFvZEdrRGFhU2JMOVF4OXhIaDdlczd1TzVzdFBlY1pjcU5oSjhOZXZ4VUV3Y2pZOVhJTUQtOGV5V25sMkllUVJINUpkSk9TYi1DOXRMNXotMWFLWVp2ODVfWHJJczdPU0hrOTNHc1NXQk9yRHNhbTl4RER5c1JjaVZ1T0hFcVZFWmdGRG9ucGhZZWN3ZUhDTWh4YXI?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Exame de Física e Química A: o enunciado e os critérios de classificação - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWZwSkk1bk41TVlaczVvYmtiaXdWMldhN01Ic3RTQW00dGJadnpOQ3d5OURoNmVxQzhnRnp5MUlhNkZDNXNHcFgzU3hGd1A1a0tzZlpKcmM1aEZlcC11VjF1ZU94MkVRUWpmMk5kcWh0UmNzeFVwNzVDbzRfc0lGdVA3TkExeFM0S2hlelR2ZXhnY1hrbXNwZmtwZHFJUU1tQksxeDhDWk5RY1pveHQ3eEdmZ29LUG1SakFKYkNsd3lGUFhfbDUybk94WnoyODljdkZVRA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Digitalização das provas provocou atrasos na correção: júri ajusta calendário, mas mantém prazo final - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNN3ZOUE1xNXh4bDBWRWJtVW50NWpyNmhwOHViQzZGMV9FTUVINlk1TG12cE1vV01HamVtNmZvY2NZNlJGdE5pWTRua2o3VTlraFBnSHFfQXJtQ0lnNklYdkNJeG9DQ1MzakFmYnRUN29PbWJQMzd1T3pwOFpYal81YXVMMWl1dnJfeUxMT1VsbkN3NUlDci1oVU80YkE1a0d2RV9US3FsYnp1YzZBWEVCb2o5d2N3UnRYMFBicU1RVk42Q0kyM3Qxc3VWUQ?oc=5",
+          "outlet": "TSF"
+        }
+      ],
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
     },
     {
       "id": "exames",
@@ -212,6 +292,67 @@
       "lastSeen": "2026-06-24"
     },
     {
+      "id": "habitacao",
+      "label": "Habitação",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-26"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "São muitos os atrasos no subsídio à renda de Lisboa, mas câmara promete regularização - Público",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekZYMlROR21QSXFwZXdOcEFtbUx0cUY3bXJ6QWd0aWVIcXFQdUFiclJrcDA5Q1JNc0JNWlBZVnQ3UmN4NXRoTjl2a09kOXRKcU9pRzZsM2YxbGJyVlEzbl9EQUdVc1BrRlF5cnhId3VjYkFaU195SElzYXVBbnQ4eHNMTUNpOFNoVXR0ZnlIRjVfRzRBNmJoMmJrZEoxYUJkSURQa1gzT3V1UkxqRlQyUkxhSjhKUHp3d1E?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Avaliação bancária da habitação bate recorde e ultrapassa 2.200 euros/m2 em maio",
+          "link": "https://www.rtp.pt/noticias/economia/avaliacao-bancaria-da-habitacao-bate-recorde-e-ultrapassa-2200-eurosm2-em-maio_n1749658",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Valor do metro quadrado acelera 17,1% em maio e supera os 2.200 euros pela primeira vez",
+          "link": "https://eco.sapo.pt/2026/06/26/valor-do-metro-quadrado-acelera-171-em-maio-e-supera-os-2-200-euros-pela-primeira-vez/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Avaliação bancária tem a maior subida desde novembro. Metro quadrado atinge 2.208 euros",
+          "link": "https://www.jornaldenegocios.pt/mercados/credito/detalhe/avaliacao-bancaria-tem-a-maior-subida-desde-novembro-metro-quadrado-atinge-2-208-euros",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Rendas subiram 9,1% no primeiro trimestre",
+          "link": "https://www.jornaldenegocios.pt/economia/habitacao/rendas/detalhe/rendas-subiram-9-1-no-primeiro-trimestre",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Não há sinais de \"bolha\", mas 40% da subida do preço das casas não tem sustentação",
+          "link": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/nao-ha-sinais-de-bolha-mas-40-da-subida-do-preco-das-casas-nao-tem-sustentacao",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Ultrapassa 2.200 euros/m2. Avaliação bancária da habitação bate recorde",
+          "link": "https://www.noticiasaominuto.com/economia/3011732/ultrapassa-2200-eurosm2-avaliacao-bancaria-da-habitacao-bate-recorde#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Avaliação bancária da habitação bate recorde e ultrapassa 2.200 euros/m2 em maio ]]>",
+          "link": "https://www.sabado.pt/dinheiro/detalhe/avaliacao-bancaria-da-habitacao-bate-recorde-e-ultrapassa-2-200-euros-m2-em-maio",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
       "id": "incendios",
       "label": "Incêndios",
       "group": "press",
@@ -237,15 +378,155 @@
       "lastSeen": "2026-06-24"
     },
     {
+      "id": "livre",
+      "label": "Livre",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-26"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Rui Tavares deixa de ser co-porta-voz do Livre. Jorge Pinto é o próximo candidato | Livre - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOGZVTWVJakY5UGljNXVGY3VlNFZPVnBFN2VqMS1vTVkwTTBDdzloYXdkNlN4d291d3ZfTHRGX2FkUjFVanhoc2ZJb1VrWEcybnFRZXo3SThpWTZCbFNEM29OVzZMYm91eVFaQnM0M3FsWGVxclpEQWhfWGFfM2VHTGlQS3lvT2dBUjA2X0RjV0JkNUtDREgtQ2hHUlJ0dmM0Y0lXbHVyX21BZ2ZSRjRGcVdZV2pDWFFfNG5kcHlVb210Q3RBcl9PVkxicHc2MkRDY2c?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Rui Tavares deixa a liderança do Livre, Jorge Pinto passa a número 2 - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbEFkMGlrY0dfUEF2amZCQ1otci03NmxuQ1FZTlZJZjJQblhxN3l0ak0zME40Wm1rWVlDZ092NkpURk12M3RRcmNQeHBlcWNldmRRaWJkcjFiVXVxUFF2N0NHVkVnQWZJbnozY2I1MXBBd1lPTHduODlJbUtWMzdOMFAwWTItTk1ZZnhnZ1lpS1lVcHpPeFFWcUhEV19wTENqRGxPZ1dTd3ZscWJ0TEZUNUhGQ0FINGtwc29RZkZiZHFnLTNE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Rui Tavares sai da liderança. Jorge Pinto sobe a porta-voz",
+          "link": "https://observador.pt/2026/06/26/rui-tavares-abandona-lideranca-do-livre-jorge-pinto-e-o-sucessor-e-sera-co-lider-com-mendes-lopes/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Rui Tavares deixa liderança do Livre ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/rui-tavares-deixa-lideranca-do-livre",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Livre. Rui Tavares deixa de ser co-porta voz, entra Jorge Pinto",
+          "link": "https://www.rtp.pt/noticias/politica/livre-rui-tavares-deixa-de-ser-co-porta-voz-entra-jorge-pinto_n1749633",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Rui Tavares deixa liderança do Livre. Jorge Pinto e Isabel Mendes Lopes candidatos em dupla",
+          "link": "https://eco.sapo.pt/2026/06/26/rui-tavares-deixa-lideranca-do-livre-jorge-pinto-e-isabel-mendes-lopes-candidatos-em-dupla/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Rui Tavares deixa a liderança do Livre",
+          "link": "https://jornaleconomico.sapo.pt/noticias/rui-tavares-deixa-lideranca-do-livre/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Após quatro anos, Rui Tavares deixa liderança do Livre, mas permanece na direção do partido",
+          "link": "https://sol.iol.pt/politica/noticias/apos-quatro-anos-rui-tavares-deixa-lideranca-do-livre-mas-permanece-na-direcao-do-partido/20260626/6a3e4d490cf27cac6fcf65bb",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Rui Tavares deixa liderança do Livre ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/rui-tavares-deixa-lideranca-do-livre",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
       "id": "mundial",
       "label": "Mundial",
       "group": "press",
       "aliases": [],
       "occurrences": [
         "2026-06-24",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ],
       "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Gonzalo Plata foi ouro para o Equador frente à Alemanha | Futebol - Público",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzZnUVQ4NEhvQUNRdFlzT1RIbXV3bFduQ3ZVeTRxQkQ4dWFwaUZwdHZ2Yjh5eHg4VmkyMHd0aklPODJOMDlMVGNCNXFUTzd0RFBZVmtOVGxCV3lzT1JsU3V2MnVuV2ZYRFZQaDl5WWFLX0pEZHY4ejdGbWpzMVhVU3Q0X2o5QXIxeHFXOW1hSTY5UFVmLUJmeWhyNFFLWXNBSklN?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Doku é recebido com aplausos pela selecção belga após o nascimento do filho - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORExnNGV5N29qb29qdUtHQmdHRXY2MTdLZW0xUXFCU0ZxV0I5VVNHd3hJY3BfdU43ZFVmcGRXN1pZM1daVDJ3Z3NEOUdaUFhFa0xPYmM3UDdXbzFGOWc2ajk1V2xLTnE3V0JNVjJ2Y2gxSGpYRUVCZ1NpNkxMMGhwNTlIdGdid0xIQzJTX2hUeXlvTkxpRDV1MFU2dDF2c0RfOGFiRGkxMkJVckRGWkdxM3dieWk?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Mundial. João Pinheiro vai arbitrar dois jogos na fase final",
+          "link": "https://observador.pt/2026/06/26/pinheiro-e-o-sexto-portugues-a-apitar-dois-jogos-numa-fase-final-de-um-mundial-de-futebol/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "\"Os Elefantes\" fazem história ao qualificar-se",
+          "link": "https://observador.pt/programas/minuto-90/os-elefantes-fazem-historia-ao-qualificar-se/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "No tempo do Ronaldo não era assim... - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uU3dzVXhBQzR6clBPeDh5QlJ3Y1ZGRXhWcDc0dnh3RVQ2bUJYSktWRlRRSmp5VHhZckZhMGVkeEtwLVZnQjhBRGhwVnM3NUd5SnFTTDFFRHp2WFFaRG5GRV9jZjdXX3FISUg3dWlB?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Austrália empata com Paraguai e qualifica-se - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWHRNZHp1ZVpfMEwzTW1FdXZZX2JjTHdoY0Ixc001VVZLU2I3dUVOcGxhMUlHM2RUeEl6SE1yYmhnZG52X3hUc1dzbEVPbWZDV0wtdmlCcGFYS2V6bHh1NVJHVTU4eW5JWFBVT1dWNnJSdFY1WWtUSm5LT1IxbXcwRC1VdEJLdWpG?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Brasil vai da desconfiança ao otimismo, cresce no Mundial e chega à fase a eliminar com o sonho vivo - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc21zenFSaFg4cE8zT2w2SG02NGIwU2YxeXAySXkyWW9CWUozVkZaanpONDNKRnhKS2tPaV9EZEpZTUw2UzlWcTM0cVh3aTRvdFdITUp4SXdxSVVOU0NDbTlENkRqVUZpYURHTlpGbFNWUzU1ZkNldXMydUtNWEp0YXgwUXhqbnNQRXJXZ0VoeVUtTGVnOHZWMl93UzVrZ3NCejdKWjdqZGxxS0p2WXpkWDlJUklhMnJQSXBlTHY2QVc?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Países Baixos, Japão e Suécia nos 16 avos de final - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczJ2TTlqck9xaW94NkJPN2VUQldSM1RkNmVkbDNVT054TEhPT1lVd2pNNms5Y1llMEZYRW1oRGpWeTlHMW56TEhrdXkwQ2k4YTVram00a2JsVm5ZRTJLREpaRk9CM0k0NHZScVRUVl9lX3pIWDU3T2t2MkI5RnJ0bFJxcERmQ1MxM3BWSUlLemozS3dEZDdJ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Costa do Marfim celebra apuramento histórico para os 16 avos de final do Mundial ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/costa-do-marfim-celebra-apuramento-historico-para-os-16-avos-de-final-do-mundial",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Festa nas ruas de Tóquio com passagem do Japão aos 16 avos de final do Mundial ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/festa-nas-ruas-de-toquio-com-passagem-do-japao-aos-16-avos-de-final-do-mundial",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Mundial2026. Pinheiro é o sexto português a apitar dois jogos numa fase final",
+          "link": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-pinheiro-e-o-sexto-portugues-a-apitar-dois-jogos-numa-fase-final_d1749643",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Mundial2026. Portugal tenta garantir primeiro lugar frente à Colômbia",
+          "link": "https://www.rtp.pt/noticias/futebol-internacional/mundial2026-portugal-tenta-garantir-primeiro-lugar-frente-a-colombia_d1749637",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-06-25",
           "title": "África do Sul vence Coreia do Sul e está nos 16 avos de final - Público",
@@ -338,7 +619,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-26"
     },
     {
       "id": "neonazis",
@@ -370,6 +651,49 @@
       ],
       "firstSeen": "2026-06-24",
       "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "prestacao-social",
+      "label": "Prestação Social",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-26"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Prestação Social Única aprovada: como a inversão do Governo “surpreendeu” o PS - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOWVsMk1GUVZYdEVPRjQwTkRjd19TUnhCZDJFSy02eXRtLXFFYkpXSHM1V01uUUJJMTJ1b0U4NFBIbGduazFBTWxuWDFDYk82dWdxLS1oTXdsNF9reEptZUh0NE1feUhOTENCd3V2RnZBM0tHeWNhQlM0d3lLN3V6TUVGclRjaGlJTy1LNFR4VW1fVUhKYjZsakNySURkenhqb2QwbUJ4dUlFTHZ1cUloSmlFWHo2Z1lFQ2ozY3hWcHlJUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Prestação Social Única avança no parlamento com abstenção do PS e críticas do Chega - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2JBQUF2V09kODMyTnR4Ny00dGZJN05iVGZZZlhhenBFRlJtcHVaVVAwRjFrQS12TWpaRFFmN05kRmxCWk9SbHk1aVF0RVBjckFuTG9jQjlfWjllaEo3b0hudnJ5Y2J4dGdMdHRaV2wzT1BKYURTNUFsT2xKTzZMWGpINTJiZjk1bFpFWUZfTjI2UkhMdFFMT1gxeG9GX3p1c3pSaThWTWRQMFJyaVdLYXZsQUVrMmpYTVE?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Prestação Social Única aprovada no Parlamento com abstenção do PS - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSHhvYVFZQ1BZNXJXbVU4T0pwUWZIR0pzbmJOX3FadC0tUERjZTBJdy1ILXdOS0xFMlFCcWNPc2s3eXh1QUlUWUlENXEyWEpHNmw4NHdkbHlEQlR6Y0RZQnc1TTZ6Q3FTRERuYkY0MEc1bzhWOU1mRXc0WjJzaG80NFRWQjJycHFNWmRmOTdZazRhR014d1Q0NnhyOWZfUW9DdkY0d21NOXpjZkUwX3hDQVNYMGNrQUJ2UUFWd2h6TVRRNTZaTWFxcWtLaWZ4T2xUdFE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Ministra diz que sistema vai ganhar “em justiça e equidade” com nova Prestação Social Única",
+          "link": "https://eco.sapo.pt/2026/06/26/ministra-diz-que-sistema-vai-ganhar-em-justica-e-equidade-com-nova-prestacao-social-unica/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Prestação Social Única: ministra saúda PS, mas garante: \"Chega teria sido o nosso parceiro preferencial\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaVRrY2FEdlgxemE2QWtoOVFDNDFMZ2w1Ui1YRWxYS2h4NENUbGNELTZSVUw4bG9PeHlOcFZLWUk5MHppSVIwbmd3VUg5Y0hnbmduQ2pPWWpUa3ZVNlpsNGdmTVJSVzBSeVpadXhWLUFMNHZUbmVxeklGT1A0NnhoQURTMHBTSWNELVdBTDdQS2FCVjJ6SnFGUDBjaWtJUTdWRGs3UWd5dk14d1VpZjNOS094TDNQcThqYmtrZVpMUjR4eG1ZZW1OR3ZlQ08zRWJzcS1PdXRvaGxIMUJoUzZiVG9hVHQxTkVm?oc=5",
+          "outlet": "SIC Notícias"
+        }
+      ],
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
     },
     {
       "id": "psu",
@@ -470,15 +794,125 @@
       "lastSeen": "2026-06-25"
     },
     {
+      "id": "sanofi",
+      "label": "Sanofi",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-26"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Vacinas. UE investiga Sanofi por abuso de posição dominante",
+          "link": "https://observador.pt/2026/06/26/ue-suspeita-que-sanofi-abusou-de-posicao-dominante-no-mercado-das-vacinas-da-gripe/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ UE suspeita que Sanofi abusou de posição dominante no mercado das vacinas da gripe ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/ue-suspeita-que-sanofi-abusou-de-posicao-dominante-no-mercado-das-vacinas-da-gripe",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "UE suspeita que Sanofi abusou de posição dominante no mercado das vacinas da gripe",
+          "link": "https://www.rtp.pt/noticias/mundo/ue-suspeita-que-sanofi-abusou-de-posicao-dominante-no-mercado-das-vacinas-da-gripe_n1749654",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "UE suspeita que Sanofi abusou de posição no mercado das vacinas da gripe",
+          "link": "https://www.noticiasaominuto.com/economia/3011713/ue-suspeita-que-sanofi-abusou-de-posicao-no-mercado-das-vacinas-da-gripe#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        }
+      ],
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
       "id": "sismo",
       "label": "Sismo",
       "group": "press",
       "aliases": [],
       "occurrences": [
         "2026-06-24",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-26"
       ],
       "articles": [
+        {
+          "date": "2026-06-26",
+          "title": "Sismo na Venezuela: tratar os feridos vai ser um “grande peso sobre o sistema de saúde” - Público",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNelN0VFBHWDVBNGZBN3EteVBINnJ2UDRhdGlxVFdHMngxSjl6ZjJuMlluQXdRcGx1WVd3U0NKSzhNWUdQVEZUYWVVbmtWR3VhWnhEUDVlYkxLNmpIZ1BqaDVNanlKd05vYXlvOXE1WXlqYzN5dDA2WlpGSkNrTldfTEdKeUJrNHQ1b0lGbVZoOWg0UGlaZm9taWRUN21zVE9iMzh0dl9HdXhFXzFWQ0E?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "TAP permite alterar voos de e para Caracas e diz que tripulação está em segurança - Público",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdEpOVzhrTlRRX1lVTkNTaEY5WU5sM3hITGlRU0RFLWhFWl9DdDZmTUdyZGVhZ1FnYWdUTjVLTXlvSWVlN05UdG5VLWlQLVZnRklPZEUtSmlwdEI4emg1Q2NqWmFHRHNRdDZmTWl3NU9XVEJEN1pISlNvQlBsd214VVlZQl9aMWc1aTlPUFVmTjlnZkZtLWV1ckMzR0puaFc4RmlZMGt2WEVaaGV3UGRPYlJ3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Venezuela enfrenta “uma verdadeira tragédia” de proporções ainda incertas - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzFxV0xtWVFrd0s2cEdFN1JGc3N2bm9BdGdoZkFSdDVrZXVrVmRiZk4tdHJUeUJQaU1ZbWIzeE94V2lBVEFYYmxTQ2JsY29uUnJzZWtXMXYzZldTRkJlTGtIQXdrNURpV1Y3Tkc2amsxclh6WU94LUFTVmNXcnZxZU1SbE1oS3VxazdsbDRTM3ZEOGdKRjNhMlB6aVJwT3ZGTFUxUjZRb2V1N0dOc3RMdzd0a2w?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Dois sismos em 39 segundos: onde, com que força e há quanto tempo não tremia assim a Venezuela - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLUt2REttdUZPTWRuRklneXh5dU00R0ZPTU5aQVBiNVhhLVgwOGNHZlhJMmh0VlhENWE4Zzc1R2tlOVV2WmNXa0ljNVFtWTV5MGp5aWk3WnA4VEVBTk9OREh6S05pWVdhOHctUHVTQzVLZUhSY1dsVlNKVTA1LS1IV1lKc0NlX1k3SEM4YVU0TXdrSGQxUFRuaUJDejVvcmdIcW03RVFNZWgtNU9RT2pmckJubFVFREx0Tlp3Y2pGeV81WXNNRm1yVk5VdS1FczV4OWlVR29HSW1CUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Delcy Rodriguez visita La Guaira para supervisionar resgates",
+          "link": "https://observador.pt/2026/06/26/delcy-rodriguez-visita-la-guaira-para-supervisionar-operacoes-de-resgate/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Venezuelanos em Portugal: \"Queremos ajudar, mas não temos forma de o fazer\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWMyR1NFWFdqLTNMbzNZd3p5WFlsclJVdldBQnJuUWpQdXpPZVl1QU5lQkVyMy13MEdrTU1yRDdjZndxRmtRNGktU2k1NzZIdTRnSkFYOEw3SDFnOXpXNU15Y2N4Yy1lbDFFUU1qb1FzaS0yaG9IRWlGX3VZRXlLdFloQnFMc3VheXVSS21WeUZNQXpPcGgyLVI5MVo0R3VNem5vZkU0dmdDOTc1NGg0cQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Luso-venezuelanos de La Guaira conseguiram falar com familiares - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQME55WW9OYl85Y0FxdXRqZV9VaGNMOHJaRi0xZ1poWlkzcVBwR3liMzlPWHNWM2tOV3FpYWxMbTJ5ZjlzZzFYODZsbmhSTUktajlvMzlnVGZCU2FPYmNmclNWT25mYmxoR0RwQjJzcHFIdHBVQzNpSUxyaVA1RnZCLW5mYTZLZ2FObHlqa3ZmWGtSUlIwa1dYak93?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Dois lusodescendentes entre as vítimas mortais na Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYzlVZjVmcVRUMWdFOHBSdWc1RWFmeFFtR1NwXzZ1SEx4ZDBXaENiWlFQWmtDYWxEeEhIQ1RiYmhGai15S0NPdVpYcVRoVm1UUF9LRlg4RENwcTBsUF9TYzdEZDVhNmkxOGFGbVJEcWgxZDdCU2kwbDJHcDdMbUNrMmU4VW1CMkFiUlU1eEFlOE83UGtBS3pLYk9MVGFXb3df?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Mãe e duas filhas descendentes de madeirenses morreram nos sismos na Venezuela ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/mae-e-duas-filhas-descendentes-de-madeirenses-morreram-nos-sismos-na-venezuela",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "<![CDATA[ Nove portugueses e lusodescendentes entre as vítimas mortais dos sismos na Venezuela ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/nove-portugueses-e-lusodescendentes-entre-as-vitimas-mortais-dos-sismos-na-venezuela",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Ajuda nacional deve partir para a Venezuela nas próximas horas. Há nove mortos entre portugueses",
+          "link": "https://www.rtp.pt/noticias/mundo/ajuda-nacional-deve-partir-para-a-venezuela-nas-proximas-horas-ha-nove-mortos-entre-portugueses_e1749580",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-26",
+          "title": "Crise social e económica na Venezuela vai aumentar de forma significativa",
+          "link": "https://www.rtp.pt/noticias/mundo/crise-social-e-economica-na-venezuela-vai-aumentar-de-forma-significativa_n1749662",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-06-25",
           "title": "Sismo forte abala várias zonas da Venezuela e faz colapsar edifícios em Caracas - Público",
@@ -565,7 +999,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-26"
     },
     {
       "id": "tarifas",

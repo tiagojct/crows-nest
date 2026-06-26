@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-26",
+  "meta": {
+    "generatedAt": "2026-06-26T10:57:15.594Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "livre",
+        "label": "Livre"
+      },
+      {
+        "id": "habitacao",
+        "label": "Habitação"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "sanofi",
+        "label": "Sanofi"
+      },
+      {
+        "id": "prestacao-social",
+        "label": "Prestação Social"
+      },
+      {
+        "id": "educacao",
+        "label": "Educação"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público cobre os sismos na Venezuela, o Mundial de futebol, a liderança do Livre, o subsídio à renda em Lisboa e o exame de Física e Química A."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Expresso aborda os sismos na Venezuela, a liderança do Livre, a Prestação Social Única, o calor extremo na Europa e os atrasos na classificação dos exames."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador destaca a investigação à Sanofi, o calor na Europa, o resgate na Venezuela, o Mundial, a mudança no Livre e o dividendo da CGD."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Diário de Notícias foca-se no Mundial, no dividendo da CGD, na Prestação Social Única e na avaliação bancária da habitação."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Jornal de Notícias noticia os sismos na Venezuela, o Mundial, a detenção de uma psicóloga em Bali, o incêndio na Camac e o TGV."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Correio da Manhã dá ênfase aos sismos na Venezuela, ao Mundial, à liderança do Livre e à investigação à Sanofi."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP Notícias cobre os sismos na Venezuela, o Mundial, a liderança do Livre, o calor em França e a proteção a refugiados ucranianos."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC Notícias reporta os sismos na Venezuela, o Mundial, a Prestação Social Única, o calor e o incidente em Leiria."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF aborda os sismos na Venezuela, o Mundial, a liderança do Livre, o dividendo da CGD e os atrasos nos exames."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Jornal de Negócios foca-se na habitação (avaliação bancária, rendas), no fundo soberano, nos cortes da Volkswagen e no mercado de finanças integradas."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto destaca o calor na Europa, o Mundial, a habitação, a investigação à Sanofi e a condenação do condutor do mercado de Natal."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO cobre os sismos na Venezuela, a habitação, a liderança do Livre, a Prestação Social Única, o fundo de resolução do BES e os certificados de aforro."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Jornal Económico noticia os sismos na Venezuela, a liderança do Livre, os cortes da Volkswagen, as expectativas de inflação e o ouro."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol aborda os sismos na Venezuela, a liderança do Livre, o calor, o Mundial e a abertura de uma capela tradicionalista."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado cobre os sismos na Venezuela, o Mundial, a liderança do Livre e a avaliação bancária da habitação."
+      }
+    ]
+  }
+}
