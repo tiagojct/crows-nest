@@ -1,6 +1,140 @@
 {
   "topics": [
     {
+      "id": "acordo",
+      "label": "Acordo",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-27"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "Israel e Líbano assinam princípio de acordo de paz após negociações mediadas pelos EUA - Público",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNGZPRFBMMDVQdGRUajlEbGk1TnNLWS1xQzU1Tl9JUDZWdFVsQmc5VnNYX1ZyeHU4ek0zOXhGbEdDVkV5clY4NTQwbDhhRHJoTWxFME1ZdXBpSGZ0S1IwSnpIeDZQMmVxX1Nac2dxWVFiOG94Rl9HM1h5T0VJVWp6WUNyem5QVHN3eFdDTmRkb0xST1VzaXRuU2ZiV29vSWF6YnpPdjIxYW1NeUQ2RlUtbzh6cWZpVlhSWkU3THJFd1MweWt0ektz?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Israel e Líbano assinam princípio de acordo em Washington com mediação dos EUA - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnlzYk9aMzBzQy0xUU1FSlgxOThQbWExclZZT2t3c2FBRU1fNE1MYm1YNHN0VUxWNjBwUUZTQ2JrcFZFWDd2cl9Jb0RsRHVyeU1BUnA0WTItZGhwcVVLV3dNbV8wYjVvM3VGV0RURVJPZlVaWk1tN1BkYWw3RTNTUlkwRVFvdDJ0NWMwdnlweWdPU3FzNWZGSG5KUHlpT1Z2VWpKdG9uYmxoMU5vWnFuX1RSUHpUQ3ZXb0RhZ01QTG1ZdlZWVlJKVmVIalFDckhfQlZkX3JQYk4?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Acordo com Israel cria duas \"zonas piloto\" para exército libanês - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQWFNxank0RWRpRDAyV2U2VnpUVjlnWXBTYXdLdE9XSWROOER2WkpmTy02V3BqVjJfSUpldWVESS1hUFg5ZVdLVmE1YWhSR1dqOGJFUElmMGtoT25lVmE3LVBScTBfcVNOaFVKSHo4OGpRaTJ2TkN3bmhHcEttYk0td21JNW5qbnpwaWczZUFxVGk0VndLMUdiQzBxazZjZDlWRE1GM1o1M3E0N3hjQzhwSkJjb0pUN1BOZE1ZVmYycUI3bTR5Ul85N25wX0c4cnlXcnlGVk9GRGZ2QVlkazY2ZFRUclA5bDlxdGd3NmFKZ1pDbnJDNDdPa21pLVhKZERKTTc4M3dHb1ZDUHlKTzVHTzJsdTBKQWFhbURVUTRxam5CMlpTZjRZWjZSeVlTQUxLQ2JGczlvUWwzMFNLd3ZoTVY0Qmp5U1BkM3poUHJrTmJwN3F3bnZ4c0lwbTN4dHVXM0hpMDV6dldfR2pOOG9QREg0Nl82dF8teTBBU1RwSDgzNzl2clg5R2RVTVg2bDlfRXpHY0JTQlBLVVN3S3VtZmZiR0ZTcndYeXhlTVlB?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Líbano. Acordo com Israel cria duas \"zonas piloto\" para exército libanês",
+          "link": "https://www.rtp.pt/noticias/mundo/libano-acordo-com-israel-cria-duas-zonas-piloto-para-exercito-libanes_n1749880",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "EUA anunciam acordo-quadro entre Líbano e Israel sem revelar conteúdo",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/eua-anunciam-acordo-quadro-entre-libano-e-israel-sem-revelar-conteudo",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "EUA anunciam acordo-quadro entre Líbano e Israel sem revelar conteúdo",
+          "link": "https://eco.sapo.pt/2026/06/26/eua-anunciam-acordo-quadro-entre-libano-e-israel-sem-revelar-conteudo/",
+          "outlet": "ECO"
+        }
+      ],
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "id": "ataques",
+      "label": "Ataques",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-27"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "EUA atacam o Irão “em resposta” a ataque contra navio e Teerão retalia no Golfo Pérsico - Público",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2dnbkpJRU4wNzkwYVRnbFFxczZxLVBoWEp6OVJnMnpZbjZRWEtCR3hyTDdUc0h5YUFmaW5jRDloRERoamFTOVNDd2MyWUV3Q184N2w5VUxUMHJSM3pjVm00OU9JRUozVnhIdU5nSl9rMnhMcEIwODA3YUh5ZDkzY0dvdDJ6VjFKV0IyOThuVHZlbGxjSFNGZjFaUnA4RWdoNURqcEZJTENjMDV3Z3hIV25aakFSSnVsVWpnWQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Teerão responde à ofensiva norte-americana com ataque a posições dos EUA - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORlFMeXJnZ1ZvcEQ3UFRqNmdUZG5sajRkLXVXQTRsd2JSeDQyZkxOeGQxSG5zekd4NXIwdTVJWUhLZE1mTnd1cGIyTW02bEpfTmdqSG5vc19VcmsyVmF3Ym84czZnZ1haa3BZRGNEbFQzc1d5aG9aOTJYbHZ2VGRvSUVMRnVVa1RHYm9OQ2NlaXZUY2hXclJOa2hEdjFidl8yUDN5aE1OOUw0QmJyYVh5S1ZDRVptVkRYWnZsSmt5Ul9nTUZYR1hPVnVXVHVjQVpF?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Teerão considera ataques dos EUA \"violação flagrante\" do acordo - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjg0NEc1XzUwcjF3bWxuRnF0SFNreDlyN3RFRURfN3J0S2NONmRPWFVvNWNORl9naURXSGFRNDQ0TUxWWEJvTXp2ZXJ4MkpsLURZNkJLMVpfa2JoalNMQUI0ZW5tOS1IcVpDMjBsYjhLQ0NYWFFNT2YyenVpcmlhUHNTSWJwakxvTVRreXZ5aEUxbXBLbjFmcDRLN1l3MHhUWGpSUFRFakVQakRyVk5YNEpIZk9BSy1USnlTSkt6MzFoQQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "EUA atacam o Irão e Teerão retalia - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN05xeFlZU3d3Qlk5WFYzcmVEd01DNTdPdndnV3RTUzlUaWdzd3dKWkltMVFrczA3b1pISE1lamZWQlZ6bkpyWHF1NWZsbS12MXgwUGR4M0FCM2U2YnRTdVpzdFM1c3RBaENwdVB4WGQwT0x0Um1nNGdqTWdxS0ZpWTVYYkltUm91VDFJMTQtLWlYYUVGSW43MUVzNE9MUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "EUA retaliam contra o Irão após ataque a navio no Estreito de Ormuz - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcVNmWW04VjBsRGhaa29SS3N4RG1IMXJxZFVZTnluT0RuYU1DSXlmTVlnVC16OVIyYV8ybnROUThoeE5uQWpnZTB3REVFTnlOakVGT3VpTUgxZUFBNTZCNDBzY0ZjYW0xcmN2VjZ5MHlJb2piRWJsbkQ1VnkwYi02WkxUQk9zU2FtVU9zVHRlajN1TnBPM0QwSVh5T1RUQ2F1enVIN0s4TEVoQWdLZEwyc1hPendSMnM5akhyVmJwSHZvY3VMLWozbHZn?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Irão ataca alvos dos EUA em resposta a bombardeamentos",
+          "link": "https://observador.pt/liveblogs/irao-confirma-ataque-a-alvos-ligados-as-forcas-norte-americanas-em-resposta-aos-bombardeamentos-dos-eua/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Teerão considera ataques dos EUA \"violação flagrante\" do acordo",
+          "link": "https://www.rtp.pt/noticias/mundo/teerao-considera-ataques-dos-eua-violacao-flagrante-do-acordo_n1749888",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Irão avisou e cumpriu: Guarda Revolucionária ataca posições dos EUA após ofensiva norte-americana - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQR3QydWwwdzhjeFJEejEwMDU2ejBtOEtkRkNLbFJZYTlXTlRNakZhOHlxak9xWTBKRHRGSVhNdERoR0NnbURWSHpEaF9hdm41TnhINWFYWmxlTzJHVGhMNmFGbFE3ejdoNlhRdFotSVJsemR5RVNPdFRfZWRNUzV3QTU1U0IxZmRTT0lMTkY0a3F3Mm90WE04SnYycXN5Z0RBYjNsSXdNb2JNb2N2M1VBQXo4SG0yeTF2eUN4d3Z3ekhYUmNfMjB2VF9BN21vMmZXTFpRRGVQelhYUWs?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Irão ataca posições dos EUA como resposta à ofensiva norte-americana - TSF",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb05iWGhlODVYazJyXzJBWVd6cnZ2Nkt2ZV9YTktvMVRpalk1cVdodkxNNkd2QWJ5MkstRkRPRVJjNUU4S0xhY0NGdldabC1JWkZlczZFR3RIbjBibzc1QzUwYkpGRGE1XzV3Wnl3RWJZWmtpUV8zTTZ2a3dfVFRicHZXbndaY2VObGpHaXBWZHh1cG9YOG9ReEQ4cXVPQVB0RnZ4d1lHenR0bVB1WHc?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Irão considera ataques dos EUA “violação flagrante” do acordo",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/irao-considera-ataques-dos-eua-violacao-flagrante-do-acordo",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "EUA retaliam contra Irão em resposta a ataque de navio no estreito de Ormuz",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/eua-retaliam-contra-irao-em-resposta-a-ataque-de-navio-em-ormuz",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Trump denuncia \"violação do acordo de cessar fogo\" pelo Irão após ataque a navio em Ormuz",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/trump-denuncia-violacao-do-acordo-de-cessar-fogo-pelo-irao-apos-ataque-a-navio-em-ormuz",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
       "id": "calor",
       "label": "Calor",
       "group": "press",
@@ -80,9 +214,28 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-27"
       ],
       "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "Dua Lipa abre na Livraria Lello espaço dedicado a obras proibidas e censuradas - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOLTR3UXhUSXd6TERKcXllUE5NX1BFWDZjbHJGSVF1MnpIYlBVWUllZ3BKNGozOTBLWGtpYmVkaW83QlZGV3NBMHpWWGw0SjB0SVhjM0oxLXA0dUNlRXNuX3A3NHAwTnIzNGtJcUc0OXhxTWFPcWRhd2hIY0VFV1NCaURuaU11Y1Rja1dNMl9NWGdrSE04REtuSDlpQ0NIYXhscXZMMUJIaTdtdWZodWg1aHpHbDFGb2FlNUxQcE1TTktCTFhOVkdnZ054TU9Zdko5LUdkUzJ5VjE3Xzg5Z1p0YTZDQk15YkVJZEZITzl0ZkRsU194bXJpQkpNWV8tMG5tOEREXzlWOHl1Q0dnNU9JeHl6djRBSEJCMkpYcnpIbDdQNVlET296blY1R2N3QmRpcWhDVnAxelEtckpjeWpCUWFNSmhhX0pvSEJrUGpRd1NfUjJORnRDQlNKRkw4RFY4N1JEQ2wzSDdXdw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Dua Lipa abre espaço dedicado a obras proibidas e censuradas na Livraria Lello, no Porto - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMmYzVzVULXFFTTZ4allQQU1feTJ1R2tBaEpCS0pONTRjZ0NDV2FJNlpoN01NUG90LUF5UTIwWDlhQ2RmVno4Nkp2NEk4R3RqOUhJcGo4TkVGMVB3M1BUaUg3eE5LT2t6LUg0cnRldWRrcWpYc2pPMU1KRGRPZzNlU0FINnAxbUFIQXl1ZVE2UHFsOTZBdmgyYTdGeTdrUWh6ZVcyeDF3UlhvNUpUTEU3b1EtZFE4em4wNFR1WGRrSWt3MDlZS1puekt4Mlk1V1ZZVEVLM3d1cEJvZw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Livraria Lello recebe projeto literário de Dua Lipa dedicado a obras proibidas",
+          "link": "https://sol.iol.pt/cultura/noticias/livraria-lello-recebe-projeto-literario-de-dua-lipa-dedicado-a-obras-proibidas/20260626/6a3eac5c0cf27f6588a6d61d",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-06-24",
           "title": "Byung-Chul Han, entre protestos pelo atraso e aplausos",
@@ -109,7 +262,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-27"
     },
     {
       "id": "desabamento",
@@ -147,6 +300,49 @@
       ],
       "firstSeen": "2026-06-25",
       "lastSeen": "2026-06-25"
+    },
+    {
+      "id": "ebola",
+      "label": "Ébola",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-27"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "RDCongo eleva para 321 o número de mortos por Ébola",
+          "link": "https://observador.pt/2026/06/27/rdcongo-eleva-para-321-o-numero-de-mortos-e-1-203-os-casos-confirmados-de-ebola/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Ébola. RDCongo eleva para 321 o número de mortos e 1.203 os casos confirmados",
+          "link": "https://www.rtp.pt/noticias/mundo/ebola-rdcongo-eleva-para-321-o-numero-de-mortos-e-1203-os-casos-confirmados_n1749887",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "<![CDATA[ RDCongo eleva para 321 o número de mortos por Ébola e 1.203 os casos confirmados ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/rdcongo-eleva-para-321-o-numero-de-mortos-por-ebola-e-1-203-os-casos-confirmados",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Sobe para 321 o número de mortos devido a surto de ébora no RDCongo",
+          "link": "https://www.noticiasaominuto.com/mundo/3012250/sobe-para-321-o-numero-de-mortos-devido-a-surto-de-ebora-no-rdcongo#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "<![CDATA[ República Democrática do Congo eleva para 321 o número de mortos do surto de Ébola ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/republica-democratica-do-congo-eleva-para-321-o-numero-de-mortos-do-surto-de-ebola",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
     },
     {
       "id": "educacao",
@@ -452,9 +648,82 @@
       "occurrences": [
         "2026-06-24",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ],
       "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "Dembélé puxou três vezes do remo no naufrágio da Noruega - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZy04YWFKejdHWWlrVjRYYmVONkxfX3Q0VDRsaGZuQ0hGX3hsUjBIcXdHT19GemtmZ3k2VTM5YTROTjRKdFNfUjZyNWJVcy1LSHpaNWRneVF3MUc2R0NYamJxVy15bnRqeU5WaHkxM2VXZXNCcjZyQUdMRG04Z2NDSmtSWjhqaENlQmNnbmNqVXEtYVBNQjFuTnA0eFd5WmlzNk5pc3A4MEd3Z211aXI3UTVCcFE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "10h. Mundial. Portugal joga esta madrugada frente à Colômbia",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2389/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "“Sta na ora di festa”! Cabo Verde (e Portugal) nos 16 avos",
+          "link": "https://observador.pt/programas/diario-do-mundial/sta-na-ora-di-festa-cabo-verde-e-portugal-nos-16-avos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Portugal apurado para a fase a eliminar no Mundial",
+          "link": "https://observador.pt/liveblogs/portugal-apurado-para-a-fase-a-eliminar-no-mundial-selecao-discute-lideranca-do-grupo-na-proxima-madrugada/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Prognóstico Colômbia vs Portugal: luta pelo primeiro lugar do Grupo K - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkpHeUlBMjFjcGE3bE9LQnpSbDdkUWh4eHBFbV9wUllhUVR3SU9sZUpkUUlKa0FhaUFGUWtXdjBXYk4zZ21zUURIVU1nMHZ2a1h1dEp2bjJLU3JGcjUzUllVUnppQkFUWlV4WDBZR285OW9pWDdRdks5V0RPTHBqQVBvT3JQVklhTVpJSXBZX1N0anZ5LXczWUZ6QmI3VE9LVUdZaHpROVE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Fafe autoriza cafés e restaurantes a funcionar até às 3 horas para ver jogo da seleção - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNFNvSnRPUUFqaDJiVDZ4TUlmNl9OSGVnb0xMVC1hTE51YUFiaDhSZzdEX09pTEpHUjhvN0hZd2hiVXBORENIRzJ4VVJycF9tNlQ5b2xqODZuNngtUTNpMzFUbTNhU1RGOGV6LTZFdXhpaWJoYmp3VFo2VEl1SjFmRWxnMTd2ZUlkc2JmdkUzVVRPazJBVG9oc0o4aHp0MjE2Z3l0b0gzQ21QZGxYV1VlUy05aEhlbC05?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Um desafio à altura para desenhar a rota lusa no \"mata-mata\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkZzY2FPTTBGVm5xQjNNSWhCRTliQlJjV1haSEVDbmhNRllqM293THhHSlM4OWM3V3FRRXI0eURpalV6OFBMQnJHR09ILWo5ZzhIRHRYa1RrM2VHVXRZSTllaXdYTGtGREZiS3ZRYnNVdDNKSlhKVGNSUms5MmNDU1ppT0tuTXgzZnR1dC1IMjR0R2l1VTIwaHV4N1l2VWF3cjJz?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Explorar o lateral-direito colombiano - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUVVwOUx3N1JPVlZaVk9DWWRQaGEzTWl6U3Q1amJvQ3NOeXZ1NllWYXNGZF9mUmlkeUgyVkdfTnBSQTNYcUxSeUVWQlEyTTBHcnFxTjhwVGFYRUZHZ1ZjcEJaSkhoNE9CSE1ydE1TY2RIS2pxVklFeFIwM21tRWdWS2lVd1FfWXM?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Diogo Jota: a força extra da seleção no Mundial - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTE1jdHBNQm1rRnl4OTcycG5nYnBlaUR4eGtyMDQzbXdLeXVVbEFGRVFXZGxTQ2pWYnNrTldTcHRPeFFCcHFrWVAwbXdpNDQ2Qjl1UU1HWlZieWcydjROZFBYd2FtWHZDY01GRWEwSW5hNS1iT3BkTGtzeWRVcXVhYkFDd3c2WmV3VEZHdExMcTl1enM?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "<![CDATA[ Portugal e estreante Cabo Verde nos 16 avos de final do Mundial2026 ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/portugal-e-estreante-cabo-verde-nos-16-avos-de-final-do-mundial2026",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "10h Cabo Verde e Portugal nos 16 avos do mundial",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-cabo-verde-e-portugal-nos-16-avos-do-mundial_a1_1749892",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "9h Cabo Verde a viver um sonho",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-cabo-verde-a-viver-um-sonho_a1_1749889",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-06-26",
           "title": "Gonzalo Plata foi ouro para o Equador frente à Alemanha | Futebol - Público",
@@ -619,7 +888,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "id": "neonazis",
@@ -702,9 +971,52 @@
       "aliases": [],
       "occurrences": [
         "2026-06-24",
-        "2026-06-25"
+        "2026-06-25",
+        "2026-06-27"
       ],
       "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "Chega vai pedir fiscalização da constitucionalidade da prestação social única - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOXplZXBYeS02QV8tcnNYMlpfN1lBMXZhVkJOU1V0bGVXODdMY09oV25jVTdWMkpFdktGYUFOaVNkellORV9DMXQ1TTNXSTFfMVR1bTRQTE5sN0V4OWM0NllHWWJKanY3bGpxMlZMVm15OVFQbW0waEhiUGl4UTVuX3JEYTY4bjBZZnJ6TUpsTGduTVBCajdpT1dWTGVVd3RYb0laMGVSVHhCcFY2aTRNNQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "“PSU deve visar integração das pessoas e não entrada à força no mercado de trabalho” | Entrevista - Público",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTBVWUdGNTlNZjJCbGJPTm5MLTF2VU9EcnI1dXd1Y0JZM0J4bmhRMi1tVFlub3VNaEJrNy03ZFd1ZXBwZG51UXlocW1PbUUwcTFZY3M1RllPbzNMMjlqTXpXTXBseTlxSXhrYy1jbU9RYXBPWXZhY3NuSDk3dHpiX1RSRWdTcEoxYzFkT0Y0TnYyZmtLZDlDYUVXWGpobUF3UV92blpXTmZILUZXeFFtdHlYVUw2VlRUTzFxVzN5MjMydTdwb3YxRUlkWFZCVkhhV1hHWmdEWQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "PSU: Chega avança com pedido de fiscalização da constitucionalidade - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTNKd3Z5TzVSVkEtVWxva2RQY01iNWtuRUFqR1pTN0tqNWttbkhsWWgyTDE3TXZrNnk3OVpSNkFXcnVnZUM5OTQ5aUJ2RzR1RFR2ZXNzeU8yd05scXJHVko0bWFjSGVrbmZVZ19lbHpoMlZoS3JyODZxbzRVRG1SYmlmbHR5SEE5SEhaS3hCa3pDQldZZE5LaHJ6eWZoUnVxRkcxeGtHbEt3SkxiMURfd05Vdi1ieWdTeTlKeFNzVjlZam8?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "“Uma provocação”: José Luís Carneiro critica declarações da ministra do Trabalho sobre Prestação Social Única - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLVdnNm9ma2dGWVJ0a1RXVkF5UDFqc0NvOEg1QXA0amlMbFZUWXQ1bHJyMEh1bXJud1hnUUN3MERtOHlSTXp2ZW5IWjYwYlFrSm9sbjBNZ3RKQkxmU1VvSk9zYUZmcUNuUnk4M3dBRlJNNzI2LThRZGdmcXBWNF82ZG9BT25FUWlHWjdmR185YlhxdE1wbDVDZUtyYklud1JYT2Fjc3RsQVhuRm8ycXlua2FEQURMb2VxeFdvM3ZmTDhmUW4td09DeUNJOFhYSmdzR3BWVmI5R2gxcTRnbWR0TUJqc1ZqVWJuZWVqck9RQTFaZw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Chega vai pedir fiscalização da constitucionalidade da PSU",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/chega-vai-pedir-fiscalizacao-da-constitucionalidade-da-psu",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "ECO Quiz. A Prestação Social Única foi aprovada?",
+          "link": "https://eco.sapo.pt/2026/06/27/eco-quiz-a-prestacao-social-unica-foi-aprovada/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Chega vai pedir fiscalização da constitucionalidade da Prestação Social Única",
+          "link": "https://eco.sapo.pt/2026/06/26/chega-vai-pedir-fiscalizacao-da-constitucionalidade-da-prestacao-social-unica/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-06-25",
           "title": "Sem Chega e com 600 milhões em jogo, PSD vira-se para o PS e garante PSU - Público",
@@ -791,7 +1103,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-27"
     },
     {
       "id": "sanofi",
@@ -838,9 +1150,82 @@
       "occurrences": [
         "2026-06-24",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ],
       "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "Novo abalo atinge a Venezuela - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KOE9BNm1jNEZwbi1LbHRJck5HYzgxa2lxTFc0aUtjY1lkUElBOHpzQmRaVzNqZ1NVU1RBTTZnNnV2LU5OWTR6S2NaRm9JRVNsQnF3dlFnXzMxTEZBa1ZtT2ttZGxXMEk1eHpTY0hJYk9Sc3hqa0NBeEFaR3BBVTg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Seguro faz momento de silêncio pelas vítimas do sismo",
+          "link": "https://observador.pt/2026/06/27/seguro-faz-momento-de-silencio-pelas-vitimas-do-sismo-na-venezuela-em-encontro-com-lusodescendentes/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Dia \"crucial\" para encontrar sobreviventes do sismo",
+          "link": "https://observador.pt/liveblogs/dia-crucial-para-encontrar-sobreviventes-do-sismo-na-venezuela-onu-fala-em-mais-de-50-mil-desaparecidos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "9h. Venezuela. Aviões portugueses para buscas já a caminho",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2392/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Futebolista venezuelano revela que a mulher morreu no terremoto para salvar filha de um ano - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU3NFS3VQQVRobTFSaHN6dmxXM0syTkNJZlVSckxxSWpLbFRjS2FEcS1sWFNtSXpvT3d5VEVmUFdHLXhMR0NGUGxrVDdNSUtRcnhUeHRqZmhJVDJ6V2UzV2g0dUt0ZlpuRFJLZ0otTUZ5c1JYUUFqTlVrLUl0R2JTcmhRNnp1eFBJaERGejIwbzhvcVd4dDJOYkZvd3ZVb1R2V2FDY3hJc2hTZ05PYnhxNklIOWdpZVNoVnZPWXVXcUNVTjFOZmc?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Quais são os países com mais terramotos fortes? - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSmNkU3ZVbEMwdWh1OTVQUG96a0dJaktpQTgzQjF2b3o1U1p5QW5yWlpRdmJ0Y2NFSFlhWElpSlFXNkQ5NkkxWms5WnBKWUs2RTd6LUZwMWw1OWNfUndJYVVnOEx4a01pVy1vX0hsYXpnUm9Qb3FRSmFHWFdwYWVmYmNR?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Equipas de resgate a caminho da Venezuela com material de socorro e mantimentos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONnNMVUdCbFdPSm9iVTRSOUNPMzNIRDlUTEhuUDBwZDFNM1ZoSkM1d08ySW1tUFlhR0Vld0dfVlh2VUlfTUV4SDk0TkNMbHBRU29weTRWOUM4cG1ja0hrUk9Kd0FIUjZuVVhRMEtCLUxzN2xmeFk5dzIwR1JnUF9TbHIwVzhpcGJMaHMzWmxDV2kxNEF0aElleTNmU1VYcW03cGUyX1puU3hnNWN5dHdNd2Y2ZGlseko0RmEtb2NFbUU?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Mulher dá à luz entre os escombros de edifício na Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQThHSDhEem5YS0V2UnZicC1JbVNQeFdmWEJxRDFBMkEzV04xdVdCdzI5WmxhdlJ1TXFfT3JfSS1kVkRGMFhsYkoyNDQtM0NFanFsbklaU3FlQzFoQ1VWMF9STWxFbkZlZEF1OXplbnh4aXNTM0FYQ1NOb0k4bnBRa0wwWkNvRkxRYVZDSjZhcFhuS3ZSemllU0tqRWdjWkg4?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Novo abalo de magnitude 5,4 na escala de Richter atinge a Venezuela",
+          "link": "https://www.rtp.pt/noticias/mundo/novo-abalo-de-magnitude-54-na-escala-de-richter-atinge-a-venezuela_n1749862",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "\"Fiquei praticamente sozinho neste mundo\": sismos na Venezuela despedaçaram milhares de famílias - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWUpQa0s2MDBGVHJ3QkE1Nm52VXkwX2xETGt4VkZPRWl3OVNsLVExRkFRNUF1RDVwV1NDT1o1U0Y5Z1pUUGhodmhMSWIyeFpEYlVlSGRQUEItZkI3cUVYRktqT0ZvNzhqeG5zdjA2akNzMUJUaWJvZkJReXF3YjRsWTNTc0dtWEVCYTgzN3RkcWRHQVpRQ2hNemFpa3Y5RU1NWndmMWtzVWFjV1h1SENPN3hEdzFHNHBzaHBSaG5RU2lMc1BlNFNjWVMtbU55cWp3X3QxMFVjWVpQMTN0OGQxbU1OMG1rTmRpWjlsWFhQMnBFQVVhbXdYa2R5Tzk1bkdGZnc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Morreram os seis familiares de Manuel, o português que procurava a família nos escombros na Venezuela - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONGNOSlJQdDBqM3NKUk5MQVlHMXpGV0pCRjNwMG05QkxsWXdtS1R0S0Uwcl9Rc1R0dk1rSkN4SXZWdm50aU5sT19ObTJGYnFlUmMwdnN4dnhKME9HTVBXZ2hhZ0lSVjlZZzVLeFRrSlpQWl94WTR1SkhMeEJmc0JOZnBhLWQySUt0Wnh6OC0xQmhGSEpjZWQ3VmdyXzhjRmpXeFkxWTRGTkZtWmJKVWRaZjJ4MUZvYTV2RldWOVBXVXFsTEUxaVJ1a3pnS1dYVFMyQVdFd1RFWHF5a0xIbnZsMzJxSlZHbi1JaDdOZmMtaE9PT3pfNjc1ODFpTS0?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "\"Mini sismómetros\" no bolso: como uma notificação avisou milhares segundos antes dos sismos na Venezuela - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQ0NBSkQ4NVA3U2ota3doR1NPTzhvTHJ0bEpwaXhPY0JoUnU2cXhtdzZpUGpiZjdEa0Y1R1lTTXJFZUdJbVpodEFSd25Wc3g2cEhrOGNaSWhzODJ0YTRoZ2ktOGVrWHNJYkVYcVNuaXRCOUZvWU82c3p6cUlvZ2dFMUtwemhSWUhJeGVMTG5qVGNnTWlLcjQ4N3Y2aU5MYmxtM0EzUDhXTnZCcWtGRENpNzlNRkdjUGYxaHktN1hIc2VTQnRPeUExVkVGSUhYdEVUd1FXaUxzWWtDNjA4TnJQNUkxQUtKU0dYYWJJUUl5MUtyc1Zjb1gzRXh4TXB4LUxFc1VKdw?oc=5",
+          "outlet": "SIC Notícias"
+        },
         {
           "date": "2026-06-26",
           "title": "Sismo na Venezuela: tratar os feridos vai ser um “grande peso sobre o sistema de saúde” - Público",
@@ -999,7 +1384,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "id": "tarifas",
@@ -1043,6 +1428,61 @@
       ],
       "firstSeen": "2026-06-25",
       "lastSeen": "2026-06-25"
+    },
+    {
+      "id": "tempestades",
+      "label": "Tempestades",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-27"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-27",
+          "title": "Japão prepara-se para receber tempestades tropicais",
+          "link": "https://observador.pt/2026/06/27/fortes-chuvas-atingem-o-japao-com-aproximacao-de-duas-tempestades-tropicais/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Chuvas torrenciais fazem dois mortos em Taiwan",
+          "link": "https://observador.pt/2026/06/27/chuvas-torrenciais-causam-inundacoes-e-fazem-dois-mortos-em-taiwan/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Fortes chuvas atingem o Japão com aproximação de duas tempestades tropicais",
+          "link": "https://www.rtp.pt/noticias/mundo/fortes-chuvas-atingem-o-japao-com-aproximacao-de-duas-tempestades-tropicais_n1749878",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "Chuvas torrenciais causam inundações e deixam dois mortos em Taiwan",
+          "link": "https://www.rtp.pt/noticias/mundo/chuvas-torrenciais-causam-inundacoes-e-deixam-dois-mortos-em-taiwan_n1749882",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "ONU admite que atual onda de calor seja um evento recorde na Europa - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzA3MXc0ZmV0OG1CU1gtbUhOVXlBOExWM2hKb1RyZTNvc0RzRms1TUQtN3RkSVViWllKZXpNMDY3R005ejhvdzlBZU51eTlKTGVfazVnR2tfM0pwZDRxYXJvTUx5MU9NQTFHY25QWDRtSlA5U1ZDcE1fU2ozQzlHQm1KOUkwQXIwMmtQN0otT2g1TUFjTDJNbU95SmZkakU?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "<![CDATA[ Câmaras térmicas revelam temperaturas a atingir 57 graus nos passeios de Londres durante onda de calor ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/camaras-termicas-revelam-temperaturas-a-atingir-57-graus-nos-passeios-de-londres-durante-onda-de-calor",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-27",
+          "title": "<![CDATA[ Onda de calor leva Bruxelas a reforçar apoio a pessoas sem-abrigo com distribuição de água ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/onda-de-calor-leva-bruxelas-a-reforcar-apoio-a-pessoas-sem-abrigo-com-distribuicao-de-agua",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
     }
   ]
 }

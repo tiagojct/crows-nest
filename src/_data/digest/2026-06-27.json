@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-27",
+  "meta": {
+    "generatedAt": "2026-06-27T10:17:47.079Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "ataques",
+        "label": "Ataques"
+      },
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "acordo",
+        "label": "Acordo"
+      },
+      {
+        "id": "psu",
+        "label": "PSU"
+      },
+      {
+        "id": "cultura",
+        "label": "Cultura"
+      },
+      {
+        "id": "tempestades",
+        "label": "Tempestades"
+      },
+      {
+        "id": "ebola",
+        "label": "Ébola"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca os ataques entre EUA e Irão, o acordo de paz entre Israel e Líbano, e o pedido do Chega de fiscalização da PSU."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso dá ênfase ao conflito EUA-Irão, ao acordo Israel-Líbano, ao apuramento de Portugal no Mundial e à abertura do espaço de Dua Lipa na Livraria Lello."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador cobre os sismos na Venezuela, o apuramento de Portugal e Cabo Verde no Mundial, e as tempestades tropicais no Japão e Taiwan."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias salienta os sismos na Venezuela e a apreensão recorde de cocaína pela PJ."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias foca-se nos sismos na Venezuela, no Mundial 2026, e na onda de calor na Europa."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã noticia o apuramento de Portugal no Mundial, a morte por Ébola no RDCongo e a inoperacionalidade da VMER em Vila Real."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias reporta o apuramento de Cabo Verde e Portugal no Mundial, os ataques EUA-Irão, as tempestades no Japão e o surto de Ébola."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias aborda os sismos na Venezuela, o conflito EUA-Irão, a polémica da PSU e o incidente com militar da GNR."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF noticia o ataque do Irão aos EUA, os sismos na Venezuela e o apuramento de Portugal no Mundial."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios cobre o conflito EUA-Irão, o acordo Israel-Líbano, a PSU e o número de portugueses mortos na Venezuela."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto destaca o apuramento de Cabo Verde no Mundial, o Ébola no RDCongo e as declarações do Irão sobre os ataques dos EUA."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO noticia a PSU, os ataques EUA-Irão e o acordo Israel-Líbano."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico fala do apuramento de Cabo Verde no Mundial e das qualificações da Galp para o leilão de petróleo no Brasil."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol aborda os sismos na Venezuela, o projeto literário de Dua Lipa na Livraria Lello e o Mundial."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado cobre o Mundial, os ataques EUA-Irão, o Ébola no RDCongo e a onda de calor na Europa."
+      }
+    ]
+  }
+}
