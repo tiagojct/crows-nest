@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-28",
+  "meta": {
+    "generatedAt": "2026-06-28T10:32:26.669Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "criptoativos",
+        "label": "Criptoativos"
+      },
+      {
+        "id": "imigracao",
+        "label": "Imigração"
+      },
+      {
+        "id": "rock-in-rio",
+        "label": "Rock in Rio"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca o empate de Portugal com a Colômbia no Mundial, os sismos na Venezuela e no Afeganistão, a imigração brasileira para Espanha e a crise no Benfica."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso cobre os sismos na Venezuela, o Rock in Rio Lisboa, a crise no canal Conta Lá, o conflito Irão-EUA, as novas regras dos criptoativos e a imigração."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador noticia os sismos na Venezuela, o calor extremo em França, os exames nacionais e as novas regras dos criptoativos."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias foca-se no Mundial, nos sismos na Venezuela, no calor, no conflito Irão-EUA e no Rock in Rio."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias relata os sismos na Venezuela e no Afeganistão, o empate de Portugal no Mundial, o calor na Europa e a crise na Guiné-Bissau."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã destaca os sismos na Venezuela, o calor, os exames nacionais e o empate de Portugal no Mundial."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias cobre os sismos na Venezuela, o Mundial, o calor, o conflito Irão-EUA e a crise nos exames."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias noticia os sismos na Venezuela, o Mundial, a imigração, o Rock in Rio e o conflito Irão-EUA."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF relata os sismos na Venezuela, o Mundial, os exames e o calor."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios foca-se na economia, nos sismos, no conflito Ormuz e nas novas regras dos criptoativos."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto destaca o Mundial, o calor, os criptoativos, o conflito Irão-EUA e a crise nos exames."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO cobre os sismos na Venezuela, o calor, os criptoativos, o Mundial e a economia."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico foca-se no conflito Irão-EUA, nos sismos na Venezuela e na política."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticia os sismos na Venezuela, o calor, o Mundial e a política."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado destaca os sismos na Venezuela, o calor, o Mundial, os criptoativos e os exames."
+      }
+    ]
+  }
+}
