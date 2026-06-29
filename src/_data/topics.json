@@ -142,9 +142,46 @@
       "occurrences": [
         "2026-06-25",
         "2026-06-26",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-29"
       ],
       "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Semana de calor começa com oito concelhos em perigo máximo de incêndio - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMG9acFRPd3BTam5xVE1BaUNsYjFVZE9Wa25DaDhjbFFXX2tONkNMYkx4ZkhOVzY3REMtTDMxcXVmRHpZVUQ2cVduc1hfNDJTRjhiWElYT3phTTY1Mm1ZNlVuODBoN2oxbEhvdFR6aXExZWJUWFY3SzZ1QjdKRDJ5bTlQQTc4OWdwZ0pCb04wd2lMVGVEOXVuOWtBbzJFV2JPZ081eWd1LWEydlhuNmhXZllYajlKX0Ni?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Onda de calor na Europa matou 1300 pessoas numa semana - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9FMWdxVkVua0I0a0RXR2VhQTIwSGZqMGY3Zm11a204Z1hQUHBsbFZ4TmJYeTdQS3dHYnBlNTdDQVkteXZyZk1GZlEwSllOZHFiRmRZeDFrNi1vS28wZTJnRWdYWjYzT2NoYXI4NE83aUpSa1VDQUpFRWhmTk1palV1UDR3dlU2WkRMTDhocjZFTE9lc3p0QlgxQnRtOWllN1E?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ Banhistas aproveitam calor com ida à praia no Algarve ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/banhistas-aproveitam-calor-com-ida-a-praia-no-algarve",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Onda de calor na Europa matou 1300 pessoas em pouco mais de um mês - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkc4S0lic3F2NFpLTHkxQmRVOUxvX1J6a3o0cTlBTk5Sd3FUc3pTLVNPZTlEMTFUZGVMR1pPR1dpVWFhQ1BNQWFiZ0hYVV9tbTE0VkVhT3l2bXUzNTk5eDE4LWFSOXV5MjZMQkFRSzJfajF2bVlXSUNMRTVFTFN3OW9SNW16YTRPLWFVMmlUVHQtcWo0cGdkTmh3ZVIzSjlpN2prUXkwUVB2TnM?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Temperaturas podem ultrapassar os 40 graus: vêm aí dias quentes e noites tropicais em Portugal continental - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQREZSRmo4R1NJRlIwSzFpV29HOEdfNnVYenk4NWZMa2lKQXN2c0VKSHhuSlo3TXlaQmowbENnWjU3TUpaSTB3a0xGUVZfdFh2UTdQeHptRjNxeUdBeHUtd0ZoMEpTYV9hUTNscUFoY1E2ZGl4TThFcVNKVU9Rc0pDQTRGOHZ4em9MbG9iNE40ZjRZUmc0VC05UGh5Y01pTV9oMFFIWEEteTk5VGNfSmZHYUtOcXJIeUNzMi02ckJsNnNjY3B4b0ZlQjljNzNNN3lBTHJ3N0ExbjdjVERoTkg5cDR2N20?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Onde de calor na Europa matou 1300 pessoas em pouco mais de um mês - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLTdULXFvclUzVWdGaHhWcVVuUzllWklpREZGUmd6NHZKUTlsRlhQQzBFa0Y3M1dVdUhCSDZ2VklSZ2piWTRuaEJRQ3BMeGJNd0c1UkJKSHZDOHhWRzJOLUhiTVJ4eF92eFNvVnpObUk2aVhYZDcwU2loWHZmRDZZcHl1TDVLODRLLWxFRWFwUl94UkVUM0FHWnRoNkxwRU9xbzN0ZmFLNFZNSlE?oc=5",
+          "outlet": "TSF"
+        },
         {
           "date": "2026-06-28",
           "title": "Sete distritos do continente sob aviso amarelo nos próximos dias devido ao calor - Expresso",
@@ -279,7 +316,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "id": "criptoativos",
@@ -466,9 +503,40 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-29"
       ],
       "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "“Caos” nos exames: Fenprof diz que é “inaceitável” desresponsabilização do Governo - Público",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN3NqVmwyRkMyTEJxRGhJSllERVpVeHZGM19fbzItNFQ1MllqQ2c0Y3hOU3pFSVl3ZHVrQW9oS0VpdUI0bjJOTXNmOHVyMDNKMzdWVkxXU2c4ZEZjRUExNl9nVXh1MXc2WUwxb3BZWlo4UkdQMndxUGNkcUdYLVBvU01EX04xRGRiRFpUSDRUVEQxMmFjd2hUSHRJamo0Z1JZOFRkNEVrYmt2c05uWnItZGtxOHJBLVZEN2p0Mg?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "A nova prova do ensino superior - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3l6MlFDelVhQjlaUUticTRYemtKc0docHphM3dXVkxMeUJMN1VYRXJIM2tYM3pWZDhzVW9TaWdUNFJIWWNKVmpwVjJOcjhLUlZCd19NdUxKVDFnLUk1RElET3ZKWGozc1VuaV9vMXBZQzlpQ2prRXdpdDgwekY2QlVSUE1LZw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Falha nos exames nacionais: professora que morreu convocada a avaliar prova de Física e Química A",
+          "link": "https://sol.iol.pt/sociedade/noticias/falha-nos-exames-nacionais-leva-a-convocacao-de-professora-ja-falecida-para-avaliar-provas/20260629/6a4254840cf21fcd83776b4b",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "26% dos alunos inscritos em cursos técnico-profissionais abandonaram os estudos",
+          "link": "https://eco.sapo.pt/2026/06/29/26-dos-alunos-inscritos-em-cursos-tecnico-profissionais-abandonaram-os-estudos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ 26% dos alunos inscritos em cursos técnico-profissionais abandonaram os estudos ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/26-dos-alunos-inscritos-em-cursos-tecnico-profissionais-abandonaram-os-estudos",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-26",
           "title": "Exame de Física e Química A: veja aqui a prova e os critérios de correcção | Educação - Público",
@@ -495,7 +563,7 @@
         }
       ],
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-29"
     },
     {
       "id": "exames",
@@ -775,9 +843,64 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-29"
       ],
       "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Iranianos lembram a Trump que são eles que mandam no estreito de Ormuz - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMVBoYWE2NWZ2S285TWpjTUVuTUlFbjdtUWJQQ1dPb1pNSDh3aHZCVXVvVjZDRmp4ZVRIbEs5b3RRUE56LXNzUWJGaldHbXJHekV3ZXBQWTdXY2hoaUlNeFp0ZnNyN2ZkWkpUeWprZno4SWtET1V0Sy1IeGlnMWMyODF4b0pPYUpIS0dBVldVb3V0SGJGaGZOendsWkdLQTJXOE10QUo1MVg?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Teerão e Washington aceitam suspender ataques e reunir-se no Qatar - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEtBWGVmbm0tR2Q3NDZwcWRCeS16NDFjTVoxLWtqM05MbkViV1RRb2ZOQkZuNWN3bGljRGNLNnFFdl9xcmFVWmhUZHB2WjlOTi1VcEZiV2NHSHBBM2hTZ2h1Mi1oTTN1ZTZYOTB2NW5VbndSUmF1Z1dXRVJvNXFfQklOaW5hT3ltQWJmdTV4dlZxaU8tM3JGYUF1TENsZVhsRl9yamdydW94V0ZudlhvU184aTg?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "EUA deportam jogador iraniano depois de comemorar golo?",
+          "link": "https://observador.pt/factchecks/fact-check-eua-deportam-jogador-iraniano-depois-de-comemorar-golo-no-mundial-de-2026/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Irão e EUA vão encontrar-se nos próximos dias em Doha",
+          "link": "https://observador.pt/programas/a-guerra-traduzida/irao-e-eua-vao-encontrar-se-nos-proximos-dias-em-doha/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Irão confirma primeira reunião sobre Ormuz",
+          "link": "https://observador.pt/2026/06/29/autoridades-iranianas-confirmam-primeira-reuniao-da-comissao-conjunta-sobre-ormuz/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Irão. Jogador exibe mochila em homenagem a crianças mortas?",
+          "link": "https://observador.pt/factchecks/fact-check-jogador-do-irao-exibe-durante-jogo-do-mundial-uma-mochila-em-homenagem-as-criancas-mortas-numa-escola/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Irão e EUA aceitam suspender ataques, mas Teerão nega reuniões marcadas para esta semana - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2hQN1hOS2ExcVRRLW5iRFpfSmVtLTlyUnQ4eUJhT3hjOXMwYzZzLW15MWwyVllYQndpYmtzQkl0anpMaVgzVVFsUkpBb2NuMm1DSVFsNkhtV3dFdXk2b1ZtZWtVd0FZMTU1V1NNdFRFT2IzcDQ0NFRuYUpaUjRCaVFDUHBjTUxuRXgyTjkwQk1ObzZZa3BCV0hRLXFkNEIzYUprVUR5ZWJTZXNuUTdNRjktTmlHb1U?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ Teerão nega que haja reuniões com EUA marcadas para esta semana ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/teerao-nega-que-haja-reunioes-com-eua-marcadas-para-esta-semana",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Donald Trump deixa ameaça: Irão \"pode deixar de existir\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOXpkX1RicWNCVWkxS2xBMzdvdk8wM2F1T0ZwR0lnbWlYMHJhV3k4YlY5RU9jTGxJTE9zTk5NdVo4N1BnWHQ1WlZxcVp6U3Q4S2FLNUUyVEJoSVdjMzctbVdKYkdnVktDcDRrOVpaV1FhN0oyZXBOb1pVVWh1cTczNi0wZXQxenBEYXdSeEloc1dMS1Y5VGtsWDNWQWNhSmg2eG5DMFpueVRmeEZPUDViNE5vQjBLa0NOWlNZZnRhbHhjUGEtbldB?oc=5",
+          "outlet": "SIC Notícias"
+        },
         {
           "date": "2026-06-28",
           "title": "Irão acusa os Estados Unidos de violarem de novo o acordo de paz - Expresso",
@@ -852,7 +975,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "id": "livre",
@@ -922,6 +1045,61 @@
       "lastSeen": "2026-06-26"
     },
     {
+      "id": "lufthansa",
+      "label": "Lufthansa",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-29"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Lufthansa lança primeira pedra da fábrica de manutenção da Feira e diz-se pronta para assumir já a gestão da TAP - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQnlSNnJQWElmWVhSYWotSWhzNV9FSzZjbTZhTElnR3p6Q2VmYS1ubmp6NFlyRjc4LTNmS3dVOENKYnNvNVU0X1JkendGUm9mWHI5SzBueFdQTnkxWlh5VnRHMWlSSDM2X056QVdPQ1JqSGFHTTFETUR0TUYwWFRlektRMVgtNGg4cFJ3ZkJaZjFKMmJQMHR3U2xYM08yc1N1YnFDZzFtdmVtS3dfREZQdkpRaFl3TnpFX1FGb2RFX3lsVlpYQUVMV1c4ZmtPdEEyeVZCY2x5bE12OVR3NmdfYUtVNEcxQ0JpQXJ2b2lISEcxWmpIRDJfY25RaUc1WmtCOUVlOE9mdjdCNjZIQmc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Lufthansa: \"Somos o melhor parceiro para a TAP\"",
+          "link": "https://observador.pt/2026/06/29/lufthansa-aposta-em-santa-maria-da-feira-de-olhos-na-tap-somos-o-melhor-parceiro-mas-vamos-respeitar-a-escolha-do-governo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "CEO do grupo Lufthansa garante que TAP é “parceiro ideal” para expansão para a América Latina - Dinheiro Vivo",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXNVOFBXTVNZUTZsTEpTeFFWV3NseW5ZRDY4UWlEcHg5aS1UMUpsUFdpSmsxWkY3VHpDQUl1N1IwSDVsYzF4NnVKaERray0xSnhqTmZud3NfSWVob3hGYTBfNjJxMWpJaW9sOXVJaGtFMEZSR2FDT3QzaHdrTkxmMFNUY1c3ZV94dm1ENjNONmdJYkNyTXFUWndhMWZ0N2kxaFBEb29fWV9iZ1ptUVRKQmpsTUVfQl9xaFJ4YkY5OA?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ Montenegro elogia resposta rápida a proposta de investimento da Lufthansa  ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/montenegro-elogia-resposta-rapida-a-proposta-de-investimento-da-lufthansa",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "CEO da Lufthansa garante estar “pronto para assumir a gestão da TAP já hoje”",
+          "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/ceo-da-lufthansa-garante-estar-pronto-para-assumir-a-gestao-da-tap-ja-hoje",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Lufthansa estaria “pronta para assumir gestão da TAP já hoje”. “Interesse é muito forte”, garante CEO",
+          "link": "https://eco.sapo.pt/2026/06/29/lufthansa-estaria-pronta-para-assumir-gestao-da-tap-ja-hoje-interesse-e-muito-forte-garante-ceo/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Montenegro acredita que abertura da Lufthansa Technik vai “fortalecer” relação",
+          "link": "https://jornaleconomico.sapo.pt/noticias/montenegro-acredita-que-abertura-da-lufthansa-technik-vai-fortalecer-relacao/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
       "id": "mundial",
       "label": "Mundial",
       "group": "press",
@@ -931,9 +1109,82 @@
         "2026-06-25",
         "2026-06-26",
         "2026-06-27",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-29"
       ],
       "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Diogo Costa e Renato Veiga são as figuras do empate com a Colômbia - Público",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlBPSUFBTmhGSVBXX29tSjJrRGFtVlhzU2lLNVdXMk53LXlfSlE2ZDBacVFENzhhNlZDcC16MnNIMENfLUJxNml2R1lsVmo4NkN6X2Z0Q2VKeEVxVFNub1ZQMVZvYUFOSDd5QVJ1c21mMkIyUzdfVGI4TTlZWExoNUJ5aVdlVXdoeUFyOG5GRkRsa0RZZmtoR3NhNHQzbnJvZVdUM21ZU29Va19n?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Velhos heróis, feitos históricos e águias moribundas na 3.ª jornada - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1ZINlo3UmtPOGlmMHlrUU45RnpzSmQySFRRZjM1dUF2ZUF2U0Z6MXc0Q1VuaDNOZk16SW9mbXFnMldwX2R4U2dUckkzOU0zNURtTVRzemlIOENrN1NkRUkzcmdRMHVKMjZfdjdQOElPRTdkbmNxamxFYTFydzhrZGE1eV9rb0x6LS1HUEYxSDA4eVR2MlpFd0gwNXhwZjB4bEI4TFMyeUhyU085S0xaOA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Quando joga um português, perdem pelo menos dois ou três - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOSHVVYkVtUEJhbTI4VVZhRGdweDdjQnBzNEhPZlFEeVo5amVoLVpESmRsZ3U4czhtYjJGY2JTcnhXb09vay13YjVCNEFZZ1FUZXZBVHdJMDQ3WHFwcWJXODJnbnF0cDlNUWJ0M3dBbjdDdnNBVS15QTl2aHkzdk8wUWMyckltNzJtZGpDZ2NVdkVpU0gwYnR2NEtXbklOOGotR2pBZ04tSC1ScENZZkdfSVBmandGSGxwMDFPYWN5U3NEanAzajAydnVyTGZyVzJIOFhTS2x0V1E0S3l6ZkFIalBmRFFjbGtxemZvRjk3VzNKMFpxVXRtczNLTWhmZUxHRWVGY3N2V2N6WUd6SGVtUnJ4cGk0UDdyUlFfajlQaFpuZHZOOThpWjFTeTV5SXVHZTlBT2RvbVlwbENjdHp5WjhpMkFRaEU4Wmo0T29pNTJOZG10ZkhmdXFMMzU5eXpIaVRFRk1OTmU5ZzBLNnc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Portugal procura redenção frente à Croácia, após fase de grupos sem brilho - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmtmOEZkVmJxUmlidGc0ckZZS0hEc2ZHN2Z4Qk9XcjZyRnBoTzJsQkdGNmhTbk1MX1FaaHVnZmY1alNzX1ZPUzZYSE50QW16T2hrS2I3MXdpSnBiNVUzZlJSNFhfOGdUUWwzR2ZNMHFNZVBtRkFJUVQ3dE1vNnM5M1lzeXV2aXRvaF9KcnBNNm9wZGM4N2RRN2Fn?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Ideia de jogo não vai ao encontro da qualidade dos jogadores - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGpZS19ZX2VUb1RrcHlqWWZGcHhnQ1lydWJiX3BXYU5wclRtSk1jcUR0VG1kam9oN25Bd2hBUDZ6UDdwVG5ybWRBb2JmdENIdnNWYVc2TVFNZjk0WTAtcG9DNFNpS3lUVFpiTDgxMXdqc1V4QnlSWFpTM0ZRMnFsTnltWThWN2hFMVRlWnNzTVRNRUl6OVE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ Correio da Manhã Rádio faz relato do jogo Brasil-Japão do Mundial 2026 ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/correio-da-manha-radio-faz-relato-do-jogo-brasil-japao-do-mundial-2026",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Mundial2026. Fase de grupos teve 4,6 milhões de adeptos em 72 jogos",
+          "link": "https://www.rtp.pt/noticias/mundial-2026/mundial2026-fase-de-grupos-teve-46-milhoes-de-adeptos-em-72-jogos_d1750192",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Jogo de Portugal com Colômbia foi o programa mais visto de sábado na TV portuguesa",
+          "link": "https://www.rtp.pt/noticias/selecao-nacional/jogo-de-portugal-com-colombia-foi-o-programa-mais-visto-de-sabado-na-tv-portuguesa_d1750185",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Diário do Mundial - É preciso respeitar Colômbia",
+          "link": "https://www.rtp.pt/noticias/noticiario-desporto/diario-do-mundial-e-preciso-respeitar-colombia_a1_1750175",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Do entusiasmo à desilusão: adeptos portugueses nos EUA sofreram com empate - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRk01cmpmQlNGRTJ6aENqcmxKRU1icEt0bjlScF92VWMteG01bWptdHJzRmxPU3JWY1U5dFRfTWc5UDhQWXpxQ1JDUE9kMWo2alkwaXdYVHdsUEZkUUFSeS1XdzE2cXpSUUxlMG15bUJTX3RwTGg3OW5UTGZOSTRHX1J3aURnSzFVS1pMOC1RZjdKVHpyem9oMC1ET2JyTTV6REVKMzhSZlduOEZBcmxsdnVIdDZIbHp1YVAyV253OEk5TnB0aUNwV0ZmRmtUVEFScTBHVDIzUjlWOUxrNzY1SFl6d1NRVEMyTFRlTQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Fórum TSF: ainda podemos sonhar com um bom Mundial? - TSF",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSG12R1ZlTHpFaGF0cVZFY3dZMS0wZ1BfM0dUYURCeFdxcm16Qk1vaFBmakptU3hYU0R3ODdENGVFSk5IcE1tNThtSzg0Z0pQTzQxYkxvaVNnY3ZhZm1FUXN4YXZlTDI0V3cyUW9rRVhaaXZPVFFBdTd3UlkxT1hQZkctaE5nMFNLTzE3WDZCaU8tSWRadnlWZQ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "\"Ele ama o Benfica.\" Pais de Sidny Cabral têm \"pena\" da saída do cabo-verdiano, mas estão \"muito felizes\" pelo Mundial - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS0M5WjNpU09yTWVudFJGSDlLNHU5TzNLOW5oLTh4OUpURWpVMWhMMlVxdDdXUlUtdGxrSUR3dFpPNEFGTlZqN2FtM2lzbkFzZDBRYUd6eFRTTzlmQUNNNTY4QXBadG9iNzVvRnJoRXRFME8yYjV3QnBSUEFYWFFVcVlTamE2VHVVSmFfZXVhWXlmNU5xMWxNLWU0Nlg5RGRHLXdaVkN4VURiXzU4bFdHQTR0eDZJekZCdmxkNTI4a1JpUG1ranhLVDUzeUlIV2hBV1lRTXVRQ2FtQQ?oc=5",
+          "outlet": "TSF"
+        },
         {
           "date": "2026-06-28",
           "title": "A Colômbia levou o café, Portugal levou o sono - Público",
@@ -1242,7 +1493,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "id": "neonazis",
@@ -1274,6 +1525,91 @@
       ],
       "firstSeen": "2026-06-24",
       "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "politica",
+      "label": "Política",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-29"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Ventura avisa que aproximação dos partidos do Governo ao PS “tem consequências” - Público",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNzZzd3NLb25kYUlNaW9jcEphVk11S3gzTHNaU1l0WEFJRml6anVDcmFDLWRzTEtINmF0VmpvNEM4bDE1a0RxemlibkdIMDZPTHRGREpnM3UxTFZZVWZZdVJpRVh4eWxKV2lOcHNtRVNCSTZuUzBQdkFxWjZabkpzTWdrMENPZlBfanhQSS1LU2czTTJHUVBpQU1qenJZTE0tNXZoRGZHXzdQVTdNbm5vaFcxTnZ2anVyNVE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Ventura avisa que aproximação dos partidos do Governo ao PS \"tem consequências\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeFJ1NFJwdUxJc2c2c3NMSmYwT0FwbC1YMzc5MWloV3RzM09pckdMaUZLa0w5aXNEWm5td24xTkUyTElERURkVnRUeElMcU0yWUxVOWYzSnpTMmRGLXFINkt2TDRhNWZycTVlcUI3V0ZIMDFiUkNwNFd4U2JjdUhBOC16YkFSelVtdkw5cVBWUkpOb09MeGdLdjNMRzEyS0JUMjQtNG5NZEFja0FqYnpNbFlraTZwa1NZQjQ5UDlkS1FYV25x?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Carneiro tem \"expectativa\" numa \"inversão de marcha\" de Montenegro - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlp3NXNLZXBON2pnY1VzazZXMURtX3d2LUdJa0c3M0RVZERjVzczcFVmZld0WlpPQzZsd0lESW5lbzdXUURvTDJ3VUhrT3A1bG45THZ3Nlc5bGx1YW93ZkJpUmlCODdxS25UUkppTW9ScFV3aU9GeURIMVNBVWN6TVZReE1NNHJOVXlfbDB1TGszV0RHZnY0c0NwZGF0Zl82Wm1kdE9Ga2xPRzRJRDBabV9fcFp1MENrNmwwcmpB?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "13h. PSD quer que José Luís Carneiro responda na Assembleia",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-13h-2370/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Oposições internas acusam liderança bicéfala do Livre de não cumprir estatutos - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnZvQkVsV081RWhwZWZ3ZmpYUFQ5dmZBTWFYbndOeXk1U2o3c1VxZkF0NjI5bi1lVkZGTTllZUZPMzhkMHVhREI5ZW1ibTRWaG9RMFlOX2k3UE1pVy1Zc0x2bE5GbUN5dGI0TlczYjRvZWdBOXBfWEh4ajZ6WVpuN2o1TGxOdmlLWGE4MlVZWTZVeWFMa3djVVRTYmQ0VGtwSTdJeVJUdUw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Ventura avisa que aproximação dos partidos do Governo ao PS “tem consequências” - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUC16WDNjSklYUldfb3ZfcEdJMGxKaGVyUmZ4d2U3bVJEbFFYeU15dTE0TGtvbXRBWHYzRThVWXFteGQySms0VHBIQUhSd2xPVHNpNGN2MUdCbjg1eWhCY3J4b3lzN0JZcC1jdGZ0Qmlpd3J2SWZpYk1Gd2s1d2JBcTFEWmY0cU5lSF9tTUUydFBuajIySmx2UmZtQVE5YURIR1pCX0xpX0Q5dw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Deputados do Chega derrotados nas eleições para as distritais do Porto, Setúbal e Faro - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUkJ6RlZ4bUdoN2tBVWxSeHROOTFUcDE0WjExWENGMlAtRkwydmQ4Y0VxZEJ6Q0htYjZOWjlISjg5SlFCRkNxaEVQZ1FzbTQzQ0k3a0xOazV3SkdUTzBqN3c3MG9GeDJvQTByd1d3T2s0RnpJZ05ieWhweHZCUnhXRlg0WEs0dVJfeHRUUGVZaVVDb2dpLWJyRjMtdmpVOWt6OHdQaWNVT2hoRVZidW9LQ19EaWo?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "\"PS é um parceiro do Governo a contragosto\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdDJadHZabmV0VnJGTkJsRGRKd0d2UlZpRWV0TDMtb3NLVU9JRldrMUdqRHVUdllXOHlIYU92QzR3NkZ2bDVFZTI5c281MEFacHlJVXFEdHducFF0MDg1dllnVW81Tm8wRDBrVWRQWFBBUFpreXBhNl9zaEZ2dnpmeW54bDVUVkE3N3JmWGtYOWNOVmt1a3owc1MzemdNZGUxeWlBVVRybnBKVmdyN2ZDcE5B?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Chega ou PS: quem é o parceiro do Governo? - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTMzSUVNYS1zcUtNRl9wdExYSm9kbjdRVjVVVi13cXJSTDZEb0Y0Mng1RF8yZHUtLUxjNmN0cVNOa3l1ejIybFQyRzAxM3dTa0xSa2RhV1JaTk5ZX0ktM2VxeHBhMEJTcXRxUGp6aUxDZmlFcFZtSEFLSzNBUVo5NUpBVXRCSnJQeFBwdUVUa2V4NEx2NXZOb1AtZWJObTJpNlNvdXBnR3pmM2FnWFduanpSMnE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "José Luís Carneiro reivindica vitória do PS ao travar contrarreforma laboral e Prestação Social Única - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOM1RDeElTX2pzRUhpYXJqSWM3c1RIVmZERDh0T2pBS0cwV1k2UnR3MTJTTmNuRHNNZFo2ZzJfTEtPMk5uSXJiS05kSjR6Zi12ZFF2UlFkS3QtWHJLNTlVWFc4WlJuUVpqU3dzb0xnd1Y5V29FN0dvUWEwZDItZHczSjlpWVJ0Y2Y5UzlIOEo3LUdNRE9fdUsyVnBPN29UbHpmMHhQWEh4VEVwcGJoSi1BMWZnd3gwQmFhZUhFNDNKb2hESEFqU0x4WUlwdGNSRldxV2lDaEI0TWdSNnU1VXkzOXNmUQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Montenegro garante que “Portugal está a construir um modelo de baixos impostos”",
+          "link": "https://eco.sapo.pt/2026/06/29/montenegro-garante-que-portugal-esta-a-construir-um-modelo-de-baixos-impostos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Viabilizar Orçamento do Estado para 2027? Carneiro recusa “ponto de fuga” para o Governo",
+          "link": "https://eco.sapo.pt/2026/06/29/viabilizar-orcamento-do-estado-para-2027-carneiro-recusa-ponto-de-fuga-para-o-governo/",
+          "outlet": "ECO"
+        }
+      ],
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
     },
     {
       "id": "prestacao-social",
@@ -1555,9 +1891,82 @@
         "2026-06-25",
         "2026-06-26",
         "2026-06-27",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-29"
       ],
       "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Pai e filho resgatados com vida quatro dias após os sismos na Venezuela - Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjFIWGV6TVlQM0VpSWpIcmtnWEpmWHNHdmJERWpxN1BvZXAxVW84MHZlcERoUGVYdUtfX0dPTVpST1JLa1RvN2JJUFVvNDBPNk03TVlSQlhNaDJSeTBuanNhWk1DdUdpcDZ5UEh4Zm9iOENReFNSWlRNSTJHbnk5TGtpUkVWSlU2T3RXME5zZkFYTm1iQUZkRWcxTnQ5eHBuUHh0djhqYXNnX3BVNlBkMXVpeXNrZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Sismos na Venezuela: número de portugueses e lusodescendentes mortos sobe para 53 - Público",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLTJ2YnpsSXIzai1neC1aMms4bUFNSWlPdUR6djNkNm1uWkZEeTBkU2ZkMGtnc2RkOFlURnZMbjRWMFVKVVlsempQQmFybTA5YmVGOWtldlNrd2ZsckZMZ050bUNidnMwOVJ1dlFIN1p2elRINUtPbl9JYVZsOGFLZUo1QVJMR3o3ZTRETkkyM3haSlhYS3VjcnlJT2REWDR2bG1wSXViOVJTWUR1cjNyWVFqU2FhMXZGOV92VjNYd2Y3SXkzX2c?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Números que ainda trazem esperança aos venezuelanos abalados pelos sismos: 33 e 2741 | Sismos na Venezuela - Público",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM055WnNLV0pCc1RYbFg2czlZMmlPSk9oU2R4dTJDVHhnOFVXZ1J6YVQ1amF5LWx3djdaWC1BaTRJUmw5bUpuSXpZeVRjbWxvb2tieUkzN254SFByaUI5dVlBbVRIY3pKLWdxcEdMdWxFdnhhQWp6SGdiUGU5NFAwZEk0LUZIeFU3ZDBYSzlmeThZZHpBR2dURXQtVHZRUlUxaGZMaUdnVllBa0dTemJrVGk2Y3ZyN3FQSVZqRUhCYw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Venezuela. Terramoto expõe fragilidade do chavismo? — Debate",
+          "link": "https://observador.pt/programas/contra-corrente/venezuela-terramoto-expoe-fragilidade-do-chavismo-debate/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Venezuela. Nova atualização eleva número de mortos para 1450 - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVpvQ2Fsd0tqel84WUZCcU50cE5hV0ItM1FpaVdrTmNNcERYdTBkMXBvc0Z2VmNya2poQnE0c0E2ZmYwSk5FM2F3cW5WSzc2Q1c4bjFUUi0tUFNDQ2tZRDBOckNDclVGS0x0UHpvZ3AzOUtmOWdLNk5IbTY0LWVSZWJqRnV1Slp6MFhIT1JDV3VOUQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Novo balanço indica 89 portugueses desaparecidos e 53 mortos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVjBpdzRtbnVrbEVkUU1iX0VXcVhnOHRZVWN2TVlyd0x3N1UtWlBYWTdzdV9Yd0FhcERYUnMtOHhwdE1rN3lfU0pKR014M1kxTk5mM24xNmtFbHVuLWFqX2FBdnFtVGJLc2ZqZ3NTWTAzMEZBbGJfck9zaFEycWZUY21zaVBMTVRiZzVMOC1uUk54RVBXX29Yel8wQldrZFpQSV9EN1RrS3E1QQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Mulher de futebolista venezuelano morreu a salvar filha bebé durante terramotos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNThPaFVfdEhfalY4RjlUU2l1NlZtNV8wXzdITGEyMFN5cmIwcF9IM01KY3FIS0pFZExIdWIzR3NBMGFCTzlkaGJoSm9tOHBxT0NjNHByZ0NzTHZpZWlSQjhmWFcwV2ppUkJXRTNVWFNvZ29DSWl6dnM1QTBTR0c2RlI5SkgzR0pTZVBKSEJad3VJOHVqUzZJMEtWakszVGRUZW54RW9vVElJWWVZVEN6dW5Fb3dFbDRtUFRLZXVB?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Sobe para 89 o número de portugueses desaparecidos na Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzJndk94QUZjdExBWkJJR2NjOU0yUzZUZ3NFWEs2RTh0Rl9lSjBaTkhPbkdGc1J2Z2ZoUlRGMnozYXphbUoydmVrS1NBOWRQck5kTXFuZU9jQ1FmQVdleC1JOWZJd2dPY1pidGlpc2tQWS1xUndjSkRxU3d1Rnpqc05MRi1mTExGd0wzYktpUmRMZXpHVDNrSTZR?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Pai e filho resgatados com vida dos escombros na Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTVU4ZGxwNGw0cVdhWlczLWl6SE5xSm1KOXJNNW9yZmFqRW5ZWUwxdmw3VTNfSElFeFFlWFpHUko2VGg2ZXJYeXBtWkIzcjRRcXFGbnR2TTJaTjlsOEozT0tXNTJ4eG81M0hLR19xRmlhZk5QMEo1UkZMVTRNT2NCdUQyeks2WGkwNUZTaFlHc3pSbXM?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ Sebastião Bugalho diz que em breve estará pronta equipa portuguesa de ajuda humanitária para a Venezuela  ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/sebastiao-bugalho-diz-que-em-breve-estara-pronta-equipa-portuguesa-de-ajuda-humanitaria-para-a-venezuela",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ \"Muito problemático\": Tânia Laranjo no local onde ocorreu nova réplica de sismo com magnitude de 4.6 na Venezuela ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/muito-problematico-tania-laranjo-no-local-onde-ocorreu-nova-replica-de-sismo-com-magnitude-de-4-6-na-venezuela",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "<![CDATA[ 17 portugueses vão ser repatriados da Venezuela e devem chegar esta terça-feira ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/sismos-na-venezuela/detalhe/17-portugueses-vao-ser-repatriados-da-venezuela-e-devem-chegar-esta-terca-feira",
+          "outlet": "Correio da Manhã"
+        },
         {
           "date": "2026-06-28",
           "title": "Terramoto de magnitude 6,1 atingiu o Afeganistão e o Paquistão - Público",
@@ -1860,7 +2269,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "id": "tarifas",
@@ -1959,6 +2368,73 @@
       ],
       "firstSeen": "2026-06-27",
       "lastSeen": "2026-06-27"
+    },
+    {
+      "id": "ucrania",
+      "label": "Ucrânia",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-29"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-29",
+          "title": "Ucrânia ataca duas refinarias de petróleo na Rússia - Público",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTlfcmdyV0ZhelM1dTNvUVJwcVY1VXFFay1sWC1xTkxMbS1xS1NwbHBOcnRvenI4UXRUaWlWTXFfZDhGNnZYRjl1NEFhejhYVkVtbmhsWHlhNWxaeHJBVVUyaU5ZdmI4bWxtVzl0Tkl4cmh3STJybElSY1pqOHB6NkZudWRkTUJ3dDcxVmNWTVpYa2RMRk5qVUNXdDFmbzZKWHVj?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "A seis meses da proibição de importação, Portugal volta a receber gás da Rússia - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRTRELU5hRF9DWnJtZFJ4MnVua0VuNThFbWNGZTZmUFo4RmxtajlDbXlka2pLRFhuWFNQcEd4WDY5X0F2MjR3aW13R2hZMjhTdTZ5NWFGVmxpaGltSU5pWktWUHYzYjBXRkNhUW5IUXNKeEkzQTh6MnkyUXd5ZHBSeWtvRmRIcUNvbmJGNDVHZUs2WjhuMUJDVTZKUWppZXFKcE94cGRaRl96VTM3MGdMU2xiVGJ4ZjV5UzFUSzNLMFd2MGVQd0UtZGlMRHFxZmJYeWQ0SVpPUGQ3Z09DYjkwdDJiYTk3Z0doVmc3WXlFNA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Ucrânia: Putin reconhece \"certa escassez\" de combustível devido a ataques de Kiev - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDZjbzNNSGNsSElib2RhQmhoUzc5TERyU25kUjh1YXE2OFhYUTFfNlZZQml1UkotMGxMYlNBSnI1ekVMNEtYdHVvcWtsRVV5bGRyOW1EZURqaEMybVR1SWlHMGFkVGFfazJTVVlwT3VqaEM4NmppaERkbUc5aVlCWVM1Q1E3Q2lPd3Vwa0pVWU1ZN3NnZ0d2YUowVEIwa1kwb0VpRzU5eVJySlNWemhqSGVfaUdfQm0wQ3hXZ2tMVFF6b3FCQk1WVUhnd2djQQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Um morto em ataque ucraniano a refinaria e dois feridos em ataque russo a Kiev - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTlTdlBSRVpLY2dBanpKWUtXeE5TeC1VOURDUzdWTkg5b0t5em1USVI2d2kxbkFZYmFmOG9SNjZvZU9hMHhjdk5HWml3SzJEV1oxYXAxQ05qcDZhLXhYSEtjb3d2LW02NEwta0pERkNXNUY5V1JEQ2pPbDlUY2plT05zclBDcTFWNDU5YXBmNVpNSUJWY1pmR1B6RWYzaFE4YzBpdjlobnlKcDFUSjBkUTVkaVVUbnQ0Qmc?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "“É preciso usar armas nucleares sobre Kiev”: o milionário russo que ninguém quer ouvir mas todos devem temer - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUzZ3QU52YXV5VEdUOXhlRExib0RteFN0REJ4OVNYY1h6ZU14V25ySmc2cnpxUThoUlFfTDI1UjJjdVpVX3hLQ0tmUm55S1BoZEJzX3U3MTZ6ZUR0ZUdSMVVWTGhfUFEzMTBqUmdoS0RzOHZpZjJCdkVhQXpfbXllSE1xMHg4TFdvRktNd2lwcEJWTVlxMlBjcHBNUWI0U1M1TEUzVnhHYzVBT3l3RHprVmlGc28tOGJHNzh1NUo0ZGRsT2FCeE40eVBIbVBiaXoxa09KZndud1JESUxSalFBNGF3SGJLZjhyZnhLR2ZaLXNPWHlsS2V1YXlSX3RqQQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "A paciência dos russos parece estar a chegar ao fim - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2lMSHFERGNMc0g5bHdpcHNGNUhhRkRnYm9WdTE4SGxXendTci1DRnc1bS1RcDc1Q0pWeG1XNE9kaGU2cmJYZGZJZ2IydEJIVjQ3ZUF6Yk5yNmRDZV9qdmxSLThTbzVIVXZPRUgwdlgtcE1WUnlCVFJKQWZ0X1lpRkxsdEctYTJnWWhfZ05MUGRRZDA1b0lrUmhBcFdCSm9pZnJNckY5ZzVELVhDZmJZZG9n?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Putin admite voltar a sentar-se à mesa das negociações com os EUA",
+          "link": "https://www.jornaldenegocios.pt/economia/europa/invasao-da-ucrania/detalhe/putin-admite-voltar-a-sentar-se-a-mesa-das-negociacoes-com-os-estados-unidos",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Ucrânia. Ataques com drones provocam escassez de combustível e expõem fragilidade da Rússia",
+          "link": "https://eco.sapo.pt/2026/06/29/ucrania-ataques-com-drones-provocam-escassez-de-combustivel-e-expoem-fragilidade-da-russia/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-29",
+          "title": "Rússia acusa Ucrânia de facilitar tráfico de droga da América Latina para a Europa através de Odessa",
+          "link": "https://sol.iol.pt/internacional/noticias/russia-acusa-ucrania-de-facilitar-trafico-de-droga-da-america-latina-para-a-europa-atraves-de-odessa/20260629/6a4261110cf27cac6fcf678f",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
     }
   ]
 }

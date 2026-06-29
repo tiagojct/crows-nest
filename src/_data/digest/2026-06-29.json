@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-29",
+  "meta": {
+    "generatedAt": "2026-06-29T12:40:41.706Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "lufthansa",
+        "label": "Lufthansa"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "educacao",
+        "label": "Educação"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destacou os sismos na Venezuela, as tensões entre Irão e EUA, a política nacional com Ventura, e a participação portuguesa no Mundial de futebol."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso focou-se na política nacional, com Ventura e Carneiro, no conflito na Ucrânia, e no investimento da Lufthansa na TAP."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador cobriu a crise na Venezuela, as negociações entre Irão e EUA, a política portuguesa, e o Mundial de futebol."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O DN deu ênfase aos sismos na Venezuela, às movimentações políticas entre PS e PSD, à Lufthansa e TAP, e ao Mundial."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O JN destacou os sismos na Venezuela, a onda de calor, o conflito na Ucrânia, e o desempenho de Portugal no Mundial."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O CM noticiou os sismos na Venezuela com histórias de resgate, o calor, as tensões com o Irão, e o Mundial."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias acompanhou de perto os sismos na Venezuela, o Mundial, e as operações de resgate."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC noticiou os sismos na Venezuela, a política nacional, as ameaças de Trump ao Irão, o conflito na Ucrânia, e o Mundial."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF abordou os sismos na Venezuela, a onda de calor, e o Mundial de futebol."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios focou-se na economia, com destaque para a Lufthansa, o conflito na Ucrânia, e a política orçamental."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto destacou as negociações Irão-EUA, o repatriamento de portugueses da Venezuela, e o investimento da Lufthansa."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO cobriu a política económica, o conflito na Ucrânia, a Lufthansa, e o abandono escolar."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico deu destaque à Lufthansa e à política de imigração."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticiou os sismos na Venezuela, a Ucrânia, as falhas nos exames nacionais, e o Mundial."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado destacou os sismos na Venezuela, o Mundial, a política, e o abandono escolar."
+      }
+    ]
+  }
+}
