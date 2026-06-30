@@ -1,0 +1,121 @@
+{
+  "date": "2026-06-30",
+  "meta": {
+    "generatedAt": "2026-06-30T11:16:33.749Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "socrates",
+        "label": "Sócrates"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "inflacao",
+        "label": "Inflação"
+      },
+      {
+        "id": "irs",
+        "label": "IRS"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "imigracao",
+        "label": "Imigração"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca a condenação do Estado a indemnizar José Sócrates, a explosão no Mónaco, os sismos na Venezuela, o Mundial 2026, o fim do prazo do IRS, e a onda de calor."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso noticia o ataque a tiro na Alemanha, a escravidão de portugueses em Espanha, o encerramento de um alojamento turístico no Alentejo, e a crise política na Europa."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador reporta a vitória de Sócrates na condenação do Estado, a reação alemã ao Mundial, a subida da inflação para 3,2%, e a explosão no Mónaco."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O DN cobre os sismos na Venezuela com a chegada de portugueses repatriados, a vitória do Brasil no Mundial, o perigo máximo de incêndio com temperaturas de 43 graus, e o apelo do PSD para ouvir ex-ministros sobre imigração."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O JN aborda a escravidão de portugueses em Espanha, a onda de calor, a estimativa da NASA sobre edifícios danificados na Venezuela, e os prognósticos do Mundial."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O CM dá conta da chegada de cidadãos da Venezuela, da condenação do Estado no caso Sócrates, da detenção por fogo florestal, e da taxa de inflação em 3,2%."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP noticia o recurso do MP no caso Sócrates, a tecnologia lusa nos sismos da Venezuela, a onda de calor com temperaturas até 43 graus, e o prazo de entrega do IRS."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC foca a condenação do Estado a Sócrates, os sismos na Venezuela com desaparecidos e resgates, o acompanhamento do Mundial, e a polémica sobre a imigração."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF reporta o aumento de mortos portugueses na Venezuela, a vaga de calor na Europa, a escravidão em Espanha, e as declarações da seleção nacional antes do jogo com a Croácia."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Negócios destaca o recurso do MP no caso Sócrates, a inflação em 3,2%, o número de mortos lusodescendentes na Venezuela, e a reestruturação da TAP."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto noticia detenções por incêndio, a imigração ilegal, a inflação, e as previsões para o Mundial 2026."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO aborda a decisão do MP no caso Sócrates, a inflação com descida dos combustíveis, a regularização de imigrantes em Espanha, e os danos do sismo na Venezuela."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O JE reporta a inflação em 3,2%, a subida da Euribor, o aumento de transferências para paraísos fiscais, e o papel da imigração no crescimento económico."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticia o regresso de portugueses da Venezuela, a condenação do Estado no caso Sócrates, o feriado no Paraguai pelo Mundial, e a onda de calor com risco de afogamentos."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado destaca os mortos lusodescendentes na Venezuela, a regularização de imigrantes em Espanha, o apuramento do Brasil no Mundial, e o prazo para limpeza de terrenos."
+      }
+    ]
+  }
+}

@@ -143,9 +143,52 @@
         "2026-06-25",
         "2026-06-26",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ],
       "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Europa em alerta vermelho, por causa do “assassino silencioso” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3RHRHhsbzU0cEtqTDRiWHZhcHZBX21lb1IxeVZwQVNsMW9qRER6ZV9RZ1o2UTRWLTFSS3dfMldjWXlSSEU3LU5fQ0dTQVVyQmFhY1BpQm9ZZ2JuYVBURHpaWDMyRFhDdFFyMktySDZkdUs2aXA2LXR6ci1fa3RUNzNKTnVBWnNMNmo0ckF2bmJrMnRCNTlHRG1pNTVuemcwQUtXTHZIdUlvU1dRNDhXVW5PX2NLZHlnR1JabGs0NGpnMDJk?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Mais pausas, sombra e água: DGS lança guia com medidas para proteger trabalhadores do calor extremo - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV213RjNXUF93TE1ubFNHTkRqeXhUNDdSOXh2V056b3BPanlmdXNhM0lZMWVyX2R3QXZZUmMwcUxnQ2hzMHh3ZDRoWEQwWEw2QzYtUGJZUG1id19nSTF4YWNBS08wXzM2eDFPS3lfVVRLS3lJOVJHYldFd2lsY05PSDJkaUdBU1ZfYlBpUVhhc3F3ZVZLeV9OTXE1S1BMbnRJV0Y1T2NOSFk4a1Z4ZUdZSnZlWjl5TlUxM3g4NmUzSXk?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Portugal aguarda a maior onda de calor de sempre - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNm0zRGNEVE44MzBIdklKeTM5SEZrdl9pNHc1MnhaQ0s4dVR6R2hpZlZ1TGViMkd0VlI5ZnlydWh3NGs1Z0RZT2lwQWZ2TkRiRUp6ZXR2Z3FnVzhTR3VDN1NhZDJxTUxkWkxVa3VkQnhxcW1UTWMyQTdYRExuOXotN2R5S1cwVTZqQUJEcHp4eWxybUNuUUE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "IPMA. Termómetros sobem aos 43º a partir de amanhã",
+          "link": "https://www.rtp.pt/noticias/pais/ipma-termometros-sobem-aos-43o-a-partir-de-amanha_v1750377",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Nadadores salvadores alertam para aumento do risco de afogamento nos próximos dias",
+          "link": "https://www.rtp.pt/noticias/pais/nadadores-salvadores-alertam-para-aumento-do-risco-de-afogamento-nos-proximos-dias_n1750385",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Ocupação das funerárias subiu 66% em França. Vaga de calor avança para leste, com Ucrânia em risco - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT2M4VkJlVEF6anhHRm4zMmdxbWk4Vlk2MUl4UFJuT0ptbU5qUWJqS0MyNjhoUUR0cGJaVGlxQ3dyaUpKa1BlRHJsMG82eTk3N25mWGtHcGRjbTJuclVYNkcwejNYbEd5T0lxNk42d05BbURTSlNwWDljLVhmUWJNdmc4OUFzLWNyX2JIeENGNnJScHFOTVN0b3NvbXZsSENTVmJYV3BFb1d4OEZvZEZjeXhXTkJ5d3lUVlBsejRSclhRNVhpRVVCUDhhaUR5M1hXV3c?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Este calor insustentável ]]>",
+          "link": "https://www.sabado.pt/opiniao/convidados/paula-cordeiro/detalhe/este-calor-insustentavel",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-29",
           "title": "Semana de calor começa com oito concelhos em perigo máximo de incêndio - Público",
@@ -316,7 +359,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-06-30"
     },
     {
       "id": "criptoativos",
@@ -775,9 +818,70 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-30"
       ],
       "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Dois portugueses viveram como escravos em Espanha durante décadas. O mais velho foi \"transacionado como mercadoria - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZUhCdkg3OF9SblBSTzNuYl9uZjNUeC1FQTJvSHNKODU1OEZuRFZ6WjJ5cHUwcHk2UkFlM3kzMjNIYWdMd0tfTkxFZThQZGhVMzZ3S19ZQU9kcGlwT3ZQY1FxQzd3UU96Wnc3d1lYeVpEZm1qdW9QclhFanZUYndORjMzOU1oV0NubFdmXzJZeGVaVmVSaVc1VkFYczR3b3cwSVFtVnl6a3Q1VTRVNGdVOVczOVBxRU9iYUZHaV9fYVYtRjNpWmg1SXRNbjBCWDB3V3VqZEZNaG5WMjFWWnB5ZUFHaGZTUmJyRkpXdE51WHRiX2M?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Dois homens resgatados após 15 e 30 anos de escravidão: PJ e Guarda Civil desmantelam rede de tráfico de pessoas - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZ1RvYTZUS3Rldngya0dZZWFVQlBONG12SFdoWHI1Ym1QYy1pTVZJWi1ORTZCSVAwZmFabER6M1pNOGRzT1dQLTdvcFZ6MG4tbW56Z2VzTnJXbll6MThzR3k5TU9TSjFLRXF6dENNVXA0R2FqdlFUZ2hGTVEzNmlSTGpGZEZqempET2J6ZUtJbTNDQnhVSzVTZXM4OFo5ZmFtYnZBcndCNHdudi0xZVNTcDZLR21sTmp3V2JzZG0yV0dUNmQyUVIwTjU4V01INlNFSjAtWWxtSWJSWndNdXdVcng0MHdOOUhLS1VKTw?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Itália detém 29 elementos de organização que explorava imigrantes ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/italia-detem-29-elementos-de-organizacao-que-explorava-imigrantes",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Fim do prazo do processo de regularização histórico de imigrantes em Espanha: \"Dói-me que o meu filho fique de fora\"",
+          "link": "https://www.rtp.pt/noticias/mundo/fim-do-prazo-do-processo-de-regularizacao-historico-de-imigrantes-em-espanha-doi-me-que-o-meu-filho-fique-de-fora_n1750389",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Justifica-se chamar antigos ministros do PS ao Parlamento para explicar números da imigração? - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPX2RCT0M4M29pNEEySmN4cVliNEtzTHZGSlZOWXZhZlRHTFZpdmhYNURwekx1NHpHTnBCYkI1TF83b3h6QUdPYjBpVFVxcGcxZ3JxT29nSl9NWFlSeVpLeGFqd1p5d2lDSXJkaGJlalUwcVkwY0Nyb1d0UnkyV096TGdVcGtFUGxtV3ZSM1B6V0NTQlJyQVpfSDY5T0pxczVLdF91amZhZ2d3d3R5THQzM1lpcDlxRThhSlNxbTNZRVdEaG5TUS1NY2w0SzlRaEtpQy1lOWtoeGJ1THBKNzk3T01nTklsNVpFQVBSNGlqV1VKMDllZ3NheDlET1ROUQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Mais de um milhão de imigrantes em Espanha pediu regularização em processo extraordinário",
+          "link": "https://eco.sapo.pt/2026/06/30/mais-de-um-milhao-de-imigrantes-em-espanha-pediram-regularizacao-em-processo-extraordinario/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Imigração de fora da OCDE é motor do crescimento do PIB por trabalhador",
+          "link": "https://jornaleconomico.sapo.pt/noticias/imigracao-de-fora-da-ocde-e-motor-do-crescimento-do-pib-por-trabalhador/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Mais de um milhão de imigrantes em Espanha pediram regularização em processo extraordinário ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/mais-de-um-milhao-de-imigrantes-em-espanha-pediram-regularizacao-em-processo-extraordinario",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "PSD promete ouvir na AR antigos ministros do PS sobre imigrantes - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmt2QlhWMVlXTTZOVjZKRU9WZEQybXJOZks5akxJbnB3a3J1c3oycXBHZ05xdi1oVlM2N3ZDOWZ3LVNqTTV2Zkh5S3ZHbVI1bVROY1RnOFA4VzQzR3d5Sm9YM3VTOTkwdVpYMnRwUFlQUlk4dDA3RFUwamJHREp6M2FzVFU3NGhGa3YxWEJwWjhNSU9iUzJLbWoyT3g?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "PSD quer ouvir ex-ministros do PS sobre dados do INE relativos ao aumento populacional - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQU5RSkhmTnVvTnB1TXBPQ3A2em9CM3RVY1c1Ynk2RkNNcERQVlR6azQ3bFRmTEdVd0JzTG9jRUtxeU5ocGozNG1vc0NLWkd6YURTMEg5cnprR0tGR2xUQ1diOEhsa2pLY0E1dlNFUGRmNlNxSmxiV19xWXlHM3F3WlFBdldNRTNqNTlmaTF3ZXNTWWM1Y1RnUlZyWjlfRU1ROHJPM0ZlUk95QVF2Q0h4NWVFaWVQMTdYQWJwVGQtblRUWktpdW1BcmNB?oc=5",
+          "outlet": "TSF"
+        },
         {
           "date": "2026-06-28",
           "title": "Brasileiros encontram na Espanha o que Portugal lhes dificulta: a regularização - Público",
@@ -810,7 +914,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-30"
     },
     {
       "id": "incendios",
@@ -818,9 +922,70 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-30"
       ],
       "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Máximas chegam aos 43 graus. Interior de Portugal continental em perigo máximo e muito elevado de incêndio - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSE90MnhnQmRLbS1fX3A1THNGc1YwYi1XcGhXN3NxTDBUMmRrVkxuX2w2YmdPSXViQWRPWjZrbzM5c045WTAyX0ZZcjJudWRZWTVRZ3A0d2R0ZFlIU0MxckUtN3d1NmF1YVZlT3l6SEZkYmRpM1VKM2hIek5ZRmdmR1E1dDd4WlpoeTFFdUNoekswNGU3cTdjbEJEWTB2ZGU0UmtmWE5wdVlTVXhoMVJpSF8wYm04U1E0Z0V6a0NoYXVPVW9qTjlKZDZn?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Cinco meses depois de Kristin: \"Não há dinheiro para as casas, quanto mais para limpar terrenos\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd0stSjdKZG5iVlFGZEJmTHB6NWhiTlVtRWV6T094VnhpMExDWF9TMFlvMFJsZE9OUnJzbl9FdjRHVDVYcERabjlYNnl6MTJhOWZMUTNOaE01MjNFVFhWQ2oxSXV2MHV5ZlZ1NnJ0Z09SSFVBejFCV3lpWWtmajJObm1YQTRXa2dydWZiT1dMU3RPWnplWklTXzZIMG1ZWllaV0o4XzdHenpKM1o3eEdUQXFGckVtTk81TUtJeFNiX082VmZ6YjFEaDhlRXBQenFa?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Homem constituído arguido por fogo florestal em Figueira de Castelo Rodrigo ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/homem-constituido-arguido-por-fogo-florestal-em-figueira-de-castelo-rodrigo",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "11h Governo tolerante com os proprietários que não tenham conseguido limpar totalmente os terrenos florestais",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-governo-tolerante-com-os-proprietarios-que-nao-tenham-conseguido-limpar-totalmente-os-terrenos-florestais_a1_1750396",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "10h Governo vai dar tolerância na limpeza dos terrenos",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-governo-vai-dar-tolerancia-na-limpeza-dos-terrenos_a1_1750384",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Fiscalização de terrenos avança em zonas críticas sob alerta de vaga de calor",
+          "link": "https://www.rtp.pt/noticias/pais/fiscalizacao-de-terrenos-avanca-em-zonas-criticas-sob-alerta-de-vaga-de-calor_v1750367",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Incêndios. Interior de Portugal continental em perigo máximo e muito elevado",
+          "link": "https://www.rtp.pt/noticias/pais/incendios-interior-de-portugal-continental-em-perigo-maximo-e-muito-elevado_n1750353",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Prazo para limpar terrenos termina terça-feira. GNR já deteve 122 pessoas por incêndio florestal este ano",
+          "link": "https://sol.iol.pt/sociedade/noticias/prazo-para-limpar-terrenos-termina-terca-feira-gnr-ja-deteve-122-pessoas-por-incendio-florestal-este-ano/20260629/6a42b86a0cf27cac6fcf6825",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Incêndios: Prazo para limpar terrenos termina hoje e proprietários pedem \"tolerância\" às autoridades ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/incendios-prazo-para-limpar-terrenos-termina-hoje-e-proprietarios-pedem-tolerancia-as-autoridades",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Incêndios: Interior de Portugal continental em perigo máximo e muito elevado ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/incendios-interior-de-portugal-continental-em-perigo-maximo-e-muito-elevado",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-24",
           "title": "Ex-presidente da AGIF justifica saída e critica tutela",
@@ -835,7 +1000,56 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-30"
+    },
+    {
+      "id": "inflacao",
+      "label": "Inflação",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-30"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Preços subiram 3,2% em junho",
+          "link": "https://observador.pt/2026/06/30/precos-subiram-32-em-junho-a-um-ritmo-inferior-ao-de-maio/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Taxa de inflação abranda para 3,2% em junho ]]>",
+          "link": "https://www.cmjornal.pt/economia/detalhe/taxa-de-inflacao-abranda-para-3-2-em-junho",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Taxa de inflação abranda para 3,2% em junho",
+          "link": "https://www.rtp.pt/noticias/economia/taxa-de-inflacao-abranda-para-32-em-junho_n1750394",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Inflação abranda para 3,2% em junho. É o primeiro alívio desde o início da guerra no Irão",
+          "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/inflacao-abranda-para-3-2-em-junho-e-o-primeiro-alivio-desde-o-inicio-da-guerra-no-irao",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Descida do preço dos combustíveis desacelera taxa de inflação para 3,2% em junho",
+          "link": "https://eco.sapo.pt/2026/06/30/descida-do-preco-dos-combustiveis-desacelera-taxa-de-inflacao-para-32-em-junho/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Taxa de inflação abranda para 3,2% em junho",
+          "link": "https://jornaleconomico.sapo.pt/noticias/taxa-de-inflacao-abranda-para-32-em-junho/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30"
     },
     {
       "id": "irao",
@@ -978,6 +1192,43 @@
       "lastSeen": "2026-06-29"
     },
     {
+      "id": "irs",
+      "label": "IRS",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-30"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Entrega do IRS termina nesta terça-feira com 6 milhões de declarações já submetidas | Impostos - Público",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQS1QtbVo4bFlwMXh5SDY2RlNiclhMWmw4bG15TVoycFpySXdINFllU19NWUdKbk45ZEVObTlpRjNQc2JaWFBIa1NabHhINldpVFhxZGxqNGFIZEdzeGoyZDVFMTBBSDFiRi1xWEJIWXE1UFRMSXNWdWFYMGNLRkdMNkVTRDgzNXoxUklWZ28taGpYRkVNMS0zUW9YN05OdDlPT0gzenE0UFBCLTJmT3VFSE5uLWRWeld5cE5ZNnJXaHRfR01Ld2VZ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Prazo para entrega do IRS termina esta terça-feira",
+          "link": "https://www.rtp.pt/noticias/economia/prazo-para-entrega-do-irs-termina-esta-terca-feira_n1750366",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "IRS 2025: prazo para entregar declaração às finanças termina esta terça-feira",
+          "link": "https://sol.iol.pt/economia/noticias/irs-2025-termina-hoje-o-prazo-para-entregar-declaracao-as-financas/20260630/6a4380560cf21fcd83776c51",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Entrega do IRS termina hoje com 6 milhões de declarações já submetidas ]]>",
+          "link": "https://www.sabado.pt/dinheiro/detalhe/entrega-do-irs-termina-hoje-com-6-milhoes-de-declaracoes-ja-submetidas",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30"
+    },
+    {
       "id": "livre",
       "label": "Livre",
       "group": "press",
@@ -1110,9 +1361,82 @@
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ],
       "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "O Japão só durou meio jogo, o Brasil durou até ao fim - Público",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVXdDOW5kaGN0LXJuR3FHSzRnX2JuNTVYUGd6cEdRRjNOM0E5cTBKSnVYdHlhNzFfU2dBVjk2Q0dyb1RhU0g3eEFMRUp6aXl5QVB4cFpLb0ZNYmdYTnNxeFcwaHJ4U1lFOXJ4T21qWks3bUdKZnFicXVYdUswb0RpVk5DM1NHcHFETkFYd3hrUUNRN0R0cEpubzktNU1OcnRURmhEVHJxdllCeklrT1RlQnl3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Paraguai elimina Alemanha nos penáltis e está nos “oitavos” do Mundial | Mundial 2026 - Público",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSi12SUJhbk5LN0cxd1BtLU1KRDRnLS0xZ2FWbFdZWVdvc2UwNU1lQXlaUFBkZ2pOZDFQTHptUFVwcFN6S3NOVWxlQ0N4bUdJYk0zUDExRk1fN01MRE55TjYtOHMyVUFBRjhtbWZMY0hFUGhzV3JtcVlzOWVUWi1IazZ0c1BCNW9udFU4WUJDdTQwMnV2X29YY1BEOUN6V3NQU3EtNE9kWVRGY204TWc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "O maior Mundial de sempre já fixou e bateu recordes - Público",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHkxTVVIUW5nRk1qZ0J2YmZwa01YWUdGZHFDUzZBclhaYmh3UkNncS1peWtucHd3aVNiZDNTM1lkSkVGZ0FMNnNoU0tRVnl4Y1VnS0ZRekZrVkpQdVE0cFRPZmoyemRtX0wwaUZlaXB1ZWJjZVU3QVpDZHdBaTNHQzQtdkFUTkZzcy11amlvZDZFVk9HYVlCOWhIYnE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Caneira: com Scolari “estávamos preparados para tudo, para o ballet, para a batalha e para o ringue” - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWmtpLTFjMVVEamZIeXJDQ0VlSjJKbWJPUnhLcnpCaURCMGRWa21BUHZHNTVLS1ROcnJGRW5qeERPN2RKQU9TRHNpSHdocFFRdFBhVzM4RUdUUzJzak1YSVJSNWdDZ2U1Sk5VQzVrZVprUm0tcWJ4bUJPcGJPZ3Z6QVFaNGRGMUxqMWRrTzBfb0lORGtzQkI4T1htMTVNNFpTZ2lxb1lldkJkUGRLWG5taTdVX0pTRWNr?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Imprensa alemã reage: \"A Alemanha já não é a Alemanha\"",
+          "link": "https://observador.pt/2026/06/30/imprensa-alema-reage-a-desastre-contra-o-paraguai-a-alemanha-ja-nao-e-a-alemanha/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Dia 20 do Mundial 2026. França e Noruega entram em campo",
+          "link": "https://observador.pt/liveblogs/dia-20-do-mundial-2026-franca-e-noruega-entram-em-campo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Presidente do Paraguai festeja vitória à Alemanha com palavrão nas redes sociais e decreta feriado nacional - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb1lWT2JoWjEyUC1LUUFkNVBrOFVwRlFLbmpib3NRU3Y4d1ZOSVpSc1ZieVNlbWhOOTZqVm1BVUdCdHhQX0ZtSURPRk52OGpXSmlPODVIQ3V2NWJMYUN2WlY5OE5KM0VISThvbjRNaHljTFY5b1JselI0OWFBbUxhWXVCTXhNaE5pQWtBX214M1RYcUhwQlRUWjQ2R0ZiTTdFbE5ndGE0aVpzM0JEM2Q1cHVLN0hjLUZGZXVNOS1PYmg4TUlmN09wdFJR?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "No sufoco, Brasil vence o Japão e avança no Mundial - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkV4RldDcTFwSGQxY0dvcHNpa1BuZVhJWG1tT1gxbDQxdmg2MlRyaG5nS1lxd2J1QjZGak9lS3V6X0JTUm5zQjBRNjZlRkUtZk9CbWtCZFFCaWVSQ3FiMFVmYnY3ejB4eHh1RlJDRkU0U1pNY01ueE1ZUU9KSFVtYVpKYlY4dw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Prognóstico Brasil vs Japão: análise ao duelo dos oitavos de final - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRUVsbE9kTGdQQXF2NFd6SGc3RFBXcXYyOUM4S3Jpc2hmSU83ZVJzdjVCb19JNF93bUtYQVdHOXpGZTlwZVJNRDlyYXdEbktWNHpxSFFVZXBuQkhVR0RaZU15RlpPc1hlU0Z4WUF6OWxNQlowLTlDcVB1MWl4ZEFCWU0zZ3M1WGcyU2YzYzcyeWhBUTBTN3FpcXdqLXNNZTZqZ2c?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ \"Portuguesas ficam honradas por serem representadas por elas\": Teresa Guilherme sobre gémeas que 'pararam' o Mundial 2026 ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/portuguesas-ficam-honradas-por-serem-representadas-por-elas-teresa-guilherme-sobre-gemeas-que-pararam-o-mundial-2026",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Mundial 2026: acompanhe o Brasil-Japão - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmxoSkFnQm96elVPTlFRUjFDM3dNa3piZXRvamo4dktpQkZ5bFMzek9vZHV2NnJ6UEs4MVd4UEFIUzM5Z3FDYnZEU1VrVEFVOGdsVlkyRHUtX2RhY2plT1Z6TGtUcmIyZ0xvNlpEUVhaaVNqMFp6dWh3cm5PbjZlRHlrXzVhZE1kcFhXbjlsYzA2ZXJxODhuSk9LNUx4bGlacG5TUTR5TjI0aThvN29CVi1B?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "\"Boi do Texas\" tenta a sorte como adivinho do futebol - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaTNMZ3BSY0NzTTViTjM0cnRzM0N6ZE1FVWdSMC1SQlpSNTdZWGx6R3ZyU1hCaThibWRnZVNMNkdoUTNkWXIyYlNWMEdESG5Oelg1aUt1a3NRamFHYl9EdWdmUW9FSVVfcFlxVEVVRVpDek5JZE0tTWpHVVE2UnhURTNaUElqSXFaT3FVQWw0QndWQUJkM3FULTJ2YUdtSEs3OGJEUm90amRVLWN6b0xNQ0N0X3dBdmxCeEJrNUViZ09NRGFuYzdFSQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
         {
           "date": "2026-06-29",
           "title": "Diogo Costa e Renato Veiga são as figuras do empate com a Colômbia - Público",
@@ -1493,7 +1817,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-06-30"
     },
     {
       "id": "neonazis",
@@ -1892,9 +2216,76 @@
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ],
       "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Sismos na Venezuela. Primeiros portugueses chegaram esta madrugada a Figo Maduro - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3JwOWhaa21CaVRLU0JOYzZMUmFFSGpKa0h1MWk0WnhTbEo4b0dWTmZZVXpGSGFZVVQ5MlVUejVaNUFwOURsYVVlMTVwa29wSFprbTJtcWlkWGFmUDlTaF8xZ1Mzc1pjVU5nV2J1aDBSNTZNeW12d0ZJSDl4eTNrUTZkWHE1UjFxLUVib21hWHZCLWlUTVdFejR6VThBX2wxRmFXQS1hRTNvaW9lX0h5YXNZZzN2R1FUZ1lRampfLXE?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "NASA estima que quase 59 mil edifícios foram afetados por sismos na Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOW9tWHZqVnZvOUxHQkw3RFVWTHkyWVpPSTBtSmxldFhlRUZuU2hXWFVnWE5LQ1kxTDVmVGtDYjNEb0F0UThpV2ZoSGJEWEx3ZWliVllYaTVaQk45dHV0NUdURnJoMTlKYkhZRUs4VHVOSG9rckRUNUV6cXhWa2xUNTFqanFJUHR5QmluWXQ2Sng2ZU5WLTViaVZLTUsyS01ENXN4TXdSeHNpbEpmbjdWdFp4bnc3Yzls?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Nova réplica de sismo atinge Venezuela - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmxQcUhkajJxRlY5SDB1aEdQX2thV25IX1NhQlJkZmNPbzNhbllSUkxqWEtjTTR0ZTk0UVc0TGFMa3BBd0tMRUo1YXU0MW93RUhBR2dfLWt4VkdoMTk3bVhTUklZRnhpWkM1OHE4V2VvUm1DVFZPNzlwTDJPLTkyajNnT1o?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ Sorrisos e abraços: 17 cidadãos e um animal de estimação vindos da Venezuela chegam a Lisboa  ]]>",
+          "link": "https://www.cmjornal.pt/multimedia/fotogalerias/detalhe/sorrisos-e-abracos-17-cidadaos-e-um-animal-de-estimacao-vindos-da-venezuela-chegam-a-lisboa",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Sismos Venezuela. Tecnologia lusa deteta batimentos cardíacos sob escombros",
+          "link": "https://www.rtp.pt/noticias/mundo/sismos-venezuela-tecnologia-lusa-deteta-batimentos-cardiacos-sob-escombros_v1750386",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Portugal garante apoio à reconstrução da Venezuela",
+          "link": "https://www.rtp.pt/noticias/mundo/portugal-garante-apoio-a-reconstrucao-da-venezuela_v1750371",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "08h Quase 60 mil edifícios destruídos na Venezuela",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-quase-60-mil-edificios-destruidos-na-venezuela_a1_1750364",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "15 minutos: Venezuela volta a tremer com sismo - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU3Znb0RmaXZuTk1zMTBnMEJUUWR2V3NqZUxPdlBQcXZEX3h5YlM4S0tyTkJyZ1BfYTlWdHNmeWwwQVdUajFQX2EtNjd6M3doVE43VEp1MVZtb2dBZThsaTlvcmpFQU03c3RvUGtiNTNva05zRFVNelcxNzdZNmVsNDRZeFNUUng1Mzg4UEM1YmItdHpvTElYZ0dzS0VTV1lVaUtEczdRV3BhQUJnQzZMNFhIX3dfT0lKTEtXVE8yUWFmREdPUjRuaHBZalV5RHJXUkM5bFpfdnNhSm11WFl2aloyZHdpS2toWnZYWTlOdUExU0pRLXhkVURIcGFEMVVkczEwS09wT2lWZw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Quem vai pagar a reconstrução da Venezuela? A fatura já ascende a milhares de milhões de euros - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUnV3WXY2Uk44N2t6UldmUFBoSnFWVmxaV3JhMzVaRHRKYTJKVnIyQzBGT2JXZjJSRllrbEkxTkRRZko3V2Q4NkNiZkhCSkFPQ1JNekN3RDVfelJWaFk4eHk2ZGVZY012S1RueDJPUVFWaDl4RXNqSU5kVEFRM29MU1M3amxGRE9qZmtzV3BmRFNCc1B6cUllcUplSE1Ia2R5TV9ralVuZG9pLUdaSlFfNzIzTlZ5X3YyUE1pTDdtaEh6QnhhU1VaMEZtdW53ZWJpX0tJME5ZNjdaWWRwM05GeFVjVG41SXVGbm5lMVFwdTNKMW42WGlqM1lXMUhzRS1ScGIxNklRUlNESW1RcVFBb0VqckdrNlU?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Vídeo mostra explosões e destruição no metro de Caracas após sismos na Venezuela? A SIC Verifica - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT05IU2F6TnNLVlNUcm5RbDlETmxqMHNfVWV1TUxPbEZFcTctd1dfNEF6ZlY4ZURtSTk4RnBwdUs5Qm9TTkZ1OXRQdUNJSVNKanRyXzQ1dXQ4Ukc5V1k1dzlueVM1TWs3VzJTQ2ZkcUIyWlBIREhpdV9HdktydnJCVGdHalZtZUpwWk8wRUdIVVA2UWJ3TFNSSG10cllhXzlJS21jc01zUjFpTkxSd1VPaWw0RmZpWWNKWGFMSDdZTjFiSGl2LTVxZWpkNkVaTlJUNFE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Repórter da SIC impedido de mostrar operações no terreno em Caracas - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNLWI5TW5pZm9oVkxiUnhZSjFMNlNTTDBfaHJ2V2RKWVJ6WFNkWEx6X1lLUUc1cVpJRm9pclM1RWxxYTMzU3pCa2tHWWhHT3EtZ3p1S2llU1pIVWJHekpuVlNDMDVZYUlQSU1YM0NGR3R5Ykt4MUc2akN6MG1LdFVaRmlaZy05cDN4WlNxNzhQeWZweUtnbnVGRkd4NTV4X0JBRzg0cS1BQjUtalU5WEhvMlpqc2E3Mm5tTk42MUp1MFV6MjJFbFQtbkdqUE1TUnhZX20zQnQzWFpRM05yTHBkQTI5Z2t3WkVwQURuREgySFh5LWo1M2hDdndIYTU1ZDY3dlFKU1BUUDMxUUt4NXotbjE4cFZaNTI5Z2phVVVQVGN6YzRoVlQ4RllzRktjbVV2anVDaGR4V2tiazRvRUJ1RFJXbUZzNTQ4cHo5ZjBlVHBkMGczSW1PRGExR1ljemdtUVNmQXhxOEpUbEt6Q0ZyVEVXYkRaS21hUC1aOFQ3Z1V2d0k1c09qalhLQVNYd0psYU1jOUtOalVzVDlXY1dQUHd6M1VsTXJnU05WazFrWXIwdEJNZmlicXN6TW5pY0RYUmdBMlNIMkZuUUJja29PS20yM0Jrc09aSHc?oc=5",
+          "outlet": "SIC Notícias"
+        },
         {
           "date": "2026-06-29",
           "title": "Pai e filho resgatados com vida quatro dias após os sismos na Venezuela - Público",
@@ -2269,7 +2660,80 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-06-30"
+    },
+    {
+      "id": "socrates",
+      "label": "Sócrates",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-06-30"
+      ],
+      "articles": [
+        {
+          "date": "2026-06-30",
+          "title": "Operação Marquês: Estado condenado a pagar 15 mil euros a José Sócrates | Justiça - Público",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1JTQUpMSkx3SUhzalM4QUlmUWxpRkZwQVlNR3hPQi1jck5CUjVYZUtFd0FsdmtEeFhiR2UyNmlBT2M5WVduSlBuWkt2alJJbkpBNVpmNzNLSXl5ZWxBODQwS1JnYWI2eVFQZUJGaDRaWDZ6YXVJbGlWRTlGMTJxb1FHU2VBTkExc1BJQXZ3U1dRck53eVVOT3VDc3FDUjBWYURjWnVYUFJzLUMxb3UyMUtueGszRVEwalRweU5DVGlHT1JN?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Sócrates celebra vitória \"histórica\", mas MP vai recorrer",
+          "link": "https://observador.pt/2026/06/30/estado-cometeu-um-crime-jose-socrates-celebra-vitoria-historica-mas-ministerio-publico-vai-recorrer-da-decisao/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Sócrates vai ficar rico à custa dos contribuintes?",
+          "link": "https://observador.pt/programas/e-o-vencedor-e/socrates-vai-ficar-rico-a-custa-dos-contribuintes/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "<![CDATA[ MP vai recorrer da condenação do Estado a pagar 15 mil euros a Sócrates  ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/mp-vai-recorrer-da-condenacao-do-estado-a-pagar-15-mil-euros-a-socrates",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Ministério Público vai recorrer da condenação do Estado a indemnizar José Sócrates",
+          "link": "https://www.rtp.pt/noticias/pais/nao-apagar-ministerio-publico-vai-recorrer-da-condenacao-do-estado-a-indemnizar-jose-socrates_n1750401",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "\"Sentença histórica\". Sócrates louva condenação do Estado e lamenta tentativa de \"assassinato de carácter\"",
+          "link": "https://www.rtp.pt/noticias/pais/sentenca-historica-socrates-louva-condenacao-do-estado-e-lamenta-tentativa-de-assassinato-de-caracter_n1750397",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Operação Marquês: Estado condenado a indemnizar Sócrates em 15 mil euros por violação do segredo de justiça - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYkEtajJHRW1hY2RVWmNwTTV2d1NDWjRiMjZXQ2xyZWlibzF1b0U1TUdfYnF1T29DZjhRTUxUZXhnMUJXTlJuRUZEQkxaaUd1dU5PX1FyeWR3NHlYSzhhN1pIR0kxVkJwRFFaaGVySnFMNjZBRGhKbWNwcnJQX3F6eGQxTWtjTzcxR2F5d0U5NFJHel9vQWtmYUtYOExYTm1vVUltY255bUlGWFc4NTF6SUZZRW1XQUtaQlhzLWJsTlMwNXBjOUg3STFfcmNzenB2TDFjUGU0dkQ5UC1DQnFNdXkzcGpPS244YXQ5aXRvbEVCR1J3eU92aDVuRXRUVzJVYS1DOW9qQQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "MP vai recorrer da condenação do Estado a pagar 15 mil euros a Sócrates",
+          "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/mp-vai-recorrer-da-condenacao-do-estado-a-pagar-15-mil-euros-a-socrates",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Ministério Público vai recorrer da condenação do Estado a pagar 15 mil euros a Sócrates",
+          "link": "https://eco.sapo.pt/2026/06/30/ministerio-publico-vai-recorrer-da-condenacao-do-estado-a-pagar-15-mil-euros-a-socrates/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-06-30",
+          "title": "Tribunal reconhece violação do segredo de justiça e condena Estado a indemnizar José Sócrates em 15 mil euros",
+          "link": "https://sol.iol.pt/sociedade/noticias/tribunal-reconhece-violacao-do-segredo-de-justica-e-condena-estado-a-indemnizar-jose-socrates-em-15-mil-euros/20260630/6a43726f0cf27cac6fcf686e",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-06-30",
+      "lastSeen": "2026-06-30"
     },
     {
       "id": "tarifas",
