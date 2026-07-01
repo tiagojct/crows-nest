@@ -144,9 +144,64 @@
         "2026-06-26",
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "Novo recorde do calor oceânico anuncia “nova fase” do risco climático - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVzk3RVFyZDY5SXpZUXZya0d5OUtEMTFGU1JVbTl6azBLdnZNVnY3TF82Q1lNR0xuX0g3OXE1endWdmh2WnpVN1Y2WUJwZlFvTGdZS1lJMnlLQTA1V21hdjV0cnZBbjlqczhLWDJKc21LRXQyM3VQcTZsM2hXSUEzckU4UUFDVEtJUjMwUVRFWkF2bUl6VV9aZmUyODREOEt2Mzl6anFXLXdjQVhBY2pBS3RFMktZRTQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Calor extremo coloca Governo em prontidão para decretar situação de alerta - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMlZZVWtBQXk0eGxYM1BjVFJ5eUNUQzdFN3hNZHVJRHF5ckM2c0VPRVZfLW9ucTUxcFIyMUhSSk0yeTZJVkFGRVRwSFloLVFFakFVS2FuSUNTTThBYkt0aUdubmpvMzJlempoTzlIQ2MyaF91QkRaZlVQVGhlSy16TlV5WlRjS3YtQ1RpX2lHYlBZVVJmcW1Wak5yS2Y4cC12ZkJXZE1JaXBfSUhuUHR5dHA4bmdmQWh5YmUtWC03WDZZZw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Sexta onda de calor do ano está a entrar em todo o território e deverá durar mais de uma semana. Nem o litoral escapa - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQendmYXQ5bFJpdXVLQU51Z0pCVnBTbldtakVuWktaVTA1TDRkVVhZeUZOTWV5a3haUTZhOUNNRV9wT0dnVFZzbW9XQjF3WnVablFIQVhGcFRGdFI4cjRpdThpSG95aHlwOGs2U09HY3dJM2VhZ0ZZakdQLTU0ajd2T21UVU9ncktpaTQta0N5OVlkUm5tTWdyd24wY2RySTdKa0FaNWJiRmFhTzczSGRsdG1aN2lIWm5mdnkyNUNPaXF3NFN2UFBhay1MR0loVTdnc2JnRjM5TlcwU2dZR0x3d2JmNHZ4VDBWV2VySF84NmYwOXBZeGw3amtTdklyeTA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Esperam-se 41 graus em Évora. 60 concelhos em perigo máximo de incêndio e estão em risco muito elevado mais de 100 - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONURPQ3Z0YXp0bHR5dTBXZ2hmRTdrb1dGQkoxUmdZMnBkMHBzVXJPVk5zY0VreFgxaldKQjNPSnAwT1NjUXBEemR6Vnh5ZWZDYjJ4OC1tRDA5UmRRY0poQUI3eWlWbHpJUDBneDk0aUh0czNESi1BZF81TUFMV3dHVFh1akdCdjMzN1JfWnV4ZWY0ckNSQW9FYXhrUVVuYkYzLVp2c1JoRVo5SnBmMThZNUFNb3Zsb19oV2k2UEFUSWN5eHJzZURwdjkwclpWMThUdnRZ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Onda de calor. Governo quer um abrigo temporário por município",
+          "link": "https://www.rtp.pt/noticias/pais/onda-de-calor-governo-quer-um-abrigo-temporario-por-municipio_n1750610",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Governo apresenta \"plano antecipado\" contra onda de calor que afetará o país a partir desta semana ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/governo-apresenta-plano-antecipado-contra-onda-de-calor-que-afetara-o-pais-a-partir-desta-semana",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Lisboa e outros três distritos sob aviso vermelho devido ao calor - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkZZTExsdVlIdkhwZGl5eF91d3JYcEJ4dlBiV2J4dDBONGg1R2s3bWxNcXphTWFXTEV0dE81bUxhZldEU04yMkFReWpWUTliVF9BQkw0Umt0czVGUGd6YUU2aUc0NVpBQXlUTTF3NXVITk1EMHhmcGU0RnJ5TFRObDNBOTExNjNmOUx1MjNmdkQxSTc4V0hoM1NTOEJHSHExcC05RTNZMTUtWkZ6bTMwcy1teDNMUGppWXhyQzFB?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Onda de calor com temperaturas superiores a 40 graus e noites tropicais: há vários avisos para todo o país - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNa0pVRk1OWUwtQThmNkQxbzF6Q0NveHR2ZVpLZkt6ZDZhdEtFYTJCN3MzSVFNZmdpanh4NXgwRGM5X3JFWEVWZ1Z0elB0RmVUVF9sYWJKRGNMWlh6YklLQm9yVmdnd1dwZ3FDRjh6VW9ub0tEbFV1bjk0bHk0akxQS3VQQWxlazFocjgyb1JtbWc2NC0ySnhGdW9wWjEwZmh5bHVsS0w1aDQ1a0pEWXQxUXVLYmRuRy1YbFMtdGRXSUdVQnRWdFY0dXM2WjRNMUptN19UNGFCSjFYcTFoeHhyWGo3YVU?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Aviso vermelho para Lisboa e Setúbal a partir de quinta-feira",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/aviso-vermelho-para-lisboa-e-setubal-a-partir-de-quinta-feira",
+          "outlet": "Jornal de Negócios"
+        },
         {
           "date": "2026-06-30",
           "title": "Europa em alerta vermelho, por causa do “assassino silencioso” - Expresso",
@@ -359,7 +414,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "id": "criptoativos",
@@ -541,15 +596,143 @@
       "lastSeen": "2026-06-27"
     },
     {
+      "id": "economia",
+      "label": "Economia",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-01"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "Acordo no Médio Oriente não trava subida da prestação nos créditos a rever em Julho - Público",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0I3UDRDQXJkUVhzM2FEZ215Ym5lZXY5X3hFUXRLR044UXhCOEswaDV4RzFETERIMWtHMkpTa0VnZGVGMEJERzE4aXZGOWZFNm1WOUNJa0pXQ2k1MVV3cW5yWHQyeC0zVVM2X2d2X1ZEVzVFS01PU2FzY01FWGFQWXBlNE5fNnQ0OGt2OXRyWVpJSnNMQm1UVUNiQWtKSTIxMjlFSXpfOEVvSFIxTTFZdV9TTzIwTE1lSFB0WlZDMllHTnI4N2c?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Lançada primeira pedra da fábrica de comboios que será suportada pela CP - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWGZHVnhIak45b01jZTN1aGFZV3BfNVc2SkhiS1ZwOWNlTUh4dXVTdXFBeGtrT3BWMlQ2MTJBMW1YSDRfSjFzNjFNeGcwNHJQdTdkR1E0VUluV1RhazZpdHBGRHEzUmZDdVlRZWlNNk0zRWlBb09teTYyTW16T096XzdyUkQxSE4wdWdzT3NTRjZwN215YklHLTZsdmhRZmdhVEdrUVhZUUpnU3VXazFIR2NTclVGRFU?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Compra na Shein ou na Temu? Taxa de três euros entra hoje em vigor - Público",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0tDZl8tNUhILXU0amZaV0VaTm9KUDRzUVllckxPbTVzYVdyNnBQb2RyUEtGYXRWU2FBQjFQWF9Rckl6eFMtODNtR0hkeXlITlV0YnRmZjhWT2k3WEh5b0RnNms2TkNfZ2lzLWt5aXc0X19WMHA3VHl5SFRUa0VLRjZFd0ZWQ045bVFIYXVCYlItNjlKa2ZRMzdOMTZmc2RJZGx1Q09rWkhqNW1sa3c?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Taxa de desemprego recua para 5,5% em maio",
+          "link": "https://observador.pt/2026/07/01/taxa-de-desemprego-recua-para-55-em-maio/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Em São Francisco, já nem os salários anuais de 180 mil dólares das tecnológicas são suficientes - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbkRVMFp3TzQyQTExUlRIWl84TllUWFFRWEFCZEZFLUxaaGF0ek80endEVENKclphN0U5VnctdTVnMnNHcnVyd25UT3JXVTVMYkt4U3FtcnJRcVJYUUF2MTM1cThiZ0NGMHNXOW03U2k1ak13bDNPN3h5akIxamV5NzNxNWsxRWVTNE5pTzhwOWNiZGF4ekt3RncwZGZ0Zjl1LUxwNzFNWXdxVU9nTG14SjhPTWdqSFdXVmw4UGlKbFlYcktfeUZYbDZqaGdteXRQdnI0czY1VFd1Y1h0T3c?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Economistas criticam \"lentidão\" do INE e pedem \"urgência\" na revisão dos dados: Orçamento para 2027 pode ficar comprometido - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUUlpZ0NIZVVVelFWNXVRRmdKdkgzYXlBeC1xdVYyZlg4NUhfVW1ZQl9Gd1pLV3pJNHU3bWdMVWV5aXFST0VfNE1vcWxCWjZaOUthOWhVLWJ6TEhJN25SS3ktdHBiRmRGUUxOdWg5UE9FRkxuZnlwTVp0bGFLVU9KcHpGenljWkl4Rk1ac3ZZUC1XZXJnRU9zWjczLUFTT2RjZ1Voal9fOXlmUHdSWmxfaEJNaW5RMmNWVEJERVFCOTdYcDE4aWVUR2R5X2lGOXFmWWhpUnN0NG54U0MzVnhtM0lqMDhUaUE2aUI5QmNEcjlGNS0xblBwTVpEbw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "UE começa a aplicar taxa de 3 euros a encomendas de baixo valor vindas de fora - Dinheiro Vivo",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXcyNWhvWEhyUzktc1FBMGtKa3ExbHJ2LXVENy1GWXhmdUMyVV9KWFFrQjl6QW01MVZCb09KRHV6SGM1bFRQdmNDVlhTS3A2ak1OVE5mREVpb1Fibm9ORDRTSkptTFFxLUZNaVllNk1naHBGbC16YVBkYnB0SlVkYnI1d3NaS09RaURjbnhqUXR2dlVLd2dvMDFPQXZaMm11S1dPUGpnRllraDJlcTBnZU9n?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Taxa de desemprego recua para 5,5% em maio",
+          "link": "https://www.rtp.pt/noticias/economia/taxa-de-desemprego-recua-para-55-em-maio_n1750609",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Portugal em 2.º lugar da União Europeia na produção de eletricidade renovável com 82,9% ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/portugal-em-2-lugar-da-uniao-europeia-na-producao-de-eletricidade-renovavel-com-82-9",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Produção industrial cai 2,3% em maio",
+          "link": "https://www.jornaldenegocios.pt/empresas/detalhe/producao-industrial-cai-2-3-em-maio-ine",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Produção industrial contrai em maio com recuo de 9,7% na energia",
+          "link": "https://eco.sapo.pt/2026/07/01/producao-industrial-contrai-em-maio-com-recuo-de-97-na-energia/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Taxa de desemprego recua para 5,5% em maio",
+          "link": "https://jornaleconomico.sapo.pt/noticias/taxa-de-desemprego-recua-para-55-em-maio/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
       "id": "educacao",
       "label": "Educação",
       "group": "press",
       "aliases": [],
       "occurrences": [
         "2026-06-26",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-07-01"
       ],
       "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "Apesar das falhas na classificação dos exames, associações de pais afastam, para já, impacto nos alunos - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOTJCOFBoYm1hNTRMUHA5a1ZQdjZ0TmxRLUNDZzk0YVJFeDZmWFBaRUxCb1VjV3FoSjdmUjhGR2Q3cUhLMGJFbG15eWJ2dXBqdnBFMXN1UVVsSHM4NjJsSUpTdmFGSFFmRkhKc0tkaHNTUXA5LVZqRnZueVk1d2pnMjV4NXUwX29mbkRXSTdLcXdQOWF5dDFPbnMxVEwzT3pfZF9na0RXYUprSHhKUHVNSmN4bnNLeEFsOXUtMENTdUR1V0dxY0xsMHRxSjMyRkQ4YnFV?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Ministro da Educação diz que maioria dos relatos são falsos e garante condições para correção digital dos exames - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMDZrRU91VnRXdVJzeWZxTGtnVl9TMlpBeXk3M0ExaVFVTjBoRmFEN1h5ZzJPR0FmSXpDM0tqRUxlOVJhOExrYUhzSjV4UldHUjBZOU5IeFp5dTg3WlVLUzRqeWpmWTBkMTA1eWxvckM0dTZiaXBDblJLTWpwZmlOTm8zeGFlZTYyVEdGb0dmZElZRWxORmNiTTdiVnFSOXlWejl0bEZ1Y0Jtd1hFS21OQlY1MXpjU0U3V19ESmVsUVk2eGw2cXZSbFhWYm9qUQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Realização da 2.ª fase dos exames nacionais está em risco - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNDM5bmlSdEZ3UFZDLUwzXzZXNXhSbHoyM1cwRHVUOGVLdDdMUUZaQllMU2N0N2JKSThkbmJ2V0tablVjUmEwY0dmc05HWFNydWZvQVlQOVotVTRWbEZvRUl6VjVSWkhicmkxOVp6Vkt1TnV2YUVKanYtRG9hN1lBN0VBekJ2Z2JTcDM3TXhIbTFXbE5YLUhxS1p1Zzl4WW5aNklZa1NDN1pIeENoenJsY2pqQ0ZBVlBKTmlmZ0d1YXZaWE83?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Ministro diz que maioria dos relatos são falsos e garante condições para correção digital ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/ministro-diz-que-maioria-dos-relatos-sao-falsos-e-garante-condicoes-para-correcao-digital",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Confap sem registo de \"queixas efetivas\" diz que problemas na correção dos exames estão a ser resolvidos - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUHNWSTNlTkRpVmVYekRhQVBDbXpFd2dCTnduX3d2TWVBMDcyOUNIMzlwY2puUV9tcXhCRkdULVc1eVZiMnlWMmNKbUJjSFF4ZlNtbWlvaTFud2ZwV0g3NnJfOFdCUmNPWUFPUS1GcHk0aEk0RV9ReE5Bc1NQWThJY3VpcUJSY3lCTk1kZTlFTXFtNHBVUHNmdWVuX0VNdElhRXZNaEJFZDdjVmV5ZEpsV25CYXVTSHFqQmVtSzRWbXE2U1FDZGdMMjdfQ0lzbUxycW5fMnNrbmFqMDVuNjB2Wg?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Prazo para fixação das notas dos exames mantém-se. Governo admitiu correção em papel - TSF",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXJWdVdQQnBqRGtOSzl5aGJoMmNscDlPemRNOERDNVcxR01zeWZlSnJLSVVYbHZKLWJGU1JCeEUtUFVpejQxMmVmTW5JaEpEel9WdXI0ZEZBRnk3TkxWSGh6Y2tHbHJYTG9sd2pCZVE2b24tMW9RdEM1cktnQjVadmpHSkNPbWliZjRQc0NEN3RObEFvTjhkTEt6bWdnT1hKTWpnUkVQVFlvWnFjUmkzMnYyTzA1XzZpU01YT1ZDdEZES20tMnBN?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Ministro promete \"reforço significativo\" das verbas para colégios de ensino especial ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/ministro-promete-reforco-significativo-das-verbas-para-colegios-de-ensino-especial",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-29",
           "title": "“Caos” nos exames: Fenprof diz que é “inaceitável” desresponsabilização do Governo - Público",
@@ -606,7 +789,7 @@
         }
       ],
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-01"
     },
     {
       "id": "exames",
@@ -923,9 +1106,46 @@
       "aliases": [],
       "occurrences": [
         "2026-06-24",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "Incêndio em prédio de dez andares provoca várias mortes",
+          "link": "https://observador.pt/2026/07/01/antuerpia-incendio-em-predio-de-dez-andares-provoca-varios-mortos-e-feridos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Perigo máximo de incêndios em 60 concelhos do interior e muito elevado em mais de 100",
+          "link": "https://www.rtp.pt/noticias/pais/perigo-maximo-de-incendios-em-60-concelhos-do-interior-e-muito-elevado-em-mais-de-100_n1750591",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Detido por causar fogo florestal durante ceifa em Aguiar da Beira ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/detido-por-causar-fogo-florestal-durante-ceifa-em-aguiar-da-beira",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Incêndios: Dispositivo de combate reforçado quando área ardida é já o dobro face a 2025 ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/incendios-dispositivo-de-combate-reforcado-quando-area-ardida-e-ja-o-dobro-face-a-2025",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "\"É preciso termos cuidado\". Proteção Civil preocupada com o número de ignições",
+          "link": "https://www.rtp.pt/noticias/pais/e-preciso-termos-cuidado-protecao-civil-preocupada-com-o-numero-de-ignicoes_n1750605",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Revista de imprensa. Urgências fechadas dão corte no financiamento e mais milionários no país - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHhBZHZmcmxqMHNOZmJxNURLMXg4dThRLXRNc0FyTXBrbjFZV1RkMlk1eldjRGczdTVCTTRNdmlteVpzY3ZHOFJkQzhGWmlhQ1lyZzViYnN0YWtvNkJCSkg2cm03UmVRYnd3MUJleXdMZ1JzOHYzeEQybEs2N05MRmhUN2hNR0d4UFI2MHhJVWpEbVhMOUdzTk5SZjF5bnpKNVR4S1Eyam5JNTlDRjVwWEFwVXBrNnc?oc=5",
+          "outlet": "Diário de Notícias"
+        },
         {
           "date": "2026-06-30",
           "title": "Máximas chegam aos 43 graus. Interior de Portugal continental em perigo máximo e muito elevado de incêndio - Diário de Notícias",
@@ -1000,7 +1220,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "id": "inflacao",
@@ -1362,9 +1582,58 @@
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "A França apresenta-se como o grande candidato a vencer o Mundial. Outra vez - Público",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeWhlazNzcWNXMkFuc09FZWJzTjk1VVJRNzZrNXJ1a3hsdG94UnlzRldyUGsyMEFJcUtESlNGN3E3NzAxUWhzUjJOdzBvMW53Wm8zNllPZnR6WHVmZXlESllKTlo1S3YwZGNEV2lBSTE4UXFtdEpKNDRFRmt1WDVyeUdGeUN4VUwyUlV4bWJ4U2g?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Puma: \"Se Portugal ganhar, teremos planos emocionantes\"",
+          "link": "https://observador.pt/especiais/se-portugal-ganhar-teremos-planos-emocionantes-patrick-obrien-diretor-da-puma-elogia-a-joia-da-coroa/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Como a FPF organiza o apoio à seleção no Mundial2026 à boleia dos adeptos e dos fãs de Ronaldo - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnZkNHFkQTBEemlady1fMXJRTUVDRVRnYWZtQWpYUHo4MzFoSFNtQlh2RDc1QVBPYzdlN01kazk3U0M1NEQ5TkRnUi1QTmhMNHA0cTBtNzl1aEVGWllqb2NKQkFrQVBYb0ZqeGJvaHBqR2pmZEo2Zy15TDBYV1VFSjB4QzZxUXN4UnNiSTl6cS13eWhyY0tLTjJTRlJHN2p2RmwwYWxfUW5FNHcteHdoZk4yMFQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Estes vikings sabem como se faz: Noruega bate Costa do Marfim e segue para os 'oitavos' do Mundial - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTVZjTkhxRDYwVFdYaE80b05xcEZ2UEtFQjRHMTlOTDNXbE9xVV93MmZSZ1Bza2Z4VHN0T09oMjRNUHpyaDNsbTVWMnpJTHN3SHhtNUx4dXFBaHM4LUFFNGlnWHZpWlQ1YWJqVFVtMHFPWTJTbTFBcEVYaEVLbW1GN1pqbTFsMXBfMHVJYkN2WG1jSnZSVUZJVjVkVE1hN05Ya3ktOUp6Y2wwN05kU0xzOWl1UmRBV3RDTTJaRnVLcGRBYW9Mdjg3dkphM3JpMk9scVRBYkZJelhWLXp1bFVsMjNOTjhIdGF5?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Noruega vence Costa do Marfim e vai encontrar o Brasil nos oitavos do Mundial 2026 - TSF",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNelA5UGx3Rms5WkhWeG9ZTm9CX2VLQ1RXbzBSN2hkT0NiQVlIZm44Z09UWE5BM3AxRFB3dVBEVmRRei0wNmFQeEdjdDhRYUI1Mk9hU09xb2dkNGo3YmZEWUNXY0FoV2lnNFE5QktlU2piN2kyaWp3TzFPaDBYV3dObDRIazNaelZGN1FNNkZHZ0hKRlBITGtsNExTT1NsVUpVc0hZTUxWUFhRLUlMOE1haWx6Tk9OREdKeU1Na25LQy1tMUxP?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Cidade do México em festa com vitória sobre o Equador e apuramento para os oitavos de final do Mundial ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/cidade-do-mexico-em-festa-com-vitoria-sobre-o-equador-e-apuramento-para-os-oitavos-de-final-do-mundial",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Quem joga hoje? Os horários e as transmissões dos jogos do Mundial ]]>",
+          "link": "https://www.sabado.pt/desporto/mundial-2026/detalhe/quem-joga-hoje-os-horarios-e-as-transmissoes-dos-jogos-do-mundial",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Momento de aflição no Mundial: defesa dos Países Baixos sofre corte na cabeça e continua em campo",
+          "link": "https://sol.iol.pt/desporto/noticias/momento-de-aflicao-no-mundial-defesa-dos-paises-baixos-sofre-corte-na-cabeca-e-continua-em-campo/20260630/6a43f1c60cf21fcd83776cc0",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-06-30",
           "title": "O Japão só durou meio jogo, o Brasil durou até ao fim - Público",
@@ -1817,7 +2086,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "id": "neonazis",
@@ -1856,9 +2125,82 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-29"
+        "2026-06-29",
+        "2026-07-01"
       ],
       "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "PSD insiste em propostas que arriscam inconstitucionalidade no retorno de imigrantes - Público",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVDJ2LVJubm45d1hBUGFQejdRcDR1dkxfdEpvQlNIWEdacWFZWFJDeVE2cHA4dFZ0ZW1sb3JscDJIek4zOVhkSGw4U3l1OV9Cd3h0RG5KSEloYXlVQnBhT2ZiejgtVlBvUnBYc3JDWXk3cXF5aDdVcGdOOF9LNE5RTW00TDBSX2tSaDZwVDBHMkZQMzNQNU1xeE8xZEJJN2dzQkdySlk0OW9tMU04N3R4d055N1ZNV3JWd1U5aUlScGxaY05nZW9qRnpR?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "O novo “discurso do diabo” é de Mário Centeno | Podcast - Público",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVDZVOHo4VVZ4bWRfdEVLUU54aC1mb09oZVlydW5mRWk4N2EtZ0tyZ2pfM0VES3lrbnpqS3pzeE52aFdiMXFrZ3ltS2VWamh5MzFaaG93SDdLU2lUYjN2UWJjM2RWc2h5YlUxNUt2U0FMbXRvNDczSGpvcllHa0lnMjVuTjhjSU1JVGY1TkdFeVQ5aXBEQ3FB?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "África do Sul: protestos nacionalistas estalam após fim de ultimato a imigrantes - Público",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSG1MVkJ5dHl2V2dDS1Nldm5xcGxHN05vRmV4SVJYSF9LNjhOMGFZSVJRNHRVUVVtSmkwQlh1SkM1cXl0bXRSSmU4RU5GcGljaTlyMHAzd0cxWVFxRzBkN0tRdGFCeVRnU3JQRlRiRnVIOXBJTGtqSk5lekdrWFZETlpWR2ZtQU43VDQwTERlOXhaWWF5NHlQZkxhNW44cVc4SUFJbG1seE9PbWZrTDdncnVGc0hvVDJ5X1poSnNZczJFNDZGb3c?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Aumento populacional: esquerda exige investimento público, PSD quer explicações do PS | População - Público",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeWphQUFxZFhBMFhkcktIQzVrVGFFeXNmT0RIanNIWTVpUVYzelNIZjJhbzlja0ZsQXpWMWs3Qks5RlU2M0NxcG5FZ0ctNHB0SkY2LVhaTmQxQlFWdmVyeUFiaG00MEV6V2ZFNnJVYlhiZFVGMzFHVkhfTmZhdXBHWC12UllSaEhPRHFmWllfRzJnY2Rodlc5Wk5zcGdkUDJCMG43ekM2aDU5TFBYSXcyNGQ5Z3RKODRPV1QxbVdyVW4yaW1yNzVzV1dPVmlxNmQ1Y3dvVEJB?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "PJ detém médica suspeita de facilitar reformas a troco de mil euros - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNmtiVkVCcm9YQkZOcHpPdHczTXpNNzlHN1RiQjJOTWVMRVVnd2h1ZERZX1c0ejduNFZHdTdqSWJiZXFUZ2Q3bVFLQktpT3ZKRTd0SF9MWnFfamtsMXp5Q05KamZiaWlUNkVqelctcVNtUVJrVllvcVRSeFdYTUkzVFdTQUtJQllmT1h1bHZLSTA2dUVKb2llZS1LZlpkbTQ5dkdZMmw2UDIxT0tNT3Q4QjNKcGtRdjhi?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Já não sobra quase ninguém em Kramatorsk, onde “os drones mudaram o equilíbrio da guerra” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVzRaWEVFS2xNV3RnSURLeTF6T0k1YlhDNEJINFYwM2RtbjBmQ1NPSmVWTm5zZVlEZDZpN1RCZEg2THBqeVpmYXloNmpwRGlUWWY1ZU5kaFlVNDhsU2d2LTdCMjFFd3BJRXFUV2NCdkpOVnExQkNwVE9odDZiTzh0SllQd28yUmZhOGNsTjEtV09ZVWF6N1BWVEFRM2k5SWkwWDF1Y1gyaktiRmlKS3ExNU9mMFJjNzRXNmVienZ4bnZCQ3RtdDdLWmFPSzAwcnBIMlgwblFTZFk?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Parlamento vai ouvir com urgência secretária-geral do SSI sobre ameaças da extrema-direita armada - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNT3BWQ3JSYmpOODVRVl9rLTh4dXYycXZpLUtKWC02S3lRVTR1b0RwcXJDWTA5VmxTUkhvZllQdGFEZVl5MldEbS1TQnBYbEZzcW9iaWhuXy1RVkhXRUNSS2QzOFE3TWNiQ0lTSEJmOEtXTmhYaU9DYUk2aTFScGcxeUJnSS1VT2w0c0JUdngyMy1zSTFKT3RZQzc4WUo3bjF1SkJpdTlJYUZGdWsxdU9TMWszR3U1R2E5Tk1zTHRWbU9XTkFPemQzOFRFV1BReEY4N3VJaFpZcGFsWE5odFR3cnB1WUpQSlNZZU0yS0FLdUFfT0pHSnBLMkJBYkVoT0lTelE?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Ministra afasta reforma estrutural da Segurança Social nesta legislatura, mas admite “medidas complementares” - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdXJxZzRBdzItWmFMRDZhbU1WTHlDRy05WkNfQkpCVmJrcHlUVzVqQkRNVTk4SUtNQWlaZnNhNVZWTkJIbmNlQ0U4Y2Z2MjNIY3NMNVJZeFhHVTdHSTUxTFVfb3VmWWYzRkV6QXNWbWNmazI1TzBhUE90c0c4Nk5pdGdOaGRCazhGaEhOYmdCeDdxMXBiOUItaDdhZGhzNHNqZDl4NG1RbFl0SU5lMWZSNzJzVnZ2R2pnNVRzTEFiSGdtcEtlUEo0QzBPazE1MEpsZ0gw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Projeto do PCP para aumentar direitos dos bombeiros chumbado",
+          "link": "https://observador.pt/2026/07/01/projeto-do-pcp-para-aumentar-direitos-dos-bombeiros-chumbado-pelo-psd-com-abstencao-do-ps/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Chega. Dois deputados e vereador disputam liderança em Braga",
+          "link": "https://observador.pt/2026/07/01/dois-deputados-e-um-vereador-disputam-lideranca-da-distrital-de-braga-do-chega/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Raimundo acusa ministra da Saúde de \"crime social\"",
+          "link": "https://observador.pt/2026/07/01/raimundo-acusa-ministra-da-saude-de-crime-social-e-pede-que-deixe-de-arranjar-desculpas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Só nos faltava esta, ter Sócrates a moralizar a Justiça - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOQTY5UE1Rb3o1ZTRsdWhJdTgwaF9TeGhTNERqZ2h3cEtxTG1kQjZYbUdOWXRaaHNudE1SZ1RiWUtpR0EwMjZTdURkemJqMlJ4X2czdmxpd3QyM010VVA1LW9fWldaY0Q0OG1vU1RkQUZmMGdLeXhHZFJ4T3hpRkktdGtWaW5Tc0NrS1BHM3pBZE1TMGlnbllBdFdhY0ZYQjE1QlFzaHM2M01PdXNMZlVGVXNXaGtRZlBNM193N2IyeFNzVUhfM3RkZzJwdXZEWnBWcFVCWkhTYTB0UUpqMTRQeERBb29Zb0pEb0xaM1REMmxZV0dYSmR0Y3BLZWdtc2RkczhNVzlTTlBhZ2k1YVprYTFSY3NMeXpWWXd2NFVZYTFSUFpkUkN3N2lTMjAtX0QwODQwaFVsdFp3c3hFUzAyQzZKcks3SU9fX0pnNnVaeVBIazg2RlJXRFdPQ3BxVTJidEJqalpkQkZWeHlOZGpobTFwR0F6WHcwNHdOMXhLWXoyRE1JUzRNbnlZZmdhMnJyQUdiWjNneVN1WkJMWnc?oc=5",
+          "outlet": "Expresso"
+        },
         {
           "date": "2026-06-29",
           "title": "Ventura avisa que aproximação dos partidos do Governo ao PS “tem consequências” - Público",
@@ -1933,7 +2275,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-01"
     },
     {
       "id": "prestacao-social",
@@ -2779,6 +3121,79 @@
       "lastSeen": "2026-06-25"
     },
     {
+      "id": "tecnologia",
+      "label": "Tecnologia",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-01"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "Cibercriminosos sequestram contas de WhatsApp para espalhar malware entre amigos e colegas - Público",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdkRsV2N4cVVITWlQdlM0UG9UTnR1ZUgwbTRYSFBUZnlVSlhockxabVZpV0xkSGFucFZBSk1EZmgzZkdPR194SGRqS0wwcjF2VzBNSF9NX0c2aFV0TFpTSmZsTEt1bTBiVkpwTjNtUHEzN2hXeXRZV3lGbUM4NWlybE1jMUFLT0JPQzZpQjFaaGN3Ry1BbHRSRThfbFQ3cGJBSHFoYjVBYkdvZFotT1c0ZHQxcEQ0dl9JYURyLWR2UjJjZnQ0M1VPSUJn?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Adolescência da Inteligência Artificial agitou Fórum do BCE em Sintra - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUW4zVWVtQzBWc0RhaUQ4RGVFb0k5cDNWaWwwNVBSQnY1OHdNU3I5TlFHdVhCNW0yeUJ4SHNKazAtSDJpRXhlLXVycjh6Z3ZDZWFWNU1sNE9mWEVKSWlLejB5WHJXSVZyU0FYc3ZiQ2ZZTFJHc3ZtVXhPWXk0RmdpR0lPZGZBV0w0NVFMbTRIRkRSaGNUUURwNUZjbEtjb0ZXemgtZkJkRlhFZGNxTElodVlveFltMUF2OUJwMEhBdWlrdFNucFJZVC1MTGY3SVQtSk8wUWo1Z2ZfU193SjVfQjRWVVl3UWw4bVctanl3?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Donald Trump declarou 1,2 mil milhões de dólares em rendimentos de criptomoedas em 2025 - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXc1a1BoVk9sY0lROGpteDZHU3Jvai00bmdmY2tlRXpZWHFHY3Z1U1J4T2RQQWhVYXAwX2FnTXVIQWJGYVc3c2tEM3h0Y0daOXNEY3pxOW9HbUVndnBZQkhxZ1dMNXp2cWtaUmZfeVFicXVJUGpfOTJrUUN2RXhnZWVETEVCbVNIX0E1NWFwSE9mNE9OVm1NRnFSWmFxRy1PYldYbS1ldDk4dnF5VGZNV2FJTnRBMnBWNnpDNWFoQzRwRmNfNC02LXlZaEY4eWtqVzZHTHpR?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "EUA levantam proibição de exportação de modelos da Anthropic",
+          "link": "https://observador.pt/2026/07/01/eua-suspendem-proibicao-de-exportacao-de-modelos-de-ia-da-anthropic/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "PJ detém suspeitos de fraude de 50 milhões ao Santander",
+          "link": "https://observador.pt/2026/07/01/pj-detem-mais-de-uma-dezena-de-suspeitos-de-fraude-informatica-de-50-milhoes-de-euros-ao-santander/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "IA Amália permite \"soberania da língua, cultura e dados\"",
+          "link": "https://observador.pt/2026/07/01/amalia-o-llm-portugues-e-apresentado-esta-quarta-feira-e-uma-peca-de-ia-que-garante-soberania-da-lingua-cultura-e-dados/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "As encomendas online vão ficar mais caras: saiba como a nova taxa europeia vai funcionar - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWlOUy1fYU5KZEw0VjNiRmR0VTdCcWE4VDI5Mk9GNkY3TUpubHlsSjNtUmZRMEwtTlB5UXdlOFkwbmZLOHZQUER0bU9Gcm40X21qSnAyZXYybjVjR1NVd1U0QnkxdlFmYmpHSW05U0RTN0VHNVV0OUFyQzZJenZISGZxWWhTTXJOaUp2cUp0MWk0bWFOLVNERTlaYVIzNEdTV0c5dzl6eE1LWi1zM21NQXhaRUVEVzlLNElpYzRqY0tOODEtbml3YVBoT19NR0FVVjJqZDl0TUx4eGk5WVE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "<![CDATA[ Chris Brown condenado a pagar 11 milhões de euros após ataque de cão deixar empregada desfigurada ]]>",
+          "link": "https://www.cmjornal.pt/vidas/detalhe/chris-brown-condenado-a-pagar-11-milhoes-de-euros-apos-ataque-de-cao-deixar-empregada-desfigurada",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Novas regras sobre mercado de criptoativos já estão em vigor",
+          "link": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/novas-regras-sobre-mercado-de-criptoativos-ja-estao-em-vigor",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "AdC alerta para “risco iminente” de prescrição de 19 processos com multas de 880 milhões",
+          "link": "https://eco.sapo.pt/2026/07/01/adc-alerta-para-risco-iminente-de-prescricao-de-19-processos-com-multas-de-880-milhoes/",
+          "outlet": "ECO"
+        }
+      ],
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
       "id": "tempestades",
       "label": "Tempestades",
       "group": "press",
@@ -2899,6 +3314,67 @@
       ],
       "firstSeen": "2026-06-29",
       "lastSeen": "2026-06-29"
+    },
+    {
+      "id": "venezuela",
+      "label": "Venezuela",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-01"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-01",
+          "title": "Sismos na Venezuela: “Abandonaram-nos e muita gente morreu” - Público",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2xBZmt0X2ZUVGk0M2lYUFJQa3pxS2dyMm1XUnFCZGZsZC1OVDV0TG93bmpSQTI2U28yaTVqZkptbTNNeXJBYkdJcHJ3NDRHYVlwRzhnMlpDa3NqLWhhNjVvdG5ZS0xNZFB1OHNRUFdQbzlENUdoMUhidmxUUS1XVzV5WGJpMDRXSTlTNUFtZDJSZG40MGFVRDZKQXlWa2NGWmppNnN3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "“Não sou ninguém, só um rapaz que esteve 5 dias por baixo de um edifício”: 120 horas depois do sismo na Venezuela, há resgates ainda a acontecer - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaG1ORW1rWElzaGZkNWtfRUJvY1VEUmNrV3ZOeFB1a3FFS0dMdWpnMlAtbFdiM0N1dkxIQjNMWXFLRElyekszLURzSHNZQlhMVFhubGh6SmpzOUF3QVJnVVdzX2d4QkZMM3FZcVRwakwxOHNSaFNLM0pyX0pLYnU1NlNPTUs3MXFQOVpLQ2dHUzc4NHpWTHJlQ0R2X2lzZG4tQ1VEZFBCV0hfa1VtNVRvdGswdE1Qd0JhSFlBbExJZ2hyWHpNMy1aazd1WlYxNWl2aUJDaW80NW1McWxxaWM1MXlOUzAzeXpTcHNSY2FuQnlYd2gzMHdYNjJVQWxrRUdYcERBT0x0emxZTkhvWWZvUVg5TQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Chuva trava risco de desidratação e renova esperança nas buscas na Venezuela - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkV3MmU3T1dBeEZGZ2phMm1rYnBFTnFqVm9OSE9EQ2I4MVloY1JLYlNVcUR0UG5ZYkhqS2M5VTNMOHg5UGdaUVZkRTBzdTlKaGhrc2VCZGxHMVVkQWctOWZoWl8xRk9BMVBLSTJJeU1WeUZLYnFpaVNxM3VERUt6RHBGdWs2XzlJZVNBNmlvdENwYnV6WS1yQTFtZ18wSU5YOWFZQkpZYzluS1M1NkhpVFJlUnlCV3BlWUtJa1lJaHl2ZTNu?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Resgatada com vida criança de três anos ao sexto dia de buscas na Venezuela - TSF",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnZVWDY3MnN5Y1BaTUtOM1RvSUItQ3k1LWxmSUQ3RGRJTWhWdzl5amI5ZjFQemU1bWhOTlBWeWZWTUlCeVkwNjNjV1JNckJxVXFqZGpPNVVDakhLZjZmX2hBUVY4N1FRa1lzQTJTTHhvSkI5Vlk4MWM3dk9Mcmw5Qk1fZXhIUTd2Q082cno0NGxucG9hWXI5SHJIVWtGc25HbVdCeUVNR0swLXh5SHZZUkc5ZmpOeUE?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "\"Conseguimos ter contacto visual.\" Força portuguesa na Venezuela garante que vítima está estável - TSF",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR3FRbU9YWndmekxFLTAyRlBtTlJGUjBBQ21BSkhGX3BpU0lDWTBLWTd1dkRNM3d5U1NpVUlXQ21acC15RW9kZ3ZzXzFXNVl6aDJ0Xzd5S1dlYjNPN2lWVEo1S0lQc052SG82THBfRmNJcGJlMVhNNUh3U2M5YzNqNnZ6ZGNnd093MUVzclR3eDFFSGNnQTRqcTRjRTRfbUl5cWRUZG80YTR6cXJwWFZBS1NETUVlWlVXV3NKTFFBczh0UjhiaGdzLThBVmZNdW8?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "Venezuela agradece ajuda de Portugal em momento de crise",
+          "link": "https://www.rtp.pt/noticias/mundo/venezuela-agradece-ajuda-de-portugal-em-momento-de-crise_v1750577",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "O herói de quatro patas da Venezuela: conheça o Tsunami, o cão que faz parte das equipas de resgate",
+          "link": "https://sol.iol.pt/internacional/noticias/o-heroi-de-quatro-patas-da-venezuela-conheca-o-tsunami-o-cao-que-faz-parte-das-equipas-de-resgate/20260701/6a44f5880cf27f6588a6d9d1",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-01",
+          "title": "O outro lado da tragédia: portugueses relatam roubos e pilhagens por militares na Venezuela - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOFVtemt3YzJVdFBBLTNMa3ZiYjNkNGgwLWRCcHpYZHlJVmhJaXRFOGJkY2lyVHVERzdGRzRvRWRkaVNuUUREYjg4M1JGdXY3aFZDb3FZbV9YU2Nhakh3UVhLd1NDRzFpVXhuSEd1bDVuRzktVXNWWkpLQ2FPRU5kcERlUUt0dEFMREMxZmRNRi1COVNaeHlkMUUxWjVOWlhpQlVXdlZvaHd0eW5uODFFT3kzTTlBdER2VHZ3d0JHVG1YVTZTd2VSeTU5ZlN2dEhsMHJ3dHhrWFNfU2VoR0MzZklZNlp1QUVPR2ZlQmhETWx1MTd2aHNUbnhZZUluUQ?oc=5",
+          "outlet": "SIC Notícias"
+        }
+      ],
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
     }
   ]
 }

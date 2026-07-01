@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-01",
+  "meta": {
+    "generatedAt": "2026-07-01T11:30:38.578Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "tecnologia",
+        "label": "Tecnologia"
+      },
+      {
+        "id": "educacao",
+        "label": "Educação"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público destaca a onda de calor e risco de incêndios, a candidatura de França no Mundial, a polémica sobre o retorno de imigrantes e as falhas na correção dos exames."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Expresso aborda o calor extremo e prontidão do Governo, a nova fábrica de comboios, o resgate na Venezuela e a inteligência artificial no BCE."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador noticia o incêndio mortal na Antuérpia, a descida do desemprego para 5,5%, o chumbo do projeto do PCP para bombeiros e a apresentação do modelo de IA Amália."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "DN dá destaque ao calor e perigo de incêndios, à crise nos exames nacionais, à audição sobre a extrema-direita e à reforma da Segurança Social."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "JN foca a subida da prestação da casa, as contratações de Gonçalo Ramos e Sergi Altimira no futebol, e o resgate de uma criança na Venezuela."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "CM destaca o detido por fogo florestal, o calor extremo e o alerta do Governo, a condenação de Chris Brown e os milhões de Sócrates."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP sublinha a descida do desemprego para 5,5%, o alerta vermelho de calor em Lisboa e Setúbal, o reforço do dispositivo de incêndios e a ajuda a Portugal na Venezuela."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC noticia o calor extremo e aviso vermelho, os tiroteios na Ameixoeira, a nova taxa da UE para compras online e a exigência de Ventura sobre Sócrates."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF reporta o apuramento da Noruega no Mundial, a onda de calor com temperaturas acima de 40 graus, a situação dos portugueses nos EUA e os problemas na correção dos exames."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Negócios foca a queda da produção industrial, o aviso vermelho de calor, o recuo do desemprego para 5,5% e o aumento da dívida pública."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto destaca a espera de mãe na Venezuela, os possíveis despedimentos na Microsoft, a produção de eletricidade renovável em Portugal e a reforma da Segurança Social."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO aborda a contração industrial, o risco de prescrição na AdC, a parceria Greenvolt-BYD e o financiamento verde da Capwatt."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Económico sublinha a descida do PSI, a confirmação de 2,01% do PIB em Defesa, o recuo do desemprego e o aumento da dívida pública."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol noticia o crime na Amadora, o pedido de suspensão do controlo de fronteiras da UE, os ganhos de Trump em criptomoedas e o calor extremo."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado destaca o reforço de verbas para colégios de ensino especial, a pressão do setor aéreo para suspender o novo sistema de fronteiras, e as recomendações da DGS para o calor."
+      }
+    ]
+  }
+}
