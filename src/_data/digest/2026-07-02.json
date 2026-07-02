@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-02",
+  "meta": {
+    "generatedAt": "2026-07-02T10:48:56.281Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "saude",
+        "label": "Saúde"
+      },
+      {
+        "id": "arbitragem",
+        "label": "Arbitragem"
+      },
+      {
+        "id": "tecnologia",
+        "label": "Tecnologia"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Destaque para o Mundial 2026, o resgate na Venezuela, a polémica na arbitragem e a apresentação do sistema de IA Amália."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Reporta o ataque russo a Kiev, a onda de calor, a milícia neonazi e a polémica dos combustíveis."
+      },
+      {
+        "name": "Observador",
+        "summary": "Noticia a multa à Google, o calor excessivo, a vacina contra o cancro e a onda de calor."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Aborda a situação de alerta devido ao calor, a fiscalização dos combustíveis e a violação do código de conduta por Rita Matias."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Foco nos incêndios, na subida do preço das casas e na vacina contra o VSR."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Destaca a situação de alerta, detenções por incêndio, e a excomunhão de bispos."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "Cobre o ataque russo a Kiev, o resgate na Venezuela e a declaração de situação de alerta."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "Noticia a polémica na arbitragem, o sistema Amália, e o Mundial 2026."
+      },
+      {
+        "name": "TSF",
+        "summary": "Destaque para a arbitragem, a fiscalização dos combustíveis e o alerta de calor."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Foco na multa à Google, na subida do preço das casas e na descida do desemprego."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Aborda a sabotagem do Nord Stream, a detenção por incêndio e a subida do preço das casas."
+      },
+      {
+        "name": "ECO",
+        "summary": "Cobre a multa à Google, a situação de alerta e a vacina contra o cancro."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Noticia a multa à Google, a quebra nas obras públicas e a subida do preço das casas."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Destaque para o Mundial 2026, a onda de calor e o ataque russo a Kiev."
+      }
+    ]
+  }
+}
