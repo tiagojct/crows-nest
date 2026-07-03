@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-03",
+  "meta": {
+    "generatedAt": "2026-07-03T10:46:19.249Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "nacionalidade",
+        "label": "Nacionalidade"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "habitacao",
+        "label": "Habitação"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "imigracao",
+        "label": "Imigração"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Cobertura abrangente sobre a onda de calor, incêndios, resgate na Venezuela, perda de nacionalidade, crédito à habitação e vitória de Portugal no Mundial."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Destaque para a saída de imigrantes da Segurança Social, adiamento dos exames nacionais, situação de alerta devido ao calor, resgate na Venezuela e novas regras do crédito à habitação."
+      },
+      {
+        "name": "Observador",
+        "summary": "Foco nos incêndios em Vouzela e Cinfães, onda de calor, adiamento dos exames nacionais e cobertura do Mundial."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Notícias sobre o aviso vermelho devido ao calor e a necessidade de prevenção de incêndios."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Incêndios em Vouzela e Setúbal, resgate do sobrevivente na Venezuela, piscinas gratuitas para combater o calor e festa nas ruas pelo apuramento de Portugal."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Perda de nacionalidade, incêndios, Mundial, resgate na Venezuela e declaração de situação de alerta."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "Incêndio em Vouzela alastra, perda de nacionalidade, adiamento dos exames, calor extremo e Mundial."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "Mundial com muitas notícias, incêndios, resgate na Venezuela, perda de nacionalidade e calor."
+      },
+      {
+        "name": "TSF",
+        "summary": "Perda de nacionalidade, número de portugueses mortos na Venezuela e análise ao Mundial."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Crédito à habitação, perda de nacionalidade, calor, Mundial e imigração."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Mundial, calor, incêndios, perda de nacionalidade e resgate na Venezuela."
+      },
+      {
+        "name": "ECO",
+        "summary": "Juros do crédito à habitação, perda de nacionalidade, adiamento dos exames, calor e imigração."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Taxas do crédito à habitação sobem e perda de nacionalidade."
+      },
+      {
+        "name": "Sol",
+        "summary": "Mundial, calor, incêndios, exames nacionais e resgate na Venezuela."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Forte cobertura do Mundial, incêndios, exames nacionais e perda de nacionalidade."
+      }
+    ]
+  }
+}

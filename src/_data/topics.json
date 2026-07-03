@@ -195,9 +195,82 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Calor: Governo decreta situação de alerta até segunda-feira. Saiba o que pode ou não fazer - Público",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1JDVFd5T2JiMEpVd3VzQzlyMktSNnJFRVNaa0JnTThxc0lVOGRBcDRPTHJYMEhPamI1Y2hvY2tBSlN3Y2pLcWlHWTlWd2REOXJ6d1dxN2Eyejc1RVBPZklROTVpbWo1Y01XUHM1NU1JQmR4WUhmUzZDcE5UMTV6eDdFTmVZSl9YdE9TLWpRWjRZNzhnalFZMTdlYjJLQWxOOWVHaUdLWGpNcEFy?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Governo declara situação de alerta em todo o continente até segunda-feira - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkxDXzJoMVhSUmU2ZnJObms2OWtnZkwtMW1iZnNHS01nc2kwTlhTYXEwN19xWFpxb214VjZYVWxjc1dEcXNqcE9iUVlVRmhWdGEzQnU5WGE5VFo0Yk5aMmZsZ1NsazNsdTBNNUJTXzBNY0NsT1lMSHpkOHJZVnhyaXA0R2ltWUo1WW5XbWlqQWRmQ21kTDBlUUgxZENpc3htLUd5TnR4SU1QWEZrcUR5ZzRoUDRoSjhOYnUwWWJGU3ZyTklG?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "França com pelo menos mais 2.025 mortes devido ao calor",
+          "link": "https://observador.pt/2026/07/03/franca-com-pelo-menos-mais-2-025-mortes-do-que-o-habitual-devido-ao-calor/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "9h. Vaga de Calor. PM diz que próximos dias serão difíceis",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2398/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Aviso vermelho em vigor até domingo alargado a 12 distritos - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWlBaZWVfSFhVSnhFMDVnM2VTTVktdkhjS3Npdnlhc0ZJM1d6RFZCb3E2NlB5ZWY3akZjNld4Um90ZTlvQUgzTzI1MFdXM1ZsZW1xNFFuVm1UczF0OHltd29hd3kxUTF3MllGQmZteTU4cVotNUxXTUI2QVJLVjRjUnFqbVl4Y0JCczVJUjhlQQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Piscinas de Braga gratuitas até domingo para minimizar efeitos do calor - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczJFUXFyRWtxRk1abXBhU3NXVU1salRjNTdnWTREZjRhUUJTRW53RXlNbC1nVWVSb2YwUnJ1TGp4bU9ZWTFCMmVqckdkSGxiMzVtUl9ydk5qN2V1ZDVhMkJrQ01FUjhzNXdJRDlfQXZyWGd4SFRCdHlaRWhIRjNjT0JzaHNCakxacFRlZ3ZwdTFqbXpuT3ZOd0VqelFoc01aNU1jLQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Governo declara situação de alerta devido ao calor e proíbe várias atividades agrícola ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/governo-declara-situacao-de-alerta-devido-ao-calor-e-proibe-varias-atividades-agricola",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Bélgica registou aumento inédito de 39% de mortes durante a onda de calor",
+          "link": "https://www.rtp.pt/noticias/mundo/belgica-registou-aumento-inedito-de-39-de-mortes-durante-a-onda-de-calor_n1751066",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Aviso vermelho alargado esta sexta-feira a 12 distritos",
+          "link": "https://www.rtp.pt/noticias/pais/aviso-vermelho-alargado-esta-sexta-feira-a-12-distritos_n1751054",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Mortes aumentaram quase 30% durante onda de calor em França",
+          "link": "https://www.rtp.pt/noticias/mundo/mortes-aumentaram-quase-30-durante-onda-de-calor-em-franca_n1751044",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Vaga de calor obriga trabalhadores ao ar livre a alterar horários e rotinas - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLVdUT0M1cERYYnY2dUZoRzBIRHN2aHpiSjRmX1BzaVM5QTJuZDRtVlJlNlpwckxGLWc2bkswQWdQOEVCLW9fWlFiRExGREF4RjJuQURVczM3bGwxd2dqWl9pek9fd0hTYTdEa0lpRkhjeUNvY0JhN21FRnp2UzZTRE1oWkZtRHdlSy0yeExNVHF3XzR1RlJucThrMklxQUhSbHZPejdjUHJQZEhoNHlPZGRfR2o2VGFVYmlSMUNMcFBBaUdsd1I2R3FDYw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Aviso vermelho devido ao calor alargado a 12 distritos até domingo",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/aviso-vermelho-devido-ao-calor-em-vigor-ate-domingo-alargado-a-12-distritos",
+          "outlet": "Jornal de Negócios"
+        },
         {
           "date": "2026-07-02",
           "title": "Nova onda de calor volta a atingir Portugal: Governo alerta para \"aumento da mortalidade\" - Expresso",
@@ -536,7 +609,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     },
     {
       "id": "criptoativos",
@@ -920,9 +993,70 @@
       "aliases": [],
       "occurrences": [
         "2026-06-25",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Ministério adia datas de classificação dos exames nacionais: notas serão divulgadas a 17 de julho - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOS0FNLUdEWHg2LXgwanlNMmFFRmNtcnZkdl94alp0eGY1TXpaUFdXWXJQQ1JnS3g2YnlyNlowaURJVTJ1N2ZVTndaZ2hvNC1XUlBXeEU1bUpTR2EtMV9CNTRyeUlxMldvbGZLUnhxQjBpVDZkSUU1SVhNS0N4UzQzS3lZYWZ1VzVyaHZXTDhydUYyaUFRZG03RjZJTjBILTh6Z2FwSEF3c2dRMkEyOXlUZ1gxNS1tcE4wRmZZcS1zbC1qeGV4U2QteFkzdExDM21kXzlFa0dHSklYVlhtSGZ4d1R4MTJUeE4tOXpoTU8xMGpnSGlvZ0E?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Exames. \"Os pais vão usar o recurso como nunca o fizeram\"",
+          "link": "https://observador.pt/programas/resposta-pronta/exames-os-pais-vao-usar-o-recurso-como-nunca-o-fizeram/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "10h. Exames. Ministério da Educação adia segunda fase",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2395/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Notas dos exames nacionais adiadas para 17 de julho",
+          "link": "https://observador.pt/2026/07/03/notas-dos-exames-nacionais-do-secundario-serao-afixadas-mais-tarde-e-segunda-fase-das-provas-sera-adiada-em-quatro-dias-anuncia-ministerio/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "10h Ministério da Educação altera prazos de avaliação e exames",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-ministerio-da-educacao-altera-prazos-de-avaliacao-e-exames_a1_1751058",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "09h Ministério da Educação altera datas da segunda fase de exames",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/09h-ministerio-da-educacao-altera-datas-da-segunda-fase-de-exames_a1_1751049",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Governo adia segunda fase dos exames nacionais após \"dificuldades informáticas\"",
+          "link": "https://www.rtp.pt/noticias/pais/governo-adia-segunda-fase-dos-exames-nacionais-apos-dificuldades-informaticas_n1751048",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Falhas na avaliação eletrónica dos exames obrigam a adiar início da 2.º fase",
+          "link": "https://eco.sapo.pt/2026/07/03/falhas-na-avaliacao-eletronica-dos-exames-obrigam-a-adiar-inicio-da-2-o-fase/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Exames nacionais: falhas técnicas na avaliação eletrónica levam Ministério a adiar resultados e segunda fase",
+          "link": "https://sol.iol.pt/sociedade/noticias/exames-nacionais-falhas-tecnicas-na-avaliacao-eletronica-levam-ministerio-a-adiar-resultados-e-segunda-fase/20260703/6a477dc50cf2d0ed34b877b3",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Falhas na avaliação eletrónica dos exames nacionais obrigam a adiar início da 2.ª fase ]]>",
+          "link": "https://www.sabado.pt/ultima-hora/detalhe/falhas-na-avaliacao-eletronica-dos-exames-nacionais-obrigam-a-adiar-inicio-da-2-fase",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-28",
           "title": "Fenprof critica Governo por \"caos\" nos exames",
@@ -973,7 +1107,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-07-03"
     },
     {
       "id": "fmi",
@@ -1062,9 +1196,52 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-26"
+        "2026-06-26",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "BdP coloca pequeno “travão” no acesso ao crédito à habitação a partir de 1 de Agosto - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUExHNTJ5dGFyb1RFLTc4VHUxR3JkaC1WdHlIcm1LZHIzalRxa2poWERTdVB1N2lUMWpjVzBuVEw1OTY1akxNVTJ0LXo5M2VFSmRzRHhnM2JkTG91MDhOc1dMSVQycGc2ZWhwQW5EdkVRT3pxWVp1QmVRTlZkTVV6MTZXLWZ2WGJ2R1VCcWpkSGRQSTM5VlhfNVBNbjRNbDZ5Yk5SYUlRdzNvTmZXMkNmSmdGbHFvSkpW?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Banco de Portugal aperta regras do crédito à habitação a 1 de agosto - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObnE1QVJzS3d2VTlrTENXdzc5ekVRS3FYYlZIMm9LWUNOYWNvU29HOGVSeUV4azFsYTRrNEQtYnRNS2ZNci1fOVIxd0ZuemRhTkVaXzFsM3c5NXEwSE9SWWNkTWJPZlRZel84dVEyZTMwVGxINFBFVnhSYktZcVFnc1FoODlGdk1qYkotMlNIYWZGVl9ONXNJTVlTZnNlcFI4R05GenUtT3o4VFpNRVRYLVRveFVlZGZ3R3hNWXc5eDVnSW5DVjk3dVRMTHNxVGQ1Q0cyLTJYS2dwVlJWODlXcGtqUmFhNlE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Prestação da casa já ultrapassa período da pandemia ou da guerra na Ucrânia",
+          "link": "https://www.jornaldenegocios.pt/mercados/credito/detalhe/prestacao-da-casa-ja-ultrapassa-periodo-da-pandemia-ou-da-guerra-na-ucrania",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Taxas Euribor descem nos prazos a três, seis e 12 meses. Bolsas europeias negoceiam em alta",
+          "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/pracas-asiaticas-em-alta-samsung-e-sk-hynix-saltam-mais-de-8",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Juros do crédito da casa dão maior salto em três anos",
+          "link": "https://eco.sapo.pt/2026/07/03/juros-do-credito-da-casa-dao-maior-salto-em-tres-anos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Taxas dos depósitos e do crédito à habitação voltam a subir em maio",
+          "link": "https://jornaleconomico.sapo.pt/noticias/taxas-dos-depositos-e-do-credito-a-habitacao-voltam-a-subir-em-maio/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Euribor volta a subir: como preparar o orçamento familiar para prestações da casa mais elevadas",
+          "link": "https://jornaleconomico.sapo.pt/noticias/euribor-volta-a-subir-como-preparar-o-orcamento-familiar-para-prestacoes-da-casa-mais-elevadas/",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-06-26",
           "title": "São muitos os atrasos no subsídio à renda de Lisboa, mas câmara promete regularização - Público",
@@ -1115,7 +1292,7 @@
         }
       ],
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-07-03"
     },
     {
       "id": "imigracao",
@@ -1124,9 +1301,40 @@
       "aliases": [],
       "occurrences": [
         "2026-06-28",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Saída de imigrantes da Segurança Social dispara 66% em 2025 - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNZnVIQ0JyekI2bnl2dWJEYlc3WnhpclM4Qjl0bGVFR1hvMV85RzFvUGN5MzRYek02TXQ5a2hZMVlVTVZ0am9Iak45aVg5eVVoal9lOXRicTEzaUdScGhvRUdscHN2bkRUUjE3UnRRTjAyRnNKY0lKWTRKQS11RFBkRFZKTDRsLUhKeXM5S2pnaUhodlZibktIbHQ3UWdHS1FhM0pSRGlrS181MWo5TFRQVVZWUGNfVnlmRm9leXl4VjEwV25DV1BGNHpIX0p4WHRxUFNyZUI2a1hMWWxFMWFZNGNnQVZnRGhNZm1UMEtrSENNdTF4Y2prZnl0dnNHWjU4UmF3eXRvQzc3MTQ3d0FNWVBVOEhQai1XMnVFYnBvV2FsSE5iYXQ0LVlxWHRNdVgtZ2tIZUZ4Q2IwOXNhRlVucDBXUlBTUXBJY2U0dVRuaDdTUWE1VC1kdll4czNsMmQwVmdIc3pmcXgxbzlRTWJqRWxpZVViU1VOYmtaX1pqYzAzNHN1UGltWFRsaVlhb0lTSjd6RzJwaUJsVWJseGF4eTItS2JCMUVta0h4M3NWa0FPajlJQVQ3T0JDblBUUnJqbW9PaWJNYndXRXNWM1ZaTC1Uc0prWmpDcXc4ZmtLbUViZmxYT2E1cQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Se não os querem cá, eles vão embora. Mais de 160 mil imigrantes saíram do país ou do sistema - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOb0NFN1p0QWx1RkxEeWdaeEI3SDNZY3lIU3FfSHBVVmRMREt4V2hGeVpaUHdrek81SzUzdGd1bEJraTZEV25GNVFlS1pSY2h2a3VoNkxraTAxSWQtTzBHcWZoeksxQ3NLTllLbVMyc2c2UHNDMHNGSjlDZnVwTFVpWmt0dXlaNGNnelJsU3FLTE44c19LdFA4cGYzOG1QRjUyUm9kYXc5T2xrdGp4bjVOdUQxQkFhM2txTmhiSUUxZkxOdmlfU25OTzNDS1J0TERrbWpsTU5TM0I0bVhELWFRdUliOXdJd3VtcElrR2dBTDY?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Imigração: erros recentes e virtudes no longo prazo",
+          "link": "https://www.jornaldenegocios.pt/opiniao/colunistas/bruno-faria-lopes/detalhe/imigracao-erros-recentes-e-virtudes-no-longo-prazo",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Saída de imigrantes da Segurança Social dispara 66% em 2025",
+          "link": "https://www.jornaldenegocios.pt/economia/seguranca-social/detalhe/saida-de-imigrantes-da-seguranca-social-dispara-66-em-2025",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Dispara número de imigrantes que abandona Segurança Social",
+          "link": "https://eco.sapo.pt/2026/07/03/dispara-numero-de-imigrantes-que-abandona-seguranca-social/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-06-30",
           "title": "Dois portugueses viveram como escravos em Espanha durante décadas. O mais velho foi \"transacionado como mercadoria - Expresso",
@@ -1219,7 +1427,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-03"
     },
     {
       "id": "incendios",
@@ -1230,9 +1438,82 @@
         "2026-06-24",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Com Portugal em alerta para o tempo quente, fogos mobilizaram quase 2000 operacionais - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakd4azdRT2pLYnEyNVZWTTcyM2NSYklIMTEyY0UyQU9pZE8xdVVUVnFJVkxCUzUzTFJOOTRHVVBuYVpVTGJsalA4alNCRTR0OGZNUjdQbDhSVGNGanphbDFJUExaMUMzVWtKa0xvT1hmcmJTbnIxUlNZODdBZDU2TldpVzM3QmRtZ0xhcVdBZ1o2eXc3TjNFTVVGOEVJM25GMktRdTc4RUVJbDBUbFpueERqb3YtbTlqTmpRaXhpbUY?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Fogo de Vouzela passou para Águeda e atingiu anexos e casas",
+          "link": "https://observador.pt/2026/07/03/autarca-afirma-que-fogo-de-vouzela-passou-para-agueda-e-atingiu-anexos-e-casas-devolutas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Um desalojado e perto de 100 operacionais em Cinfães",
+          "link": "https://observador.pt/2026/07/03/um-desalojado-em-cinfaes-e-perto-de-uma-centena-de-operacionais-no-terreno/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Incêndios. \"Erros do ano passado vão ser cometidos este ano\"",
+          "link": "https://observador.pt/programas/explicador/incendios-erros-do-ano-passado-vao-ser-cometidos-este-ano/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "\"Este é um momento sério\". Autoridades reforçam a necessidade de prevenção na onda de calor e incêndios - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaldsbEVkQjA3c28yNTZCdm9ieDktMWRNWUJMTDFTUS1PdDZWTm9Cbl9ZMktnRnkwcy1JOTZoWXFfYkpsZ3NYVnJTdmtZVEdXWTlwRF9NWng5UFlEN2Q3Yi1kckx1Tlg1dkNWdEpGVWtiM19EQ2tQbVM0MmN2NDhOUlFWQ2c4dWJiSVBIa0V6eE9ScllQOExheElXX09QY3d4ZUxNOXpUZnFiVUQ5WUtGSDlCLW4tTFVRMFhtaXZ3?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Incêndio deflagra num prédio em Setúbal - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwejZSRzNrcjhrZVhsV2x3Y2l1QWJWYVRvYnZVcF9ZZkFpb1dyTWc3MkhoZW13SUYtMHNmMDZGVkF4TF9BX2p6TUVQQVl0cFJkdzBlNmRfT1Fqd1ZlQUZHal9KNlJRY25mTFVsVFRRNTRwLTZ2dWduYzln?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Autarca de Vouzela: \\\"Noite foi muito complicada. Estamos com muito vento e forte\\\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNVROaWRsX21LNDh0MG5zUEwyVDBKb1k4bmNyNEtVMFNWbXI3Q1hvY3dQT21RY3dOdUcxSmphLWdoaFl5ZktZUzlhNGhLS2xLMDdzV0JPZW5URVd2VlFTTXllX21zQjN6VkN3ZlZuWnV5MUZ1Y09UenBLQzdPdnVWQmQwVzB4azM4XzZrM280N3Q5YWxybzJMS0REWEk4eHIyb0pLbXlBb3dLcDNy?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Detidos dois suspeitos de atear fogo em Freixo de Estada à Cinta ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/detidos-dois-suspeitos-de-atear-fogo-em-freixo-de-estada-a-cinta",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Fogo em Vouzela com cinco frentes ativas mobiliza um milhar de operacionais e pressiona aldeias",
+          "link": "https://www.rtp.pt/noticias/pais/fogo-em-vouzela-com-cinco-frentes-ativas-mobiliza-um-milhar-de-operacionais-e-pressiona-aldeias_e1751057",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "08h Fogo em Vouzela já se estendeu aoutros concelhos",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/08h-fogo-em-vouzela-ja-se-estendeu-aoutros-concelhos_a1_1751037",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Incêndio em Vouzela alastra a concelhos vizinhos e ameaça habitações",
+          "link": "https://www.rtp.pt/noticias/pais/incendio-em-vouzela-alastra-a-concelhos-vizinhos-e-ameaca-habitacoes_v1751032",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "07h Incêndio em Vouzela continua a preocupar",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/07h-incendio-em-vouzela-continua-a-preocupar_a1_1751029",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-07-02",
           "title": "10h. Incêndio em Viseu com oito meios aéreos",
@@ -1415,7 +1696,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     },
     {
       "id": "inflacao",
@@ -1779,9 +2060,82 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Áustria entrou no carrossel espanhol e já não conseguiu sair - Público",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY0w5YzZpLVVwdjBleHM2dGRWcTdhRG9OZlFBSjZiQnlnYnlJWnN1c2t5M3lSSjg1d0NBMy1XZ2ltb1ZrejJpUkRUdGpjbnVWUEcybE9JWklHdldCbXBxSE9STWhYZGVaZTJuYVAzU3lId3hoTjQ5VGtQNWpQMDhTM2ZLWkVpR2R1NWdBSFdiRGo4RjhCVVUwUmItUlB1a2JqaUtSTGgwMlhSdHQ5aXJDalVSZ1ItYV9JeC1nNHdxZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Portugal vence em Toronto e avança para os oitavos-de-final - Público",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOU9fNmVQUEE3R0tlTjRITk1uY1REVURDNzlQcmZ4RU50bXM5Qm4yeFlSemgyeDRMUWtVQi01cGFOLXFQTzZTTWpHYjl2NHA1WmRPZF9Xbmw2ekNHQnFSWFhDa0RrMGJQUEhJd2JNQnRZMkR6OURYbk9QX0FVTkdVckxRUWtDd3R4ZklCR2FjMVAxS01NX2l2dTNn?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Cristiano Ronaldo: “O meu futuro não é importante neste momento. Vou falar com a minha família e depois decidir as coisas da melhor forma” - Tribuna Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOX2hXT2dmcTV6SEJ1M0d1dTdiaGRmcHNJZmFiUHFhcHVRVXVBZzZhajUteG9zYnFET2xTWkdPZ1N4WUQ2S09RWVZEa3hMcm1tQXRfM2lRQU1abzNYOFJ6bEJ1STF0cnVycjZBMFBDbHRLUkxFdmNXQmZRcHpsUkEybEVWaEp2OXdtUkFWU2drOWVmMHRFVzRlMWluS2FCNzFYWEs3czFtYklyOGt2RGl4cC1zV3VwNmlKTk1oYVZtREphbXJpZl90czh6OGtoLVpMX0tBRGI4RGdaVHZ6VXViVjlSTmtFSkRKWXMtb093NkxMcVlZYXRxajg1QlNzb3BEVTVQdkFsbUNYeDVtbG05RGZPUlFzU1F1eXVzNTZYTkQ2Zw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Mundial: De \"guerreiros feios\" a whiskys com gelo",
+          "link": "https://observador.pt/programas/momentos-de-glria/mundial-de-guerreiros-feios-a-whiskys-com-gelo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Montenegro no Mundial: faz sentido, com o país em alerta?",
+          "link": "https://observador.pt/programas/e-o-vencedor-e/montenegro-no-futebol-enquanto-o-pais-fica-em-brasa/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Dia 23 do Mundial-2026. Portugal passa aos oitavos de final",
+          "link": "https://observador.pt/liveblogs/dia-23-do-mundial-2026-portugal-passa-aos-oitavos-de-final-selecionador-alemao-demite-se/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Milhares de corações bateram em uníssono nos Aliados no apoio às quinas - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzhYemJUemRaYWVvTDQ1aVB6cFViYW9waE5xSWJHaXFYVEw5UVhGZkhSOHJnZmhZOHVoMExWVWNLRnhTYkpOVnZVanZHSGxza1l6MHRHVXNORi12VVR2blV3dlVHU0Y5U2ZMTi00bklDTnZmT3FSY0RKUW5sTFN1VUx1MEVQRDREOHJ2dG1aT2M2Q0pDdlo4SVhKb1loOVllZXlEaw?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ “La Perroneta”: estes cães vestem-se a rigor para apoiar a seleção Argentina no Mundial ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/la-perroneta-estes-caes-vestem-se-a-rigor-para-apoiar-a-selecao-argentina-no-mundial",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Madrid em festa com vitória da Espanha sobre a Áustria no Mundial ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/madrid-em-festa-com-vitoria-da-espanha-sobre-a-austria-no-mundial",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Foi sofrer até ao fim! Como as companheiras dos jogadores viveram a reviravolta de Portugal nas bancadas ]]>",
+          "link": "https://www.cmjornal.pt/vidas/detalhe/foi-sofrer-ate-ao-fim-como-as-companheiras-dos-jogadores-viveram-a-reviravolta-de-portugal-nas-bancadas",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Roberto Martínez: \"Gonçalo Ramos é um jogador que acrescenta sempre que entra\" ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/roberto-martinez-goncalo-ramos-e-um-jogador-que-acrescenta-sempre-que-entra",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Roberto Martínez: \"Portugal-Espanha? Será um jogo fantástico, um jogo europeu dentro do Mundial\" ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/roberto-martinez-portugal-espanha-sera-um-jogo-fantastico-um-jogo-europeu-dentro-do-mundial",
+          "outlet": "Correio da Manhã"
+        },
         {
           "date": "2026-07-02",
           "title": "Mundial 2026: a Bélgica deu tudo em cinco minutos e ainda ganhou - Público",
@@ -2324,7 +2678,80 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "id": "nacionalidade",
+      "label": "Nacionalidade",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-03"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Após dois chumbos, AD insiste na perda da nacionalidade e reduz leque de crimes - Público",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenU2aEFyUHA2aEVrdEZhamhPcUNNcGVlR3NXYlNJU1ByMTQ5NDI1bHVPc3JlaHFXd2RTdHEwTnJPSlJpR2VuejE5ZDhXcGpEb0ZaYkhEN2E4X25tamlGck00V0lHWUpQU01rdXNFNHVKVzRTSUdWWFNIRktlM1BRamZNSFI4bUNNeEdhbmZOSHdudlFQRXBubXVxajZ2RVRBVjJPVkczWGxqOXBhQkVIUFdFWXRzcEZaTVcwMlk5UThzREV0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Ministro da Presidência secundariza adoção de penas para perda da nacionalidade ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/ministro-da-presidencia-secundariza-adocao-de-penas-para-perda-da-nacionalidade",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Perda de nacionalidade por crimes graves em vias de cair por desacordo entre Chega e PSD/CDS ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/perda-de-nacionalidade-por-crimes-graves-em-vias-de-cair-por-desacordo-entre-chega-e-psd-cds",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Nova proposta sobre perda de nacionalidade por crimes graves deverá cair no Parlamento",
+          "link": "https://www.rtp.pt/noticias/politica/nova-proposta-sobre-perda-de-nacionalidade-por-crimes-graves-devera-cair-no-parlamento_n1751074",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Chega vai chumbar alterações do PSD à lei das burcas e perda de nacionalidade - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZS01cVF5Wi1xeUJRb0xGd3hHTGhfZHNDRUk4QzFJWkM4N2ZiLWJ4RmNWbUROUW1WcnNjeUZUWnpEVmxVZnNURW56TzEwb1BIOHYxRERUVW9YQ2R5Y0QwclBvSTktVlBOeTltVFBoemtnR0VKZWR2QlZWNmw4TzNOcGVBLVUzUTNtMU9iN1JuZTQ0ZjNLeDVGTl83M0M4ZG5XRUQ3M2xLVk5VSjljc2ZnelgxNmVyR3p3emIxSmZYdDg0ZnZzcHV2bEUyVzZiaHRFbVZEdExadw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Alterações sobre perda de nacionalidade à procura do último suspiro no Parlamento - TSF Rádio Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUlptTnNmdTIwZE11WkE4czlSUF9XekpXdml0V1ViTHgwSnVtVkdaWS0wbXdaN1JaTW94TUpxYlZJeW82MDdKUEJWXzNzTDg2TXVrZU1FTzVNbG54Sk1uYnNZMFY4cXlNTHNGWUF6S3JiakJtTDZaS3pEMHFaUUtZT3NucmQ1MkM3aGJueUs2LVY2OFFiaE5jTHRndC1mRlY0enVMSktEVDZEaFMzNzBfQnE3YTllVUM3d05aOTctNmtFdVk?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Perda de nacionalidade por crimes graves em vias de cair. Chega em desacordo com PSD/CDS",
+          "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/perda-de-nacionalidade-por-crimes-graves-em-vias-de-cair-chega-em-desacordo-com-psd-cds",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Perda de nacionalidade por crimes graves prestes a cair por desacordo entre Chega e PSD/CDS",
+          "link": "https://eco.sapo.pt/2026/07/03/perda-de-nacionalidade-por-crimes-graves-deve-cair-por-desacordo-entre-chega-e-psd-cds/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Ministro da Presidência secundariza adoção de penas para perda da nacionalidade",
+          "link": "https://jornaleconomico.sapo.pt/noticias/ministro-da-presidencia-secundariza-adocao-de-penas-para-perda-da-nacionalidade/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Ministro da Presidência secundariza adoção de penas para perda da nacionalidade ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/ministro-da-presidencia-secundariza-adocao-de-penas-para-perda-da-nacionalidade",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
     },
     {
       "id": "neonazis",
@@ -3737,9 +4164,70 @@
       "aliases": [],
       "occurrences": [
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-03"
       ],
       "articles": [
+        {
+          "date": "2026-07-03",
+          "title": "Na Venezuela, estudante de medicina salva vidas em “hospital” num antigo McDonald’s - Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTEtCNV9Vb21HM0p4aHRpNkVBMjhpT01LeVlkRjJYYnFkVzRSVjcwVk9Ebzc1dW1zY0x6VjBXWW5nSjJxQWxyWjljVWNJNHo2M051NjRsYzVxQ01VS19mc3lFN2s0OThTZG9TLTZQcFVwbmJhUmdGMkRDY1p4c3VIZE1NcFBQRVFraHdGOHgwQUJEUTBZVjcyYllhdzVkcjNLd0c1U3BmbU53U0dSTlNYX3Z2UWdxdw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Catia la Mar: viver, morrer e sobreviver na cidade esquecida pelo Governo - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNFFrSURrRkktdjg3ekl6R290bEl4V3ByZEs3YzBHWTBGLU1XekNXcjFhd0hfM0ItUGFFSkRnbEtpbG5pdjJhcGlPY2dwVkFmaXpzeEMwWk51WWotOE9BWlJabElrYzJsdnc1aVNVTzVjRDczck1VMkdqb0VTVDFMSUtlTjV6bWczbXg4THNWMWdMWGpKbi1yeGE3NEJ5SkI4TmR5dWhoSnd1RUoxc2tmTVo0dDZqMWph?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Equipa portuguesa resgata sobrevivente dos sismos na Venezuela que estava soterrado há sete dias: veja o vídeo - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUTZrNllQRnd4dnUydkdOQzdYbU5fdVFZdmt6SzdQWDNCMDNEMFpJWi12MVlCb0YtbnFocV9xMVpiUVBPUFNMSHI2RzZIaUdQWEFBWFVVMmxnSDRidDZjbWNwQ3ZXOHIwTHhCN2VHR3ptdkpmVGJselhyeVdhdFRNc3RQQXM0VGZoRDFMcHVfcDBja2hlOVM0YklsSV8wdzlMazhxRFREeHhCSE9pdlc2QVdWVWl5VkR1OHVZV1RpZGZRVFRsSlE1VDc4NjB5STR5eTdYYVhyd00zX08xSk9J?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Portugueses obreiros no milagre do resgate de Hernán Gil após oito dias entre escombros - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSHplZXhnQkVvWl9ud1NXUzEtbGYyTW82azRBVWFyWE5yNE5MdktpdzR4RENqeFMxRkNqcVduTzBzLXF3SEJfY1dCUnFrdVgtV0gxNWRWZlkwM0ZQcjZDc2tpc3NwMGJaRVVPcEVyVnBsY3VWcGdveW5OTWstc3BaWjhQUkRkMldCVnkzQ0k3QnZUaWw4akQ1dmh3UlBtMmlnbFZ5RElqOVpBS3pmZlJCMVBGWkJxLWdnbnc?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Hernán esteve 8 dias soterrado. Foi salvo por uma guarita de cimento que resistiu ao sismo e ao colapso do prédio ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260703-112217-hernan-esteve-8-dias-soterrado-foi-salvo-por-uma-guarita-de-cimento-que-resistiu-ao-sismo-e-ao-colapso-do-predio",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "<![CDATA[ Porto de La Guaira transformado em morgue após sismos na Venezuela ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/porto-de-la-guaira-transformado-em-morgue-apos-sismos-na-venezuela",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Homem resgatado na Venezuela com ajuda de equipa portuguesa - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbHBwRXVYeFUxUTlJUk5uRjAtbnR2STMwTkRMR3FiVGtJdnFYOEoxX0JNRGhqRV9RZkl1MUZYaUtTak1CSUNKbGNyYlo0dmZZMy1NSGNLRGs0bjdLM2JmelctZGhveThpTWFHdVRJS1FtUXMyeVJxWTZnVlQ5dV9YeGFqZ2lWT2NmelR5alhEaW1XODhlQ1ZnMFdJMXYzS2ctRVFWSFNBcmRhN3FlelZtckJBQjczSVd4bWRyblE0SlpEYTNNQVVlMzVJWEM?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Sobrevivente resgatado pela equipa portuguesa na Venezuela está estável e sob observação - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTlZiOUhyOWJPdzZXaGlrSlJvdVVsNzBsNWZVSFo0c3NpMV9xXzJIUTVZdFZWa1hPRDBpd0s2Ni0tajBDbXZ1ajE3SWFHT1VJVnJxYjlzS29rWmx4SjlPS2s0ei1fdUJBQzR3T3JFMVJDLXcxa1lRYlNGV3F6QXRQYzBZcWhadDhNODVDY0FsNUpHVDlRaDNELWRxRk9KQ1NLNFNpOUtZTUZGWUJBY0lycU1hb25ObTdZTWR0VjNWWHZVTjQ4NF8wODhvdk00RlRtREZ1VHFIU0szREVqbm00NGYyQXRSa1ptMmgtOVhTdTcxLWM?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Sobe para 79 o número de portugueses e lusodescendentes mortos após sismos na Venezuela - TSF Rádio Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDJ3YjJOOHVBVE5zVXJ2bURTa1dCbGpjdE9jVFhOSVFrOG1sS0NFclkyVXBLWDVoZHU3bEk0RkwyMkNtQ2czZUlJZmhZclNrd2ZwWVNMaDBodV9faFRXZUh6OFl0RG50X1JjSHExaXFrek5PQkZTbnpiTTZHY3N2LXRZai1RZzQ4M3hsZHRDSkExVGZwUE1IZDNvSHYwbGxGSV9WM3pMRWZvUEhpWWxmZFFGTlZGQVVOU01R?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-03",
+          "title": "Número de portugueses e lusodescentes mortos pelos sismos da Venezuela sobe para 81. Há ainda 66 desaparecidos",
+          "link": "https://sol.iol.pt/internacional/noticias/numero-de-portugueses-e-lusodescentes-mortos-pelos-sismos-da-venezuela-sobe-para-81-ha-ainda-66-desaparecidos/20260703/6a4768700cf2d0ed34b877a5",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-02",
           "title": "Centenas de socorristas tentam resgatar Hérnan, soterrado há uma semana na Venezuela - Público",
@@ -3832,7 +4320,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     }
   ]
 }
