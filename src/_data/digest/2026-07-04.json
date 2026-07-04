@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-04",
+  "meta": {
+    "generatedAt": "2026-07-04T10:19:45.729Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      },
+      {
+        "id": "justica",
+        "label": "Justiça"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público destaca a vitória da Argentina sobre Cabo Verde no Mundial, a onda de calor com a DGS a elevar o risco e a suspensão de atividade não urgente, o incêndio em Águeda, o funeral de Khamenei no Irão, e a detenção de um professor de música por abuso sexual."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Expresso noticia a crise na Volkswagen como um choque de realidade para a indústria automóvel europeia, o incêndio em Vouzela a alastrar, o Governo a ativar o Mecanismo Europeu de Proteção Civil, e o calor extremo a levar a DGS a aumentar o risco."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador cobre os incêndios em Castanheira do Vouga e Vouzela, a vitória da Argentina sobre Cabo Verde no Mundial, o funeral de Khamenei, e a subida do nível de risco devido ao calor."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Diário de Notícias aborda os 250 anos da independência dos EUA, a onda de calor a levar ao fecho de parques e ao cancelamento de comboios, o chumbo da perda de nacionalidade, e o incêndio em Vouzela."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Jornal de Notícias reporta a eleição de Luísa Neto como provedora de Justiça, os incêndios em Vouzela, a isenção de IRS para vítimas de abusos sexuais na Igreja, e o sismo nos Açores."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Correio da Manhã foca-se no Mundial com Portugal a preparar-se para os oitavos, no alerta vermelho devido ao calor, nos incêndios em Vouzela e Setúbal, e no casamento de Taylor Swift e Travis Kelce."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP Notícias dá conta do incêndio em Vouzela com mais de mil operacionais, da vitória da Argentina sobre Cabo Verde, do início das cerimónias fúnebres de Khamenei, e da visita do Papa a Lampedusa."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC Notícias realça a falta de água em Almada devido ao calor, o incêndio em Setúbal com feridos, a eliminação de Cabo Verde no Mundial, e as buscas da PJ na junta de freguesia das Avenidas Novas."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF noticia o envio de ajuda humanitária para a Venezuela, o cancelamento de comboios devido ao calor, e a aprovação do aumento do Fundo de Proteção Social do Bombeiro."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Jornal de Negócios destaca a subida do ISP, os novos certificados do Tesouro, a compra da Santos pela Assa Abloy, e a saída do CEO da Microsoft Portugal."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto cobre o incêndio em Vouzela, a felicitação de Putin a Trump, a morte de uma jornalista no México, e a eliminação de Cabo Verde no Mundial."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO aborda o calendário dos oitavos do Mundial, a subida dos combustíveis, os novos certificados do Tesouro, e a saída de Andres Ortolá da Microsoft Portugal."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Jornal Económico noticia a revisão da criminalidade em baixa, a candidatura da Galp à compra de parques eólicos, e o impacto dos terramotos na Venezuela no PIB."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol reporta a reestruturação da TAP, a morte de uma criança afogada em Benavente, a homenagem do Liverpool a Diogo Jota, e o início do funeral de Khamenei."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado fala do incêndio em Vouzela com 1.181 operacionais, do aviso vermelho devido ao calor, do casamento de Taylor Swift, e da eliminação de Cabo Verde e do Gana no Mundial."
+      }
+    ]
+  }
+}
