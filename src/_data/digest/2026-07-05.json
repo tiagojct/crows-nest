@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-05",
+  "meta": {
+    "generatedAt": "2026-07-05T10:24:30.091Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "eua",
+        "label": "EUA"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "afd",
+        "label": "AfD"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Cobriu os incêndios florestais e a atuação da Força Aérea, as celebrações do 250.º aniversário dos EUA, os protestos contra a AfD na Alemanha e a crise nos exames nacionais."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Destaque para o combate aos incêndios com a Força Aérea, as comemorações dos 250 anos dos EUA e a exigência de desculpas do PS sobre os exames."
+      },
+      {
+        "name": "Observador",
+        "summary": "Acompanhamento minuto a minuto do incêndio de Vouzela, da onda de calor, do funeral de Khamenei e da preparação da seleção portuguesa para o Mundial."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Foco no incêndio de Vouzela, na intervenção inédita da Força Aérea e nos discursos de Trump no 4 de Julho."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Notícias regionais e desportivas, com destaque para o Mundial, a lenda da bossa nova Alaíde Costa e o Careto Air Show."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Ênfase nos incêndios, na psicóloga detida em Bali, na chegada da seleção a Dallas e em casos policiais."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "Cobertura do fogo de Vouzela, das conversas de Trump com Putin e Zelensky e da proposta do BE para inquérito aos exames."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "Incêndios e calor extremo dominam, com alertas para trovoadas secas; destaque também para a crise em Gaza e a xenofobia na África do Sul."
+      },
+      {
+        "name": "TSF",
+        "summary": "Foco no incêndio de Vouzela, no estado de alerta, no Mundial e no funeral de Khamenei."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Destaque para as declarações do economista Ricardo Reis, a atualização sobre os incêndios e a oferta de petróleo da OPEP+."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Cobertura do regresso da psicóloga detida em Bali, da violência xenófoba na África do Sul, do Mundial e dos incêndios."
+      },
+      {
+        "name": "ECO",
+        "summary": "Foco na saúde com a Lusíadas Saúde, nos incêndios e na economia, com entrevistas e análises."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Destaque para a economia (LVMH, OPEP+), as celebrações dos 250 anos dos EUA e a regionalização."
+      },
+      {
+        "name": "Sol",
+        "summary": "Abordagem política e social, com destaque para a segurança em Lisboa, a psicóloga detida em Bali, os incêndios e os 250 anos dos EUA."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Cobertura dos incêndios, do funeral de Khamenei, do Mundial e de temas como a herança de Berardo e a saúde."
+      }
+    ]
+  }
+}

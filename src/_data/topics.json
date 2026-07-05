@@ -50,6 +50,43 @@
       "lastSeen": "2026-06-27"
     },
     {
+      "id": "afd",
+      "label": "AfD",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-05"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "25 mil manifestantes protestam contra congresso da AfD na Alemanha | Extrema-direita - Público",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTBKWFFEMHpuZ1pWekx2OTQzcS1UUmhUQzJVTHd3N1BJSmI2TjhZNm1qQTJza1VEbUtUUkV3bmptbFNIMS1LX1JxMUF3UjMzY2xELVItZWVrMU5JbW1SUFUxcnhxdWE3U25GUXc1NHZUNkZDX0IzOVJiOFNSYW9USl9abEJyLXRQd191NExTQWV0aWZ2UHVGUEt6YlJDWmFvRWRFck1xei1oc3J4TXc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "AfD reelege liderança entre protestos massivos e confrontos em Erfurt - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT2xqb3QzS2I2WlVDU01XYTVSdHFEaGdvdlc3TEx6VDJoQVphekxiV01jWHNGaWhQekxVbV9YaWlheDRBVTNtR2xmVTdQYmlSTkhLSTJjSnI0SFlNQWNOUnBhTHlhOGt6dFo2dnpHRERfVEFPNkFrS21nUDY2ZXUxTDV1YVVtMVJoeW5VazBwUXFlelcyMTE1Y2VIdF83aGdnZkdPTERnMHpRcGJidkRyczFGbHNNbzFrZlE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Tensões em Erfurt dão em violência: polícia de choque confronta manifestantes anti-AfD - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLW5EdERuQjBjT045Q3YwdjNfUkdoc21DeEVicDlCNDlPX1prOW9JdGZlUHZZNFRjaGduc1drZlljTEpjTEtxU1RCd0F1WHVkcFhLLWIxNWZkQzJGdjlHVGRTQVZoN2tneUYwcDg4ZUlZSVFGX2UzTkp6aHc3akJ1dTNBVlhhLWU1SWVYbERMNlFIQ200YWdxcTl0TnUzclFWRzFBWjZsZEZvU3NxVFVJODN3SQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Quase 25 mil manifestantes protestam contra congresso da AfD - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2djNFczOUNCQWd2WS1QandnbGFYTlhwY0NIX3dReHR3d1dBRlFnS2J4ZjlDOFpHUWxORkZzVXQ5TTZwVHhkSTUtdXNWejdob3lUcVQ0eVVULXVkeXZXa3pwOE1FVUNCOXBKQjJUVUl0QnZlSk94dXNsdVBmRXl3X0MyRXltUUFJXy1ZMkg3UkFUZXVGanZtT1pYSkdzZnl5eTNN?oc=5",
+          "outlet": "TSF"
+        }
+      ],
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
       "id": "arbitragem",
       "label": "Arbitragem",
       "group": "press",
@@ -197,9 +234,58 @@
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-05"
       ],
       "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "CP cancela mais seis comboios Intercidades no sábado e domingo devido ao calor - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmdOWFBWbFBEYXduSmdtRmdwdW5sNnY3WHdOVEZoSGhWeDRmaWZ5cWh0NDllb29tZDdIVlB0VGh3UU1DYnF5QTZsYk5xN1lWZUJnQXk5QTdjWHNYUkx3NFBVQlhzd2lYbXVyNm5xekxGSFZtVWZNOHJMSVgyNjl1c1BzdmNSV3FxYlY2M1hIa3hOTWNhQUo3Y25FcmNsLXNxd1FJT2xsZlFYOGdWSVdNVFQxVHZsd3MxLUVaTEhwSWxuUQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "7h. Calor. Ligeiro alívio das temperaturas nos próximos dias",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-7h-2434/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Calor faz disparar procura por ventoinhas e ar condicionado - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmxQaFJYdVZHVVAza1lXYmlSQTMxcDRqaEtOb1BjZFp6RFJZNkotNHB1cXhkaGFWUXhqazkyV2FBUndiWDNoeUlEQUhwbGx5MmM3SWVVckpvaDZVbkZrZHFUci1rSTVRVlBOV3ZZNkhiWjB2SEN2MEdmZ1FQMGo2NjIwcTl3NTVhMG80Y0tLWUZRTjhPU3pGUlJHZzBkaE95M25OVWU4dUpWWTFFdmdxWDFYazBpTUltM1E?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "O que está por detrás de tanto calor? - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblNKN3JQNFhIZk92T3NjQ3lCb2ZTSDh3VTVPS2NRZkJGQmFLN0xsU1lCdUt2aS1lQ0dzN0RHYlhjM0tMOHJBRU1TUFlLRWVsRmUxZEtnSmRzSFRmT05hWTdTZUNaaDRmOVJ2WmlKZENNTzBIdTNwTHU2d2c0MURoOUFhaGJYQ2prZ0Z4UVBGVmR4NzE4WUtqd0t1MFB3dW5LR2dqblMwRW1YQi04TG0xLUQ1S0ZodWhxenc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Calor extremo aumenta procura por ventoinhas e aparelhos de ar condicionado - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcFNCRFJnakFhS180RDJGTVlCWlI0TnFMVEhIejhNdlpUdDh4SXE4QTlKOWFRbUtLd0dFX19SWlk1Y2JhSXRPN0tDY0NBR2xncy05WHk5Nmp2S1BFZVp4aDVPb1k4YmsycWhWalFhc0c0dzBvYjl2dHBSZzc5RWNKdXNUNHR2Rm1MakpjOF9NSnM5VW01TzNncHZURHFNend2ak85RjYxcXBTUFFqcldZQS14YmR0Q1ZMTkVsWllYbmNKc3dWSmdjWg?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Calor: Sete distritos continuam domingo sob aviso vermelho",
+          "link": "https://www.jornaldenegocios.pt/lusa/detalhe/calor-sete-distritos-continuam-domingo-sob-aviso-vermelho",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Sete distritos continuam sob aviso vermelho devido ao calor",
+          "link": "https://eco.sapo.pt/2026/07/05/sete-distritos-continuam-sob-aviso-vermelho-devido-ao-calor/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Sete distritos continuam este domingo sob aviso vermelho ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/sete-distritos-continuam-este-domingo-sob-aviso-vermelho",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-03",
           "title": "Calor: Governo decreta situação de alerta até segunda-feira. Saiba o que pode ou não fazer - Público",
@@ -610,7 +696,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "id": "criptoativos",
@@ -989,6 +1075,91 @@
       "lastSeen": "2026-07-01"
     },
     {
+      "id": "eua",
+      "label": "EUA",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-05"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "Trump exalta “a grandeza” dos EUA no 250.º aniversário da Independência - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEgxSlVpOVdWZXpaM1JXOFNtWVM4bmFIY0FOTTFINVlfaVFaZm5YNXM4aUxsWHRoZHliS1BJUUJ0MmRWSE9VWmN1NEF1bzRhT09iZGFmOUVnSV8xb05Jb1V5c2lLZFNLRnJFQjBIUUotNk1jNEFIOW1GWDhvaUdaQXFUT1h0RXBKOUNnaE8zNWx4cFJzcUxOTm5mQ0syYjhVaTFWTjZCRkt4bGM5NFdFNg?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Trump lança comemorações do 4 de Julho com ataque à “ameaça comunista” nos EUA | 250 anos EUA - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZzUxamE3S3dEaVFBRF9VNk1pM1ZqTWdua1lsSDdZakREN1hKWUVNaWp2aE8teTN6MEpjbWhVOEd2NXBPckR6dG5ob01DXzFXWWhWVy1yekdCUmx0b3YwdnNScmk3SU9TYlhUSzZxUWNZZUljaDFfZUM4X1pTNlN2dHJOZ2o4S1oxQVA4V012N2xFS3JmYVFOMTFyRnhNOEdIV1BaaExEYXl2WVY3MHE0LXhqeDhDYlU?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Líderes europeus assinalam 250 anos da independência dos EUA e celebram \"amizade duradoura\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbV9DVndqOWlNUzQ4MWlwVzlUczFINVRkZXlRNERPbnFaNFVVQVBiVTBPcmNWUlY0ZHp3a3hZcVpPbG5WZ1RxQkhBYzFfWWZCdWR5b09GY0dXdGRuVE91TThYNlUzOWNIOWFaUDd0Q1pIOTNOQnlvZW9zYjhTRzNSby0zbk1MbE56Y25lUEpYMjJCd1puYUR3OUdCd3JFNGROblZrcWVzY2p2SGZhUWNWZENaaDBkdWJxVmVPT055T1JRNG1GNGRnMHFOOW9KbzFxbjBmSEFpbzJfR28?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Montenegro destaca \"fortes laços humanos, culturais e económicos\" com Portugal no aniversário da independência dos EUA - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdU5GSi1QbHpKZ1VwZzdfbE91cXpudzBlX21nam8zczFTaWxnSGtlY3ZqZ1dXQTgyVDkzQUdOc21QUXd3Y2pHdnNLV2hMZDdFbUNPR3RMSUxTUUN0S21yZkZkd2FmMmljTy1SbDZqbklrRmhndmx4YkpVVnRJeFB2bndsRXZpQVFnV3RtYlBDMXRRUVRPS1dpaEh2TkY4bDZ6dXBNSDNkN21QaUlfM2cySmd3ZVdiZ19sRUxWMExPRGZZaEMyV2tacWQ1dEhVbXFPTG1aQ2RPSjV6enViaENjdHZlbWh1bTlIWWFxU3VkMG8?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "O calor cancelou a festança: EUA celebraram 250 anos entre apagões e foguetes - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbGl4X3BMZDFUM09weC1KOFlwa1dyVmwzeUtmLWZSc2hkNERWQ1N2NzJWV2U3X3lKaWtPR2VhTXJIdjh1M004LW8xRmlGeXRyWl9hVGNkSFVWVVRIcFMzdENfZzFucVg4SmZZVXdDemVrVm13UlNwWVZ2MUpxalBfd1VHT2t6N0NsSTJ1RkJORFZfdXRQdW5GOTI2UnJVZWR1eEt0VXM5ZXltSVpXb3pYZkFTYWJsNjFxNHdVNg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Presidente da Comissão Europeia destaca aliança transatlântica no 250.º aniversário dos EUA - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlAyMGQyVmFOMmpJNExOZEJ4aE1rYUtSM0I2amJfWm4yX1E1MmJuWGtmdzV2WnRhUFZwanBac2NJaVZZUGVFMVlRNmJac1JBSnBRR2tReFo5QzZFZFVuYmJXN0NJTlE2WUVyUzNpVExqdmJrRDJXbjVUTmtKX0I4Y3lQaThxaDlJUmhKNkRrR1VhY3g5M3Vic1ZFTjhneTJET0JuSUx4dDB5SjRXNkRJVVJOcWh6UHcwdWw3aXRfcmRKaXhiSWJUSnYwN21PRFE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Trump exalta \"grandeza dos EUA\" no 250.º aniversário",
+          "link": "https://observador.pt/2026/07/05/trump-exalta-grandeza-dos-estados-unidos-no-250-o-aniversario-da-independencia/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "A “invasão do soccer\" no aniversário da América",
+          "link": "https://observador.pt/especiais/nunca-vi-tanto-futebol-no-nosso-feriado-a-invasao-do-soccer-no-aniversario-da-america/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Alerta de tempestade forçou evacuação do National Mall. Discurso de Donald Trump atrasado duas horas - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQXFQMDhaQWptY2Joek5odnBHczM5OXNpajVhTGNJaC14MjFoMVVRaEI5ekVENENiSWcwT0p6S1VXUVlETm5lZTMyV0gyLUVEZloyY3lNcjJNZklqVlhIaDdnczBrZi01ZEtFT1Vua2xXOVpvOWpORWlsMEUxdktvZTBhbGVkSlBPdEllNnpGT01oSVNNcXpta3MyN3ZtRUxEQUdHR1hCNUdJenJTbzVKZy0wU3RsVE5tN095R1ZzX0tib19iY3ZOTWVCdjdMUmpW?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Donald Trump diz que EUA são o país \"mais livre e mais forte da história\" - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUMxVVBMUXh1QTV4TFpiQ3o0SDUwZ3BSc0tsaGJWUUdKS3NCc3h2bWdXUloweHlXaElwZlU1NDZRTExiTE1LZUpET2M0WkdWaExITE53NzM5NlFhRmhKMWJ0ZEtFMGNabkkzZ1hYRDcyV0dGZGlWbGstaUxXaEpPRXJ0WGN3aVlQVFBid3hqYk5WS3dlQTlzak5BMzVnSmlhb2c?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Trump sobre os EUA: \"Ninguém pode ser como nós\"",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/americas/detalhe/trump-sobre-os-eua-ninguem-pode-ser-como-nos",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Montenegro felicita EUA e destaca \"fortes laços humanos, culturais e económicos\" com Portugal",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/montenegro-felicita-eua-e-destaca-fortes-lacos-humanos-culturais-e-economicos-com-portugal",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
       "id": "exames",
       "label": "Exames",
       "group": "press",
@@ -996,9 +1167,52 @@
       "occurrences": [
         "2026-06-25",
         "2026-06-28",
-        "2026-07-03"
+        "2026-07-03",
+        "2026-07-05"
       ],
       "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "Professores dizem continuar sem exames para corrigir e acusam ministro de mentir - Público",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWx0c1c1WEhDdU9jU015Szg2eEl0RGZhYllldmJaa25ZQVV1OGk4NERTdllvQzU1LVNMWGpDSjNUZjI5RzA5WUYxZ1V3RVlMek4tb05xdTVTcTF2V1RBa3IwQlJsVVEyTjlBVXRRaUY4VlhXNXZtQklsRDFzNzhPdkZOVS1CaVNMRzhpYjc4TnU4RWphS3BDS0gycEpScVBNeDh4c2toVDB6dk9JWE5ycVNnWTFad0pLdHlJRw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Carneiro exige que Montenegro peça desculpa por situação dos exames - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRzBBN0xZcVpYWUsxMndnVnlwWVFZSW81dFN5M1E3bFNBRW1CeUpLUGlRMk43RlhYY0U5LV9wX2NQa01JTnV5XzBCTV9YbnU4cHQ0OWdQdS1lR2lScXVQY3N3aUVacjlscmdfRUVhNUZPVWJfRklLbG9JS2NLUml0c2Z4dE9ONXFkQWRXTGVnLWRDa2hYLW4yRDRwekVxSW1ycjFRaXY3azgyNHNLckREZzRxQlVOR1RfMkZJd1lXeWlWdWFI?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Bloco de Esquerda vai propor comissão parlamentar de inquérito ao \"caos\" nos exames",
+          "link": "https://www.rtp.pt/noticias/politica/bloco-de-esquerda-vai-propor-comissao-parlamentar-de-inquerito-ao-caos-nos-exames_n1751500",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "23h BE pede isenção de custos da reapreciação de nota nos exames",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/23h-be-pede-isencao-de-custos-da-reapreciacao-de-nota-nos-exames_a1_1751467",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Segunda fase dos exames arranca a 20 de julho e resultados saem a 7 de agosto - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTnJSTEtWQ29pSUV6Q2JucVhKU01yUkZ5SDVPc3dlYjg5S244NTBta2pnVWNOVk1Ya3ZnWl9FOVJiSkZjeG9nYVIwNFRneEtzMzY0c2pGRTlfUEdwMFVVa3l3b0JyQ2hXaHU4T1N6WWpNbmRReGppTUhRNWZMYWpzclJMcEh5MkdWZ2ktQU5tTDdIVXNXWHZ6TGwyd2t4MkUza3JtQnRzbWw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "José Luís Carneiro exige que Montenegro peça desculpa por situação dos exames",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/jose-luis-carneiro-exige-que-montenegro-peca-desculpa-por-situacao-dos-exames",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "José Luís Carneiro exige que Montenegro peça desculpa por situação dos exames",
+          "link": "https://eco.sapo.pt/2026/07/04/jose-luis-carneiro-exige-que-montenegro-peca-desculpa-por-situacao-dos-exames/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-03",
           "title": "Ministério adia datas de classificação dos exames nacionais: notas serão divulgadas a 17 de julho - Expresso",
@@ -1109,7 +1323,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-03"
+      "lastSeen": "2026-07-05"
     },
     {
       "id": "fmi",
@@ -1442,9 +1656,82 @@
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-05"
       ],
       "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "Força Aérea envolvida pela primeira vez no combate directo dos fogos florestais - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdC1pd0NHdzk3aWNET1RCbnVyWGgtODBzWHB3cVpjQTZLNVluMVJHTktLaE0zRmlZbXVvdkpsdk94M0ZHZXdZRTlkTDh4amdtSkxISFp0YlZqUDRISzY3aEZFeUpmLUlrQzVyWFVTcEhFOXBBNHFVc1pjVDVwbU9KVTZGQXdnNXE4NzQ0VmQ1Z0RWendQSVlkZldhZ2Y2R1VvQjhWVjRqWTFJLUhuLU5jMWlFTUlHWi0zLWwxaTd1V3E?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Em Rebordinho vê-se o fogo avançar, na esperança de que o vento não vire - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXdTVmM4VDNqTU16d0xTUTUwcGhfWnJtM1pYTUVaLVRXbnRwTW5NUkh0VHpsTGVGVl9IVEkyeWVUU3JXeGwxbml3MDhlX0lVOEsyRzB3MzVOT2laOHhVQzBrSDk5dFBBNkFiS055YnJ0NHhHN0pfbm83emh0QlZkMVF1dUU4TUtzbFFWX1F2WHdneDF0LTR2b1ViektNM0w5RmJyR19CRElKUDE3eHNpb1k2LXBHRnc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Incêndios: ministro da Administração Interna admite prolongar o estado de alerta - Público",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0RuVFZJZ3hGdVhXVjhJOXpPenpFM1UycjBIQmh6UUYtZFdoNENQRDh2Q3UwQ1B5RUNYY1JBUUJRY3NzdG9WR3d4ZzcxbmdpMTA5UmY3aXJkMWEzNnRsSXo5Zk1xNmxJdHdQWDNQcGU3azE1VU5EVS1wLU5VMWhsaUpsX0dybFJKLUV3U1BGMlZkRzQ1NWc1em9NNGZubVBydV9pTlk1LXdjYlJzMFBEdFVDTnZ6aXJrdWNYRFBTU0RpamJVSVdmUXR1MA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Governo rápido a pedir ajuda europeia nos fogos: foi decisão técnica, não para calar oposição - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNN2RFSlJDRFlPWHBFQ0d1LU52YnBNSjdzSFV3Y0tub3NBOHdqaFRQMFlEWmZyODNCRWQwY21oX003czNXVHVha3k0QXJfSG9KY2FfOHZlY2VxWG5PUVlCcTRSeG8wUUNOMWRYek96TzFYYXhxZ0ZRMFN4YzBfR3JWb2xvOUpZVDNITWR5Wlkxd1FOTWZsY0NHdXl1R3RlTjJOdXVNdVRjVFlKQ0FldmhOeVdlb2ZGc2I1aWs5aS1IdDFMVjZVb05nSzRiTGNmNWJ1?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Governo admite prolongar estado de alerta - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOazExY2FrRjB0MVFJY1gyUmhuMVE2ejVJMGZ0bWhFNVMxNUx3TTZyM1Z4VEd3c2ZtRU1MUE1zOTdWZzEtWHZTSnhKVVlmYTM3R1RYZ1BjWjBZS01IYVRnZGt2cmkyWV9MS2xtd2w4V3dPUXIwQlBYY3Z2cWV4aGlKalZ0d3lvTkR2eGNXaDhMMEU4b2pRUFE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Von der Leyen garante que \"a Europa está com Portugal\" no combate aos fogos - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2dkOU1tLUJrUTh4bHlSQ0FEUXl1QmpxRE1JRVlHTVNBdzFSQzd1dTROUlk3MnptbzhuZUZLZUl3T0JCdkg5UFVQM3owcXZlUklJZEp0SVZ0am83U0xTTGZsRTd4VDhwRDU2OHRvN0VqU3pEOHlMNkZOZ0lON01wc1BBUjkxZTF3TVE0YVhJN2ZMaGI5Nno3ZHlnVjd3Y2RYVm1fbkpVLWF4YnpiZXpKal9jMlpXcmNoc0pzMU95MXM?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Força Aérea participa pela primeira vez no combate direto aos incêndios com dois helicópteros - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZjVXXzJFVXdWdnRxOGdFLUNHdnlFOEFYMFJYVzQzdU1fUndCX3BCdTBPblktQUFnVUV3N205MGt0cElqNlFwcVl0c2d1dnJfdThmeHQ4RkpJTWFNU0xVSkl6aTA5U1JqTmJ4cW5Od1llbFlod3M1aEFWWU44b2s5Mlk0RFZDakxiMGFTZWpVaDI0Wm5odzVTRHFjV0NPMmtfeFJ0MnVHLTlQb3hnSWpXZklhSG9oR3JrVXNRVWstT2Z6ME1BeHd2ZEY1TWozZ1VLYkhRc1IxT21KdHc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "No Caramulo, onde o fogo sobe e desce a serra: \"Para evitar os grandes fogos, o país tem de queimar mais\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdWN0bG1FMUhyT3Q4aFNPaXFScW9SUTNBSHM3Y08tSHZYbHktLUtncHJ6YlMwZ2k0bXFyWnZWSEtSZHZ0U2NZSVg4UGIwZHBhcE9MaFhZaTBDRVM5TjZ3V2lxMDY0UlZJMXlGWE8yWWhUYnVKMEZIelZjTDVaY1oxS0hkVWhfQjc1Z3o0WjBFYkNSWVVUeUJBNU5idTN0SGFqYWt1OTJHcUVTVEk4ZkRnMU1Ua2RTMHpUTkNIV28zRzVjWTh3RUdwWmRYVHltTXN6REVjemg2X0lLelplMWVtYlU3eUloNjQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "1.200 operacionais ainda combatem o incêndio em Vouzela",
+          "link": "https://observador.pt/liveblogs/incendio-em-vouzela-continua-ativo-com-uma-frente-dominada-1-300-bombeiros-combatem-as-chamas-em-todo-o-pais/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "8h. Incêndios. Chamas em Vouzela chegaram a várias povoações",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-8h-2448/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Incêndio de Vouzela continua ativo com uma das frentes dominada - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGZEczZtbzY2YmVxbUtFT2dhUTI2LXF0dHcwZVRyQmNnWDlIcHJ3MHlwTVpRNy03OEtLNkFfbFNKUnpWSjBQdkFKaTZ3aTFwVW10azNvOHFMaGRpWDZOaXlkYnh5RVhYVnFORElxXzFzMWF1NmlIa2tlelV6SWg1R2taeXdTLWN0YXFvUldIcXV3U1BT?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Pela primeira vez Força Aérea intervém diretamente no combate às chamas - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzhhSEt6NmtTdXNtRFZXOGRZZ0NyWnhxQWxJZzdqcUR6SHhzb21WZ1pDUVFuMUJlYWZVX0I0QXR1cGhLdXp3a3lyWFdndHhDV1lzZG1oSmtMQnNrTWRnZmNZMVp4dUxHWDhvMUctSEZ2YjZLalp3eWJxdTh0dXpVMzJCUUlyV1FGTnVFeTVBeEdWT1h2b0hkQkxXVQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
         {
           "date": "2026-07-03",
           "title": "Com Portugal em alerta para o tempo quente, fogos mobilizaram quase 2000 operacionais - Público",
@@ -1699,7 +1986,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "id": "inflacao",
@@ -1758,9 +2045,34 @@
       "occurrences": [
         "2026-06-28",
         "2026-06-29",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-05"
       ],
       "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "Milhares juntam-se para “último adeus”a Khamenei e gritam “vingança” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNcGFSTWpxdUxMNjl2MkR2cTIxTzBIbENMTnRFY0FPZURJOVV5V0pDb3V6bm9XZ1RoNGF0NV91dGY1Zzd6amRVR2VDblBjX0o3dzJoeU41Wm5oVzVxMjhUd3hoWE9QX3B4aGc0aUNZdHBmb0Y5ZDRoclJIeHEyRDk2WnYyTGVSRUIyTkh0WmowejJYZVN4RlYyenBNS3BiOV9lRUxCV0xrQ0xUNkF3dS1KLXowbVJveUtqLTdlWjVETXlheF9YaGxhelNMU2xwSlJMVmNnTUIwV0k0dEcxZzZmb0MtdldxS3lGOWZLeUljeEdNTlVnaTZwMi1sdmxaTHMyUjVrUTBaTEdQYVJPMVBDbTlSS2dOeDY1X1JvbXV2eWh4cDdhcWRyUEY2QUJnSUZzVG1WZ3kxaXJRTmlGNWpVMG9VckRaalBVVU1UODQ3eDlFNGxBV3h6d24zNlFDQi1teW5NVlpreWpjZnhGMXl2ckpKdjZtblFwM1l0UngtZGJNU1EtSkFGcTFCeFhmeS0wSTkyM1J3?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Funeral de Khamenei. \"O Irão não está isolado\"",
+          "link": "https://observador.pt/programas/gabinete-de-guerra/funeral-de-khamenei-o-irao-nao-esta-isolado/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "3 filhos de Khamenei aparecem no funeral, mas não o sucessor",
+          "link": "https://observador.pt/liveblogs/tres-filhos-de-ali-khamenei-aparecem-no-funeral-mas-nao-o-sucessor-encontro-entre-netanyahu-e-trump-previsto-para-segunda-feira/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Onde esteve o corpo de Ali Khamenei nos últimos quatro meses? ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/onde-esteve-o-corpo-de-ali-khamenei-nos-ultimos-quatro-meses",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-29",
           "title": "Iranianos lembram a Trump que são eles que mandam no estreito de Ormuz - Público",
@@ -1889,7 +2201,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "id": "irs",
@@ -2078,9 +2390,70 @@
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-05"
       ],
       "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "Klopp assume Alemanha, França critica \"truques\" do Paraguai",
+          "link": "https://observador.pt/liveblogs/dia-25-do-mundial-2026-martinez-fala-em-conferencia-antes-do-jogo-dos-oitavos-com-a-espanha/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "No feriado da América houve \"Ronaldomania\" em Dallas",
+          "link": "https://observador.pt/programas/diario-do-mundial/no-feriado-da-america-houve-ronaldomania-em-dallas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Anthony Taylor é o árbitro escolhido para o Portugal-Espanha - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOUdMNjBsLVQ2c3BvS0xZREJoRldsbV9VQjMtMmE2SWNTQWpKWl9pZEJEWmpZdWItck5oYlRzbENmZnFhbHk5TlpiNHJmMExvU2dCYWZHWVFtZmdra2hkVjhiY254V3VoUnVNVGV6VC1xQnQtaWNUdmwteW0waTZzM3ItSlJzRkd5UWx5UzlmWktRUQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Mundial 2026: Portugal pode impor-se pela força coletiva dos médios ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/mundial-2026/detalhe/mundial-2026-portugal-pode-impor-se-pela-forca-coletiva-dos-medios",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Seleção portuguesa recebida por dezenas de adeptos na chegada a Dallas ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/selecao-portuguesa-recebida-por-dezenas-de-adeptos-na-chegada-a-dallas",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ \"Autêntica loucura\": Pedro Neves de Sousa recorda momento em que Ronaldo acena à multidão em Dallas ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/detalhe/autentica-loucura-pedro-neves-de-sousa-recorda-momento-em-que-ronaldo-acena-a-multidao-em-dallas",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "O calendário completo dos oitavos do Mundial 2026 e onde pode ver os jogos",
+          "link": "https://eco.sapo.pt/2026/07/04/o-calendario-completo-dos-oitavos-do-mundial-2026-e-onde-pode-ver-os-jogos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Está fechado o lote dos oitavos de final do Mundial 2026: conheça o horário de todos os jogos",
+          "link": "https://sol.iol.pt/desporto/noticias/esta-fechado-o-lote-dos-oitavos-de-final-do-mundial-2026-conheca-o-horario-de-todos-os-jogos/20260704/6a49285a0cf2d0ed34b8798d",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "As 16 seleções que têm lugar marcado nos oitavos de final do Mundial 2026",
+          "link": "https://sol.iol.pt/fotos/as-16-selecoes-que-tem-lugar-marcado-nos-oitavos-de-final-do-mundial-2026/6a49232d0cf27cac6fcf6d64",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Mundial'2016: França nos 'quartos' ao bater Paraguai com penálti de Mbappé ]]>",
+          "link": "https://www.sabado.pt/desporto/detalhe/mundial-2016-franca-nos-quartos-ao-bater-paraguai-com-penalti-de-mbappe",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-03",
           "title": "Áustria entrou no carrossel espanhol e já não conseguiu sair - Público",
@@ -2695,7 +3068,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "id": "nacionalidade",
@@ -4184,9 +4557,70 @@
         "2026-07-01",
         "2026-07-02",
         "2026-07-03",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-05"
       ],
       "articles": [
+        {
+          "date": "2026-07-05",
+          "title": "Sobe para 93 número de portugueses e lusodescendentes mortos na Venezuela - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNnBqTGJxWmdsSUR3ekpPbDNCRWJ2OENuejc4N0ROcFVJMkwyQ0dGN3M3SUNVUXNvemdjMWJPUFZOd3pJVHdMT0UwNjBUcm9idld6ZE9JeDBzLUp0MjBUS0dURXUyZkI0VlhCR25kTTFlUWk3VENsV0dOVHFXODEzNW9mNTBKNlZQYkRzenJFV0ROLWZqdUdNVmw1bTdpUlRGMGxOZlNjQl9VUExoMV9rRTJDdzh3bk0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Venezuela anuncia medidas económicas após sismos",
+          "link": "https://observador.pt/2026/07/05/venezuela-anuncia-medidas-economicas-apos-sismos-e-em-cenario-de-descontentamento/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "María Corina Machado agradece apoio dos EUA",
+          "link": "https://observador.pt/2026/07/05/lider-da-oposicao-venezuelana-maria-corina-machado-agradece-apoio-dos-eua/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "6h. Venezuela. Portugal cumpre dia de luto nacional",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-6h-2424/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Venezuela anuncia medidas económicas após sismos e em cenário de descontentamento",
+          "link": "https://www.rtp.pt/noticias/mundo/venezuela-anuncia-medidas-economicas-apos-sismos-e-em-cenario-de-descontentamento_n1751476",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Venezuela. Homem resgatado ao fim de oito dias nos escombros conta história de sobrevivência",
+          "link": "https://www.rtp.pt/noticias/mundo/venezuela-homem-resgatado-ao-fim-de-oito-dias-nos-escombros-conta-historia-de-sobrevivencia_v1751495",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Sobe para 93 número de portugueses e lusodescendentes mortos na Venezuela - TSF",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjRuSFJZYng2OVV6VnFwNHdTaU16S0hOUUhQSXhqR0Z2UnM4TTZxbnBhRlR6XzgyeUR6QS16cXJoOGFmM3V0ZHN5dVAwY3doTlppNU9zbjgtRFFSb29UalFxSE5uZkMzTWJmeW5GWG56aE93SmJrWkhsZGpZaHhmbkEtS2VfUmU5WWJSSnhRekd6bjkzZWtSYTRzOFJKNEQxSVlyS2lSWkw4VjZBeHFxeGpNRUQ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "Venezuela anuncia medidas económicas após sismos e em cenário de descontentamento",
+          "link": "https://eco.sapo.pt/2026/07/05/venezuela-anuncia-medidas-economicas-apos-sismos-e-em-cenario-de-descontentamento/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Quer ajudar as vítimas do sismo na Venezuela? Saiba como  ]]>",
+          "link": "https://www.sabado.pt/dinheiro/detalhe/quer-ajudar-as-vitimas-do-sismo-na-venezuela-saiba-como",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-05",
+          "title": "<![CDATA[ Ronaldo envia mensagem (e convite) a menino de 11 anos resgatado dos escombros na Venezuela ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/ronaldo-envia-mensagem-e-convite-a-menino-de-11-anos-resgatado-dos-escombros-na-venezuela",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-03",
           "title": "Na Venezuela, estudante de medicina salva vidas em “hospital” num antigo McDonald’s - Público",
@@ -4339,7 +4773,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     }
   ]
 }
