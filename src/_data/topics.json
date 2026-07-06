@@ -840,9 +840,28 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-27"
+        "2026-06-27",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Número de mortos por ébola no Congo ultrapassa a barreira dos 500 - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV19lc0RUTl9Dc1hxMkhqNW9sU09RelZxa3FPcGx1bHVDZDhMaHZqZDZuVjBZcjhmSURpOTdEc3dRNlBtX2NvYmxNSG5XdWR2VFBmZlFZak1qcGlhY1FUQnZ6RkI1VmdjTFZjbjlXZHdCb3hwa1RBNzZ6d3hXeFM0RXVOY1FoRGV6X2hlSTlIeTlhc2VRRzUwUXBRUnBCZWtYNzZzNFNHRVFHUmc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Número de mortos por Ébola na RD Congo ultrapassa a barreira dos 500 óbitos - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlVDUnNCV0RfdjNScTU1dHYzcV94a04yZUFleFpQVmhzNVVKMjkxaFlWSTZLMTh1QkhrUjJaZXlqemE1d0k5Z0RUTV9KYng5NzQxQVFpQWlrQldyRzdSb3pFWUF5OHNhVmxZU19WaDdfR0kxdzBPTDhMR19jd1RvU0F5anZ1dG0tTndycmNmUlRyLTFnRGVoa0VwU21HczlGa25LSi1IQQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Surto de Ébola já matou mais de 500 pessoas na República Democrática do Congo",
+          "link": "https://sol.iol.pt/internacional/noticias/surto-de-ebola-ja-matou-mais-de-500-pessoas-na-republica-democratica-do-congo/20260706/6a4b76850cf2d0ed34b87aef",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-06-27",
           "title": "RDCongo eleva para 321 o número de mortos por Ébola",
@@ -875,7 +894,7 @@
         }
       ],
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-07-06"
     },
     {
       "id": "economia",
@@ -884,9 +903,64 @@
       "aliases": [],
       "occurrences": [
         "2026-07-01",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Novos Certificados do Tesouro começam a ser comercializados",
+          "link": "https://observador.pt/2026/07/06/novos-certificados-do-tesouro-comecam-nesta-segunda-feira-a-ser-comercializados/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "MEE alerta para risco de recessão na zona euro em 2027",
+          "link": "https://observador.pt/2026/07/06/mecanismo-europeu-de-estabilidade-alerta-para-risco-de-recessao-na-zona-euro-em-2027-por-tensoes-externas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Maior credor de Portugal teme problemas graves na IA e risco de nova recessão na Europa - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcWlKa05NRXFWcElNMkFETDVxRXFOTVpZOC03TzNRaE5xWkVyRkxmQ3FMQjNlYWJrVkF0VTE5ODV4UExQV1N1V0VONHQ1M1NGb0FKWGI3ZmRjeFlmdUQtdEppbDRSandZLXJxTWg0eFRXUGIzTTNjd0hCUUxvTjU1ZmpTcDZxT1BTRUtjQXZuakFQOHJVOHc2dm8tTHFkU3BmNGdfLUpobzZvU1EyOEVaLVFkY3RXWU1mUkM2dnp5RDRxYnJtcFR3T3VMWndKRGtxTlV2QXZ3RWM2cVBNRGR4ODdjVU5rREpENFR3OFQyblQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "EasyJet aceita proposta de aquisição por fundo de investimento dos EUA - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN01GOEtCbXc3WWZCa1QweV9FX3ZCd2tlMUZQWGhsMVExM3pHSmlKd3NOZklnaFZnVEJHTWNuQWxaZVVwOFNFM0dhMy13RGJNQ2dGOHUxWW9kM0FhTHBzQW1UZXQzNno5eFp2eVhDYjZrSWpxOUV3bzNsVGlFWEpsVkFKVmVuTUFwWWNsenBxbmZ5U2kyRF80eGRoUTIyYkxDOFpv?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Rendibilidade das empresas sobe para 9,5% no primeiro trimestre",
+          "link": "https://eco.sapo.pt/2026/07/06/rendibilidade-das-empresas-sobe-para-95-no-primeiro-trimestre/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Taxa Euribor desce a seis e a 12 meses e mantém-se a três meses",
+          "link": "https://eco.sapo.pt/2026/07/06/taxa-euribor-desce-a-seis-e-a-12-meses-e-mantem-se-a-tres-meses/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Empresas portuguesas arrancam 2026 mais rentáveis e com menor pressão financeira",
+          "link": "https://jornaleconomico.sapo.pt/noticias/empresas-portuguesas-arrancam-2026-mais-rentaveis-e-com-menor-pressao-financeira/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Euribor desce a seis e 12 meses e mantém-se a três meses",
+          "link": "https://sol.iol.pt/economia/noticias/euribor-desce-a-seis-e-12-meses-e-mantem-se-a-tres-meses/20260706/6a4b97380cf2d0ed34b87b13",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "<![CDATA[ CP normaliza oferta após descida das temperaturas mas mantém medidas preventivas nos comboios ]]>",
+          "link": "https://www.sabado.pt/dinheiro/detalhe/cp-normaliza-oferta-apos-descida-das-temperaturas-mas-mantem-medidas-preventivas-nos-comboios",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-01",
           "title": "Acordo no Médio Oriente não trava subida da prestação nos créditos a rever em Julho - Público",
@@ -961,7 +1035,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-06"
     },
     {
       "id": "educacao",
@@ -1168,9 +1242,58 @@
         "2026-06-25",
         "2026-06-28",
         "2026-07-03",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Plataforma para correção de exames nacionais em manutenção",
+          "link": "https://observador.pt/2026/07/06/plataforma-para-correcao-de-exames-nacionais-em-manutencao/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Plataforma de correção de exames nacionais \"em manutenção\" até às 15h - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbW9pdWpNbHNTaW5ocXRBRkdtaEhFMEV3TFNJQ1hyR25Yb2pWSWN5Z05wY2kyTkpheWlCbXBZeDNiLUFNY0hLMVVpUjU4ZFVTQUtvaEU2WlJKOXVmZ1Jxcm1fM1V0NHVmNk1JRU5fa0I2Z3FyV045SUhSR3Zqd3dxREtCa2RwZ0NnbEJpYkpjODAzQlU?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Exames secundário. Novo atraso será fatal para o processo",
+          "link": "https://www.rtp.pt/noticias/pais/exames-secundario-novo-atraso-sera-fatal-para-o-processo_n1751658",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "PSD disponível para audições parlamentares sobre problemas nos exames nacionais",
+          "link": "https://www.rtp.pt/noticias/economia/psd-disponivel-para-audicoes-parlamentares-sobre-problemas-nos-exames-nacionais_n1751667",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "IL pergunta ao Governo se vai adiar calendário de acesso ao ensino superior",
+          "link": "https://www.rtp.pt/noticias/pais/il-pergunta-ao-governo-se-vai-adiar-calendario-de-acesso-ao-ensino-superior_n1751668",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Novas regras de acesso ao SNS: o que muda e quem arrisca perder o médico de família? - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQXzAtZ2JNaU1vVFV4SjhkNFNjNlJacHRqd1dRWFhOd0R4NnFWa0ZqRU14Rk5vSHVYZVdOdlhBM3lGT1hXYUEzSEJHZkhsQmRCdmIyc1dveEFyS2lLY0lwMWdaNEVhWC1zRzJGdmhkR2FfUnFnLTdyd244b2tRanYyRXpUX2tJTVdFalhkanhPT1QzU3o0OFhxOEJrQkdSUG1kNjdXcGJ3S1JETlVUZENLSUdQMGNzdTBneGx2cHZnYS1FZlpud3BUV1FpakNXVnZkcVZuQWpR?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "<![CDATA[ Plataforma para correção de exames nacionais em manutenção ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/plataforma-para-correcao-de-exames-nacionais-em-manutencao",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "<![CDATA[ IL pergunta ao Governo como compensará os alunos prejudicados por esta situação ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/il-pergunta-ao-governo-como-compensara-os-alunos-prejudicados-por-esta-situacao",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-05",
           "title": "Professores dizem continuar sem exames para corrigir e acusam ministro de mentir - Público",
@@ -1323,7 +1446,80 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "id": "fifa",
+      "label": "FIFA",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-06"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "FIFA perdoa castigo a jogador dos EUA e Trump agradeceu - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGpoNEFNbHY2dzh0dFJvMWxQS0g0M21WNDRDbWhVUGZRRjU5eWJCNXpVYXRTLVMtWXNMWlkyakFhb1l4MWRMTld6ODZfd2ZSQTJQNnpoMUNPYjFPc0JhMW1LRG9RU1IzS3J5enltRXZHNkktOVdQbG9tRWRZb2prSmZZMTJTYkt2M1I4bHZTX2lsYzM4T0k0Z2xUSHZJcUZJODVuS3JNdzhrZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Trump ligou à FIFA e a FIFA retirou suspensão ao norte-americano Folarin Balogun. Federação belga diz-se “perplexa“ e promete agir - Tribuna Expresso",
+          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNT19SNGJkbXJIRnYteVlVeklUbnRfNXZ5UlZjTkRPakJKYmhNeFB6SDFjTFBtMW1vNUdlVFRUNnpsRnZHWldRaURubU5oajNKd0J0RWpReTVOVlU5NVZjVTBDYWw0U0FEMlRqU01ONHJYTFNhR2xNTFpxdXBxUnQybnhUb1EyUzlkc0szaGl0bnJtbWw3MTl0bDNXaTE0RFZRMzJ0TmRBRkYwQ2RTY1NDN0R1aEFTeWdaN3gxLUVYTFRFR3lLckpZTTNlYVVLMEkyNlVzUjRKWE1DZmVncDRrV0N0bFlTdkdtSERLWWlXWWpHb0pydmp6M2pNcWMzWlhLellheVhXNFJ4TUt4QWlRSnI1Um8ySzhx?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "UEFA condena reversão da suspensão de Balogun",
+          "link": "https://observador.pt/2026/07/06/ultrapassou-todos-os-limites-uefa-condena-reversao-da-suspensao-de-balogun-feita-apos-telefonema-de-trump-a-infantino/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "<![CDATA[ Governo belga chocado com decisão da FIFA de suspender vermelho a norte-americano depois de pedido de Trump ]]>",
+          "link": "https://www.cmjornal.pt/desporto/futebol/detalhe/governo-belga-chocado-com-decisao-da-fifa-de-suspender-vermelho-a-norte-americano-depois-de-pedido-de-trump",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Mundial2026. UEFA acusa FIFA de \"cruzar linha vermelha\" ao suspender castigo de Balogun",
+          "link": "https://www.rtp.pt/noticias/mundial-2026/mundial2026-uefa-acusa-fifa-de-cruzar-linha-vermelha-ao-suspender-castigo-de-balogun_d1751652",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "\"Obrigado FIFA\": Trump agradece pela suspensão de castigo a jogador norte-americano - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOanZycnpvSjF5MlpwZG5XUm1ja1hIdHZ2Mlk4TXRUQ212NGcwd0pGYVVjYVJxY19KNnFrejdHdy1XNmo4eTh2SUdUb2ctdWNxN1NzLWJtVWhJSnBxMFo5Rlc3bFZJRmsyNEpldnZyRG9xRk1PNmFmLUlGUTdzdVdESll6QnFOd3VYZW11V0xoTWg0dWFXU2tVdXJVMkxpMjI2c203T284ZWQ2czR1MjhnMF94U1hpQVZkWmUweWdMcVZFWHFhMDRpR21lTXprcFNZel83VlJsR2V4eUcwSUk2bDRla1BhVTRsajZvSEc1NGlJSmhtLUZrVGRiUkJnWjRT?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "UEFA acusa FIFA de passar \\\"linhas vermelhas\\\" por suspender cartão vermelho a Balogun - TSF",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEFsSUlzUHJ4XzhmSjV0LUhhRFgyVUF5UWtGUnhKcndBbFVEYmJ6ekZsMWlZd1lyd3ctdW0yNzJRVVp2bEFTNEdVdHhZcktya0JPSnZxN1RtaGR2OUxweER5V1NvV3h2c1VXNkJrMV8xYUR5WF9KT3ZEeWFiMUJ1d1hhNnBUOTZSQlZ6dUQ2VlFQTlI5OFp0Tm5sZW5XS0xhNWdBN2hYcHYzS2xfSDdVUmpLLTM?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Mundial2026: UEFA incrédula com decisão da FIFA em retirar suspensão de Balogun",
+          "link": "https://jornaleconomico.sapo.pt/noticias/mundial2026-uefa-incredula-com-decisao-da-fifa-em-retirar-suspensao-de-balogun/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "<![CDATA[ Mundial2026: Ministro belga diz que caso Balogun é flagrante desrespeito ]]>",
+          "link": "https://www.sabado.pt/desporto/mundial-2026/detalhe/mundial2026-ministro-belga-diz-que-caso-balogun-e-flagrante-desrespeito",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Trump intervém e FIFA muda decisão. Folarin Balogun vai jogar contra a Bélgica depois de cartão vermelho no jogo anterior",
+          "link": "https://sol.iol.pt/desporto/noticias/trump-intervem-e-fifa-muda-decisao-folarin-balogun-vai-jogar-contra-a-belgica-depois-de-cartao-vermelho-no-jogo-anterior/20260706/6a4b6f090cf27cac6fcf6ec4",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-07-06",
+      "lastSeen": "2026-07-06"
     },
     {
       "id": "fmi",
@@ -1657,9 +1853,52 @@
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Reacendimentos em Vouzela preocupam. Protecção Civil alerta para trovoadas secas | Incêndios - Público",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ2dZNUVsaFlHZW5oa2xOOFF4WDl6TVg3dHN5SDd6eDMxbzM4Q3JnTHpSZlFKS21MTjEzQmRyc2hpUVVXRXI4VnpuLW1HcGdMYWZGYTVGSFplc3lPQ0ozQjVGVEQ1M28wOUd1NVJCY2t5YnBHdllfQW80T2QzU3BJQy1aelpiLU1NMHM3WWdweVZnQjRNaVlwMl9YLTc1QzREV0ozS0JTeWNhOVE5MGQtb3AwM01xOENvdUVwcnlTQ3BBNFBi?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "12h. Mais de 130 pessoas detidas pelo crime de incêndio",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-12h-2377/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Mais de 130 pessoas detidas por crime de incêndio - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMXlfclMwdWItSzdDcUFkaEk0eE9CanhTUnE5SHQtNml6YXRNS3JOaHBoQVY2T2o4clFHWjVlTU5Tb2RZZEpvNTNpbUh2RzI1Vk93RFRTX1pqZTRNVTRNSFBCSHh5NWt2T1gxVThoc3RKWEI4QTlvRkdoZWxaeWJLbkVTc0xlMEE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Risco de incêndio obriga CP a interromper comboios temporariamente - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVpwYVZPdjlwSFBVSmxRV1BDM0UzODg0VnozU2ZocTU3RmRmT0pLZ2NsYzFWZUZtNkl1Z2l4blRCQWJuOE9hY3U0a2k1SDJTZjhObFBPOFdfQWpJZUp5ejNKSFhZbXd6c3FCWFFXY2tzbTBYQU1aMGxjelFPVW9CTFMtcTlRdGlGTEdxckJkNlNkaG0ybnZubEFQRmkzQQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Risco de incêndio obriga CP a interromper comboios temporariamente - TSF",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm41a1VKcUhLdmNOR3hZRHpCN2FGYmk5dTN6ZzdJS1FqUl9mZ1plTnM2elhDMElXOVNDZTViMzlhRlVKWXpPc1VLZUJ4Ujlsa0xRZ195djgtUUxodExuc3QwSmtDQ2NvMGVNVDdndzlUSURwZk9LUjhqY2NpQjF3cC16R1Q0RHdRdXYzUkg2WXRkazJTNDgtZnE1ZFlsT0dkd2hzcHRWZVdiWWFRSVRnZA?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "GNR já deteve mais de 130 pessoas por crime de incêndio",
+          "link": "https://eco.sapo.pt/2026/07/06/gnr-ja-deteve-mais-de-130-pessoas-por-crime-de-incendio/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Mais de uma centena de concelhos em risco máximo de incêndio",
+          "link": "https://eco.sapo.pt/2026/07/06/mais-de-uma-centena-de-concelhos-em-risco-maximo-de-incendio/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-05",
           "title": "Força Aérea envolvida pela primeira vez no combate directo dos fogos florestais - Público",
@@ -1986,7 +2225,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "id": "inflacao",
@@ -2391,9 +2630,52 @@
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Haaland atirou o Brasil para fora do Mundial - Público",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHpacjMtaGdtMWZsVEpneWx3Z2lmSFhGOW9yZGtDNGtsR2UwVmxmR2I2c01LbnM1SlIzZTdJWWQtQTd2Qkc0empfRjU1b2d6NEVBY2F6allSN3pxSXpia1lDdTlOX29hTnZjQTJVUmdrWk5KajBtbURBYktJTEhVR19QTzU5aE9JaTg3ZUtuc1lEcENHSnRBMUpCNjA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "A Inglaterra sobreviveu a tudo no melhor jogo e no melhor palco do Mundial - Público",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRFFHOEV2YUtLNm1FWVBNRFFjb0wydkgtbFE0aXQ1eWJDUGdOWWQ3XzJlQ3kzeUdTR3NaMDlVMlBfSnFPdmFUR2w2RXdJRjhfMUVCVi1qMkJtb21FeEJNekV1azQ5ZmNFU2oxVU42bVJ5Ui1JcTdRN1hJNmdSZFRwM2Y4VEc2WW9OVHEzNS1PNkNOVnZ6ZXQ1aEs5d3ZnSk1pTHJSMzg0Z2JfVEFGYkhRWXJ4NWN3YlR0elZyZ1B3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Cristiano Ronaldo confirma: \"Este vai ser o meu último Mundial\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2pvMjVpcmxhc0J0aUUyUTJZbHpYZ1JaTVpCbmNvMXMtLUgxejlNUU1NbTVZcGZ0SDNpNUxtS2d0MVNmOGlqNkVRbHlyay1NMW9ENEtNUjdMZXU1MS1XYWFhZXd4RHNRT19ucmtKV0xZMVhUakZwWWMyQk1hZldQTC1QZU9vdEhlTGRXUmk4b014bVFiWURSN1IzQlhwT2QwbVVRalNFNEQ5alJjTFdIcFN3S1dBYzQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Noruega faz história e segue para os quartos de final do Mundial após eliminar o Brasil - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVVOQnhVQlRzTWZUbThKdjJrem9jYTYtMHlCbnJYR1JwLTIwU25nMVpMSjk1dU1NQXA1VE1DUHU2b0xQUVBTTnFmSmR3N2NxS1FtbHlVLUVuV1ZCQUdCLXRyNFFBdVF5ak01TFNFYmc1cGtDME1yWHZZTUlXaW13anpiUW9kZFIxdzRvMXppRUZRdURvUG5PaUltdXZKRk92TThGa0VlZExHaklkRTYyN3o4RTF6MWp3YXUxemxfZ1hvUGVtQUZGaC1lTQ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Inglaterra reduzida a 10 elimina México e segue para os 'quartos' - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXhkQnlIMHh1Zl9ibHM5TTIyTHB5YkNoMmwyb3dyaDhveU95SzRFbXJZb2l3cjdfU05TaWNBSnR3TUZpSnZES1UweWh3UUk2NGRTNUN5emdKaWM4eXlvZkoxbWJUMlFiWmZBQ3pCRkUyVlhQMVg5aHVKd3U2YzBXOHZOSmNRbjlDcS1xaHJZMjAxRVloMm9CbA?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "\"Ninguém esperava que vídeo para Seleção se tornasse viral\"",
+          "link": "https://observador.pt/programas/comissao-de-inquerito/homens-do-barco-ninguem-esperava-que-o-video-para-a-selecao-se-tornasse-viral/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Mundial 2026. Sem brilho",
+          "link": "https://sol.iol.pt/desporto/noticias/mundial-2026-sem-brilho/20260706/6a4b85190cf27cac6fcf6edb",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-05",
           "title": "Klopp assume Alemanha, França critica \"truques\" do Paraguai",
@@ -3068,7 +3350,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "id": "nacionalidade",
@@ -4415,9 +4697,58 @@
       "aliases": [],
       "occurrences": [
         "2026-06-29",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Pelo menos 11 mortos e mais de 45 feridos em ataque russo contra Kiev - Público",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWJVQmhKVDNMek5WNnJqdmt3Z3lZeTcxSXAyOXFqb1VyYy1yOEtyM01kRkJtTVNZN0lIX2l4U2ZMbEFGeG96dmtBVXNuZE5RMEFRQkMwQlRqbUtXdGd1ZVV6clkxZmJaWjhIeEpCM2lxM003OFVpX3NGd0FxWTgxRTJqeldDeG9ON2c0S0FLNUk0czlRN1E3UUpFZi1RUmEzSnc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Novo bombardeamento russo faz pelo menos 11 mortos “em edifícios residenciais” na capital ucraniana - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeC1LaUd4S3U0bmhkOHlGWE1NWm9VcVl5Y1U2YWY2OVhZeU1aLUdWcGUyUjJ2SXI1RzJiYm9wUkphVGlXWnZfenRreEFHQlRSN2FlTVU3WmFRNG1iX083OGc4aFhtWi1WaU1Wd0pCQTZDbDdMMEpnLU5heGlLTDRKTTFwQTgxVElZMW9DSjRVQmFoU0N1TmZHajhSOEtOUEdSNU5YdXIxUUpSMklYZ19lbWRUVGNZMl8zdDlqVDJ6SDJSOEZVRERESXhTMVdWRVExQnRnbS1OaDZoeWhjOXRCV1BiUUlUMlE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "A maior ameaça para Putin pode já não estar na Ucrânia, mas dentro da própria Rússia - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVEhPc3AxeXBvdTBQN2w4R2dvRUZ0ay1KUnVWdFZDZW50NjFsS3UtSHRMVlVhWlhzWXBLeVczNEVSUlRtUlV2NWJkNnhzTDNFdk9PLUZaVzA2M0ZlUkhnb0c2UFFGdXdRbjdKUGN2UnVtSVFjQWxYalVTRVVOM2NuOUJBSHlybzhlbHd4NzAzbFpoQTR6cE55QVYtelMxODdKam9pRUJNRWF1eDFwb1VpMGhQRHNSVkxiYTJhaktvYjB3MjJIeU9TejY1TGZZS3d6TkVpQlUyZXIwX2VB?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Pelo menos nove mortos em ataque russo com mísseis e drones em Kiev - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXR3cTRCLW1MV0FfRXpRSjMwdnJzdVFkcHVFNmJlajlSaVhacDRMRjdUNUpFYkFaNEtSUmlGb01nSUhkN09VZlZ4T3o1dWlPLVpOa3h0TzgtQ2ZSQ1U1cUJJTFlDbkwzR2tqMzRJNTc1SDJESVJnUTlfQWZnOC1qUWk5cE5kRFZ5cXZCZXdVYTFfMG1RR1RzTkFUR2NfNmtETjFYNmdOR3AyRVE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Refinaria a 250 quilómetros de Moscovo atingida por drones ucranianos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUZMeXhxQm9KTzdHX2Y0OE1lakNyVWx5bFVpXzJnaHhCbHhHSTdjd1JFZjlQOG84TnFzR1U3Z2ptV21oMWJOdmw2Z1lsZFM5OG4zN2pnaWFPeUp6TFI0UFpBajhDYk5UZk1EYkNUcHJTajVRbHZZY1VlSk9OeC05ZG8yUWUtY2JqMXMwZjFvTHlvZVNwRFFIV3VDako2cERUWVZTeTYzZ2J3N0ZtRVE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Compra de 16 caças Gripen representa um \"reforço histórico\" para Kiev - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdENJM2N5ZTE0RGxrWmFOMG5zVTF3U1ZxSWZPeXJReWdQemJIUFZPTVMyYjhaMndNRmpBNGJ6ZFBiSU9zWkQxY2NrcXNOc1htQWtvUU95eUIwMjZ5SXpJVnEwOHlWd3ZuTGdsQUtLc2JNcmNIZ2RrV2dOS0thNDQ5RjRGNmZmOVNaVzBjUEttRXpWWDR6ajlSVVNUSUpDZnZreXZVb20xdGF4QU0?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Zelensky pede aos aliados decisões firmes na cimeira da NATO",
+          "link": "https://www.rtp.pt/noticias/mundo/zelensky-pede-aos-aliados-decisoes-firmes-na-cimeira-da-nato_n1751648",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Avião russo interceptado após manobra perigosa junto de porta-aviões britânico",
+          "link": "https://eco.sapo.pt/2026/07/06/aviao-russo-interceptado-apos-manobra-perigosa-junto-de-porta-avioes-britanico/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-02",
           "title": "Kiev ataca refinaria de petróleo russa e fábrica de componentes para mísseis, afirma Zelensky - Público",
@@ -4546,7 +4877,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-06"
     },
     {
       "id": "venezuela",
@@ -4558,9 +4889,40 @@
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-06"
       ],
       "articles": [
+        {
+          "date": "2026-07-06",
+          "title": "Número de mortes dos sismos na Venezuela sobe para 3342 e o de feridos para 16.740 - Público",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1djQnE5V1EtbVpab0ZCS2o5TU9NNk0yVVRkWGtDYmYxNDU4Z2JPX3JPUjRDSHN5RlkwOWMwaWRKNXNsVk1iMTBydThKbk1VMzdQNDFLeGZMVFJ0M3VIa1dkMk8tRzN5V3QtS01iSWx1alNLWHFCWG9fNFBWS2Y3ZTBCMXFOdzlpZWFuYk84LU80TEM1QUg4clc2MEw5dDhqSVlXYjl5b2xMc2NlWTdB?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Em resposta aos sismos e ao descontentamento, Venezuela anuncia apoios económicos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODh1WGFfTU1RaC0ta2NqWWU3TC15ZFVsdzlzWldpdmxkRnk4T1B3MFNjN0c5VmN6NzlST29oN0RCRDIzaWhrTXRtNUR0UDdZZWxGaG9ZX240NzNFbTBIQ3dIUEYwcDRRVXdMX1pJTmV2cWNvZjl0RU13REpveFpmSjJuRUpjSUc2eUNKb2dGSUhvdml1aXJmaF9fTTdGMWR2MlZWZlBPSlV2MTdzTTlIeXpfZTdlRzR3dndTTm5zQnliZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Porque é que vivem tantos portugueses na Venezuela?",
+          "link": "https://observador.pt/programas/reportagem-observador/porque-e-que-vivem-tantos-portugueses-na-venezuela/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "Número de mortos na Venezuela sobe para 3342 - TSF",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa3lydUd2OWN3Z0IzeGpSeFdDMjRaMDItM3NVZkMtWk1vaFdxNTlEd01HaWFMYzh1RzVOLU4tRS1yd2VRLWo1djlPbWZJTlJ2SWc5ZFVNM2paSTVBdklRdVdPTjRGT1Z4ZGxVS044SmVRY00zaHZjZkNueUhVNl9aSGt0LWlPRXlUcDRIZU13?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-06",
+          "title": "<![CDATA[ \"Comi queijo e ketchup\": menina de 12 anos conta como sobreviveu 32 horas soterrada na Venezuela ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/comi-queijo-e-ketchup-menina-de-12-anos-conta-como-sobreviveu-32-horas-soterrada-na-venezuela",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-05",
           "title": "Sobe para 93 número de portugueses e lusodescendentes mortos na Venezuela - Público",
@@ -4773,7 +5135,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     }
   ]
 }

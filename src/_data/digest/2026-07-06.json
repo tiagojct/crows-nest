@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-06",
+  "meta": {
+    "generatedAt": "2026-07-06T12:11:44.334Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "fifa",
+        "label": "FIFA"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "ebola",
+        "label": "Ébola"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público aborda a polémica FIFA-Balogun com Trump, a eliminação do Brasil no Mundial, os reacendimentos em Vouzela, os ataques russos a Kiev e os sismos na Venezuela."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso destaca a intervenção de Trump na FIFA, a morte de João Milagre, a rotura de água em Almada e os bombardeamentos russos em Kiev."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador cobre a UEFA a condenar a FIFA, a plataforma de exames em manutenção, os novos certificados do tesouro e o alerta de recessão na zona euro."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O DN noticia a plataforma de exames em manutenção, o ébola no Congo, a economia com receios de recessão e o incêndio em Carnaxide."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O JN reporta a detenção de mais de 130 pessoas por incêndio, o ataque russo a Kiev, a EasyJet com proposta de aquisição e a CDU a criticar Paulo Portas."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O CM foca-se no caso Balogun, na morte de João Milagre, na detenção de suspeitos de maus-tratos a idosos e na investigação de duas mortes numa estufa."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP destaca a UEFA a acusar a FIFA, os exames nacionais com atrasos, a pressão de Trump na FIFA e o pedido de Zelensky à NATO."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC cobre a FIFA e a polémica com Trump, a eliminação do Brasil, o calor e as falhas de água em Almada, e as detenções na marginal."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF noticia a FIFA e a UEFA, o aviso de recessão do MEE, a plataforma de exames, e o risco de incêndio que interrompeu comboios."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O JN fala da Euribor, dos certificados do tesouro, da venda da EasyJet e do alerta de recessão do MEE."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O NM reporta a morte de João Milagre, o caso Balogun, a detenção de suspeitos de tráfico e o PCP a admitir moção de censura."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO aborda a rendibilidade das empresas, a Euribor, o alerta de recessão, os incêndios com detenções e a normalização dos comboios."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O JE destaca a entrada da Permira na Quadrante, a confiança dos investidores, o PPR da GamaLife e a UEFA contra a FIFA."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol cobre a FIFA e Trump, a eliminação do Brasil, o ébola no Congo, o calor e a detenção de suspeitos de maus-tratos a idosos."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado foca-se no caso Balogun, na UEFA contra a FIFA, nos exames nacionais, no ébola e no avião russo interceptado."
+      }
+    ]
+  }
+}
