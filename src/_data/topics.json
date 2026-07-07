@@ -1,6 +1,49 @@
 {
   "topics": [
     {
+      "id": "acidente",
+      "label": "Acidente",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-07"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Acidente com autocarro em Agualva-Cacém faz dois mortos e 17 feridos - Público",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTjJ4RGRWNGNvcTVCdnNuUkFrMHo5WWxoWHpZWnQ4UXZNN3lPR2hORzQzR3pqZ2RmbzBZcS1vMzdsQW9hSWRGOFpJN3lMY29HVUVwS25zUjh5RzZWVEVoVlp6aUhYaVZQSDFWX3lzQXBWVGtEaXh4bzQtYzBjLWlpUm55MlN1ajdSVW1JTk5KYzFjMXEwYjdjT2ZDUERUNVZQLVVQbFJHZVgzLTA1M1pKdzRacDg2dldCd0dJOQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Acidente com autocarro em Agualva-Cacém faz dois mortos",
+          "link": "https://observador.pt/2026/07/07/acidente-com-autocarro-da-carris-em-agualva-cacem-faz-dois-mortos-e-14-feridos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "<![CDATA[ Imagens mostram autocarro momentos após colidir com pilar em túnel em Agualva-Cacém ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/imagens-mostram-autocarro-momentos-apos-colidir-com-pilar-em-tunel-em-agualva-cacem",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Dois mortos e 16 feridos em acidente com autocarro em Agualva-Cacém",
+          "link": "https://www.rtp.pt/noticias/pais/dois-mortos-e-16-feridos-em-acidente-com-autocarro-em-agualva-cacem_n1751832",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "<![CDATA[ Autocarro desgovernado mata duas pessoas e fere 16 em Agualva-Cacém: as imagens do local ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/autocarro-desgovernado-mata-duas-pessoas-e-fere-14-em-agualva-cacem-as-imagens-do-local",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
       "id": "acordo",
       "label": "Acordo",
       "group": "press",
@@ -699,6 +742,55 @@
       "lastSeen": "2026-07-05"
     },
     {
+      "id": "crime",
+      "label": "Crime",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-07"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Treinador detido por abuso sexual de menor no Algarve",
+          "link": "https://observador.pt/2026/07/07/treinador-desportivo-detido-por-abuso-sexual-de-menor-em-vila-real-de-santo-antonio/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Treinador detido por abusar de criança de 12 anos no Algarve - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX09jelNXOHZzN2ZFZUZWTXBiU244akNITktnQVJIdzFBZUpZRzY3SDRWUi0zSFBjdmZ1N3dnUlhlYzBXWU5VUWxaQS0waV9tVTNmcGlGcGw1cGtJZTJjdEluaHJnNTZRUnN6MUhpZ0VPTmZCTjJhSnctZUh2RmRDYTE2RFEyczZxeUtacURrNzh3MUwzUmc?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "<![CDATA[ Videovigilância capta suspeito a agredir polícia após furtar em estabelecimento comercial na Amadora ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/videovigilancia-capta-suspeito-a-agredir-policia-apos-furtar-em-estabelecimento-comercial-na-amadora",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "15 minutos: agente da PSP está hospitalizado depois de ter sido agredido por um homem no aeroporto - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZzNVZkNmQ2JZN0pNRURDSjBrQXVhSmtGa1lwT3ZnYWNITFRrb1dkYWZTSFhvVnVCeWpJc3k2RUt5UVZwR2pZX3Rsc3NTcWFXVF9ScERCdGFCVmVDOXZ3dDlfY2pYOXI4WWtuUWdkR2tfQWUwb0lReWtFUEtSd0N2WGdXbnF5ajNPZF80OC1Rb09sU2JnYk95WWdXaEU2WTRZVThCR0lWaTQxclFMU1U3T2hmNmlFSTZlRUtNbkRhVGtXRFBrMmhUM3RneXRaaWk0U05yUTB6ZGl2SHZPLWx2T0tRMlhuM3RjZVZmM0M3ZGJlNk1udzV1NUFCX0JfN2tzRUowUUd1WlV1RWdLNmZQRjRhSS1PUE5CVlJVWW5NT1pGQQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Megaoperação de combate ao tráfico de droga em Aveiro. Há 26 detidos",
+          "link": "https://www.noticiasaominuto.com/pais/3017716/megaoperacao-de-combate-ao-trafico-de-droga-em-aveiro-ha-26-detidos#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Homem fica em prisão preventiva após roubar carro num stand e assaltar estabelecimento em Viseu",
+          "link": "https://sol.iol.pt/sociedade/noticias/homem-fica-em-prisao-preventiva-apos-roubar-carro-num-stand-e-assaltar-estabelecimento-em-viseu/20260707/6a4cdd970cf2f6a1a1e6f569",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
       "id": "criptoativos",
       "label": "Criptoativos",
       "group": "press",
@@ -904,9 +996,46 @@
       "occurrences": [
         "2026-07-01",
         "2026-07-04",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-07"
       ],
       "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Sony esclarece que jogos lançados antes de 2028 podem continuar a ser produzidos em disco - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRW9Zdzhhd3RvaDBmYlZibTFzMUN3c1F0VzROSHdsQmhTdVZXTk9jOHpOQWxDdV9Hbzl4LVJhZlotTDJUcWQ4eUlMR0dVaGdFTlRxUnB2U3hlOXlXWmJYc1Q2VTE3SnF2eDhlYi1DMzNleDg4a3gwWnVRbWZ0Wms5YTV0Q2xkT0xzNG1qME0tbGMtLWxvOEk5LXBBSi1jNjZ4TmU0R21wOWdJMTg2bUJQemxsLUp3SWh2MWNNbE5ZbGQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Tekever compra Cloudsweep e reforça aposta na área da IA",
+          "link": "https://observador.pt/2026/07/07/tekever-compra-cloudsweep-e-reforca-aposta-em-inteligencia-artificial/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Fundo de Compensação tem milhões de euros para as empresas. Conseguir acesso é outra história - Dinheiro Vivo",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR3QxWmRiMFlYekRkSFM3NlI4RlUyU2d3empIWUxtLWxvWGlfMV9mRmdJTk1yaDRvN2llX1pqU2NLMFpwQjZjaEt4SWJGMnROdkZ5aUR3WGFNLVNOTzhEQnpsWTRSWjFSY0ROU2huWWk4a2tuWk9aWE1ncnFoLVlmZnRLazR6NEpxRlBmdDVWbWRITDdqTzdIWUx3LXI5YjlsUlNndFl4Ukp2c20zaTRSbFJMT1VoSnd2cU1RbVhB?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Sonae compra nove supermercados Mercadona em Espanha",
+          "link": "https://www.jornaldenegocios.pt/empresas/imobiliario/detalhe/sonae-compra-nove-supermercados-mercadona-em-espanha",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Taxas do crédito da casa descem a três e seis meses",
+          "link": "https://eco.sapo.pt/2026/07/07/taxas-do-credito-da-casa-descem-a-tres-e-seis-meses/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Produção industrial diminui 3,8% em 2025",
+          "link": "https://www.noticiasaominuto.com/economia/3017687/producao-industrial-diminui-3-8-em-2025#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
         {
           "date": "2026-07-06",
           "title": "Novos Certificados do Tesouro começam a ser comercializados",
@@ -1035,7 +1164,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "id": "educacao",
@@ -1243,9 +1372,28 @@
         "2026-06-28",
         "2026-07-03",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-07"
       ],
       "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Plataforma de classificação dos exames nacionais esteve “em manutenção” durante a manhã - Público",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkppdXRIWnU5Y1R3S0pRODhua2JNbHpYRVhYcXNZRFgxMlJ4bGVVbDc2MUJ0Ti1hNEhEal92ZmxNRmNoRVEtV3p0OXVROHBjcEtObnYtNVh3Zkw5WlQyUllveTZWVXlyTGZoX1hndXd4ZEJ0Rmx1b3RXRWF3aU1nMTF5akdib0JMVm5FWWFzTDVRNHptam9iOWE0TUVjRG9HUFZaQzVTRHhJNmhZbzVVVHZXT0VCc3Y3NERVWg?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Antigo líder da Fenprof exige a demissão do ministro da Educação",
+          "link": "https://www.rtp.pt/noticias/pais/antigo-lider-da-fenprof-exige-a-demissao-do-ministro-da-educacao_n1751829",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Exames em atraso deverão chegar aos professores até ao final do dia, garante ministro da Educação - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPckViMEZPMktFYXUyZG1fbXVpZDk3a2xxU09DelZZWlBHU2ZVanRmX2oxdXk0U3FGLVlaNFpkTWpiTGcybVpsNS1xN1kxVmtqREw2WldOcUM3aGF6emtUa2pQcmV2VWJLdURQNlNPenZoRXAyNnIzQlpScjJOdy1IVUhvYUIyMTNLb0lYOEtteE1QQ2t2N21QeGZZX0NWcmVfMEVRX3NsVjFuVnRvNzhqWXUzWDNsRkxNLVFUT0JLNzN0S3Y0dV9EX3dhMWR3VnZNV1lGM2xGTzNITEtzOE5MX1BlNG5iTE5DTG4zWmJVU2Y?oc=5",
+          "outlet": "SIC Notícias"
+        },
         {
           "date": "2026-07-06",
           "title": "Plataforma para correção de exames nacionais em manutenção",
@@ -1446,7 +1594,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "id": "fifa",
@@ -1601,6 +1749,55 @@
       ],
       "firstSeen": "2026-06-24",
       "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "geopolitica",
+      "label": "Geopolítica",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-07"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Brasil teme acção militar dos EUA após classificação de grupos como terroristas - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnVUUjcxMWNLLTRBTm5DSlhkOGx6Y3htZEpYem5KNUR0SWFtbmp1LW5Zc05FWGdCNE1CeDlLOW9yLWg1dk1vOG1DX0E3dTE4Mmh2YTdGYTJqV3ZTcF93ZllvSVdCYWRGM3BXMjFaWnBqSFlQS2lYMXBUT0Q0eDItVC1Wa2VkdG03Qkl6VjJLb29XT0pwVEMzSk1fX0NaSW1qX3YyY2dJcExIaHJEdGJlSE9tQXdQVk9BbGFzUjAzd2w?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Explosões em Damasco durante visita de Macron - Público",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2ZVY01US1poeTkycVRYODVocVNnMGNzVDlKY05SMkhrZ2V1SDg0ei1iWVJaUTVWMlVveXBoWmkzUzEzWjdkMHN1Zi1nRVNSNEFxdUtGV2pXQWJjNER0OG1GbS1UaFdPLTNZekxHRGszM3RTUmItX1J5U0hMMWh2U0ZiXzZWVHJKRG5XZ1V6cHVNNnRyd013ekdydw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Sri Lanka. 25 mortos em confrontos dentro de uma prisão",
+          "link": "https://observador.pt/2026/07/07/confrontos-no-interior-de-prisao-no-sri-lanka-provocam-pelo-menos-25-mortos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Brasil teme recurso dos Estados Unidos \"à força militar\" em solo brasileiro",
+          "link": "https://www.rtp.pt/noticias/mundo/brasil-teme-recurso-dos-estados-unidos-a-forca-militar-em-solo-brasileiro_n1751803",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Síria pode ser alternativa parcial ao estreito de Ormuz, diz CEO da TotalEnergies",
+          "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/siria-pode-ser-alternativa-parcial-ao-estreito-de-ormuz-diz-ceo-da-totalenergies",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "<![CDATA[ Brasil teme recurso dos Estados Unidos \"à força militar\" em solo brasileiro ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/brasil-teme-recurso-dos-estados-unidos-a-forca-militar-em-solo-brasileiro",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
     },
     {
       "id": "habitacao",
@@ -1854,9 +2051,34 @@
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-07"
       ],
       "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Governo prolonga estado de alerta devido ao calor e aos incêndios - Público",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQXBwaXE3NXNmREZYY21kOXRKaU1aQm5tREh5OFdxTFVaQk9scWJoelBFWUpZZHVrSHprQjFUbTRBTGJsY1Jzb0V2QXJTVDdOVnNsRWdxN0hUX0FZN1pMbTFuU3lKWUZIWEpHbDlGRm53NVVGZXdyanQ5NGJBeS15cFozYzJrSW5YeWg5TEJjR2ZDZkNIcnpmNjBfNFFEV2ZIeTdvUmtJZEpSTURvRUx0U2NZdw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Arderam mais de 15 mil hectares em cinco dias e outros temas em 60 segundos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzF5VW9zVi1SbmdEaWhNRk1lZFJxS1lEX0xvZFlFZnlnVGNVYWtzcmFIYTNJa3N0QS1INzgzR216c2o4R3B6ODlCOElfWVR3SDlUMGhFTVNRTWJDZVBUWm5sMVVpTmtDZ2NuRWMtRVQ1Tnd3LVhaVGY3YnlScU1Obl9oZlBTa1p3bV95TXdfZXpaRDhKZ290dzNuZVdqcUFyd25FM28zc2NMXzBLWFpxM3ZQcTQ5NXhtZWxV?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "<![CDATA[ MAI diz que \"território desorganizado\" contribui para hectares ardidos ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/mai-diz-que-territorio-desorganizado-contribui-para-hectares-ardidos",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Situação de alerta prolongada: dez distritos continuam sob vigilância devido ao risco de incêndio",
+          "link": "https://sol.iol.pt/sociedade/noticias/situacao-de-alerta-prolongada-dez-distritos-continuam-sob-vigilancia-devido-ao-risco-de-incendio/20260707/6a4cb5740cf2b42132db9327",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-06",
           "title": "Reacendimentos em Vouzela preocupam. Protecção Civil alerta para trovoadas secas | Incêndios - Público",
@@ -2225,7 +2447,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "id": "inflacao",
@@ -2631,9 +2853,40 @@
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-07"
       ],
       "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "Portugal adormeceu na siesta e vai ver o resto do Mundial em casa - Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRTRfV05qSFdpcU4yWXBodmJWRlM5bFVKUWhwbGNsRmlTQkw5czNKOGptdnJkNWQxV296blhobFF1WkZZT1hJaDJBQVhBRVdKUHJ1NS10cktZREkwVTJqc2hXZFVFbmtSUndydVFBS0hnZlJodzI3c2tyaGFTdFRHWGM5V05TY2Z2YU5Ca0tIX18wbmY5elU0aDQwQThScmRYMmd0eU9uaHhrTHBTdkdNbEpTaUNqZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Trump confirma ter pedido à FIFA reavaliação de cartão vermelho de Balogun - Público",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanB6RmVwMlB3dVVxdElYMjJJeEdEMTFBZFpFZUVGby1mNllzZmJhQTRZWkhhY0lhV2xkZ3dCTUdkOXIyNE5TcHN3TUxtN3h0UWFCVjZoTWtrN3M2ZktWcFBaYWJ6OGxZb2ZPbXAzYzVWZm9WSzBnWnNOM1JFVF9ZYVhMcDlpZ0tOeUIwME9HekM0VGJFUGkzNzNINkdiSzlmUmFPZHJKci1Gd0U0WUxCV2prSGdGOXFGdFliaVh3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Portugal 0-Espanha 1: as notas aos jogadores portugueses - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlI5OFZURGI3Y3c5WkllX3hEaEE5eTJfMldkQ3JVWTZVc0M2LUw5OXR3eFh0a0ZObDhkMF9Cb2FMb05QcjQ4RWgtVEw2aGNSd0ZuUmpCWnRYVmhHa0pjWEZlUFBpLWx6dWdtU09WOFBSTnRNT3ZsM3FrTWc0anA0a2F3dlRzRDJlY0xvY1JqTFFJakpRQ1ltbi1fWUExNThtMHVLSWZKNUJEZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "FIFA rejeita recurso da federação belga sobre suspensão do castigo de Balogun - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdkhDYTNUaUNEMmdJYWVZbmdXQjFOT1FWdl94TXB4VkF4SWxjYmZ4RC05MDB0NUhsN0FUS3JRaDFQTUFpRkRxUDF5VXJIbVI4SXNIcm5JdlE4V0l1ZEJxRjNtRGEwVlpVMXBqZGxyTE5lRmkyQUdFa0Z4RkxjU05GU2xvOVc1cTV5cHdxclAwLVJRTlFjRWkyTndmOUxEa04tMWFQVkRuVVAxMXYtUmRfUTVOVXFlN090WGI2ZkJ5Z1I1T2FqQmdKQXBXNW5sNUcwQnpUQy1UZUpiU2ZwWXktOTkxNG9wNHdaeGc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Bélgica vinga-se do 'caso Balogun' com goleada sobre os Estados Unidos - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZEhqRzBrdXJSb2tySnpTc09od2h2TzhHaGhWTUhROFpKeUxKeWpaY3ZSb2tzVXB0TENFTEJIR2VaOXd3NnlwcXdsLTFqRjJJejcwTWZQbTJHczRtVFhLWkVueXkxc3FRd3lTZ2RZYW5qYy1aLXlZWklOVWFFcUIxQjZXaU5VV3hhN1pqTHgtX3lBZzlYdWpjWHNMaVFidDBKdG11aGdDcERoc01TRmNTdFB1WnBnQXFwY3dmUkZZQWNfaUswMDBoQjFKd1NKWTBEZ3B5ejJDai1EbzVJYkE?oc=5",
+          "outlet": "SIC Notícias"
+        },
         {
           "date": "2026-07-06",
           "title": "Haaland atirou o Brasil para fora do Mundial - Público",
@@ -3350,7 +3603,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "id": "nacionalidade",
@@ -3464,9 +3717,40 @@
       "occurrences": [
         "2026-06-29",
         "2026-07-01",
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-07"
       ],
       "articles": [
+        {
+          "date": "2026-07-07",
+          "title": "PSD quase duplica lucro em 2025, PS e Bloco são os únicos a registar prejuízo - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOek90c2czd29ZQWVZeU5nV2x2QXJNdzBueVZVY0RpeDRQa0RlRXJyUmdsRVpIRzFmSzRMZUdoX09rTDktRmpGb0U0REs5dmpQR050RmF1V0RpSnNMNk9UTmVpVjRDZzkzSzhnT2lhN1ZVOXpndGpPSlYyRUJlWDVDYWhtMVQ5ZHBJWU9yYXhzVTVqdWVuVjlFSi1sWlJlVFNVVXozTEphZ3VuZnpkTDYzY2tSb1BfaFZZejNGeVJsQ0RLNk0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Líder do PS crítica ausência de Montenegro para assistir ao Mundial com país em alerta por causa dos incêndios - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUFJEOUFXZ2JHZkk2TU45V05kRUdzeEtCN0JBTVNqYndDSTBCbnFsbU9NT1dWbDFFeG1uZk56NWwwTFg0a2JpMEVtbDg1bmh2MWo5TGYwSmZqMlRsdGlyNXdMdUcwRG1Ed2tOMXFVQkw0S2k0Y2diUkIyVXpuX1VTQ3ZrZ2RENlVIWDdyM1ZWWVhoTHFBcXJRQTFfUkttcFBaWEJUS0F1NXhCNzFacnY2RTd3WkN1V1NlVFNMZDVUY3A0RzVBdFVsQWhVSU0xVXZtMmo4?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Governo antecipa \"reafirmação da unidade da Aliança\" e destaca reforço de investimento - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRm1RVEtVbDRSZnpQSE1tb2RPMUxCd0ZUcFRnSVRweHoxZTQ5QVFuWC11cG9fZVdhcDl5MWowbUFqV0hqakUxNjRaeGZGZXk2UjkyTmV6Z3ZoZTFZd0R0QldSTzV2WVZwMmh3cEhmX0ctY3hOdDNjV0JudGRuSXkwM1BEQXF0OWZTWHM3Vng2aWY0SFBJTnZoSDR2MmExUEY4aWtrVjVVclBwbExQajdJUkZpR3NGNW5IbWp4TGJ0TnozdkFMWkE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "PSD quase duplica lucro em 2025. PS e BE são os únicos partidos com prejuízo",
+          "link": "https://eco.sapo.pt/2026/07/07/psd-quase-duplica-lucro-em-2025-ps-e-be-sao-os-unicos-partidos-com-prejuizo/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-07",
+          "title": "Oposição prepara listas para disputar liderança no IL",
+          "link": "https://sol.iol.pt/politica/noticias/oposicao-prepara-listas-para-disputar-lideranca-no-il/20260707/6a4cdc2f0cf2f6a1a1e6f567",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-01",
           "title": "PSD insiste em propostas que arriscam inconstitucionalidade no retorno de imigrantes - Público",
@@ -3613,7 +3897,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-07"
     },
     {
       "id": "prestacao-social",

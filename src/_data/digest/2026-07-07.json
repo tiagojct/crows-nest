@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-07",
+  "meta": {
+    "generatedAt": "2026-07-07T11:16:09.074Z",
+    "sources": {
+      "Público": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "acidente",
+        "label": "Acidente"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "geopolitica",
+        "label": "Geopolítica"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "crime",
+        "label": "Crime"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca a eliminação de Portugal do Mundial, a violenta agressão a um agente da PSP no aeroporto, o prolongamento do estado de alerta devido ao calor e incêndios, e o lucro do PSD."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador noticia a redução do risco do Plano Sazonal de Saúde, a compra da Cloudsweep pela Tekever, o acidente em Agualva-Cacém, e o debate sobre a legalização de associações LGBT em Moçambique."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias cobre a manutenção da plataforma de correção de exames, a crítica do PS a Montenegro por assistir ao Mundial durante o alerta de incêndios, e o adeus de Ronaldo e Portugal ao Mundial."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias reporta mais de 15 mil hectares ardidos em cinco dias, o acidente em Agualva-Cacém, a eliminação de Portugal no Mundial, e a detenção de um treinador por abuso sexual."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã foca o acidente de autocarro em Agualva-Cacém, a declaração do MAI sobre o território desorganizado nos incêndios, e a detenção de um treinador por abuso sexual."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias destaca o acidente em Agualva-Cacém, a exigência de demissão do ministro da Educação, os ataques bombistas em Damasco durante a visita de Macron, e a cimeira da NATO em Ancara."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias cobre a eliminação de Portugal no Mundial e a polémica Balogun, o acidente em Agualva-Cacém, e a agressão a agentes da PSP no aeroporto."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF noticia a decisão da FIFA no caso Balogun, o calor com aviso laranja em sete distritos, e a cimeira da NATO em Ancara."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios reporta a compra de supermercados Mercadona pela Sonae, a entrada da Trade Nation na Europa, e o excedente dos municípios."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto destaca a megaoperação de combate ao tráfico de droga em Aveiro, o acidente em Agualva-Cacém, e os contratos de armamento anunciados pela NATO."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO cobre a descida das taxas Euribor, o condicionamento de 200 milhões para a gigafábrica de IA, e o excedente dos municípios."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico noticia a subida da bolsa de Lisboa, o excedente orçamental dos municípios, e o temor do Brasil face aos EUA."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol destaca o acidente em Agualva-Cacém, a detenção de um treinador por abuso sexual, e a saída de Roberto Martínez da seleção."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado cobre a eliminação de Portugal no Mundial, o acidente em Agualva-Cacém, e a cimeira da NATO em Ancara."
+      }
+    ]
+  }
+}
