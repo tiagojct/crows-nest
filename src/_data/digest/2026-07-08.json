@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-08",
+  "meta": {
+    "generatedAt": "2026-07-08T10:27:02.535Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "le-pen",
+        "label": "Le Pen"
+      },
+      {
+        "id": "nato",
+        "label": "NATO"
+      },
+      {
+        "id": "acidente",
+        "label": "Acidente"
+      },
+      {
+        "id": "selecao",
+        "label": "Seleção"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "petroleo",
+        "label": "Petróleo"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Destaque para a condenação de Marine Le Pen, o acidente em Agualva-Cacém, os ataques dos EUA ao Irão e a cimeira da NATO."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Aborda o fim do cessar-fogo no Irão, as ameaças de Trump na NATO, a condenação de Marine Le Pen e a saída de Roberto Martínez da seleção."
+      },
+      {
+        "name": "Observador",
+        "summary": "Cobre o acidente em Sintra, a chegada da seleção a Portugal, os exames nacionais e as declarações de Trump na cimeira da NATO."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Notícias sobre os ataques ao Irão, a situação dos exames, o acidente em Agualva-Cacém e a subida do petróleo."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Foco na condenação de Marine Le Pen, no calor e risco de incêndios, e no desaparecimento de um Boeing 737 no Paquistão."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Destaque para a confissão do motorista do acidente em Agualva-Cacém, a saída de Roberto Martínez e as ameaças do Irão."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "Cobre os ataques dos EUA ao Irão, a cimeira da NATO, os exames nacionais e a resposta da Dinamarca às ameaças de Trump."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "Aborda o acidente em Agualva-Cacém, a seleção nacional, as ameaças do Irão e a situação dos exames."
+      },
+      {
+        "name": "TSF",
+        "summary": "Notícias sobre a condenação de Marine Le Pen, os exames nacionais, a cimeira da NATO e a escolha do novo selecionador."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Foco no fim do cessar-fogo no Irão, na subida do petróleo, na emissão de dívida portuguesa e na cimeira da NATO."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Cobre a crise no Irão, a criação de empresas, a detenção de um suspeito de violação e as operações policiais."
+      },
+      {
+        "name": "ECO",
+        "summary": "Destaque para as perdas fiscais nos combustíveis, a cimeira da NATO, os ataques ao Irão e o financiamento de Portugal."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Aborda o fim do cessar-fogo no Irão, a subida do petróleo, a saída de Roberto Martínez e os investimentos em defesa."
+      },
+      {
+        "name": "Sol",
+        "summary": "Notícias sobre o calor e incêndios, a morte de Benedito Ruy Barbosa, a seleção nacional e a crise na Venezuela."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Cobre a cimeira da NATO, o acidente em Agualva-Cacém, a seleção nacional e os ataques dos EUA ao Irão."
+      }
+    ]
+  }
+}

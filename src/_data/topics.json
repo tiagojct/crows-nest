@@ -6,9 +6,58 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-08"
       ],
       "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "Agualva-Cacém: uma comunidade aguarda ansiosa para saber se tem alguém entre os mortos e os feridos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM2VnelZZdVZnZktuSU4xaDIzbHN0a0pZTmM5MXNCUDQwSnEtakZBdGpheW5wOEhFVzhXazVmN2F2bkk1TVlvQi1wWjl3a0dsOEttZGxkMDBVbXpEZ2NhdElnS0JEUHpaTzZlcDd4UnFyMzNfWDBwUHpBVS10eXl4NkJyUk1UaHROQ1VNZEMwS204RnZ1UWs4dUhkenNCWUltMGtVYzZmazFTSlBRdXZtVEc4QQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Acidente com autocarro em Agualva-Cacém faz dois mortos e 20 feridos - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjJZQVFudzdxTGRjdG5UbWhjVnppdVVKMnVlTUIyUXI2VWZaMzVmUlZQMU9uZnRDeEs3dmdxcFVkZ2VHZTFBb0lacFFrbnFGT3Z1U1NfQVVKMHgzM1RfSzBhUGdJU2hTczBvb1dkdjhNenAya0dUaVgyS2hzbV9WbjNuMUxMdDBISnZMNHlmQ0RWMk9RM2I3RWlwWnVQZGRUR0s0c3EwSGJNR2JOSXdsQmNQWWJlTFk?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Motorista confessa troca de pedais em tragédia com autocarro em Agualva-Cacém ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260708-111141-motorista-confessa-troca-de-pedais-em-tragedia-com-autocarro-em-agualva-cacem",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "O autocarro que matou em Sintra e a falta de água em Almada",
+          "link": "https://observador.pt/newsletters/360/o-autocarro-que-matou-duas-mulheres-em-sintra-almada-sem-agua-e-as-guerras-internas-no-chega/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "10 minutos: acidente com autocarro em Agualva-Cacém faz dois feridos - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNHNzWFVtQjlMRXd1ZmFscGtDVWhyVVBFYjh1QWhNaXNQc181Q0NtT2poS2l1WXc3ZG1Ld1NxZjZpOGRLc0xadGJ6VHdydG1KM1VBNVFSTmZPQVlabkF4WDNUV2xwZ0tac1VIZEFWYmU1Y3Z5LWdnS2Q0dGQwcHBBVDVZZlJkcGt3ZHBLMk1ldlFIRVJjMTduVlJzeDhvakhwOV9GeEpveG9RWmxKeE50a2JSbnV0T2Ria2x1cHh0RDlZVjUxXzlLT2RabVlQeFU5Vlk0aHJmTTR2THBQYjgxTkN5WTN4c0tKb3hxcG9nTDUyOHl1NmNSTTdn?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Carris Metropolitana lamenta acidente com autocarro em Agualva-Cacém e diz que causas estão a ser apuradas - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ3loaDRwZE1keEttZXQzLVZ0WVdsUzBlZXBwNi1mOUNqdEFBcmVGTFNqU01iRUZxcENzbGhjSU5XRTlnYjUtcTk0ZXVUekY2SnNxZHFhMEVtT2lCMm82Z1VrOVRvdGo2VmEwb3JuUVlwT0kxb2VhWXNvREl3QUdBZ0tBVEhxaWc1OVNWTFBNTFMtYVpELW53VXBQOXhycTJ6TjZUUE5GV1UxaHVoN3plUnJQejJ3VU9RQ05XdGVQQ0tLLVh2OG9adFZMYlZLbXZxNFVYS1pOMXBLaVlIMl82SnpLTnFib3VrVmc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "\"Autocarro despistou-se e colheu duas pessoas\" em Agualva-Cacém - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2o5TWdNdjVwWmlpZGZZTVI3UXRFc3BHRjBUaFkwcWtURWhfOFQzVGNVWURYVFUtNDZ4OVVaTDVJRjg0alN4RzJmU0xmTjlrWU1peF9iRHpkSzQ1bEpYOXkwU3NsdFd4TUlYd1RBeTVJOXBNZ0FRcEJqbFRGUzZfTkNpWnpFRUhlUUt4Szh2dmxNWHVQUFp4MEtnRkpkNkM5eHQ1RF9aM0M5VTdPTDduV252a2Fpdw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Motorista confessa troca de pedais em tragédia com autocarro em Agualva-Cacém ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/motorista-confessa-troca-de-pedais-em-tragedia-com-autocarro-em-agualva-cacem",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-07",
           "title": "Acidente com autocarro em Agualva-Cacém faz dois mortos e 17 feridos - Público",
@@ -41,7 +90,7 @@
         }
       ],
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "acordo",
@@ -278,9 +327,52 @@
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-08"
       ],
       "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "Cabo da Roca marcou 33,7 °C às cinco da manhã e o Minho bateu recordes de temperatura - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOa1hVUG4tUThFcjBlaUVDT0xtNUV5UXpBb2txWGRYTWtBV2hUYUo0U0Y3dFlhMkNfS3lOLUg1c0c3SE9aYV9BOC14SDhHSEdybzU3WTl1c2Q2V1VJREZfalBiSDJDeVhpZFIxNkZQY3V5VUQ4bGRqMEw4V0FsSXRiemE5OEtFdUxUTkVraTBiZmFFMEp1dlVhN1NPcFQ4RWpWQ29sWVh3SGJMY3JMZnV1Q1BzSUw4YWI0cEhjV2NrbXNoWTFsSWNoX3NOZVFQWFA4RGc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Calor coloca sete distritos sob aviso laranja - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFNhclRYUFRFVUlmUlo2ZG52b19sNHJJNW1wcVFLM1NXeFVSMnRkbFMwWWIzSmUtWlNxaDgxTEpiNXowYkdKeS02NDJtS1pBZ0dsRjNOa0RqenNKNWtGWEU2WnRPbUdNdzhHd29IdEtjbDc4VlRQaURiOFJ6SVd1NGxB?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Valpaços com 20 câmaras para vigiar e proteger a floresta dos incêndios ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/valpacos-com-20-camaras-para-vigiar-e-proteger-a-floresta-dos-incendios",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Detido por atear fogo com recurso a isqueiro em Vila Real ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/detido-por-atear-fogo-com-recurso-a-isqueiro-em-vila-real",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Fogo no concelho do Sabugal dominado",
+          "link": "https://www.rtp.pt/noticias/pais/fogo-no-concelho-do-sabugal-dominado_n1752006",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Incêndio no Sabugal mobiliza mais de 300 operacionais - TSF",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2JielppNW9kNElCckw3SjRBZTdnVlZkQ1paSG52Q1VOeDkzNmU2YnFkQzVTa1JKVEp1eVZGbnNfdDRKdlFQNGVIa0Y5TlV1UWpZQm1tT0Rnc04wQS1TX3VGdm1ZUTdFZFNnUEJ3RTVBMlpnNVJwNDlYYWpDcEVIamFyUzlrZ3VuXzltT0NB?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Calor mantém Portugal sob alerta: mais de 80 concelhos em risco máximo de incêndio",
+          "link": "https://sol.iol.pt/sociedade/noticias/calor-mantem-portugal-sob-alerta-mais-de-80-concelhos-em-risco-maximo-de-incendio/20260708/6a4dfee30cf2f6a1a1e6fd22",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-05",
           "title": "CP cancela mais seis comboios Intercidades no sábado e domingo devido ao calor - Público",
@@ -739,7 +831,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "crime",
@@ -1373,9 +1465,52 @@
         "2026-07-03",
         "2026-07-05",
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-08"
       ],
       "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "Exames: o digital tramou o ministro?",
+          "link": "https://observador.pt/programas/contra-corrente/exames-o-digital-tramou-o-ministro/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Fernando Alexandre: será este o fim da estrela da educação?",
+          "link": "https://observador.pt/programas/e-o-vencedor-e/fernando-alexandre-sera-este-o-fim-da-estrela-da-educacao/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Correção dos exames. Professores estão a ser contactados para alterar as férias - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTGN3UWtVdi11RktsZFF3enZMdGV5Ni1rYUNOdm9SY0ZYYXlPVklQbTZKcC1ualZLd0FUc0J4QlY3aXBSNVpMdXlmUG1kMjF4T0RIX1BiZHhmamxhREJma0FZMFJxQnMteGFhcU5faWdEWTFPTkYzaTVheUhiUG4wbmNTVjlmMURmcktnelJLclhWWUp4WkREeEI4Tl9PcDJsY3hUUw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Pais e encarregados de educação lançam petição a pedir a anulação dos exames nacionais - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUxHWGxLbUl6akh5WGtZdWhfTFlBejBSUUNzbTl5MGdPd1gxS3A4RGl6UGJ4MFJfWkg4V0J4VlZtVy1aTFhiMzU4WVlaM05rVXRPdFF4Vk51UWx0b240MUI1M2g0aVNFQzEtbnVHZ0RqQmZocTFRRkRIOTRSUllJT2FSUzI3VnVzQWJrU1dkVnRKRzMtdmRLNWxGUjhQMnNORFN1X1dCeGZIQXc?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Ordem dos Engenheiros preocupada com \"falhas de segurança\" nas plataformas dos exames - TSF",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc3F3aW5LR2JiX0VNeFRrYkpCcTQtZEE5bVRoNnNSMXk1R1NnNlVXdUdQS01jOEYxODZ3N3M1NlJCak5KYzlpM2xCZlF5LWNiMVFHa3JndWFsOElkS0dWODY5ZWtkSDJiVVdoT3ltWmhvamJtSTJ4WFR6UktNajZyZUpmcjZxMEZxTHZuM0w4bTBab0swbzRfREFnWFYtWXk0bU9WcW1xX3FYSzd0c2hubFNUbjl4Zw?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Plataforma de correção dos exames vai voltar a estar indisponível - TSF",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWw4UEZtUWMtNk9pQm5TZ09iRjczYlAxaTNEVXVHeUpYUVFILV9HVnVQWDlVWm1MMWdrY2R1ZUFUN3AzNjFmQzg4WHdyLU4zbFhzZ1R0dHdSem03c1A5QzkwaEZtek5lMFM1eXRvRUxLX3UtWWhiVXJ4QXhEWnZCWjlIenR6SVB1Y0FIbG1LSGotOU9jZHJGdjI1S0hGejlza05SZDRPdHUtNXhvbnc?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "9h Faltou planeamento no processo dos exames",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-faltou-planeamento-no-processo-dos-exames_a1_1752027",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-07-07",
           "title": "Plataforma de classificação dos exames nacionais esteve “em manutenção” durante a manhã - Público",
@@ -1594,7 +1729,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "fifa",
@@ -2507,9 +2642,82 @@
         "2026-06-28",
         "2026-06-29",
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-08"
       ],
       "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "EUA lançam novos ataques “poderosos” contra o Irão - Público",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUU0ycEY5Y2pWcWNsUWlDWFJrVTJONzRhRlhJdHdGOVMtSFZaSjJKeVl1cU9ua2RBLXBOZEhVNTVobWdrdFA4dkxvMUxtcXlHZ2VPS0lsQVhfRU0yZHFpY05Vay1NOVJOOGtFZUh0eS1yNnRndWwwcHJ5RDhyYmZSVTFfMGhpdEIyVXA5THBLTHlFd3R4SERWV0pDZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "“Para mim, acho que acabou”: Trump põe fim ao acordo provisório de cessar-fogo entre os Estados Unidos e o Irão - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdkQxdFdsbWgxbG4tdVVDUUZnM0k0VXlvMUNZbmNBYm00LUVMTlJiQkU0S0RESVpZams2d0dYcVBhazJuQlpjakJQdHZNVjVNcFplSlZtSmJ5NlJESVdwbHF6SGw1cDRheEluekdUYjZ6bEFrUHducXRWUjNGaFZPenJrNWdjeUxxQ0YyOXREeWd5REhtZ1RuYUlrUllPS2c0emhHUkVVbzRrWXByQm5qVU9TMl9fRkQ0YldVZE0xci13QktFbjBhdVNuUWdsazZfckVndHBDT1VOYTVFdWhJakctdVZCc3ptUUZzTlJaRjJsd0xfdWJRaC1mMFl5bXM?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "EUA atacam mais de 80 alvos no Irão e Teerão responde com mísseis contra bases americanas no Golfo - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWGViZkNYUEdtSzdFdXQwMzR0MkxmZnh6VEIzOFJ4QUJWNVhYdGF4aEYzQTBSWGN6LXYtaUZwaHBrYk91eU5UZDR2YWZMR2ZVTDRHdUtQbGI3cDloUjJwMlV1NFhXZlZtYndVaHd3djA5M3NJQkY1UXhDVUhfSldncGZHQkp5WU1zZUplaEFQTmlGb1l0M1FFRnUzTmE4dXBNWW83a2hIODI2Z19Cd0RTZk1ndDZUVlpFRlJTdDZhdnVLRkJCdkdpUVkybGZINUN1NGNhSUFSdW91ZlU?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "EUA lançam ataques contra alvos iranianos após incidente com navios mercantes perto de Omã - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTzFkY3hBZXEtcHA5MkJDenlBZDBHZ2lRU05uTE96NTMzR3ZfN21TSzc3V190Rm5IbnNFTTQ2cTBTMHc1UVI5SXk3bnRJNDJuRFgxZmlPT2dzU3Y2WkpxOFAwamN5QUp5YmxnSlpyQzdCazBYN1kxS1FaODI3eU9GN1lZOV9oOHprRklGSENLMzNLOGRwVjZydVFSczB5eUF5R1hjWmZ4UFc1QUZPWEdKcllEeDlwV3YtSmlTYWZxckhiRE1BTEdNc2dWRUZVUUtCNUl2dE1FZWg0d1JUMERtZDlncU1SZzNs?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "10h. Donald Trump anuncia fim do cessar-fogo no Irão",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2400/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "EUA lançam novos ataques contra alvos iranianos. Irão ameaça retaliar \"de forma decisiva\" - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUFIVk1SLXIxb0NLUG9Qd0lpZUdXeW5mUnpuUHQ0di1OY2k4bDdJVmVzOXVCa0RlWXVQRlZMazF5N1NTQjBDSTZkbW1ZNm9ybEkwaHQySk91T3RHaTFvUFRfbHdncW11NlJFaldhclZPQUhST0FRdE80ZXlhb3NOVkdhQ1g?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Teerão ameaça atacar países que apoiem guerra dos Estados Unidos ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/teerao-ameaca-atacar-paises-que-apoiem-guerra-dos-estados-unidos",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "10h Fim do cessar-fogo com o Irão",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-fim-do-cessar-fogo-com-o-irao_a1_1752037",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Irão retalia e ataca instalações norte-americanas no Bahrein e Kuwait",
+          "link": "https://www.rtp.pt/noticias/mundo/irao-retalia-e-ataca-instalacoes-norte-americanas-no-bahrein-e-kuwait_n1752014",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Secretário-geral da NATO considerou ataques dos EUA \"absolutamente necessários\"",
+          "link": "https://www.rtp.pt/noticias/mundo/secretario-geral-da-nato-considerou-ataques-dos-eua-absolutamente-necessarios_n1752005",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Teerão ameaça retaliar “de forma decisiva” contra nova vaga de ataques dos EUA - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORDhIcTJFQndLWDBZRTFiYWc1UXFPeGk5cFFaR0lISXFmSDJ4UDgxa0ozc1h1U2RJcHdvMlFWQndlc2NyWUVKYW1MQV9icWZ4WGFBWXRNOHJqZWlnSmxhSWhaLTAyc1VDWWdlQjNjWXllM0lnb2lCUEd2LXZMRHdvSUJ5dTdHcUdhbkRSLVFRU2NLaUNYa1UxQVRxaHpoeTZFNVl3?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Trump diz que cessar-fogo no Irão acabou. Teerão faz novas ameaças a países vizinhos",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/asia/detalhe/trump-diz-que-cessar-fogo-no-irao-acabou-nao-quero-perder-o-meu-tempo-com-eles",
+          "outlet": "Jornal de Negócios"
+        },
         {
           "date": "2026-07-05",
           "title": "Milhares juntam-se para “último adeus”a Khamenei e gritam “vingança” - Expresso",
@@ -2662,7 +2870,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "irs",
@@ -2712,6 +2920,49 @@
       "articles": [],
       "firstSeen": "2026-07-04",
       "lastSeen": "2026-07-04"
+    },
+    {
+      "id": "le-pen",
+      "label": "Le Pen",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-08"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "Condenada na justiça, Marine Le Pen diz que será candidata à presidência de França | França - Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalNvVEJIMi1ZemdUQ3VpOVE4TGVuX2E0TVRLaFpZV2dQUmNheDNRb1Nza3o1QnNGaDRSdDV5ZWJjSHcwMnVaWGs1MGNzRXMtcFZlMWt1LVBheExCaE4xTWhlRTFzTVBrX0FEUDgtSnBRWS1BTVl2N1NHTzRuSUF6dUlqbzBQemhBeGRCT3hXU19qSXlIaXhDV2dLRVpCYW0zYmlhejU5aDV5d1gtdG0wWnVLbWF1Zw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Marine Le Pen volta a ser considerada culpada de desvio de fundos e terá de cumprir pena, mas tecnicamente ainda pode candidatar-se - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONUc4NmdmWTRVZlB1ZUUzamdRanZUMGstb1VSRGFuTWEyaUxKWEhZb1MzS0JQWk80SFVZaEF1WGRmTWR2QkFISW9FSU1wM084S3lCZVl1UU5Ycm9NRGY0ZEEzaXRhMTNMWG0yX1lGVnBFbWFGUXJLcjNzUWM1Q1dvUGF0NmFnRXh2MDVMSTFRYmFhbjd3NWY3Q2JWeGZBVjRrcWs4MzhYckxuWlI0eTYyYVBmeWxFTDBHaC1PMk12ZVVBUy1keGpnUFA0cUxMSmZ1TV9XcFlqY2lNaEtKTS1veDRIcTY4S1hZanY1Z2lQcEhJZkJwWUtNTXpvSFh3aWxPb0FqdUp3UTA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Marine Le Pen condenada, mas candidata às eleições presidenciais de 2027 - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVVEZkVLNl9tcXZ2empvUm0tZnZmMjhEZTMtQUlWY1I2ZHR5RmNaYTVObGVweExrMlFtSkx2YzZOTTdjZUNxc29sMFBhU3pvNEYtNjlPajN4bW9lR2FOVnVTampRN09EMUxCYmpTNTFMMTQ4WkRGVWFkUnVlTGtWeXVxTUg4TzhNd1hWODJfVl85QXlTSXFibjhBT2JJNm14SjRGX1dQa3p3MzR4cElidlI2N0l1M0hpeHc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Marine Le Pen condenada a três anos de prisão, um com pulseira eletrónica - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcnhZMVJqdnA4a3kzeVlBZjBpTV9WZDJNdVVXbV9ZMGdPNnIxUm81eXBDMUVsMlltTTF4VDFpdmJ0MDRBWWpjWmlZRGQzRFkwdjV0ckdZQTJVdG9obkFsTnJaRGFFRlZqSkU5QTRKXzRQbVlFa3pPcl9OMGRIaGY3SWVlR0tvanE2Tk1jVmJrVng2NmZlaERzQWo1RnBqbU0wbF9EUjEyU2RCcHlKUHJr?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Marine Le Pen anuncia que será candidata às eleições presidenciais francesas de 2027 - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVF0SVBpbi11VDRGc2JuUjF5MnNQeFpkSUQzZjFVVDQyUGt6dzNtRjF0aUtPUWNxTjJpUlU2LTNZcm5oZ3RhaVdsR2R3YXBpc1pkYUFhdUU5R1l6VmdQNmZ4enV6bkJhMXBTWDZWaGZyRmZGY0NWSzVsVjFxMnIwWmtxajdwQ2pucGxmSGFzODdmNUVPekFDVXFxTTFGd3VXMUoyNlRqYjhDYTlUdVRPQkdxZ0o3SkJ6TEVSQlFvSXEzc2M?oc=5",
+          "outlet": "TSF"
+        }
+      ],
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "livre",
@@ -3679,6 +3930,91 @@
       "lastSeen": "2026-07-03"
     },
     {
+      "id": "nato",
+      "label": "NATO",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-08"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "NATO 3.0: aliança ou parceria? - Público",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUmpCRDBhR2Q3VzNod2NwNllvSGlRS0ZDNmhzWWd6NVNOMG5mdXpLQk0zTGR4WFcxbDhrQV9HLVdTT21XVFl1UHp2S28zM21kRHlETzVjNGhrY1ZMaWpabGsxcVJMRWV6NzlUSE9LRTdaSEdBUVhwQi1kUllhbEhKby14MG9iWE1zTmc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "O fim do princípio da NATO - Público",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNzAzR0xTazY0aWdNYlg2RHZYRVpUTkJRS00tdTFJdkNHS1RZN3Y3M2JCLXpsZ2FNNTYtejVqRzduQVdVVWVtU3FKcFJGXzJzU2p1ajl6ckxWbDJsa0FSVlpobk10WGJFRTZmZXZESWp5WlVONDNicHE1NXFJTEZJTWhqbWs?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Trump estraga clima na NATO: ameaça anexar a Gronelândia e “tirar as tropas todas” da Europa - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT0tRdjN6anI4Sk9TZl9fX1RFdUh3SjNrcXlTb0h0UXpTazVXTU91bGNFdnBvUXhKaGdXSWFuSzFwanl6bTA0cjQ3b1Q1TVYzcG1vWW44ek8wazhSNGhhSG8ybDRkQnUxWjgwN25la1VfNXA2TmI3RmdmLUpMbndfdG05SmY2YVpJbDlyR1VLRXl2U2JjWXdyT19TV0NrWFJKZW5PZW1JTnZrM0pNRGw2MlZXVEwzVVloU2JabFo2Q3VxbWkzaHNVWjgwNUo0VWR5UDNhcE51WVhlTzQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "9h. Cimeira NATO. Luís Montenegro deixa aviso aos Aliados",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-9h-2403/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "NATO anuncia contratos de armamento de \\\"milhares de milhões de dólares\\\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVmtONXdaVXltT0hvOHpHM3ZQQjhhaXQwSGlBRkVzUENIZG0wdDFTdXpKZVRwcXZnWURsTGhIRlBuTWVrN0lBTmJQS2gtTV9SMS1YUk5sQkVhQ245cDZzRy1oYjdCTmpKeEFCQV82d2lpdkl5eDNDcjJ4X0NmSWtocW04V2kwYVVQOHJlb0JxcUx2cmtnVjBoRzFRaV92Q0trR1E?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Aliança prevê que Portugal atinja 2,1% do PIB em Defesa até final do ano ]]>",
+          "link": "https://www.cmjornal.pt/economia/detalhe/alianca-preve-que-portugal-atinja-2-1-do-pib-em-defesa-ate-final-do-ano",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Dinamarca preparada para defender \"cada centímetro\" da Gronelândia",
+          "link": "https://www.rtp.pt/noticias/mundo/dinamarca-preparada-para-defender-cada-centimetro-da-gronelandia_n1752010",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "8h Nato considera ataque dos EUA ao Irão necessário",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/8h-nato-considera-ataque-dos-eua-ao-irao-necessario_a1_1752015",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Trump insiste que Gronelândia devia ser controlada pelos EUA e não pela Dinamarca - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQWVFb1FrVHc5MGVndUd4UnBEekNrWXFaQzdXVjFNOFRhMElRVC1YajFTd1JXYXl4LXRoMnJxeGxLSGxqcGt4akpWTG5DYlplNnVrQ3doejUwczRFWFE2S3NYRFo2dmtSTU92Ynkza0ZwMEVmX1UtbHpJMnhCRlV3eVhIbDkyMG9McTFPVENBV1hrcG5nUmY0U1pYcVJjV3RHWTExZm1fZEV1SE1BbFJZaHBObw?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Aliança Atlântica prevê que Portugal atinja 2,1% do PIB em Defesa até final do ano",
+          "link": "https://eco.sapo.pt/2026/07/08/alianca-atlantica-preve-que-portugal-atinja-21-do-pib-em-defesa-ate-final-do-ano/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Dinamarca preparada para defender “cada centímetro” da Gronelândia",
+          "link": "https://eco.sapo.pt/2026/07/08/dinamarca-preparada-para-defender-cada-centimetro-da-gronelandia/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Cimeira NATO. Chuva de anúncios e mais de 50 mil milhões em contratos de defesa",
+          "link": "https://eco.sapo.pt/especiais/cimeira-nato-chuva-de-anuncios-e-mais-de-50-mil-milhoes-em-contratos-de-defesa/",
+          "outlet": "ECO"
+        }
+      ],
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    {
       "id": "neonazis",
       "label": "Neonazis",
       "group": "press",
@@ -3708,6 +4044,37 @@
       ],
       "firstSeen": "2026-06-24",
       "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "petroleo",
+      "label": "Petróleo",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-08"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "Brent dispara 5,92% e ultrapassa 78 dólares com anúncio do fim de cessar-fogo - Dinheiro Vivo",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNekREYkxpUzFaTGJmU25mN2FKTzlLUFpqOGgyX3FjNEUwQ1NpMGx5WXhHU081Vi1RS1YzZHJiN1A4dUN1bTBFRGdwU3UxNVFyVE52OFU1U0wtVnJ1SHNwc2tlSmdWWGdTRjNIdlk5eWswb1F0ZHVfWkNOSFkwNmtlTGQ0a0xkSzlzNkl2SVdLNXVtdVc5a0JLaWpCVUxELTJIQVg2RXY3UGlkNGFl?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Petróleo dispara mais de 5% após Trump afirmar que cessar-fogo chegou ao fim",
+          "link": "https://www.jornaldenegocios.pt/mercados/materias-primas/petroleo/detalhe/petroleo-sobe-mais-de-3-com-ataques-no-irao-e-negoceia-acima-dos-niveis-pre-guerra",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Petróleo dispara 6% com novos ataques e fim do cessar-fogo entre EUA e Irão",
+          "link": "https://jornaleconomico.sapo.pt/noticias/petroleo-dispara-6-com-novos-ataques-e-fim-do-cessar-fogo-entre-eua-e-irao/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "politica",
@@ -4235,6 +4602,91 @@
       ],
       "firstSeen": "2026-07-02",
       "lastSeen": "2026-07-02"
+    },
+    {
+      "id": "selecao",
+      "label": "Seleção",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-08"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-08",
+          "title": "O futuro da seleção: será Jesus o nosso salvador? - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm9IbUtVT29xSUZlMkJwTE5PS3V5eElsRmFleTJ2Z0dwdTJRcURNWWFSSVhfRkprLTJmcllzdzhsamE2UDhKU2dqMVl2ZTkyYUp6X2RuTU1Hc0l3cDBYakhhTi1hVUMyS1dvRGJYdVo2bXV1WE9uMFByQjd2WEUwYU1LQ3dtdXpGMWViRV9xZzdqWWFhSzI4YlNhUmt1d2tRSkhWMGVCbTVVMzFyZWhTdFY5MExQUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "As imagens do regresso da seleção a Portugal",
+          "link": "https://observador.pt/2026/07/08/fotogaleria-o-regresso-da-selecao-nacional-a-portugal-com-a-ausencia-de-cristiano-ronaldo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Bobb, o norueguês que cresceu no Porto",
+          "link": "https://observador.pt/2026/07/08/oscar-bobb-o-noruegues-que-cresceu-no-porto-e-explicou-ao-brasil-em-portugues-como-se-elimina-um-pentacampeao/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Montenegro no país das maravilhas: futebol ou política?",
+          "link": "https://observador.pt/programas/momentos-de-glria/montenegro-no-pais-das-maravilhas-futebol-ou-politica/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "<![CDATA[ Federação Portuguesa de Futebol oficializa saída de Roberto Martínez ]]>",
+          "link": "https://www.cmjornal.pt/desporto/futebol/detalhe/federacao-portuguesa-de-futebol-oficializa-saida-de-roberto-martinez",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "7h Seleção Nacional já aterrou em Lisboa",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/7h-selecao-nacional-ja-aterrou-em-lisboa_a1_1752009",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Jogadores da Seleção Nacional abandonam hotel em Dallas: adeptos gritam por Cristiano Ronaldo - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSS11Z2R0QlpCaUlmTklPRXJhWHRLNDFucmE4SWo3TUs1WVdUS3E3QnlfZC1LOE0xNXFUb1NubjBFRll3M2ltZEpsS1RoeFVHRzRocTdFYWVjM0NBVWVteXVvempDbnZsTnprZ2VmbXE1Y2JqOThKRjhYeTJzbThDallFajUyVkxNd0ZNYUxfVzlCWW1xai00TXpCc2VyQVFCWV9DQzBEeU9haHhPVDFMcFBpa0NaeU1GcjlUZ0t4TENOeF8wRnJNLVdmTml3OW05LUlYRGdCY0hvYllPYjhvUk1n?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Jesus no lugar de Martínez e Cristiano Ronaldo recebeu \"presente envenenado\": Luís Aguilar antecipa futuro da Seleção Nacional - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRURka2ZnTUFrYUdJb3UxUEtEMVg1Z24zUFVhMTBSVnVLdmpQLThiRGY0clZ1M0NvT2NfaVFOcXpLVERSQ3M2SW9uNVhiWWZqVnM4TDNBT29aR2RsYnhhSXEzWHdTdTdkdzR5NVEtTEtTQnJiMkJmb2VZWGdVdDJ6YlA1TlZkQm92TnZTZ3N4MW1WOTBOTnpidzU0M3dFS2Jha25pZWx0X2t2N2tDZ254Wl9FZFRQay1iWmktWkhMM29JRmxoeDhtVUJBZExhbmthMHRROFJYOWZ1Qjhvc2RaTklLazAtTkU1Nkw0aWk1TW54TGt5MUUtTjYwMlNoVFQ1dzNXNjRuNGJwRXc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Jorge Jesus com ordenado acima de Martínez e contrato até ao Mundial 2030 - TSF",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdHozRk1KVGFPOXVQeVhkMzBneV9qOUZqWURvYWEwNXlzSThjM1c1T0Y3UlBiOUNxbG1JMzlNUGlqSEk4aWdNdVRBQkwyQ0ZuV3gyc21rNFdlbVNTcWRDb2VBWHpSdFhXQkMxYlZTWWFQajZxZHNua0I1VHltRVFtX1JkMHVrZjNFbzNZQUVRS0xkSFAwSS04RERmWVd0dUpDQml0bGotUDRCZWtMdUh1RXdiNHJWWGt1dkhpNmx3?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "O que temos a aprender com a excelência no futebol",
+          "link": "https://eco.sapo.pt/opiniao/o-que-temos-a-aprender-com-a-excelencia-no-futebol/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Mundial2026: Federação Portuguesa de Futebol oficializa saída de Roberto Martínez",
+          "link": "https://jornaleconomico.sapo.pt/noticias/mundial2026-federacao-portuguesa-de-futebol-oficializa-saida-de-roberto-martinez/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-08",
+          "title": "Perfil do novo selecionador de Portugal “definido”, com “novidades” em breve",
+          "link": "https://jornaleconomico.sapo.pt/noticias/perfil-do-novo-selecionador-de-portugal-definido-com-novidades-em-breve/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
     },
     {
       "id": "sismo",
