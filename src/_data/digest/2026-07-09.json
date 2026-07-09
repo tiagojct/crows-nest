@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-09",
+  "meta": {
+    "generatedAt": "2026-07-09T11:13:50.877Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "eua",
+        "label": "EUA"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "calor",
+        "label": "Calor"
+      },
+      {
+        "id": "agua",
+        "label": "Água"
+      },
+      {
+        "id": "bonnie-tyler",
+        "label": "Bonnie Tyler"
+      },
+      {
+        "id": "no-name-boys",
+        "label": "No Name Boys"
+      },
+      {
+        "id": "lei-das-burcas",
+        "label": "Lei das Burcas"
+      },
+      {
+        "id": "imigracao",
+        "label": "Imigração"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca a mortalidade por calor, os ataques dos EUA ao Irão, a morte de Bonnie Tyler, a crise de água em Almada e a polémica nos exames nacionais."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso noticia a morte de Bonnie Tyler, a saída do deputado José Dias Fernandes do Chega, os atrasos nos exames nacionais e os ataques dos EUA ao Irão."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador aborda a prisão preventiva de polícias por tortura, a transferência de Hjulmand, a detenção por fogo posto, a aprovação da lei das burcas e a detenção dos No Name Boys."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias reporta a detenção de suspeitos de roubos a idosos, os ataques dos EUA ao Irão, a subida do cabaz alimentar e as ondas de calor com 125 mortes."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias cobre a retoma de voos da TAP para a Venezuela, a ameaça de Trump ao Irão, o aumento de chamadas do INEM devido ao calor e a transferência de Hjulmand."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã foca-se na morte de Bonnie Tyler, na polémica da água em Almada, na detenção de uma mulher por fogo, na aprovação da lei das burcas e na operação contra imigração ilegal."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias noticia a confirmação da prisão de polícias por tortura, a onda de calor na Alemanha, os ataques ao Irão, a morte de Bonnie Tyler, a polémica dos exames e a detenção dos No Name Boys."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias destaca a morte de Bonnie Tyler, a falta de água em Almada, a detenção de suspeitos de imigração ilegal e a queda do preço do petróleo."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF aborda o protesto contra a falta de água em Almada, a situação de alerta no concelho e a missão portuguesa na Venezuela."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios reporta a subida da Euribor, a aprovação da lei das burcas, o ataque dos EUA ao Irão, a morte de Bonnie Tyler e movimentos empresariais."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto destaca a detenção de suspeitos de tráfico, a aprovação do pacto de migração, a polémica da água em Almada e os ataques ao Irão."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO cobre a polémica da água em Almada, a criação da Universidade de Leiria, os ataques dos EUA ao Irão e a aprovação de mísseis para a Alemanha."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico foca-se na integração da Obimedia, na aprovação da lei das burcas, na polémica dos exames e na criação da Universidade de Leiria."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol reporta a morte de Bonnie Tyler, a detenção dos No Name Boys, as ondas de calor, a falta de água em Almada e a operação contra imigração ilegal."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado destaca os ataques dos EUA ao Irão, a morte de Bonnie Tyler, a detenção dos No Name Boys, a aprovação da lei das burcas e as nomeações para os Emmys."
+      }
+    ]
+  }
+}

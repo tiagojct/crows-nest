@@ -179,6 +179,85 @@
       "lastSeen": "2026-07-05"
     },
     {
+      "id": "agua",
+      "label": "Água",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-09"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Almada em situação de alerta: 15 localidades sem água entre as 22h e as 6h | Setúbal - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTQ1NEhNZFFPUExnOGRlQ1pVWlBIS1BTTC1XVVdCNzMzTnFCb1F0a2J6WDQ0YlRzZHM0NUllOGZRYXd1dWp4LXQxREVhVVo3eUJpSjNiMzJDUm1UdENDX0k2SnEwRko3OS1IMkQwOWZXcF9NTmp3NGNKbkhFalZwZHRaNHVPZnM4ME81MUpqWWFvbEQtUFk2a0FncGRnYUlOWm5lV1ZDUHJfZmI2R2JYdQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Saiba quais são as localidades de Almada que vão ficar sem água entre as 22h e as 6h - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTlJacW5CU29EQ3o2SmtFRHhzTzhNY0NQMXFFVHJtZ3g2OGhtNE1uZ2dKaU5maVIxMVFlOUVTSVhwUkNnbHBoaXBHSTB5cTRWZFlUUFRsUkRxaHFDNG9Sak81cmozbVVCUVhfUGlCbUE5LTJtb3RqQzVCbWhtZFlWdTNpSUNIS3JYZVdJSlRjWkplQllfTWpVYW5WQlhrdzRNOTJHUEwyYW81SE8zZmFCNkViQkMtTFdFSFdHa0g1VndhYVpLb0RvQXNjdkJicDg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Carneiro diz que ministra fez declarações \"que não correspondem à realidade\" sobre água em Almada ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/carneiro-diz-que-ministra-fez-declaracoes-que-nao-correspondem-a-realidade-sobre-agua-em-almada",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ BE responsabiliza PS, PSD e CDU pela falta de água em Almada ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260709-112229-be-responsabiliza-ps-psd-e-cdu-pela-falta-de-agua-em-almada",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "9h Como se vive em Almada com os cortes de água",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-como-se-vive-em-almada-com-os-cortes-de-agua_a1_1752266",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Quinze localidades de Almada sem água até às 06:00 - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTVdGUkJWdGJ3eHFoUDg1WTk2WWhFV29fMTlqbnI0QTJvZldqZ2ZMaGNwQ3dwc1kzblplMlZEOEhDa3Fzc01FcXA0SFhKRlhRNDh2VUhrN3I2eHpPT1l3TWZWN3JGNm5lM2F6eVFoZDNqY1hSLW9ucHpIOGRmWUJZU3VmQUpFcjg4WkdRLWt1ZzhBZDJGeXhFLUdfR3g1MC1Zc1p5WnVqZFJBUzUtQlA2NnZZQldZWG03ekw0SHYtM2JLbmc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Almada decreta situação de alerta: saiba onde vai faltar a água - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOV9qaG5QcnJtVWI2YlR4ZUFKLTM4SkFTRC1INUlGWjdmYkZlM3hhRi1qLTlRaXptb2IxVzgwekhEdE03U0R0WWtPNE51UWRiTnpLRzNVQjFlREtOUWE3enhIWGtiR1NmbmQtNzVWdGhfTUFHZjN4UktYUU80d1ZEUy0yNGgzenQycVdqT3J4Z3pkZk5vNXUzOVhQMEFNVldOb1BhQ3A3Y2hDRFk?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "\"Inês para a rua, Almada não é tua.\" Quase 1500 pessoas protestam contra falta de água na Costa de Caparica - TSF",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTmNvRVFmS19lY0wyTDR6REQwaEhhVGllVkh3Sm5mRFRSZ2xpOEZmUnk4MW9HM0JZM2Q3Sjc0bllmN2Z6M0VWdTNid3plbmxtV09oV0gzV1U5MER3ckpxY1dVbG9DMjVLdXRnZHhOLThLRGpibUxhVWlmOGhkekN0eVRpSHViaVFXdE9VS0hEbndldGd1NEM2cXhta0FyRmxKNjdyYmg4Wi0zTThJNTZFOWJwQUxzaUI4VWRTUjlnRUZ0MDhWWnEtTkE3Q09TaVh4b196NnBWNmZqSWR1QWg0bW5B?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Carneiro diz que ministra fez declarações “que não correspondem à realidade” sobre água em Almada",
+          "link": "https://eco.sapo.pt/2026/07/09/carneiro-diz-que-ministra-fez-declaracoes-que-nao-correspondem-a-realidade-sobre-agua-em-almada/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Cerca de 1.500 pessoas protestaram contra falta de água na Costa de Caparica",
+          "link": "https://eco.sapo.pt/2026/07/09/cerca-de-1-500-pessoas-protestaram-contra-falta-de-agua-na-costa-de-caparica/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "&quot;Este é um esforço coletivo&quot;: Almada decreta situação de alerta e restringe o consumo de água",
+          "link": "https://sol.iol.pt/sociedade/noticias/este-e-um-esforco-coletivo-almada-decreta-situacao-de-alerta-e-restringe-o-consumo-de-agua/20260708/6a4e97d00cf2f6a1a1e6ffde",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
       "id": "arbitragem",
       "label": "Arbitragem",
       "group": "press",
@@ -313,6 +392,79 @@
       "lastSeen": "2026-06-27"
     },
     {
+      "id": "bonnie-tyler",
+      "label": "Bonnie Tyler",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-09"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Morreu Bonnie Tyler, estrela da pop que estava hospitalizada em Portugal - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFhCQmd2T1NkZHEyOVBaS3pHRFNkYXRnX01FZG9jTW1PUnpEYmpYQnUxU1JocEh6dlZaUVZsRjRRS1lvN05ia0o3MjF6S2NEaERXbmFWdEszbmNsbWlQWEVVXzJVek5QUlE3ZnZLTTZfcnRsT2VQczBFNmtPRkVSdjRReHBjalFJYXFrX3BRZmtUTWU2dGktYU44ZDR5X2NYRWpheXBGV1NpMEU?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Morreu Bonnie Tyler, a voz rouca que ficou colada às power ballads dos anos 80 - Público",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUXJPQ2JESzdfcE9xdUZCZlhZT0pwekJhVC1TVjlGY1ZvMjZIQWtxUDFDQU5qQkZ5b0ZVQkRaNl93Z25NLXVNVnhRWmQyRENoZWw1ZU44T0lHaVFla0ZTWVdaUUdOOVFPQWdTZlVraldCX2F4Qk5GX2VrQzFVdEMzZ0p3V29GcjJ4T0pGUVkwd09qaFp1enRvNXVkb044WF9FRmM1bG1TUk5FeldLNUdvWDdMR1RYM1g1bW9lM2xPRmx2alJVR2laWA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Bonnie Tyler (1951-2026): Cantora britânica morreu no Algarve aos 75 anos - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWDBXZnRBMlBlaHhIenFLXzF3RzZDSzItTHBrZkRFcmhRRFhJTmFDclFzWkhWWU1KeEpiUHJkYm5YSTdvaG5ETWVMQW12aXZkbThKcXlsS2pQR1FGVFl3TVAzWU1iQjVVZ08wSVFQMG0tS0E1V0NZampFaGZTWXFzYg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Bonnie Tyler: \"Usava tanta laca que me culpavam pelo buraco na camada de ozono\" ]]>",
+          "link": "https://www.maxima.pt/moda/tendencias/detalhe/bonnie-tyler-usava-tanta-laca-que-me-culpavam-pelo-buraco-na-camada-de-ozono",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Morreu a cantora Bonnie Tyler aos 75 anos",
+          "link": "https://www.rtp.pt/noticias/cultura/morreu-a-cantora-bonnie-tyler-aos-75-anos_n1752278",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "11h Morreu a cantora Bonnie Tyler",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-morreu-a-cantora-bonnie-tyler_a1_1752297",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Cantora Bonnie Tyler morre no Hospital de Faro aos 75 anos - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVJzaDg5VzVlOXc2ZnRKX1R2Q3JEQVF0OEcyZzBLVVVXZ0tjTDNlY0FldXJDLWZBZWhUZWlpeWlrRjVZSkJobldpb29LbE00dzhTM09qbXB4S2JwZ1FsZmwwRzBuRGFwWFpYeE1MRERXZ2xwcmo4SVNmX2I1R0h2dHlkRDRHQ2V4Y2cyaDlsY2MyYUpTblhNOEljSFZNNUlFemoxS2p4THM4LVhrNl9zTmtKQnhPczA?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Bonnie Tyler morre aos 75 anos. Artista estava internada no hospital de Faro",
+          "link": "https://sol.iol.pt/sociedade/noticias/bonnie-tyler-morre-aos-75-anos-artista-estava-internada-no-hospital-de-faro/20260709/6a4f69da0cf2f6a1a1e700b1",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Bonnie Tyler morre no hospital de Faro ]]>",
+          "link": "https://www.sabado.pt/gps/detalhe/bonnie-tyler-morre-no-hospital-de-faro",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Morreu a cantora Bonnie Tyler",
+          "link": "https://www.jornaldenegocios.pt/economia/cultura/detalhe/morreu-a-cantora-bonnie-tyler",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
       "id": "calor",
       "label": "Calor",
       "group": "press",
@@ -328,9 +480,58 @@
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-08"
+        "2026-07-08",
+        "2026-07-09"
       ],
       "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Mortalidade por calor extremo abaixo das previsões: “Não vamos ter aumento muito significativo”, diz DGS - Público",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2hjUDAteEs2SVA4U0k0R1k1TlJpSC0tU0pmWlFMTU5BVzVhdklhLUx2SzlHamY5U05jWjZ1NkQwTEpWRDZibWYxcTJDZzBWTFpjc2lsa000M25WVldYd3lUeGNFSzl5VGQ5R1gtcEdyRDBTcThzLTBmZUJHdFR3TE5udTFiQ0dNNWlxSXg1T1BQQjhyNGl4bUZvSUs2WVlpU0pnMF8zS05lNGwzaFBPdmpzRGtNaEdoVXR4bGs5V3hLNTQwdVNieDJVTHU0VGt5V3I4SlVUYnY?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Enfrentámos o mês de Junho mais quente de sempre na Europa Ocidental. É só mais um recorde? - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWJrZ1dKVm04X2xhS3pCMDFaZzNtMU84SHM4NnRubE90VGhCVHcyZlViM09SM0p4RlBXNWl0N3lMS3UtZXhGbEdOeXV1c185Qk8xdXRMOWlBYl85dGRGZDBEM0xFTkRoT2xYMjlFdjNuQ1B1SjdJNFZhR0pSd2g2ZVVEMjZoQ20tc1N4MElPX3Q2Y2hsTjFBUkl4RzVTMldSRy1LcWQ1VzY1THdRX1pBag?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Consumo de energia para arrefecimento nas habitações da UE duplicou em seis anos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzdIQndnTUhNOW5GOERKVTAtSDM2TzBBTEVTMGtTNUZNSFFIaERtWGJsRGJBS1JxZDlyd0x2NDBvbHJSQnlaOFBaZWxEclp2VURuM3NmNl9DX2VabDh4MHpsZzdCV1VFZ2ZwSjE1Z2RwcEpFaGtBY3k5aGhmT3RMTUxQVGRiSWtLYjJzYmRsWEN5NUFFY0hjc296cXpxcC02d3UwMi13ZWlWSjNFd1dqc3RUMlZpZWho?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Ondas de calor de junho e julho causaram 125 mortes acima do expectável - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNjlFVlpZd2pOTFdhSmM1ZGh0V2ZKZFlGQ0N4NG05NW9zRXBRWHZPcUo0YzJDMUV4eU9GeEFTZk4ydk9tNDVFSEpmVGFuWFJ2c0VZUHJFVTNMSGNMaXZadUtrN3RwM1IyMVNrNkFyMGI5QXV0ZnItZDBCTVVnTWlnSGR4aWRFREpZVmdqLXFRdUhSMklySGNlZXM4Z0pYTDQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "INEM com mais de 5200 chamadas por dia devido aos efeitos do calor - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWV8xb095QnU0UVZSM2ZRZFF0eWV3MS1OYWpmTTVFcldOR0RzU2ZBQzV6UHI5cDdxbHNub2lEZXZaQzM3RkFUVlRjNV9OOTVOVXdnRENMckxka0ZjOUZWdFBjanhMRkZfZ09yU0Q3ZUxZNFk5bXN4ajE5WHlnREw3NmNhSHctZ3JIQjhhTDd4aWtBc2lOaS1sT0ctaHk4eDlsWmZrZkhUczNHNzlJTFE?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "INEM com mais de 5.200 chamadas por dia e procura deve manter-se",
+          "link": "https://www.rtp.pt/noticias/pais/inem-com-mais-de-5200-chamadas-por-dia-e-procura-deve-manter-se_n1752272",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Onda de calor na Alemanha provocou mais de cinco mil mortes",
+          "link": "https://www.rtp.pt/noticias/mundo/onda-de-calor-na-alemanha-provocou-mais-de-cinco-mil-mortes_n1752305",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Ondas de calor provocaram 123 mortes em excesso em Portugal",
+          "link": "https://sol.iol.pt/sociedade/noticias/ondas-de-calor-provocaram-123-mortes-em-excesso-em-portugal/20260709/6a4f70ba0cf2b42132db9e0b",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-08",
           "title": "Cabo da Roca marcou 33,7 °C às cinco da manhã e o Minho bateu recordes de temperatura - Expresso",
@@ -831,7 +1032,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "crime",
@@ -1375,9 +1576,82 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-09"
       ],
       "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Trump ameaçou e EUA atacaram o Irão novamente, Teerão promete resposta | Médio Oriente - Público",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXd3UlJ3X3ZuRU9QT0x6OThncUZvYm5DcmgwY2NxTVhMU3NBcEVUakt1ZDhGZDZpUUFuZy0yNVBaQldROERKR3VqN2RGS2VYZmJYMmk0RUxBMTJudjFJNDMxeERDSDA4c3d3eGZ4dGVzVzJWN2lFSlNJOF85dDV4ZDVBQU15OGhhSlUyMmhKakpTYWVvUXZlRC14Z04xdXQ4RzY0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "A montanha russa de Trump em Ancara: das ameaças contra os aliados ao \"amor\" com \"bondade no coração\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOF85REhBVUI0T091akQxOTBvLVhELVUxOUFJY0NDOUpXWTlhX1NhOXZUQzlPeXRXX3ItTmVGRkprc3VfVTBGNzZSc3Q5VFNfdGRoOGEyOGhRb0hnb1ZZSkFweVBGRkI4TllFU2NkVXJ6dDdVVE5HNGVZbnJ4bUJoeXRkUjdvZmRnanZtT3RDNGhyR081R0RmM0pOMGt4Y1BpN3BrMGozQ3UyRlRLbFFTblI0dXRjVElIV0xQRzJnVGVISGVWLVdCcTVkaXNhcUVrZTNObU91RFg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Zelensky e Putin são como “duas crianças a lutar num parque” e “às vezes é preciso deixar lutar”, diz Trump, que deixa “avisozinho” ao Irão - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ1U1REdmbjBPcjhiWldUekZjanA0ZFNJSmtEX0NFb2Y2dEV2Z3UxeU9fRG5zUjgyUzRFcXJWblFIQnhqN0szQ3kzeVNXS0J4RWVWT3FfYmtDV3J1MXVmVFRhMWgtS095eE1YVEZFck1wQWZCVlFHaHdyaDR1Y2g5aDhQQmhYbFpyQkZzS3dZS25idXUwUXk2YTBBWWFmNE4wMXRzYlY5UGVyOUFMTU9lT3ZBdW1PZ25KN05kRVFvZDNBRTBReHlDYXVmbTRveG1OcGxhTEt6Sy1LTEZEcWUwMTFRdzJ2OC1wcWs5elFvZ243SVYxQjdEX2h1UGk5bFEyY04zTzIwLXVFWFFyV2d2Ug?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Mancha vermelha nas bolsas após fim das tréguas entre EUA e Irão. Petróleo dispara 7% - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNemJyUzB1OUM1cHhud0gzblFoY0FPS3BrTDNrQlJfS05tU0hTMUJ3bGxnOThIYXp4YlAxNkFTc1RWbzNqQTdSa1FoZFVqSFhwWEVfM2prS2FtY2Z2Y1RTSTZ6TlQ1VGl4aDhvN3J5eDFJeE1OS3RMQ0NxZzMwWFBERVZIT3JVbFc5WDRDWXF1Vko3LTJ4UGtfS2Jpc2VsYW41bTRnWENaSTFsX0M3dm9CMXVCUU43c1pSTHN0QWN0N1RQdElyVlh1S0g4bEdxX0MxQXNpRW10dXlIR29XY2NJbDBFMUlOLV80RVE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "EUA atacam Irão e Trump ameaça com ataques \"muito piores\" se houver novos ataques a navios - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXQ5VHJMek03SnJtTmk5MFhyY3NjY19oMDhHcTAycy1fOFU2eVR5cmc1OVI1OWVoZXB5dUVRaGw1akFDYjVSQ3lDdTg0VmRlUVAxb0dEZUlJX2U5SHE1WTUxeGcyMnNKSHNoRE1xbHhZcmNaUDEyUVJ5YVJjaHZpd1k3Y2htYmc2ZlRxMVlOUU50ZU55QjNRTnVjSlRIUlFGN09yRWc3d0JHa0tNajc5MGdGOTFlekVU?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Trump ameaça Irão. “Vou dar-lhes um pequeno aviso: vamos atacá-los com força esta noite” - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVlLN3o4RXVsdkxrNVF0SmlvNDA2em9JQjhXaFc5cjhlMjF3NHpQY0c3NlZPcDN4OGhUXzRqMkQwcFR2SHlwNVBZTE01RGpFU2JJbm5YWkh1YVl6dzZrajVqNDV2VW5lVlZpcjJubUhQdlphQUpqMVRLMVFPTUwyb2hqdWRaRWJndXV0bUF4TXJUV0dFMlJlM0ZFOHJ6TEFscVp4eU1SYVQwcy0zLWNjcFVn?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Trump ameaça atacar infraestruturas civis e tomar ilha de Kharg - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkZvWExJUmZrbU5Vb202dTBjUWZyOHBrY096VlFOdlFncHR6cFVwM0QwcGh3MVlHTXZpeWtseVIwMlYwVGJlQy1mRjE4YWM5SFhWUGROeTdab0hPZjFUanVnbXc4ZW8wajZrTEhLUVR0M3NYUWd0NjBDRmpHb2lZUUJreWtVellSN2hBRGFlZU5pcHVtSlp5MGRB?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Enviado especial do CM a Teerão diz que ameaças de Donald Trump \"continuam a inquietar muita gente\" ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/enviado-especial-do-cm-a-teerao-diz-que-ameacas-de-donald-trump-continuam-a-inquietar-muita-gente",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Irão diz que projétil norte-americano atingiu zona em redor da central nuclear de Bushehr",
+          "link": "https://www.rtp.pt/noticias/mundo/irao-diz-que-projetil-norte-americano-atingiu-zona-em-redor-da-central-nuclear-de-bushehr_e1752254",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Preço do petróleo volta a disparar e é já certa subida nos combustíveis na próxima semana - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZmh3Yko0eV9OdWdFeTlLVkVJaVQxZ3pIVy1Wa2oxRlV4R2c3VnM2aTVGdXQ4dTFWT3dlV1FhUnlYS2wtNXludlc2VEhBaGppdkppbV9ER3pVbWFhM0xRVzUzNFNmWDFGVjZuQjZqRnU3N2ZFOXcxY2NvbWlVZjAxMlZEZEtUX3FsOHB5b2dibHNuZG9EVFFyM2tKSzYxTlp0OWZoc0pFbHRhM0lGeXpKUTh6am9udE1ueTQzVFgyN2lpV3Z5YWdOTWhzbFlJeGhIdDhyVkVERkcyMnl1QlNvYl9QR1g5dw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Trump diz que EUA já venceram militarmente enquanto continua a atacar o Irão ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/trump-diz-que-eua-ja-venceram-militarmente-enquanto-continua-a-atacar-o-irao",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ EUA revelam imagens de novos ataques ao Irão. Foram atingidos 90 alvos militares ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/eua-revelam-imagens-de-novos-ataques-ao-irao-foram-atingidos-90-alvos-militares",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-05",
           "title": "Trump exalta “a grandeza” dos EUA no 250.º aniversário da Independência - Público",
@@ -1452,7 +1726,7 @@
         }
       ],
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "exames",
@@ -1466,9 +1740,82 @@
         "2026-07-05",
         "2026-07-06",
         "2026-07-07",
-        "2026-07-08"
+        "2026-07-08",
+        "2026-07-09"
       ],
       "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Quase dois terços dos exames distribuídos já estão classificados, diz Fernando Alexandre - Público",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ0J3UkNjRmpHSDJYWFhkc0F6eWdMOUZ6bkJHUzRpbU13am5JelZYNENNd1pheGttRGpqUnRqeHNIdzFRYVo2bDlqMmRRdzhKVFQ1ZnRtdng0U0NmVkZsamtkSWx0ZGRXNkhza3lycGdDUmNpMTdReThGUFR1T3lQNk5Xd0VnTENyeXZYYThUZXlxTk5sUVRSQ3dHVDFuM19uVms5WU5PZDZHRFYxUkI0emhyaFFMeGtCMTdIQ0JFT201R3JBclpRZWNRZDlDbVp2YjFPVk53?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "PCP ameaça com debate de urgência caso Fernando Alexandre não responda em comissão - Público",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQem9wOUx6bjhyX2w0X1VfVHExWXMzVGs3S0dtbkJSLWQtblgyTUo1a21RUzhSZzBuYW54alJ1SnZuU3FqbFNwcktQcVU1S3lyb0xsR0YyR1NTczVKSWM3aXVMWEJicEhoWHhsandaQzM5bHVHOFRRQkN2aE82eUhEOWVZNGpxWnhqSjQzSnd2Mk1HTEVQalVWX0tqc3g3eFBSVG9pZmRYTHl5VkU0U1hhNklkN21XbFJFU2lLWGJiR201LTNMbWJfSzcxNA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Avaliação digital dos exames: empresa diz que “não é responsável pelo controlo de qualidade” - Público",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU0l5TkR2bHBBMkFWbkdoZHVDX3ZZTjV1TG5idU52cXhFUkIyWkU2T2pCRkVSMGFqc1U5RnpBWUxKT1dhelZZNjZwOS1GeF9nQzlOUzNhNUFwSE9QM1hFMmJoV252a2dnRUFuQnRfVE0weGNuclFIQTVrUWpSajNfVV9wX3B2QzZnUV8tbncxSnRVMFQyZ1JnQ2NFOG9BNmU5UFNsSVEtdS1MaVdFb3VJYU1PeTBIOUJlSHFmYnRvWnJvMjA0VFE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Empresa que desenvolveu plataforma dos exames nega responsabilidade nas falhas \"operacionais do processo de classificação\" e digitalização - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTC1DNWNhbGxtN2NZXzJXTXBnaFQ0akVwcHpqRzBrdUZMcHVOT0Q1ZENxVnZUbnhEZnphZkdZRXBoYVVNQTdRaE42Q2wtU09QY013bXIwZlNoOTg2eDNpLUdaazc5V2tJNm1mWWxWUXJPYnZIU180ZDJmQ3lQRjNPSWxaY3hNXzJVOW5SaE5tc1lSWFR6b0kwU0d3QWd3c3VmazRRbmF0NFF5Q0RqVUJPNldPRDhFNHpVWnh4cmx5dmZHcmI4dFk5RkdqT0lqdHhUdnVHZXFyZWpoVTY3U3RRVWJoQ2tpZGViOUVfVS1lM2ptRHEtcVJ1WVNkVXBKU1FMV3J3enpkU3RvNjZMUERkRkFvWQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Ministro diz que 65% dos exames estão corrigidos e acredita que notas saem na data prevista - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQTZyRnh3dHhILXZ1SGFVZnhUcGxhYTNFSHF0QjBqQzRlMHlfOU5kMWdTNzV0cXg5NjdJNXRsN2FKbHowRTVlLVlxNHdISjhROVFNLU5fUzAzRmRCTVdndElJQWMtYWhCTFlJTGd1THRLRG41anBmaWpPdXZMQmFuemMwTDVHV1ozaXNXejdYQUR1dm82alhWMFpDaDduRXdaME0zaVkycnc1ZS1iSF91T040UWxOQV9tOHdIeEV1eFgzck1NV2phRTU1OHY4eDBFNG9qdUp3?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Atrasos nos exames: professores podem ter de remarcar férias e ser indemnizados por isso - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcW12Z3BzMl85dTlCdURzMXpTQnE2emhyRFR2QUtoSFdPSHpiRVR5SUFLWHg4QzU0WHNyTzZHSnNmY3ZTUWlhU0tJRnpUTGpITzFycXVNOVlXeEoyMkJCUEJKUUhnWHVtTDNLYlpHQ2NiTHRQaFFfNkxkdGg0aEhyUjctOUZZa1ZYUjBoblRxbFA0bVJja2NucXNlYUtJel9hT1NadVdZNGYyejNwb1loQXJhR2UtdkFzUWsxX1pDWC03eDJxbDdpODRRQTN6OTFMZFE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Exames Nacionais? Isaura Morais: \"Há um alarido exagerado\"",
+          "link": "https://observador.pt/programas/comissao-de-inquerito/exames-nacionais-isaura-morais-ha-um-alarido-exagerado/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "10h. Exames. Vice Parlamentar do PSD diz que há alarido",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2401/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Carneiro acusa primeiro-ministro de \"insensibilidade atroz\" sobre  exames nacionais  ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/carneiro-acusa-primeiro-ministro-de-insensibilidade-atroz-sobre-exames-nacionais",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Carneiro acusa primeiro-ministro de \"insensibilidade atroz\" sobre  exames nacionais",
+          "link": "https://www.rtp.pt/noticias/politica/carneiro-acusa-primeiro-ministro-de-insensibilidade-atroz-sobre-exames-nacionais_n1752291",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Carneiro acusa primeiro-ministro de “insensibilidade atroz” sobre exames nacionais",
+          "link": "https://jornaleconomico.sapo.pt/noticias/carneiro-acusa-primeiro-ministro-de-insensibilidade-atroz-sobre-exames-nacionais/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Plataforma de correção de exames atribui trabalho extra aos professores sem aviso prévio - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc3NXSVE0N214YkNSOU9Qb01pTm55MjYzSlRHamlmTDRwam5KREpnN2J5LXJCQ0dLdi1oamVlNnpGM2p4OWRVWmZoRWdxUnJrOUk3TnlhcjUwb1FxNWFpSmVyQ19VbTFSTG45MWE0LTFrX24zcHhaaGEzOVJLVW85Yk5BUnF1bHlYOU41anFja0tlT0s1UndwclFNSXZCSG1PUmRqeDlDNWpBd0pLa2xlQVpsOTRoQTdaNUVn?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
         {
           "date": "2026-07-08",
           "title": "Exames: o digital tramou o ministro?",
@@ -1729,7 +2076,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "fifa",
@@ -2046,9 +2393,28 @@
       "occurrences": [
         "2026-06-28",
         "2026-06-30",
-        "2026-07-03"
+        "2026-07-03",
+        "2026-07-09"
       ],
       "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Cinco detidos em operação da PJ contra grupo suspeito de legalização fraudulenta de imigrantes ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260709-111515-cinco-detidos-em-operacao-da-pj-contra-grupo-suspeito-de-legalizacao-fraudulenta-de-imigrantes",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "PJ desmantela grupo suspeito de regularização fraudulenta de milhares de imigrantes - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaWw5LVJIZ2NTT3B5bnRKb3BUb05vSEFfUkxvMF9Lc2xCb1E2Y216eklNRWIxMXBQMVNVMVUzY3BCZktNN2gtaW5lczFnaDRrb0N1Y3ppNUdKdzJTbEhiZVEyX2dUbkZxZnlxVFR4d1RmZGJRS1I4LWtGVjdQNFlVbWpqY3B0eV9ReC1yaS1aU1BiQWRYTVdDY3U5a1Naem1EY1o5d1ViY2xTdktJS1NoS2w5N05Vd056b29yMjRzdWlqVTQyUm84cUFR?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Cinco detidos em operação da PJ contra alegado esquema de imigração ilegal",
+          "link": "https://sol.iol.pt/sociedade/noticias/cinco-detidos-em-operacao-da-pj-contra-alegado-esquema-de-imigracao-ilegal/20260708/6a4ea2f60cf2b42132db9d56",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-03",
           "title": "Saída de imigrantes da Segurança Social dispara 66% em 2025 - Expresso",
@@ -2171,7 +2537,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-03"
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "incendios",
@@ -2643,9 +3009,82 @@
         "2026-06-29",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-08"
+        "2026-07-08",
+        "2026-07-09"
       ],
       "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Trump ameaçou e EUA atacaram o Irão novamente, Teerão promete resposta | Médio Oriente - Público",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONXd3UlJ3X3ZuRU9QT0x6OThncUZvYm5DcmgwY2NxTVhMU3NBcEVUakt1ZDhGZDZpUUFuZy0yNVBaQldROERKR3VqN2RGS2VYZmJYMmk0RUxBMTJudjFJNDMxeERDSDA4c3d3eGZ4dGVzVzJWN2lFSlNJOF85dDV4ZDVBQU15OGhhSlUyMmhKakpTYWVvUXZlRC14Z04xdXQ4RzY0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "A montanha russa de Trump em Ancara: das ameaças contra os aliados ao \"amor\" com \"bondade no coração\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNOF85REhBVUI0T091akQxOTBvLVhELVUxOUFJY0NDOUpXWTlhX1NhOXZUQzlPeXRXX3ItTmVGRkprc3VfVTBGNzZSc3Q5VFNfdGRoOGEyOGhRb0hnb1ZZSkFweVBGRkI4TllFU2NkVXJ6dDdVVE5HNGVZbnJ4bUJoeXRkUjdvZmRnanZtT3RDNGhyR081R0RmM0pOMGt4Y1BpN3BrMGozQ3UyRlRLbFFTblI0dXRjVElIV0xQRzJnVGVISGVWLVdCcTVkaXNhcUVrZTNObU91RFg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Zelensky e Putin são como “duas crianças a lutar num parque” e “às vezes é preciso deixar lutar”, diz Trump, que deixa “avisozinho” ao Irão - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZ1U1REdmbjBPcjhiWldUekZjanA0ZFNJSmtEX0NFb2Y2dEV2Z3UxeU9fRG5zUjgyUzRFcXJWblFIQnhqN0szQ3kzeVNXS0J4RWVWT3FfYmtDV3J1MXVmVFRhMWgtS095eE1YVEZFck1wQWZCVlFHaHdyaDR1Y2g5aDhQQmhYbFpyQkZzS3dZS25idXUwUXk2YTBBWWFmNE4wMXRzYlY5UGVyOUFMTU9lT3ZBdW1PZ25KN05kRVFvZDNBRTBReHlDYXVmbTRveG1OcGxhTEt6Sy1LTEZEcWUwMTFRdzJ2OC1wcWs5elFvZ243SVYxQjdEX2h1UGk5bFEyY04zTzIwLXVFWFFyV2d2Ug?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Mancha vermelha nas bolsas após fim das tréguas entre EUA e Irão. Petróleo dispara 7% - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNemJyUzB1OUM1cHhud0gzblFoY0FPS3BrTDNrQlJfS05tU0hTMUJ3bGxnOThIYXp4YlAxNkFTc1RWbzNqQTdSa1FoZFVqSFhwWEVfM2prS2FtY2Z2Y1RTSTZ6TlQ1VGl4aDhvN3J5eDFJeE1OS3RMQ0NxZzMwWFBERVZIT3JVbFc5WDRDWXF1Vko3LTJ4UGtfS2Jpc2VsYW41bTRnWENaSTFsX0M3dm9CMXVCUU43c1pSTHN0QWN0N1RQdElyVlh1S0g4bEdxX0MxQXNpRW10dXlIR29XY2NJbDBFMUlOLV80RVE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "EUA atacam Irão e Trump ameaça com ataques \"muito piores\" se houver novos ataques a navios - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXQ5VHJMek03SnJtTmk5MFhyY3NjY19oMDhHcTAycy1fOFU2eVR5cmc1OVI1OWVoZXB5dUVRaGw1akFDYjVSQ3lDdTg0VmRlUVAxb0dEZUlJX2U5SHE1WTUxeGcyMnNKSHNoRE1xbHhZcmNaUDEyUVJ5YVJjaHZpd1k3Y2htYmc2ZlRxMVlOUU50ZU55QjNRTnVjSlRIUlFGN09yRWc3d0JHa0tNajc5MGdGOTFlekVU?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Trump ameaça Irão. “Vou dar-lhes um pequeno aviso: vamos atacá-los com força esta noite” - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVlLN3o4RXVsdkxrNVF0SmlvNDA2em9JQjhXaFc5cjhlMjF3NHpQY0c3NlZPcDN4OGhUXzRqMkQwcFR2SHlwNVBZTE01RGpFU2JJbm5YWkh1YVl6dzZrajVqNDV2VW5lVlZpcjJubUhQdlphQUpqMVRLMVFPTUwyb2hqdWRaRWJndXV0bUF4TXJUV0dFMlJlM0ZFOHJ6TEFscVp4eU1SYVQwcy0zLWNjcFVn?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Trump ameaça atacar infraestruturas civis e tomar ilha de Kharg - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdkZvWExJUmZrbU5Vb202dTBjUWZyOHBrY096VlFOdlFncHR6cFVwM0QwcGh3MVlHTXZpeWtseVIwMlYwVGJlQy1mRjE4YWM5SFhWUGROeTdab0hPZjFUanVnbXc4ZW8wajZrTEhLUVR0M3NYUWd0NjBDRmpHb2lZUUJreWtVellSN2hBRGFlZU5pcHVtSlp5MGRB?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Enviado especial do CM a Teerão diz que ameaças de Donald Trump \"continuam a inquietar muita gente\" ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/enviado-especial-do-cm-a-teerao-diz-que-ameacas-de-donald-trump-continuam-a-inquietar-muita-gente",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Irão diz que projétil norte-americano atingiu zona em redor da central nuclear de Bushehr",
+          "link": "https://www.rtp.pt/noticias/mundo/irao-diz-que-projetil-norte-americano-atingiu-zona-em-redor-da-central-nuclear-de-bushehr_e1752254",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Preço do petróleo volta a disparar e é já certa subida nos combustíveis na próxima semana - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZmh3Yko0eV9OdWdFeTlLVkVJaVQxZ3pIVy1Wa2oxRlV4R2c3VnM2aTVGdXQ4dTFWT3dlV1FhUnlYS2wtNXludlc2VEhBaGppdkppbV9ER3pVbWFhM0xRVzUzNFNmWDFGVjZuQjZqRnU3N2ZFOXcxY2NvbWlVZjAxMlZEZEtUX3FsOHB5b2dibHNuZG9EVFFyM2tKSzYxTlp0OWZoc0pFbHRhM0lGeXpKUTh6am9udE1ueTQzVFgyN2lpV3Z5YWdOTWhzbFlJeGhIdDhyVkVERkcyMnl1QlNvYl9QR1g5dw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Trump diz que EUA já venceram militarmente enquanto continua a atacar o Irão ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/trump-diz-que-eua-ja-venceram-militarmente-enquanto-continua-a-atacar-o-irao",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ EUA revelam imagens de novos ataques ao Irão. Foram atingidos 90 alvos militares ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/eua-revelam-imagens-de-novos-ataques-ao-irao-foram-atingidos-90-alvos-militares",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-08",
           "title": "EUA lançam novos ataques “poderosos” contra o Irão - Público",
@@ -2870,7 +3309,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "irs",
@@ -2963,6 +3402,49 @@
       ],
       "firstSeen": "2026-07-08",
       "lastSeen": "2026-07-08"
+    },
+    {
+      "id": "lei-das-burcas",
+      "label": "Lei das Burcas",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-09"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "PSD, Chega, IL e CDS aprovam \"lei da burca\". Esquerda contra",
+          "link": "https://observador.pt/2026/07/09/psd-chega-il-e-cds-aprovaram-na-especialidade-lei-das-burcas-com-oposicao-da-esquerda/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ PSD, Chega, IL e CDS aprovam na especialidade \"lei das burcas\" com oposição da esquerda ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/psd-chega-il-e-cds-aprovam-na-especialidade-lei-das-burcas-com-oposicao-da-esquerda",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "PSD, Chega, IL e CDS aprovaram na especialidade \"lei das burcas\" com oposição da esquerda",
+          "link": "https://www.rtp.pt/noticias/pais/psd-chega-il-e-cds-aprovaram-na-especialidade-lei-das-burcas-com-oposicao-da-esquerda_n1752294",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "\"Lei das burcas\" aprovada na especialidade com oposição dos partidos de esquerda",
+          "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/lei-das-burcas-aprovada-na-especialidade-com-oposicao-dos-partidos-de-esquerda",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "PSD, Chega, IL e CDS aprovaram na especialidade “lei das burcas” com oposição da esquerda",
+          "link": "https://jornaleconomico.sapo.pt/noticias/psd-chega-il-e-cds-aprovaram-na-especialidade-lei-das-burcas-com-oposicao-da-esquerda/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "livre",
@@ -4044,6 +4526,49 @@
       ],
       "firstSeen": "2026-06-24",
       "lastSeen": "2026-06-24"
+    },
+    {
+      "id": "no-name-boys",
+      "label": "No Name Boys",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-09"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-09",
+          "title": "Supremo rejeita recurso de elementos dos No Name Boys em caso de violação - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ25ETllYX3EyZWdTdzlxekFobXpSV0dfWTVQd2puRXpPWEotbng1NlQ5Mm84VS1NdG1TS0NxSXRTWFlwRm1mbXVnYmRpZVJiOWZiMmVKNWlybW9pNG1lOXlLMVVXNXRaQlFJd28tc0ItYzZQdVJZZmJUUXhsOVhRNG9hNm9Cd0owd2NITkZRSTZRaGFjM2d3bllETFd4VXNYU0s3RXhSTTBNcmtXWURDNGRkMG53Y1FS?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Dez elementos de No Name Boys detidos em megaoperação da PSP",
+          "link": "https://observador.pt/2026/07/09/dez-elementos-dos-no-name-boys-detidos-em-megaoperacao-da-psp/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "Operação \"Kickoff\". PSP deteve dez elementos dos No Name Boys por suspeitas de agressões",
+          "link": "https://www.rtp.pt/noticias/pais/operacao-kickoff-psp-deteve-dez-elementos-dos-no-name-boys-por-suspeitas-de-agressoes_n1752269",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "PSP detém 10 pessoas por suspeitas de violência antes do dérbi de futsal. Operação visa membros da claque &quot;No Name Boys&quot;",
+          "link": "https://sol.iol.pt/desporto/noticias/psp-detem-10-pessoas-ligadas-a-claque-no-name-boys-por-suspeitas-de-violencia-antes-do-derbi-de-futsal/20260709/6a4f69b60cf2b42132db9e03",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-09",
+          "title": "<![CDATA[ Detidas 10 pessoas ligadas aos No Name Boys por agressões antes de Sporting-Benfica ]]>",
+          "link": "https://www.sabado.pt/desporto/detalhe/detidas-10-pessoas-ligadas-aos-no-name-boys-por-agressoes-antes-de-sporting-benfica",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
     },
     {
       "id": "petroleo",
