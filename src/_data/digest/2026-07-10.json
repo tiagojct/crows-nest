@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-10",
+  "meta": {
+    "generatedAt": "2026-07-10T11:13:09.615Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "fallback",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "jorge-jesus",
+        "label": "Jorge Jesus"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "agua-almada",
+        "label": "Água Almada"
+      },
+      {
+        "id": "sistema-volta",
+        "label": "Sistema Volta"
+      },
+      {
+        "id": "habitacao",
+        "label": "Habitação"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "inflacao",
+        "label": "Inflação"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Incêndio em Espanha, Mundial 2026, nomeação de Jorge Jesus, crise de água em Almada, sistema Volta e novas regras de despejo são os destaques."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Jorge Jesus como selecionador, reforma hospitalar falhada, novas regras de despejo, exames nacionais e sistema Volta marcam as notícias."
+      },
+      {
+        "name": "Observador",
+        "summary": "Subida dos combustíveis, melhoria na água em Almada, queda nas entradas irregulares na UE, exames e projetos nomeados para prémio europeu."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Ministra anuncia normalização da água em Almada, inflação desce com combustíveis, Mundial e lei das burcas em destaque."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Incêndios florestais em risco máximo, idoso em capotamento, suspeito de assassinato, e transportes gratuitos no Porto."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Comissão Europeia contra design do Facebook, exames nacionais, incêndio em Almeria, detenções por fogo e violência doméstica."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "Subida dos combustíveis, inflação desce, exames nacionais em preocupação, PS critica arrendamento, e incêndio em Espanha."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "Jorge Jesus selecionador, Mundial 2026, crise de água em Almada, novas regras de arrendamento e subida dos combustíveis."
+      },
+      {
+        "name": "TSF",
+        "summary": "Mundial 2026 no centro das atenções, crise de água em Almada com solução a duas semanas, PCP critica despejos, e arranque do Alive."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Exportações sobem, inflação desce para 3,2%, incêndio na Andaluzia, sistema Volta com 55 milhões de embalagens."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Reforma do arrendamento criticada, exames nacionais, incêndio em Espanha e detenção por fogo florestal."
+      },
+      {
+        "name": "ECO",
+        "summary": "PS critica arrendamento, sistema Volta supera 55 milhões, inflação desce, combustíveis sobem, e exames com esforço de Montenegro."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Rendas com despejo por dois meses de atraso, incêndio em Espanha, combustíveis sobem, inflação desce."
+      },
+      {
+        "name": "Sol",
+        "summary": "Incêndio em Espanha, morte de jovem a celebrar Mundial, Pepe recusa convite de Jesus, crise de água em Almada."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Incêndio na Andaluzia, subida dos combustíveis, incêndios em Portugal em perigo máximo, morte de jovem no Mundial, água em Almada sob análise."
+      }
+    ]
+  }
+}

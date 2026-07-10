@@ -258,6 +258,91 @@
       "lastSeen": "2026-07-09"
     },
     {
+      "id": "agua-almada",
+      "label": "Água Almada",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-10"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "PSD acusa PS de querer “mascarar incompetência” da Câmara de Almada na gestão da água - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeFlySTAzWkxqQ0JaWkh5NUgyOEZPUWU1WkhzM2N0T2F6bmlZN3dJTHlLYlZBYmtURjFXSzVRQVVVWWJhTTNnVWdrQUY3MVljYTg2RW96WmxrMXZrbVR2THJuWlBKNFFjMzh0Z25KdFlyLWc2RjRCc25PVnJQNVc0OWtEa1ZETUxJVFk2eDRPUWRWQ1IybEJHUXJGSDNadHlQbl9meklGaWxXZ2xoamNtcUlmcXF3ZjM1dWdORmRFaVo2Zw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Podcast Soundbite. Falta de água em Almada: de quem é a culpa | Podcast Soundbite - Público",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmxfanNNOUZlOEJIMWRnanRQOUFBWTdIQWtRVnNBZlJ1UV84TXMwa1JYZDNHUUNrWlFocDFrT19KNF80c2htajZkbmpGTFdxYVMzc1BMMThYNTlsNURZRzY0Z3pVTjdkamdTc3FMQ0h5UTdMWUJ6Y3MwR2RoXzZjUDRkc3RPX2ZRYlE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Reservatórios de Almada estão a \"recuperar níveis\", diz APA",
+          "link": "https://observador.pt/2026/07/10/reservatorios-estao-a-recuperar-niveis-apa-afirma-que-medidas-de-contingencia-tomadas-pela-camara-de-almada-estao-a-produzir-resultados/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Almada. Provedoria de Justiça analisa crise de abastecimento",
+          "link": "https://observador.pt/2026/07/10/provedoria-de-justica-analisa-crise-no-abastecimento-de-agua-em-almada-apos-queixas-de-municipes/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Almada. APA: \"Reservatórios estão a recuperar os níveis\"",
+          "link": "https://observador.pt/programas/resposta-pronta/almada-apa-reservatorios-estao-a-recuperar-os-niveis/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "10h. Almada. Provedoria de Justiça analisa crise",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2402/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Ministra admite que abastecimento de água em Almada deverá normalizar dentro de duas a três semana - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkFNWkhQVWkwRzJNSUs4d3NaTHBtdkxxN3ZOSm5pampKc3hhR3EyVEZjTHBpZEpOekwxOFktTW1LeVVnUks4OGVJRTYxMmluN2ROWHprWk1ja3JpYWc1YzBvRlYySTB4NnNhQXNjMWpvWEwwQTV3R0Z5Ym04VVN0LWt1UndOZy01ZWlHeHNrTGo4TDMxRno5WHZZblBEMWt4ZnUtTVc2eUN3dkNEWlVxemc1LXdLam9VWEZ0R09MbGU?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Presidente da Câmara de Almada: \"Estamos perante fenómenos extremos, temos que reduzir o consumo de água\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmZocE95eWFOWjFmMUV5alg4bHY1d3dMQ3MybkJmX2JtMHNnczJ5QW5WdzYtSU92QUhzSEpxcTNvLTIwMjJZVmM0MkNobGNoS2otZXB4M044Rnc1YnZwdzl2UklDRXRpUXRQRWgxWGxERWdMUmJ1R0JmeWJpT0RsbWplMnhOaEcwVDQwWUNDTU5ZdHh0UTZNa1pZa3VlSVY3alVaTzhmRkZmczkwMXdCNlp4eTJ3MEQtWGJjNE1BNVpHXzdrTjd1S0lfeGJDVUpjUE50c1FpXzJ0TDJURzhlVEVUVnhJRVUwNV9QTURB?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Falhas de água: abastecimento virou caso de justiça entre as autarquias de Almada e do Seixal - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOazNWdEdDTy1zYmRhdDliOUl1bnhxcU9LRW82WE5jeEZuUTlVdkwwb3BjQkZXcEhxRmkzM2tvT0JXb21JRm05MU9tQU1PdF84MjlUcXZ5emlnak5ZZGFBUlc2aXJNd1NTcTBJemVWak9aakI1V2ItVFgwTkVtcGh5aHFONk5wdjFXVVVOcWhrbGVFR3VBR2lVd1A5LS1RT2lPTFVTMUNsbFU2QXEwVEttZ2hVMWtJVjRLc28tc2Zqa0tBNEQ4UjJjZWkzd2h1S1RYclUtOG9hZEZIS3k2Q2t3?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Fórum TSF: Almada e o desafio nacional da gestão da água - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmxuV2JPMGlzZlFGQlFXSzU0Rjc2THpaU0N3OEJJTkZweGNJYU1XSFc2LTItZjBzSVFHUlJ4ZHR4ajNUWm5UaGVEZ3JoSXVtSmtYMEtyVWI0Mm1aY0p5Tklka2d5VlM0MjhvMDNEVFdzTVNoR1FEWWwyZDVBWngwbXNUNndjLW1EeXBLUXZlUlFDaWtVZkt5RXRrenp1cXB4RlE?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Falta de água em Almada: solução tem \"custo baixo\" e demora \"duas a três semanas\" - TSF",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEMtWkVVaTV4UnlJSEg2Ry1VRmhqcG1jZElTeFozdTE1T2ltejRqNUhUT2w0bkg4ZDY4TjZ3d0pRUjg1NzZ6N2NaVTJsQ2tzS1NLb2FhMXlxMEctc2l5Y2kydzY1Vnp5NUowaEtleEltSjNYQ2Rna1lndm8zdGF1d3BCZU1sN0k0SFNlRkdIOWRDU1hlcG0zdmI2UlVreU9FNDEzQ0N5Q2xoTlZmZ1dwWXM0dXpVS1pwSU5xSXdR?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Provedoria de Justiça analisa crise no abastecimento de água em Almada após queixas de munícipes",
+          "link": "https://eco.sapo.pt/2026/07/10/provedoria-de-justica-analisa-crise-no-abastecimento-de-agua-em-almada-apos-queixas-de-municipes/",
+          "outlet": "ECO"
+        }
+      ],
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
+    },
+    {
       "id": "arbitragem",
       "label": "Arbitragem",
       "group": "press",
@@ -1741,9 +1826,64 @@
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ],
       "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Exames nacionais: plataforma volta a estar em manutenção para corrigir erro que “inviabilizou a classificação de itens” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQcEUtRktWckxGTlFFclBKY1BhYk5rbzhzT1BVU3VtMHdSSnMyd05Qck9EN29rOW1QbkNqLWhVSk5DMTJZMGNvNlBBRGc2WS13OFdoVFBaLUFZZkJCVnBrVUY5MkM2M1FmRXF4blh0dm9XR3B6TXZ6LXl4WldaSm5pa0tzNkZQVDUzNzJfYzZ0bHJGcTNwbXpONC10WElMSUstcjg0cTlqaHZMbVFrZm12X3ZWb1d6NDJGeGt6Z3pvTmtkZXY2eU9xdGRQdldDaDBySFJWa3JqczVhdEZzUDEwOXNMOWdYdFUzU2UzdXNidnY3eWZrV3NZbg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Governo decidiu avançar com avaliação digital em pleno processo de substituição do sistema - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSW5TQm8zbFM4czRCODVpdGVLY29OVUZoLWxJMFdRSmxNV0cxenZfaThKRUNGaWdrUHBwenF1ay1ReWN0UWFOT2hWd2VKUzV4blhsME53YjhKZVZyVjhuWXJnWFp2RUVqU2lvU1BOQkF1VlN5bmlsaXdlQURZMWhHYTRsNDBQLUgyS2FWTmc2Z3pLTjV4UU9xNUkxQTJfRjNRaUNkUENVSGJLRlFVdVJncFpOUFB6eF9jS21n?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "PS. Dia das notas será \"dia de avaliação\" para Montenegro",
+          "link": "https://observador.pt/2026/07/10/ps-diz-que-data-para-notas-dos-exames-tambem-e-dia-de-avaliacao-para-montenegro/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ PS diz que data para notas dos exames também é \"dia de avaliação\" para Montenegro ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/ps-diz-que-data-para-notas-dos-exames-tambem-e-dia-de-avaliacao-para-montenegro",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ Estudantes apelam a que não haja novas mudanças no calendário dos exames ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/estudantes-apelam-a-que-nao-haja-novas-mudancas-no-calendario-dos-exames",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Exames nacionais. PS não compreende silêncio de Montenegro",
+          "link": "https://www.rtp.pt/noticias/politica/exames-nacionais-ps-nao-compreende-silencio-de-montenegro_n1752521",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "11h PS ainda preocupado com a correção dos exames nacionais",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/11h-ps-ainda-preocupado-com-a-correcao-dos-exames-nacionais_a1_1752528",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Quebra de anonimato? Professora denuncia que viu nome de aluno ao corrigir exame - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNV2FkQWkzT3pOZUR1aHRxazlZWHlwTG5Dc1Q1VXZFX1M1X2xFN3NlbmM0YVNTRzAxWmY3QWVfNzVnOTluZ2MwVnJfZXRqRk12LTVuWUNHaGQ4Qk9fak16WlJwZTV6a2Z4cGhkSldKcGcydDAyQkdqT2FidndMaWdTUVRldWpzS3l5UmhHNENPb3N0dDJjd0tFRmxLTFZRUE1FcjlrcWN3eEdEbjNIYUhnNHRUZDdCUDB5a3J2RldSaE5kNUczT0ZFVUM0aUJtcmpCMTI2eHlOZ2pvWGc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Montenegro assume “esforço muito grande” para repor normalidade nos exames",
+          "link": "https://eco.sapo.pt/2026/07/10/montenegro-assume-esforco-muito-grande-para-repor-normalidade-nos-exames/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-09",
           "title": "Quase dois terços dos exames distribuídos já estão classificados, diz Fernando Alexandre - Público",
@@ -2076,7 +2216,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-10"
     },
     {
       "id": "fifa",
@@ -2288,9 +2428,64 @@
       "aliases": [],
       "occurrences": [
         "2026-06-26",
-        "2026-07-03"
+        "2026-07-03",
+        "2026-07-10"
       ],
       "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Governo quer acelerar despejos a partir de dois meses de atraso de renda - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGpvWkhvREZUYm54UFhUamtqTWh2VXU5bWJJU19rVEJSR0tDVHNzQ2wtbENlbk10VEZGV2NGaDJyZTFHY2EwRjl5ei1rb3QybU1QbGhicHpuaXJvUUVkY0F0aU40Y3pLa0hlRTVuT3ZDWmxaRmFZRWhXeGMyS1YtSEUzcVhTSUxlejVnN1BXUVBpMFVnbmZVNWx3ckg3TE96Y3lOel9vdXZkY3BmbkVWV0ZBUnA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Governo acelera despejos e cria fundo para ajudar famílias sem casa - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEViZks0d0dmWWdSbXY3cVVBTFJGRW5qOEJVMWJNX3hMUDU3dUg4YWJiMldBVmlESHZrMndyLTliZ3RxNmdwejgzeVhHYWowWmdTVVJCcUktRjhobWdNSkxScTNqV0V5U2V2NTdSNWhDR3UwME9KT0pJV1hDNjJ0azkyWnhDa0drNVdnc2dDSnhlbzY4X3JLWERwcWhPa1liX2FabHNpMnZTSG5oaXV5SUp5ckdkcFRKc2Y4U0t4X1JuY3VqcWRCbG9uWEFPUjQ2SDJlcnRzYlBIbFdDMGc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "108 Vozes pela Habitação: “A crise tornou-se um problema político quando na verdade as soluções são mais técnicas e de mercado” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMUZpNWt1V2hYVlVsOGkxM2pJbjZ4NGlWcHYtWWR5TDZOUEVyTE5aQU9NbnhhZEhTS0JlU0Jab3JLazlsSFFPRF9XNGdacWptRUJJb1BkVHJ5Smd1U2xlUlRSUVBCLUV1RkJqYnRXWUl1MzFHaTAzT3RTMHV0MlBldzI4SHI3TzhWcTlYb3Vvc1NSczBZZEdtekdwMDZGZmwtVzRQazhoTkU3cEtNaE5KdXZuVV9RQ2xZZDBURWxRbGxleG45bURCWWRUQjdMcU5GdElxN2p1MkN1UVlPVXlOODNuNGdqc25abXJDVmhtbXlua1RrM0U1Yy01ODIxREtHZkY2NC1tVDZMSFV0NDZXQTZMR1k?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "PS acusa Governo de transformar \"acesso ao arrendamento num leilão\"",
+          "link": "https://www.rtp.pt/noticias/economia/ps-acusa-governo-de-transformar-acesso-ao-arrendamento-num-leilao_n1752522",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "10h PS critica alterações à lei das rendas",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/10h-ps-critica-alteracoes-a-lei-das-rendas_a1_1752506",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Novas regras no arrendamento: falhar pagamento da renda por dois meses dá direito a despejo - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNFp2Yjg2dUNCTFEzdlhnQVo4Zk5kQy0zMUp1bTFfT0R2R216c0tXVFBMMU93TFh6WU1FejFJSW5SMTVnRVVEZFJENDdzMDBKLTEybjdEZUFidW1DX21iYkVPS3A2eHFrOWlzQUFHZVRUUE5SX0t6RDJWS2JvRXA5Rk4xX2RIWU5JTHRGTzlmSktGVDQyRG4wcnhwMnJ3a2h6QWYzU0J0NlhVMmlxbGF2Wnc0eWItSURYMm12TjloekFWbzd2eTVxYlVLb3BuUjFSNXZJOVRyeVRZMDNIcUFYMDlnZDNtT2s?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "PCP acusa Governo de \\\"empurrar os inquilinos para a rua\\\" com novas medidas - TSF",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZVZvRXNmZHJEQVhIby00N1o3dlBZRkVESE0xenY1Zk5ndTlCamlEek1aejhKem53Y0FOWTZTSHZhZHNYWFQwRmlsMXd6Q0MyLWV4SFdvUzZNd3pRTUljZ0RPYXZ1Q2xCNjh3VXk0eXZ3VnB0MzZ1LUdNczZxX096ZktzNzBPc1R6eWlzSFNMbFh5N2s4Y0R2TFN1QWZPSndMbHEzdDJJOA?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "PS acusa Governo de transformar “acesso ao arrendamento num leilão”",
+          "link": "https://eco.sapo.pt/2026/07/10/ps-acusa-governo-de-transformar-acesso-ao-arrendamento-num-leilao/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Atraso de dois meses no pagamento das rendas com direito a despejo - Jornal Económico",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmxRYkdsSVY1WEhJazhhUklKWV9lb3dBZjVXZ2pvWVNqa1VJbHc4bVlnNzl5b05FaklVa1pCWDBDTWxWbG50NlZuV3ZzTWZ3MEhKRldULXJJbUxJN0tqbE9mbTNnSVVXSVlBa000WkRlbHlRWFVrRkhNSDFFNVFva29KdEplRmRHdDVSRU1qRzRPWDdNVlJxVG9wZnZQYy0tRWptZldzSFFVLWwx?oc=5",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-07-03",
           "title": "BdP coloca pequeno “travão” no acesso ao crédito à habitação a partir de 1 de Agosto - Público",
@@ -2383,7 +2578,7 @@
         }
       ],
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-07-03"
+      "lastSeen": "2026-07-10"
     },
     {
       "id": "imigracao",
@@ -2553,9 +2748,82 @@
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-10"
       ],
       "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Incêndio em Espanha já fez 11 mortos, há pelo menos 23 desaparecidos - Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFBwTU4xM1hobklGOUphdmZ3S0JDTDVNWUJzZ2dCZ1RRXzJtVmJUcTUxNlNJamhhQV96YjE2VWc4NThtWVdWVFhuYjN6dldVSmE2VkhObWtlaElXYzFPWTgzZWRvVEVRRm5YemVwRktaazQ1SzZkbjYxY2tGOHBRZ3pxa18xWFhLblktLWoxUllkSUVZNHRhM2NodHlmU0JSQXFkcXY4ZjBQQU4xZGN4WjhVZ2pzZw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Cerca de 50 concelhos do interior Norte e Centro e do Algarve em perigo máximo de incêndio - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEtIelE0bUl2Tnc3UWx1ZnlRcE1NQzJ6QVlGbzZmcm9sVWZ1ZGxKdC1LWmRhQkkySlBTd1JmY0tJTXM0UndUNEhSTUVtMENCdlNZeEZqT0pyLVVfcEZXRWxGbHB5QXoyanFqcFhGOF9ZQ3BMdWc2aHhxc05ZaHZQMkRnUVVVMkpMSlI3WTVycE9hSzNMMVBqR3BYeHBILTNYU0Mzb1hsOGxMbzdhSHBUM0owNFUzd3dEaWRyajdR?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ Montenegro envia mensagem de condolências pelas vítimas do incêndio em Almeria ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/montenegro-envia-mensagem-de-condolencias-pelas-vitimas-do-incendio-em-almeria",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ PJ detém mulher de 70 anos suspeita de fogo florestal em Resende ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/pj-detem-mulher-de-70-anos-suspeita-de-fogo-florestal-em-resende",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ Incêndio que deflagrou em zona de pasto no Montijo consumiu quatro hectares ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/incendio-que-deflagrou-em-zona-de-pasto-no-montijo-consumiu-quatro-hectares",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Governo de Portugal sem indicação de vítimas portuguesas no incêndio em Espanha",
+          "link": "https://www.rtp.pt/noticias/mundo/governo-de-portugal-sem-indicacao-de-vitimas-portuguesas-no-incendio-em-espanha_n1752516",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "9h Incêndio de Almeria pode ter provocado 12 mortos",
+          "link": "https://www.rtp.pt/noticias/noticiario-antena1/9h-incendio-de-almeria-pode-ter-provocado-12-mortos_a1_1752500",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Incêndio florestal na Andaluzia provoca pelo menos 11 mortos. Há mais de 20 desaparecidos",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/incendio-florestal-na-andaluzia-provoca-pelo-menos-11-mortos-ha-mais-de-20-desaparecidos",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Seguro envia condolências e solidariedade ao Rei de Espanha por incêndio em Almeria - Jornal Económico",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZEdSalZMS2xFVlpzTnJmT2tkRWNIaEJKSnVNcld3UmZDYkt1Ml8yV2RkZGdPVC1PSEZNSWhlSlpKTnpVUGE5TUl1M3EwdVc0d3F2ekE4RWJKWmN2VTMyUUdyY09sT3lXNXJKZHIzSkJBcUxhT2ZLdVU4UjJhWWJCUTJsVW5oOEJUd3NuQ3lRYzJuTEdUeFJEaHRTRmNoMFNoVS1vb0xoUlFsSTlFTjUtVDZBVjkzQl9LMHRkanhXNzN3TWc?oc=5",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Governo português sem indicação de vitimas portuguesas no incêndio em Espanha - Jornal Económico",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGdiTGpVS0xEX1IxVm9ybGVTOHozV25WZXRIMndCeHhwRHhYR3d3Q2c0eGJGMEY2M1F0ZkU5QkhLOTNQSlNYQkNRRkR0dHM3RlJpVVl6Y1VWTjlzcHdEN0l2LVV6Y2NZOXJPbU44Y0ZhVlJ3YV8tX0FadUQzSmFMTFFQWGVOZUg0SzJZQlM5ZFJQWnJWVTNKcmI0ZjBUdkhQQ2RHa3E2QWstaTlFaVZJSkhCVVJ4NXMxQTcw?oc=5",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "&quot;Tragédia sem precedentes&quot;: Incêndio devastador em Espanha faz pelo menos 11 mortos e obriga à evacuação de várias localidades",
+          "link": "https://sol.iol.pt/internacional/noticias/tragedia-sem-precedentes-incendio-devastador-em-espanha-faz-pelo-menos-11-mortos-e-obriga-a-evacuacao-de-varias-localidades/20260710/6a509e4b0cf2b42132db9f54",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ Imagens aéreas mostram extensão da área atingida pelo fogo na Andaluzia ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/imagens-aereas-mostram-extensao-da-area-atingida-pelo-fogo-na-andaluzia",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-07",
           "title": "Governo prolonga estado de alerta devido ao calor e aos incêndios - Público",
@@ -2948,7 +3216,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-10"
     },
     {
       "id": "inflacao",
@@ -2956,9 +3224,76 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-10"
       ],
       "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Litro de gasóleo deve subir sete cêntimos e de gasolina três",
+          "link": "https://observador.pt/2026/07/10/litro-de-gasoleo-deve-subir-sete-centimos-e-de-gasolina-tres-na-semana-que-comeca-a-13-de-julho/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Inflação desce em junho com combustíveis mais baratos, mas alimentação continua a pressionar os preços - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWmhDeUNQeERrTHpUTlpGczh1ZzU0Z0cxLU94WkhId2lVMDhpSXQxTDk3aTEtcWVhY1hUN21IQVJQVHd6RjJWQ3hwTHpubTMxU19HdzFlM0Q4OUVaaG54RkhjeldMcWVTYU1uQ1FUMzFIWE9Cd1VOMlNOUW00ZGpoZHBwZ2daTVBYdWVJUXhDUzJZb283REF1WFhQYWROcmRpOWIzX2hTREJIQldXN0F3UkwzUzU1Z0dfZ0NkNWFwWQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Litro de gasóleo deve subir sete cêntimos e de gasolina três",
+          "link": "https://www.rtp.pt/noticias/economia/litro-de-gasoleo-deve-subir-sete-centimos-e-de-gasolina-tres_n1752529",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Taxa de inflação desacelera para 3,2% em junho",
+          "link": "https://www.rtp.pt/noticias/economia/taxa-de-inflacao-desacelera-para-32-em-junho_n1752524",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Saiba quanto (e prepare a carteira): preço dos combustíveis vai subir - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR21YTENBdlhOUDFBOU1xUTc5a1duMEZFNkgzcmtDeEJhMDYzZkk0Q0FjdjhwaXZ5NDIxcWVhYTdsd2JXOVY5LURGRm1XRE1WeUpQaUdVNTRFYUF2M1VjWXZXSG82d1R6Z2xMaS1BNS1DUlp2eDV3YWJUYWsxZ3lVWjNEdkpLS2gza3NxWVItaUFITDR3aGNuVWI5UWNQcWhScS1jSDRyWk1USTZoRUJ1WVdIX2xfTmxBRnNNaGRSX2lUdUMtNk9tTTJVVGd5UQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "INE confirma desaceleração da inflação para 3,2% em junho",
+          "link": "https://www.jornaldenegocios.pt/economia/conjuntura/detalhe/ine-confirma-desaceleracao-da-inflacao-para-3-2-em-junho",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "INE confirma abrandamento da inflação para 3,2% em junho com alívio dos combustíveis",
+          "link": "https://eco.sapo.pt/2026/07/10/ine-confirma-descida-da-inflacao-para-32-em-junho/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Combustíveis voltam a subir. Gasóleo aumenta 7 cêntimos",
+          "link": "https://eco.sapo.pt/2026/07/10/combustiveis-voltam-a-subir-gasoleo-aumenta-7-centimos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Não espere por segunda. Combustíveis aumentam na próxima semana - Jornal Económico",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeWlYcFlkcHZCSWV2Mks0NDQwMG8tZEV0TkFlajg4M2xoZzBYRHJtc2VKcC1NUUxudXVRZVlVTlp1U0hSSzVjQU9HeXR5eU5ER1BzbHI1TW4wZjBueU8tb3hpdjBueWwxN2I4Nk1xNmpidWEtb0tyRnJMdEt3OXNaaXM3NVA3VU5NZlNWQTIyRnlMUUxjWm5sT0JWd2JVOTA4RTlJSjBtaw?oc=5",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Taxa de inflação desacelera para 3,2% em junho - Jornal Económico",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMFZPU2tjaG5QRUdoS0JvdXJQcGJLZERKWjdSSGFTVzVSWE0wVXQ1aC13Q3NyUFc3dTlKVVVaVmk0Y3N3X3J5dDVTdnhGWUcyUUx0dFd5U0J5NUtVbzRSbEJfQ1dhVEtaRU04UWpHM0I0VDhVUk5BRVdEZy1ndnFzV3dMaXJuajR0SUpqdUQtOA?oc=5",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ Aproveite para abastecer: combustíveis voltam a subir na próxima semana ]]>",
+          "link": "https://www.sabado.pt/dinheiro/detalhe/aproveite-para-abastecer-combustiveis-voltam-a-subir-na-proxima-semana",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-30",
           "title": "Preços subiram 3,2% em junho",
@@ -2997,7 +3332,7 @@
         }
       ],
       "firstSeen": "2026-06-30",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-10"
     },
     {
       "id": "irao",
@@ -3349,6 +3684,79 @@
       "lastSeen": "2026-06-30"
     },
     {
+      "id": "jorge-jesus",
+      "label": "Jorge Jesus",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-10"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Jorge Jesus é o novo treinador da selecção nacional de futebol - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXhraEFwT2VZbG9zYThzOG9KWTRjeDZxeEtYT05idTIyNnZqU09wcWVKTGU1MThhZmFZOWFMT0ZEVVVGWmdxRTMtdDN0R2NUMjcwaHNqd2Q4Zm5lRnFRamYzaVhleEdMSWJ4UzFHdjMxSGxRemNxTGZ5cWY1T2wtdjVyRXlNSDhkRERTOUxIc0lYbGVhYUlRdmFoX2ZBNDdnNWdfLW5VYnUwbzlwdVRtczJSTVlqUW5ZYkdNOU42V1VmMHM?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Jorge Jesus será o novo selecionador de futebol de Portugal - Tribuna Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRUJvVUZ3RzFQeTV2S1N4SFRKbkpKQUJSeml6T3cxc21FakxzNzBSUER0YlZoOHRpaXduZVBiaWE1Q2pvYlE1S1cwQXZDTGdRVWduNENsN1doU2lqM19wc2prbzlydjI0WmphVGZMamF3MHNkUExzd0N4OTh6SVBsSFRpR2hZT0hTQ3lJZ1dzZG9zMkJaRUdGWWJTZndtay11Zm54eVpjaUFuTy1pb0Z1RmVPY0VvR3k0WENmV3VVYU52dw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Jorge Jesus é o novo selecionador de Portugal - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVM4cnhna2pLQ3ZpOHZNTW9seVpPS051bDYxTXpVLXoxWl9ySTFKdUNGQzA5RDF2V1MtR3Bua0MwbW5EY2YwcEwycnFYZkF3b0dpWmozZGhXeENBaDZpdVB6VFRIbnd1YV9UUi1fMXFSTGlIci1Uem5vOTZuSjM2cllKZWszUERvTW4yVUVZZlE2SHlsLXVmd1pVSmxUVHRoYW95UmFJWWN3SjJFaHlOZ1QzY04?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Pepe recusa convite de Jorge Jesus para integrar equipa técnica da Seleção Nacional - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRDc5dDBwT1dzNThvX1l1QTBESGFkSkFBMjVQenUxZzZyQXFLT1F0Ymp0enVVY29qUU5jTWlyOHZjbW44OGpwZjdybTFvRmY2OW1kSm9QUS1OMGRMZnJtYUFob2RjZzBFc0kxRkFKOFNHdV9STWtNeGRST3J5TnFXekNvZFJzQWFCWDZHNmhIdGRsXzVlaEQtbG9BVTJ0TUpPNEhxeU5WYS1PbTdZSGpnVDFVZ1E0bTd1clhhVHBxNTZyYXBRbk9TQWtpNk02TVkwMEpJTDJaNkZ2TlVxQmY4eUlsT2Z4MGM?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "O motivo que levou Pepe a rejeitar convite da Seleção Nacional - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdlJCeEVlVDJUZThoY29YNGxrWGFSRmRVSzlraG5Ya1ZHR29CNUNLR0Fqd1ZPeDZucUFKQl9fdGNQWkNHdXg5NC00Zm1xdWRQNGx3Uzc0bjdLbUhlRGZuY2VnWHY5N0VfSDdLTS1hdHdOaFdWZUJ0cjdueDNDYi0yWFdOdW1oVXh2R2o0MFIxZ3IwdGEzREs0aEZrWEtBaC1ST0Z3MzdOcjl2OG1SUEpnUnNCMlVNUjlyRzRCcmZpdFo3TUFMQW81U19FYlJFR3hPcEtyWU13WmNLaEVWa29OMA?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Já se sabe quanto vai ganhar Jorge Jesus na Seleção Nacional - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOXlra0NvUlNsNmJwaG0wMkp2b0h3UDg2bDlMcE1PTWM1VWxuYVgyMnZaRzQtOGFQY0Q5MUVZc3NveC1IZUNFSmZFZ1NHOTNKOGxySFhQTnJlMW0teW1VLUcya0JlVGxsQXZWMm1ROXJyQWFPM3JGMFkxWThORVB4TDl0eC1uVEMxZnFxS3JDVjZiNmY0M1BYT1RNYThubU5BY3NsNTd3THQ1Y3JtNW9IdXhpdHhRRmxVSTJGNFFoelhoNlNFMlRQZ1BqTXJsdnNUclNEb3hhSWp1MC1pV1c1eXVUOFhaTmJjbFE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Jorge Jesus é o novo selecionador de Portugal - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbld5aGVSV1J1Y3dEX29jS1ppdnlLM1RBWjltUXcxWEc4YnlnS0Y0TEIwcmZWTEtURjlkdzZIbHI3M1FzbUNKN2RDZW1Sa3NhUEYwVU5lejI4VDFKOWxEZE1vQnM1TGg5UkdEczRCOG5KWnhBdHhuT0U5dVNZNGJxdkI4bm5wRFJaWWE3VDNualJNeHU1YkdQb1RsWFlyM05UZ0pjM3I1MWQ3TFhTTGJtU0RSMW9WdkJaQXdveg?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "\"O Jorge Jesus do passado nunca aceitaria ter um avançado como o Ronaldo atual\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOLWtrMVZXY3JsU3diZWlCSFVpUXlRUk9UdEhyQVJYVUpsdUNfeUhGU0xnSVpFZzRiTDdFTEczZnFWZmFqY3dJamNKaFlBbks2TFRGeEUybGlPRmw5UTdJZXU1dzB4YzhzZFExYmRzdVVJYTg3NGpkMXNnaFBoY2VJTHYtNkhQcldUYUtnZ2g3c3ZQV1BGTk44WlJMMFpFSTdJckdVYTRDS2NSUjdHYUc1U2RWcm1UMVRkUGdCWmZwbmszdTZnS1FiOTh0U3FwX0FFRGxnSlQ0dU1qNlgyMlFQXy1DU2JqSXc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Uma marca chamada Jesus",
+          "link": "https://eco.sapo.pt/opiniao/uma-marca-chamada-jesus/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Pepe recusa convite para integrar nova equipa técnica da Seleção Nacional",
+          "link": "https://sol.iol.pt/desporto/noticias/pepe-recusa-convite-para-integrar-nova-equipa-tecnica-da-selecao-nacional/20260710/6a50a7600cf2f6a1a1e70240",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
+    },
+    {
       "id": "justica",
       "label": "Justiça",
       "group": "press",
@@ -3587,9 +3995,64 @@
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-10"
       ],
       "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Mundial 2026: o plano marroquino foi curto para tanta França - Público",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWp2NEM3TTkzRjNiQzZDQ0ZfVVRidlo1U2Q3eHVSdEYtcHEwSDB3MTR0WU82MXZ4eGd0RkwzNGtObUptVWZLb1Z4WkFjaVFWZ0dGU2tjVGFIcnA1eHVlSW05ekd5SHpWR1ZNLWpNemRZVDFHVjZKLUpaNGlBeV9iT3NiY3hGbWZkMFNaZW5jU0V4d3RwSzJKN29oX1pGaVFvd193bWgxUHZ4ZTI0TVFtWkJpaHFwdw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Artilheiros da Bélgica testam Espanha inexpugnável nos quartos-de-final - Público",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1U5NDA1T01XajBiRWdMLV9NTDQyQktfWVNGVXlWZl9Vck9vT3p0Q0ZtUUkyNEpnT1o5dnh4eFpCaWlqWGN2M3VwSXdRZVlQSnZ1QlgtLXBwWkpublM5NVVJMi1qalVtRW10X2U5VXR4bzF2VFZYZDVWOTFVRklxcFdWVEljR3pmYXB0UHRwZ1lmYlFuOS1CSUkydlZmclhTdVZmOElsbFJESFdmdU1ha3hGMmxQUlVsdWN0QmpR?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Mundial terá intervalo com Justin Bieber, Madonna, Marretas e Dudamel | Mundial de futebol - Público",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNktldUF6OFRxNjRmME5nSzcyOUVEMnhwbVZSakEtQXp2cURYNHpmVHBKVGVud0gxNFZBWU5LVXYxdDhCWnBySHNaQzJoblRlaDN0U2tZUzdvNTQ3Nlh2THQxZDVkS2hZY2o1Tk5PV0RyQ1J3czlCd1AwZGFYVUhjRkYwdzQwa3hUYnJTWWlXeHhidl9XUXFlNlNONldxdHZPcjNHSG5rRzBYRVQ2TVg2ZS1TR3E5ZEswQ214d1BsV3VnbkUw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Adeus precoce: como Brasil e Portugal caíram abraçados às suas maiores estrelas - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVWxPNnh6dWc1ZXZPMDd2aUdlM2xaX1hCYklmQ1RvLUdpTGNpZVlRLTQwem1iVEpRdS1GUHZ2dGQ4WUdzNDNsVmdUcVRzanZhSlNJNHppakN4QzVMV2ZOSkV2WUNmXzd0dm56bFc0NTBSaHZOQU1vXzVNY3k0Q3FGR1lCb2NIcWhYWjU5S002VHNoSlphcGJTU2VKVnlYWXdBWGdfYQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Espanha e Bélgica jogam acesso às meias-finais",
+          "link": "https://www.rtp.pt/noticias/mundial-2026/espanha-e-belgica-jogam-acesso-as-meias-finais_d1752503",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Mundial com novidade no VAR a partir dos quartos de final - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeUt6ZUppbGpRNkk1V2lKcE5iX1V2X2NyWWxsbTBDandjLUhUUEU2QUh3ZGp2MzFodjliNWZISG00MFA0MFlGMGJlYmlfc1BCX2o3b3ZvWUZfMUtXY3lwQ1ZzY0JxcVlzTTZ2YW0yTVdYbWU3cG1EeGNPRzlodFpIZ0dWUnNzR3Z5SXlsRlNQcDRnTG1FYVlXeldYblRUc1NDVi1RSFYyeWdBV0g4ZTlabzNxeEJmdVR5NUdMTHV1aWRLV2daQnFMU3hxRHd4dGs?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Mundial 2026: acompanhe o França-Marrocos - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQU5jMVNzaFl4cFpodTF2ZDdWODBXVWE3VGhyLVNoV0l0TnJzdS1vbjlBUzdYM2RxRUptbTQ5RnUtLUNLWW5sX3BkaWF2QkQ3QnRHZnR1ZllDRE5jMVA0RXFGbDVDc3ZtRVAtT0MyNU5GTUNOeXNfZVFyTk1xQlN1RjVsTEpMUi1kZkc4V1ZsdmtEUTVMTVUzR2lxYTBvaWVDbnlPdTNHNWliTG0xeW1INi1GSW1Sdw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Jovem de 17 anos morre após cair de um camião onde festejava a vitória de França no Mundial",
+          "link": "https://sol.iol.pt/desporto/noticias/jovem-de-17-anos-morre-apos-cair-de-um-camiao-onde-festejava-a-vitoria-de-franca-no-mundial/20260710/6a50c3b30cf2b42132db9fc8",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "<![CDATA[ Mundial2026: Jovem de 17 anos morre ao celebrar vitória da França ]]>",
+          "link": "https://www.sabado.pt/desporto/detalhe/mundial2026-jovem-de-17-anos-morre-ao-celebrar-vitoria-da-franca",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-07",
           "title": "Portugal adormeceu na siesta e vai ver o resto do Mundial em casa - Público",
@@ -4336,7 +4799,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-10"
     },
     {
       "id": "nacionalidade",
@@ -5669,6 +6132,49 @@
       ],
       "firstSeen": "2026-06-24",
       "lastSeen": "2026-06-30"
+    },
+    {
+      "id": "sistema-volta",
+      "label": "Sistema Volta",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-10"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-10",
+          "title": "Juntas de Lisboa queixam-se do caos causado por quem procura embalagens para o Volta - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZENneFh1WmtRUkhtSHBwZElEeGxteDZ4b0UycVoyZnR0aEduM0lLR0hMRVF6TTJTQUgwTF9IakxlektSSlBZczF1bWhvNHp3bEhOODNzQ2FYVXE1WW91d2R0Z1cyM24yQzNEQ1JjVlNkSlRhTUVVVEZWY1pwMG5EZkhkLVBjSWI5UnZ3bXRSYzU1U2xXaThvby1XSkg3OWhQTTdaWnVOVjVKbldESXdkRGRmMGlTNUxt?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Sistema Volta recolheu 55,5 milhões de embalagens nos primeiros três meses - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOazZHZzBGTUNXZDhqMWZMVFJEY3QyeXJTNzNEMEpPY1pPQmxDclBjN3Jia3N5b25Tamk4ZmMybmY2Q01fTk1pNHdZSC05YVAxTDZPd1NPQ2oxbjVkdkdtZFo4cU1FVEVWMi1fcUVLVUxNNzhSWXhIcTE0amJKRnZCeTBOaGpZVFFyRGl0SXdfXzliM0FPbjc5N0tJWWdlOWY1UzBTbzVjSi01M09HU1pMdw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Sabes tudo sobre o sistema Volta? O que falta melhorar - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemotZEx6d0VSMmtCZVdlMXQ4SGc1bXc5X0ZnX0FpSGtTdEZKdG1tTmp4bTJ1UUJLQ1JjUVJCclpuUHFhWmxuYU1tWktMTmxGWmdkTVJuYkJiZXN2LVo4OVNYTVFvdFhkX0h2TE5WQUFGQ0d0SmtOSkctTHdGTjBtLWhqa2ZUOVpRa09WU0JUVE5ZZ21TOHhtTUlwRGxZM2V6VFBTSWVVckx6UQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Sistema de depósito Volta soma 55,5 milhões de embalagens devolvidas",
+          "link": "https://www.jornaldenegocios.pt/sustentabilidade/detalhe/sistema-de-deposito-volta-soma-55-5-milhoes-de-embalagens-devolvidas",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-10",
+          "title": "Mais de 55 milhões de embalagens recolhidas em três meses de sistema Volta",
+          "link": "https://eco.sapo.pt/2026/07/10/mais-de-55-milhoes-de-embalagens-recolhidas-em-tres-meses-de-sistema-volta/",
+          "outlet": "ECO"
+        }
+      ],
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
     },
     {
       "id": "socrates",
