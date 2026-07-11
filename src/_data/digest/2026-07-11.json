@@ -1,0 +1,117 @@
+{
+  "date": "2026-07-11",
+  "meta": {
+    "generatedAt": "2026-07-11T09:44:39.667Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "acidente",
+        "label": "Acidente"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "agua",
+        "label": "Água"
+      },
+      {
+        "id": "homicidio",
+        "label": "Homicídio"
+      },
+      {
+        "id": "sismo",
+        "label": "Sismo"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "futebol",
+        "label": "Futebol"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público noticia as meias-finais do Mundial com Espanha, o incêndio mortal em Espanha, o acidente na Ponte Vasco da Gama, os exames nacionais, o outdoor do Chega, a nomeação de Jorge Jesus, os óculos da Meta, a crise na Guiné-Bissau, o homicídio de Ann Widdecombe, o aumento de crimes contra idosos, a crise de água em Almada, a venda da Easyjet, a exposição do MAAT, o julgamento na Guiné-Bissau, o incêndio em Espanha, a final de Wimbledon, a visita do príncipe Harry, o incidente na Ryanair e a despedida a Bonnie Tyler."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso destaca o acidente na Ponte Vasco da Gama, a orientação aos professores nos exames, a campanha contra a privatização na Arrábida, a crise de água em Almada, a repreensão à Marinha, a comparação entre incêndios em Pedrógão e Los Gallardos, o incidente na Ryanair, os transportes gratuitos no Porto, a análise sobre a água em Almada, o concerto dos Skunk Anansie, o concerto dos Foo Fighters, a análise sobre a Europa e a NATO, e as recomendações de livros."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador noticia o incêndio descontrolado em Almería, a venda de Hjulmand, o pedido de documentação do PS sobre a sede do BdP, o congresso do Livre, a morte de um militar da GNR, o endurecimento das regras no Brasil para apostas, o concerto dos Foo Fighters, o aumento de mortos na Venezuela, o apoio aos portugueses na Venezuela, as notícias das 8h e 9h, as ameaças de Trump ao Irão, e a apresentação de Jorge Jesus."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias reporta a queda de entradas irregulares na UE, o aumento da criminalidade contra idosos, a inflação em junho, a operação 'Armas em Segurança', a eliminação de Portugal no Mundial, o congresso do Livre, o PCP sobre os exames, o preço dos combustíveis, a acusação ao chefe da Armada, o discurso de Seguro sobre a Venezuela, e a apresentação de Jorge Jesus."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias aborda a crise de água em Almada, a detenção de um ativista português em Macau, o descongelamento de rendas antigas, a queda de um homem em Amares, o acidente na Ponte Vasco da Gama, as polémicas no Mundial, a situação na Venezuela, a intoxicação nas Caldas da Rainha, e a preparação para desastres com animais."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã noticia a descoberta de que uma atriz é neta de Charles Manson, a libertação do suspeito da morte de Ann Widdecombe, a recuperação de instrumentos roubados de Nena, a entrada de ilegais em queda na UE, o regresso dos Buraka Som Sistema, a transferência de Hjulmand, a apresentação de Jorge Jesus, a detenção de suspeitos de abuso sexual e incêndio, e o congresso do Livre."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias reporta o pedido de documentação do PS sobre a sede do BdP, o incêndio em Almería, o ataque russo a Kiev, a banda sonora de The Legendary Tigerman, o Irão cumprir a palavra, a esperança da Venezuela na participação portuguesa, a detenção de um ativista português em Macau, o apoio aos portugueses na Venezuela, e a situação demográfica em Portugal."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias destaca o incidente na Ryanair, o acidente na Ponte Vasco da Gama, a prática dos futebolistas, a morte de um GNR, a morte de um paciente no hospital, a morte de uma influenciadora, o homicídio de Ann Widdecombe, o Mundial com Espanha, a apresentação de Jorge Jesus, a vaga de calor, a discriminação no FIFA, o caos do sistema 'Volta', e a sede do PS."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF noticia o PS a instar o ministro sobre exames, a apresentação de Jorge Jesus, o acidente na Ponte Vasco da Gama, o investimento da Vila Galé, a história de Jorge Jesus, os transportes gratuitos no Porto, o cerco do Chelsea a Diogo Costa, a falta de transparência nas listas de espera, e os perfis das seleções no Mundial."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios reporta a exploração de canais temáticos pela Netflix, o processo da Apple contra a OpenAI, o lucro da Delta Air Lines, a alta de Wall Street, a inauguração de variante rodoviária, o investimento da Delta na Mocoffee, o debate sobre a alta velocidade no Porto, a recompra de ações do BCP, o sistema 'Volta' em Lisboa, a queda na venda de livros, a produção da EDP, a emissão de dívida de Portugal, as críticas às alterações às rendas, a nomeação de Jorge Jesus, e as negociações com o Irão."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO noticia o pedido de documentos do PS sobre o BdP, o agravamento do desequilíbrio demográfico, a preparação da STCP para transportes grátis, a orientação aos professores sobre exames, a criação de áreas empresariais, o aumento do apoio aos combustíveis, as dívidas à Lusofly, as iluminações de Natal, a campanha da Fnac, a rotulagem de IA na música, a contratação de diretor-geral para a NATO, a queda na venda de livros, a autoconstrução, a internacionalização, o regresso da força da Venezuela, a produção da EDP Renováveis, o prémio à Somengil, a presença da Delta em festivais, e a suspensão de anúncio pela ARP."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico reporta a transferência de Hjulmand, a análise sobre o Irão, o pedido de documentos do PS sobre o BdP, a plataforma de cidadãos sobre a água em Almada, a possibilidade de taxas no Estreito de Ormuz, a recuperação da Tesla, o apoio de Milei a Bolsonaro, o acordo de cooperação entre regiões, as sanções dos EUA, e a importação de vinho."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticia a canícula, a morte do chef Bertrand Grébaut, os preços dos combustíveis, a noite de Marcelo em Almeirim, os gastos com incêndios, as irregularidades na Carris, a ingratidão para com Ronaldo, a morte de uma criadora de conteúdos, a viragem do Chega, os problemas do sistema 'Volta', o caso Luís Neves, a violação no Seixal, a natação adaptada, o incumprimento de ordem de afastamento, a identificação de IA na música, o acidente na Ponte Vasco da Gama, a falta de água em Almada, e o aumento da criminalidade contra idosos."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado aborda o incêndio em Almería, a etapa da Volta a Portugal, o processo da Apple contra a OpenAI, as ameaças de Trump ao Irão, as alterações climáticas, a série 'Lucky', a atualização do registo de utentes, a opinião sobre a crise de água, as regras para viagens com filhos, o estado algorítmico, o Mundial com Espanha, a preparação do carro, a inauguração de Carlos III, os exames nacionais, as provas de ADN, o acidente na Ponte Vasco da Gama, o sistema 'Volta', o incêndio em igreja, e a acusação da UE à Meta."
+      }
+    ]
+  }
+}
