@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-12",
+  "meta": {
+    "generatedAt": "2026-07-12T09:58:07.371Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "eua",
+        "label": "EUA"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "livre",
+        "label": "Livre"
+      },
+      {
+        "id": "professores",
+        "label": "Professores"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "lindsey-graham",
+        "label": "Lindsey Graham"
+      },
+      {
+        "id": "almada",
+        "label": "Almada"
+      },
+      {
+        "id": "nos-alive",
+        "label": "NOS Alive"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público noticiou a escalada entre EUA e Irão, os problemas na correção de exames, o congresso do Livre e o incêndio em Almería."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso cobriu o congresso do Livre, o festival NOS Alive, a falta de água em Almada e a ameaça de Trump ao Irão."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador deu destaque ao conflito EUA-Irão, ao congresso do Livre e à morte de Lindsey Graham."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias focou-se no Mundial, no congresso do Livre e no naufrágio no Vietname."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias abordou a morte de Manuel Fernandes, o encerramento do Estreito de Ormuz e o incêndio em Almería."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã noticiou a morte de Lindsey Graham, o congresso do Livre e um incêndio numa fábrica."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias acompanhou os ataques entre EUA e Irão, o Mundial e o congresso do Livre."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias deu conta do regresso dos Buraka Som Sistema, dos problemas nos exames e do incêndio em Almería."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF noticiou a crise no Livre, a morte de Jayden Adams e a polémica dos exames."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios destacou o fecho do Estreito de Ormuz, a CPLP e os professores."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto cobriu o Mundial, a morte de Lindsey Graham e a crise no Médio Oriente."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO focou-se no conflito Irão-EUA, na falta de água em Almada e nos professores."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico deu ênfase ao fecho do Estreito de Ormuz, ao Mundial e ao congresso do Livre."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticiou o Mundial, a morte de Lindsey Graham e os cortes de água em Almada."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado abordou o Mundial, o congresso do Livre e a polémica dos exames."
+      }
+    ]
+  }
+}
