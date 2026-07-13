@@ -697,6 +697,67 @@
       "lastSeen": "2026-07-09"
     },
     {
+      "id": "burlas",
+      "label": "Burlas",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-13"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "EDP alerta para nova fraude que usa dados personalizados dos consumidores - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc2NUQ0xxQ2tfZ0ZhZ2ZJNl9YaTlHMmlFQWJpeHkzdHZ6VWFnY3JuZXVzNWZpODREaEtiQWYwRGdSUHZUM2NJMkwwOHgyVHRYXzYxNXJCVDdEaENldHV6Vm1wQnJoQkxrUlVYYlBfYVBOWTRPWV9LNkFXNXhOTmtvYmM4ZGEtNkJZdVNncWRCUzZRZTB6TDNuSVFUcURCTU9rRVJSeWNaN2I2dko5eFpISC1Qd01zSW4yc0t3VjVCdjRtY2xvYTk5M0JXeEI5UTlsNXdpdHlR?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "EDP alerta para fraudes com utilização de dados dos clientes",
+          "link": "https://observador.pt/2026/07/13/edp-alerta-para-fraudes-mais-sofisticadas-com-dados-personalizados-dos-clientes/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Procura alojamento para as férias? PSP e Airbnb alertam para aumento das burlas e deixam recomendações - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlJTNFl1RzJ2ZUhwUndVRFhzYncyVWd1S1c3eTNRZHh1UGplVnRVQlFqRHIteEJJc2VPZ2tKUHZjVVZpNGN6WThiY09JRmJnUEJLUXphMkoxWHFZZC00c284ZmZpZDUybnhyZmhnUWpnaXFxRVluZ0RKc0l3N0pkaTUweXVqVXNxTVA1V3hEU1VUTVRwem1TZFhTQU9udHRNemdJWmhrLXhyUkg2WmFPN0tCT3NPeWFqQ2RySENmbEpkNTF3?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ ULS de Braga alerta para SMS fraudulentas sobre alegadas dívidas ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/uls-de-braga-alerta-para-sms-fraudulentas-sobre-alegadas-dividas",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "PSP e Airbnb alertam para aumento de burlas com alojamento durante as férias",
+          "link": "https://www.rtp.pt/noticias/economia/psp-e-airbnb-alertam-para-aumento-de-burlas-com-alojamento-durante-as-ferias_n1752967",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "PSP e Airbnb alertam para aumento de burlas com alojamentos durante as férias - TSF",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbU0ycFlkYk5Xamc2OUdxN1U5ZU9QU0JzVG02MkFiMm9DUUhYSF81TFROMXBpN2ZmRUhtV2VOS2puc3RmT2VwMWViRHpSVzVLenJfNURXZHZwTWgwaElRR1BwMzhkODZBSXk2Zm5wMDFmUlR3NW5IVkdtUzA1YzFMck9CQXU1dlkwOUtUNDE4TEFWbzNfd21MZVpibHNhN1FxZjdSc0MzczEtSExWbXdUTWt4QngzQnNPUzBRR09LZw?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ PSP alerta para a burla do 'falso funcionário bancário' ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/psp-alerta-para-a-burla-do-falso-funcionario-bancario",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Pré-reservas do GTA VI geram vaga de esquemas fraudulentos (até em português)",
+          "link": "https://jornaleconomico.sapo.pt/noticias/pre-reservas-do-gta-vi-geram-vaga-de-esquemas-fraudulentos-ate-em-portugues/",
+          "outlet": "Jornal Económico"
+        }
+      ],
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
       "id": "calor",
       "label": "Calor",
       "group": "press",
@@ -1452,6 +1513,85 @@
       "lastSeen": "2026-06-25"
     },
     {
+      "id": "desporto",
+      "label": "Desporto",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-13"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Nova expansão do Mundial, agora para 64 selecções? FIFA insiste na ideia - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBEVDl0ejlwTGppWkl0QjQyYzUxOWRSVTM2NV8zVHo1aVhfX2FVNE5STDB2bDFET1FGaHRsMlczNTZSOUZhZEhOMnFKY24wU1YxX3I4QXJjTDZwWnJpX2R4cnphd1ZrcUsyR2NKc2ZabUdYNklkdlI5NVZTclpNLUZaUXlnQTJ1c25VS1otb29ibFFpS0pkOFBPc3lJRGcxNWtaaXRqMTNkMWhNYXhSMA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Râguebi: Portugal impressiona com vitória clara no Canadá - Público",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc25wMjlibXJxWk9MckZJckd3enZyYmFPY3lZbktlY1hnVkVXSnRNZm5vbjdhempZU1NyVVNSSXJFUnA3MUtPdmU0WVBNc000Qmw4R2tFbkFZOS1Tdm9Ea0xMS1hIclpxTGpyRFNqclZWeDd5T0xPZE5oNVVzSzJxV2VLaU9BTS1GbGJreXNZSE1MZm9QRlZrZ2dDSUxyUVk0NWdzLTItRE1ZOVVq?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Jannik Sinner conserva a coroa em Wimbledon - Público",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3lTTDhJd2NvSFZpZUxSQ2lvRWJmUTBFazlOVVZCTUZqTVlEOGxJbHRPUmd5WHBMeUJHcm5LbFJIVjY5bUFUbi1WWlBEbHd0TE41TWhSUGIxbXFnR0FsRDg0MndkQ3lxVl83dUtZS0hRblRVWjBxTkZpYkFKTWdabkRJWHZxakxXX0FTQ0FHYUJJQ2t2OC1Cb3lpRVV4UQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Mathieu Van der Poel vence 9.ª etapa da Volta a França - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1hObFBpZGY2RHIwOGJBZ1FRWXVGczVvZjBWWUhzMkpGM01aNHVOakUxQzRjY09tNDl3TUdxWWJnWGFXUUZZRDVkLWUtSjRoQkxlYkswTGg0YzJRX3FxWjlxQWdCZm9qT1YyLTQxOVkxY0tvbEdPVTU0dElINDZBV011ZFZQVTd4LWpSVkVLc1U4Umk0RlNOV1RBWHBQRmNrSWJFWXJ0NGhQdw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Bernardo Silva: Mundial foi \"frustrante\" e \"uma desilusão\"",
+          "link": "https://observador.pt/liveblogs/dia-33-do-mundial-infantino-pondera-expansao-para-64-equipas-em-2030/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Daniel Woolfall, o presidente que levou as regras à FIFA",
+          "link": "https://observador.pt/2026/07/13/a-estreia-nos-jogos-olimpicos-a-questao-da-gra-bretanha-e-a-1-a-guerra-daniel-woolfall-o-presidente-que-levou-as-regras-a-fifa/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Alexander Zverev sobe a segundo do ranking de ténis após final em Wimbledon",
+          "link": "https://www.rtp.pt/noticias/outras-modalidades/alexander-zverev-sobe-a-segundo-do-ranking-de-tenis-apos-final-em-wimbledon_d1752997",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Deniz Gül entre os 35 jogadores que FC Porto leva para estágio em Inglaterra",
+          "link": "https://www.rtp.pt/noticias/fc-porto/deniz-gul-entre-os-35-jogadores-que-fc-porto-leva-para-estagio-em-inglaterra_d1752999",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Quer um pedaço do relvado da final do Mundial? FIFA já aceita reservas - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdjNMRklpbVRfMXpCRnFjcllMa2ozTXVMX3B4dC1ibWlrdWExXzg2SEVqRGdDeURPa2lnVXdTcVlpLWk4MEdlUExiYW1iU2JIVGZWNHNJQVhqRXAtZktYTGRVMkxwRWRCSFNmNDl4U2hCVXRBNVY2ZXlnM0tqNHZhTkp0Z1BYUVNaSFNPTzNfZUc1Rm9zVV9WazF3YWpacjBqZEMxUTl2alBCNzVSZEJ6U2djRWdJRXladWNpVExidWluMldOSVp3NE5pUmRHTGNzakdxdm05UDdfWHZYUE5POG9CeUpFS0NhWW80?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Alexander Zverev sobe a segundo do ranking de ténis após final em Wimbledon - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdldDN3U4OVlLd0YyZk9iV25xMF9abHBydTZUSDBhQ3JKU29GTXVxTHUwV1hET1kwS2lXYWhVTHFGXzJLbnBBTFdnaDQ2UE15Vm5nLWdGY3pObmhNVmZPY2FKeEZ5YjFtcTk5eE1MSHlwWUpYMkFtalRaUFJBeVlfb3dGaERXTjU0VFJqZzBEbXdBOWhDTnUxM3FlcFMtYVJLNEltTEVCT1ZOMUk1ZHZDelp0YU1yOGcwWGFJ?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "FIFA vende pedaços de relvado da final do Mundial por cerca de 385 euros",
+          "link": "https://sol.iol.pt/desporto/noticias/fifa-vende-pedacos-de-relvado-da-final-do-mundial-por-cerca-de-385-euros/20260713/6a54bbc70cf2f6a1a1e7067b",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
       "id": "ebola",
       "label": "Ébola",
       "group": "press",
@@ -1522,9 +1662,58 @@
         "2026-07-01",
         "2026-07-04",
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-13"
       ],
       "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Ministros analisam opções para restringir comércio da UE com colonatos ilegais - Público",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbS03T2NwMi0zakJTZDVxZkJfMnMyYkVTdk05MDkxZjlIeVVvNXhEb1ROeF91YUlqcUpQNE1LcU0zWkQzRm5tRGxnVmo4V0diRnBxZlZfWnZKdWZrYmJOcjFWT2tEMEttVzhGUFk4b2xKMkRXbDNRVW5vZDY3T0lGVlJKd3UxN2UxNEtWQ3ItUkZCbE9oSXN0eVNOU0EzOFVlSGxoanIyUzIxbGNMelZvVF9JTW43c1N2Q0g1NTBGaw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "El Niño poderá afetar preços dos alimentos até 2028 - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMTl6bFhxQlNxbk9hSTlwbXhXSU1uLW9BRG9qT1gyOUxFYlltQ3JULVNOMGtqdlRib2oyZmRER0MzZUttRElHVzQ5ajcwTU9HbTFURlNia01hMFB6N2NvYkt4ZVA2QmtZVnlWa3c2Yi01a241TWFZcWlybS1icm9VelZPRm9OU3A2Umc?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ Autoridade da Concorrência notificada da compra Ambar pela Ancor ]]>",
+          "link": "https://www.cmjornal.pt/economia/detalhe/autoridade-da-concorrencia-notificada-da-compra-ambar-pela-ancor",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "UE injeta dois mil milhões de euros no banco húngaro Magyar Fejlesztesi",
+          "link": "https://www.rtp.pt/noticias/economia/ue-injeta-dois-mil-milhoes-de-euros-no-banco-hungaro-magyar-fejlesztesi_n1753000",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Preço do Brent sobe mais de 4% para 79 dólares - TSF",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkdxM2VFVGgwOV9uWkthN2VGRWlFU0w5ZTFRZUstdDc1eTBiOFh3V2dGUHJjaUlKN3FBa01LOTRCZ2diUTdaR0ZjZTdBV0txd0xnUEwyT1hycExrR0l0ZFVuMVhRTWc0MzlFTU9vUVFmR2lGX0dfaXJ5bEo0Wk1XS2xKNXc5UnJ4eVRpVFo5eUdnNG8?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Taxa Euribor sobe para máximo desde março de 2025 a 3 meses e cai a 6 e 12 meses",
+          "link": "https://www.jornaldenegocios.pt/mercados/mercados-num-minuto/detalhe/asia-fecha-em-baixa-com-novos-ataques-no-medio-oriente-sk-hynix-derrapa-15",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Produção na construção acelera para 3,4%",
+          "link": "https://eco.sapo.pt/2026/07/13/producao-na-construcao-acelera-para-34/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Bolsa de Lisboa segue no vermelho com Navigator a liderar as perdas",
+          "link": "https://jornaleconomico.sapo.pt/noticias/bolsa-de-lisboa-segue-no-vermelho-com-navigator-a-liderar-as-perdas/",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-07-07",
           "title": "Sony esclarece que jogos lançados antes de 2028 podem continuar a ser produzidos em disco - Público",
@@ -1689,7 +1878,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-13"
     },
     {
       "id": "educacao",
@@ -2048,9 +2237,82 @@
         "2026-07-08",
         "2026-07-09",
         "2026-07-10",
-        "2026-07-11"
+        "2026-07-11",
+        "2026-07-13"
       ],
       "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Professores convocados para corrigir exames a três dias do final do processo | Exames nacionais - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWtxU01uTTZJMUltQjR3Zk5iek5XeF9zbEZsUVFkeXZQem0tS3hxY3lmVU5fdmZONkFGSUUtaWFPdk0yTzQxUmZXTDN5czVSeHpYem5iNTNqZXR2NTlkaE9JQ3VuS0JHQ3BSVTk0Y0VzTWU2eGNONlhMUm9fOElCMG5vS1lxT20taDZOTWRkOG9iYzU1ZUpRZzhoVFU3N3RqNDgyejJTbi1NbzRLdVg5S1BrNHlmSF9NMGd1Q2xYYXg?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Carneiro quer que Montenegro ponha “a mão na consciência” e diga o que falhou nos exames - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYVNJaHVMVFZWNTU4Q2xRVy1rbENnMktfQlhxS1NacHBsX2FTcEtyVlh4dGIyb2k0dWVxeEVVeU1lTEpLUWo3a0VlcTFkdU4xdkRYMnpURG9TNUw1RnQ5a1NTcHJ6b05ZcDc4QnlKdWJxMERYcDNrYjNuVlYxd21vZlJwWVBodkFoUmwtSlNidDJMaW05MGR0TUJlbnJHSVRldWM2YkU1b3VnTWZ0T0szRU1qck5pQlNOZm9CcldwWUY4Zw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "”Até quando continuaremos a receber respostas para classificar?\": Professores chamados à última hora avisam que os \"problemas se mantêm\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTkNJODk0bHpTeFNPeTlHWGVZNThoZnFxSi1uVEktNm1wWUEwcmJEOU9tUEc2YXRoSXFhd0k0djlQQUxPR3ZrTXBuVldzOXQ2WnEwYVB2LUhsVlAyT1VpOVJDUTZ0VjFBd2hwRVdVM1Y1SHVNMkt6dGVUX2d1RDhUUkdOSlZ3SHljamtPa3BfMkRTUzYxXzdmZWtqd3lkR3FKOFZiRnZWWWpLOHp0NDNxSHNkZWp3Z3gxZE1EZUwzb05lOFhMLXN4RGdNaWgyTUpvU1ZOcUJHSEdrUHJhdGNfVXdPeEgtZDgwd3FUbnNpc1RWdF9pelNuUjc0SjR1QWY4b1NDWlYtbERrOWRO?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Montenegro desvaloriza polémica; ministro pede \"desculpa\"",
+          "link": "https://observador.pt/2026/07/13/montenegro-relativiza-polemica-dos-exames-nacionais-e-segura-fernando-alexandre-ministro-pede-desculpa-aos-professores/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ \"Peço desculpa aos professores\": Ministro da Educação admite erros no processo de correção de exames ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/peco-desculpa-aos-professores-ministro-da-educacao-admite-erros-no-processo-de-correcao-de-exames",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Ministro da Educação pede desculpa aos professores. Montenegro mantém confiança",
+          "link": "https://www.rtp.pt/noticias/politica/ministro-da-educacao-pede-desculpa-aos-professores-montenegro-mantem-confianca_n1752986",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Exames: Carneiro considera que Montenegro deve \"meter a mão na consciência\" e esclarecer \"o que falhou\" - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxPYWc5V1k0SmtfTC1wXzhZd3RjTEp2RW5xSlVWR0JlajNGNkVIbFZGdVhxWHA0ZFJ6eEV1U1hFd1ZHdzhTMDNjVVRfWXQtQ25ZVFhDcE8tREN6VHVuVW9NUDlvU29EUzRicEI3WU9vUUE3UE5ra0l4aG9tZl90ZS10Sk02Y2Rxb05HektVLWhpOEhFa3dLRVlJTVNGMU1Cd0ptQTBWZ2FGU0tVZXhOa3lvaHJzNXBaOWtPTFZESlhCWjNDNlF1a3YyWVVjdFF1WEkyRENkVk9odzZMTkRCV3NldlVHVEhIZGR6VU5FSmxBSXkxaWdpQTlxLWRXeVhpTkUtdDhIenRhWlpqLTUwT21JTHd2M1pCSjE2eFE5eUZHMS02TWdFT1ZUSWVtbWFUbFBxd0RuUndESFRZVFl3SHVpYk5kZE5IMmpsTW9mOGVPdWtTVFZWWXp5Y2pjckp2N3BzNlAtSFE1TUNQZE42bHFBMW56eW42dGRGa3BaTWFSU3NhWTYxWmc3aW5TYVVxWkJhSENxazk3ZFAtNjlWWXJ4V3RjYnFKVzN6SWtFM0w1d2xKU2pFTWFpT042R1llVkpmQWpURnFRbVlqSE8zc0E4V3ZraGswcTlXWUVpN3A4Qmp5XzMzQjd6TVk3TWd5emRURVFUVm54ZEQ3QzlIc3lyTjZ5U293WFk?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Fórum TSF: como avalia a gestão do Governo no caos dos exames? - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlRaNlNGXzl5RW43SjJmaGN4UkZBWkY2V19FSkdyVGN3WXFYWjdMVElTcWFDVDdsdFV1OGoyZXNKTXFzUEppQ0U4dHVTaTRqbmFkQkZlRHNFeDFkTjJnR2tXeFVEQkpNR2twVXZEbUJKNTB3eXA1c0dBdVFJRm5TYUlya2JOZXRKRUdEaWFHb1VlejRaNDdVYmZVQUtsRFdRRVY3Q0ZNVFM?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Governo garante que 92% dos exames estão corrigidos. Montenegro mantém confiança no ministro",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/governo-garante-que-92-dos-exames-nacionais-estao-corrigidos",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Ministro garante que 92% dos exames estão corrigidos e pede “desculpa” aos professores",
+          "link": "https://eco.sapo.pt/2026/07/13/ministro-garante-que-92-dos-exames-nacionais-estao-corrigidos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "PS exige explicações sobre acesso de membros do Ministério ao espaço onde estão os exames",
+          "link": "https://eco.sapo.pt/2026/07/13/ps-exige-explicacoes-sobre-acesso-de-membros-do-ministerio-ao-espaco-onde-estao-os-exames/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Exames nacionais: inquérito parlamentar é “cada vez mais inevitável”, diz PS",
+          "link": "https://jornaleconomico.sapo.pt/noticias/exames-nacionais-inquerito-parlamentar-e-cada-vez-mais-inevitavel-diz-ps/",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-07-11",
           "title": "Exames: respostas de alunos “em folhas erradas” são classificadas com “zero pontos” - Público",
@@ -2467,7 +2729,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-13"
     },
     {
       "id": "fifa",
@@ -3100,9 +3362,76 @@
         "2026-07-07",
         "2026-07-10",
         "2026-07-11",
-        "2026-07-12"
+        "2026-07-12",
+        "2026-07-13"
       ],
       "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Oito concelhos de Vila Real e Bragança em perigo máximo de incêndio - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcHA2Rk9oR25tbFBCZzVKYXI5aTV2bDN0YzRheGhRWWhOSVA4ZFpBYnNwdzhLRFQyQ195dkRxcVBVVUZfcHJwOG1tVU9TaDJkemZPSTllTWgxcGlRbEplMkYzWmExNTgzZVNJMUM1dmxxSFk2VF9WamdBRDIxdTlKVWJ1QVB3dFhuM01Xc2hodXlBdXRfWUFtbncyRWJLR2kwQ01ONUMtemtUYU5WOGNPVQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Incêndio num bar em Banguecoque faz pelo menos 27 mortos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGtWZFZ5dVY1UHFISWo4aXBFVG1lb3JPU2xETFd2cnBmV3IyZWlDc2tBRF80YTJYeTVPdEdNZm5qQTMtNno3TUprRXBNZF94RmRaTGgyWThCUGxUVW1FZkptWVlKbVJ5MVZsdS0yVUhMc0lkbFU3TUZfak1fRkxtME5JRnF6MjZBQ3QwNHJJVW02ZUVqOGZjc05TSGVpYlZuaWc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Vítimas mortais no incêndio florestal de Almería sobem para 13 - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUXJhYjZJNVc5cGtyeFlSVDBaV0NMMHM1ZnE2cWFwdENsVmRUOGxhSTdrdTQtM0FNMGJfTGtDT2ZkWl9hRWVyaWhTZ0tRSVpOQzZsWDhVRHBCbnVUS0RMMlVTMk0zdGk3dmRwMjBlS3hjRGFYTm1vVVItRnRIM3BDZlBQd1A3Y20ycEJ3bDRlNm5qeXA0UGtBUTBkMm1ZOXhsRVBJYWVjdTNIa0R0YkpQdQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Incêndio \"muito violento\" em Fontainebleau, a 60 km de Paris",
+          "link": "https://observador.pt/2026/07/13/incendio-na-floresta-de-fontainebleau-leva-a-mobilizacao-de-dois-avioes-para-o-combate-as-chamas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Casal britânico resgatado de ravina no incêndio de Almeria",
+          "link": "https://observador.pt/2026/07/13/eles-nao-vao-esquecer-o-nosso-uniforme-nem-nos-vamos-esquecer-o-rosto-deles-casal-britanico-resgatado-de-ravina-apos-incendio-em-almeria/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ Imagens mostram incêndio que já consumiu 800 hectares na floresta de Fontainebleau em França ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/imagens-mostram-incendio-que-ja-consumiu-800-hectares-na-floresta-de-fontainebleau-em-franca",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ 91% da área ardida em 2025 causada por 44 fogos, combate deve ser focado  ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/91-da-area-ardida-em-2025-causada-por-44-fogos-combate-deve-ser-focado",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Incêndio de \"proporções excecionais\" queimou 800 hectares da floresta francesa de Fontainebleau",
+          "link": "https://www.rtp.pt/noticias/mundo/incendio-de-proporcoes-excecionais-queimou-800-hectares-da-floresta-francesa-de-fontainebleau_n1752966",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Aviões Canadair combatem incêndio de \"proporções excecionais\" na floresta de Fontainebleau - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQTJuWGtSbEJqNnBOWWNNRzBjbnVLdnZDRGtzN3NkUWZPTnItMUtBUjJCTXNNcDlnVkRaendiMWR0dWppYmptbWxELWJsdEdUdXBNbWRSRkJYODRjelR1MkF3N3k3Rm5LX1F5UW1WcVdSN3lrLXIxUWFsVTFqZDQweGRPSDJrX3p6NG1QeWpSclhDSEQwWC1OUkFDc0Z4MVhJM3R0Y05FdVcxckhnX3FKeWpyZ25BRmRNRlA4RG1IZnh4ZW9CX3hDUA?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Incêndio na floresta de Fontainebleau, a 60 km de Paris, já consumiu 800 hectares",
+          "link": "https://www.jornaldenegocios.pt/economia/europa/detalhe/incendio-na-floresta-de-fontainebleau-a-60-km-de-paris-ja-consumiu-800-hectares",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Incêndio em bar de Banguecoque faz pelo menos 27 vítimas mortais e dezenas de feridos",
+          "link": "https://sol.iol.pt/internacional/noticias/incendio-em-bar-de-banguecoque-faz-pelo-menos-27-vitimas-mortais-e-dezenas-de-feridos/20260713/6a549fbd0cf2b42132dba39a",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-12",
           "title": "Bombeiros conseguem “janela de oportunidade” para combater incêndio de Almería | Espanha - Público",
@@ -3639,7 +3968,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-12"
+      "lastSeen": "2026-07-13"
     },
     {
       "id": "inflacao",
@@ -4599,6 +4928,164 @@
       ],
       "firstSeen": "2026-06-29",
       "lastSeen": "2026-06-29"
+    },
+    {
+      "id": "medio-oriente",
+      "label": "Médio Oriente",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-13"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Estreito de Ormuz: “fechado”, diz o Irão, “aberto”, dizem os EUA - Público",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPXzdrQnBDcW1tcVVrTXRfa3UtY2RvYm9FdzhDemluUl84VUV4cnBLbTlFbVllZi1qRmFqM1FVa21UcXB3LUxhWHdPcF9HVnRMUWpnTmhGRUJ0RVdVSERreUo4S2g4Nlc2VjRUY2hLeXVDcHVhQkdWdEFscl82NmhVVHhSTU03U0ZEWlNGTklJdVpTaVpzdmtORzd3?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "EUA voltam a bombardear o Irão, que retalia contra bases norte-americanas na região | Médio Oriente - Público",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdU9VREVVVzlVYWl4SzBXYWN3cTc0SGJKTExmeGt3REdBQVFQTDZLTWJ1S1JtanZvMlQ1bXJhY1ZhRnFGYWNsQjVxdW12NXdpTEUwRE5UclFyd3p4SkVMVkVvUk9YeVZUaEZnVUFSMVRZMWV5X3BmUlhLZVdtdkJNSUFScjAzVmpkNXc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Trump ordenou nova vaga de ataques contra o Irão para impedir bloqueio no Estreito de Ormuz - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLXpvcmpkTVhwdUppZkRIck9VVlFkV0JmSVBLSFFvNGJ1UHUtYUEwZU9WeW5SSXdfdFg5VEYtSnk5TUJZbHpoOVp6Y1IzZkZNMER1b09wVDlGN0dsckJDQUowX1hrSjN2M190dXhyMjNHRDFuSUNEbHVMbGRwdk9kRVo0Y2tTUUJ0RWdoWjVZSlBvZEllSXJhWldDVmhvT2NGN0FtQUE2djNiU0Nkc2hUSTBZSnNSMFlyeUhaeVN2b1FYeFNHTG9LVjYzTzNJeGJyVjZQQldkXzRtVVk5T3NOMlA1RVdxVWF2TkhVY2hCMkNpdXZCSmNUQVJqUWd1ZTl3QkhDOEhaOA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Explosões em cidades costeiras iranianas; EUA garantem que estreito de Ormuz está aberto e que vão manter “liberdade de navegação” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbEIxcjBQV282bGU2RF8zWFRHZjlNZ2E5OXMxSDhiaEU3Y1ZNdllkellnYVlVYWpjeHA2bW9QeWU0TlVEbzBhR3RqeFZfMTlNUkJ3YlJISHp4YVlDSGRsTjZxRmRVbGNJcE1YekpMd0ttb29HNzBrcndVUGdaa0ZqZ2VrdTVoWDFPdXBSUV9MUmZKTTBMNlU4OXJ2Q1l5a3Z5Q193dVFHb2plQ1BvV1AxVHhtRXFyY2FmZ2hOZnVzRm1JUldmVmQtaXY4OTNnaEQ0WHRvN1VuOWFia1M4Nk9EVElYQ3FLS3d0NHljaWpDNGdmZ2tiWURNUVhOei1qOUwzcTJYVllzTlctaWtGbk56Tk9kR0xJemVjb1E?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ Rangel responsabiliza Teerão por retomar das hostilidades no Médio Oriente  ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/conflito-no-medio-oriente/detalhe/rangel-responsabiliza-teerao-por-retomar-das-hostilidades",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "EUA asseguram que navios estão a circular no Estreito de Ormuz - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSjRxVGozQ2J5ZUZueVZIWHRObi1TcE93SUJZUm9rSjZEck9ucWdlQmE1OVBHRlNaLVlXUUJvcF9fNkVXT0NxeExsZ21iMDJBb0YwSDBlR0dtSm9EZ2JJd0FkOFg4RGZFUGRGY0JWNElTdkltenY4QXlkX2NQQkZWU2FGd1p3ME91TEVFOEF6UHN3M28tNE4tMWlzZHhqMmk3ckQwQ2VNeUVGV1FzckQ4Vlp2TFpseUdBSm9qTTZDQUJkZG1FX0tIQUFfUQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "EUA concluem novos ataques e insistem que Teerão não controla Estreito de Ormuz - TSF",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVklpeV94eDR0SFJuR3QzTXNKa2ZPdXRGdUJxd3pPNFZUQ2tPS0RBbk0zM21fU2Y0Q2Vha3dCU3cwY0xuLVRiSC1mMm40WUstalBUR3IzRmhJMlVkOGY3anViOWt2b2FkdXM4R3JDN3RBUVhHalh5ZFoxSzBVd0VpaGNvbDFUcVA5eW5oOERtQ2xEWnI0aHNJaWRsZllJTVZ0SUpsUHJSeHhkV19pVHFPaHJUZ3JFQW4wRG16eg?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Catar adverte que \"reserva-se o direito de responder\" a ataques iranianos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzRDVW9TVnFuQ3ZNVnlTX2J5Tm11XzZwNFV2Z2FNU0JyRk1Yb3FXUTdEWmFmb0FPTVF3NnhvdTc5TFg4QTlQQVVnaVNnOVdyVkt1ZEJoNjFBcnFPR2k0aFJiMXFPQkhXNVNxYXZaUmNKbHRtNDY3dGc2VlZpaldiUDE3Y3FMbllyZXN2OFVKQWF4LS1SNEo3ajVpV3FwYUltM2NNaUd5Y09VNWt3V01wNg?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "\"Equipa Gaza\". UE lança iniciativa de ajuda financeira para reconstrução da Faixa de Gaza",
+          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/equipa-gaza-ue-lanca-iniciativa-de-ajuda-financeira-para-gaza_n1753003",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Rangel responsabiliza Teerão por retomar das hostilidades no Médio Oriente",
+          "link": "https://eco.sapo.pt/2026/07/13/rangel-responsabiliza-teerao-por-retomar-das-hostilidades/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Irão ameaça abandonar memorando se EUA não cumprirem compromissos",
+          "link": "https://www.jornaldenegocios.pt/economia/detalhe/irao-ameaca-abandonar-memorando-se-eua-nao-cumprirem-compromissos",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "id": "morte",
+      "label": "Morte",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-13"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Morreu Sam Neill, o paleontólogo do Parque Jurássico , o marido de O Piano - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSGxyajJYQ0RLc3V1N3d0YUF5UERKLV80WGM3UTlIQTJXaDBxZXZDckFMelFrTmpMWERtTmhNTmMybXJ0a0p6bXdzeUl4SXMxS2VkdTk0OTVnQzQyVmVLOTA3ZWs1a2g5VEF6QXFjX1ROdVgxSUxsT1RrMEVkM3hDQVNfV18wdHBrVnhCOTR6ZWFVMC1GNkxiNkk0X25VTjZ2WGtRMkNwR2pNM0xQdDdYTTR2b1lRV1h4QTVIWWRTZVFDUQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Morreu Manú, antigo jogador do Benfica - Público",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2RIVEZXSDVKai1idkh5X3RTVC1meUdzWnVodzRWN1JCR3BvczRzbkVIdWFZVnZnb290c0JnWTRNNVlZLTVETzdKTEhSal8wbHhya2JNM2ZEMF9GVFlteUtMNjZHcUU1cDlwSlNudGJ4V1dWNjc1dmVBc2hLSndWN2VYMGNPZGV6bl95RkpMMDBmdy1TR3p3ZmtRNXFZeUhRbGhr?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "O reformista do deserto: morreu o antigo emir do Qatar, xeque Hamad - Público",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHRpd2VHVXRCSmF5aWNMR3JKODFvYVdnT0stbUFjTWFPbnppSm1BekZQVkgyYU5CQ3k2NjAxTi1NRm1LNjVjcGkwNndWaWJQZEM3TkxKLVZqNnB4NWFnMzBzNkJ3ek5mY09wTlc1TWRrbFNfMnZfNWZRc21VNEV0WXpXbXZDc3RGSnBlbGQzWkVOWThVZmpVSTNaYUprUkJCSkRVR3Q3RnRIVVRqbExfQQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Sam Neill (1947-2026): morreu o ator de “Jurassic Park“ e “O Piano“, aos 78 anos - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMV9mWkxIY0loMG5qa1VsZlNaWmVFaUFuQ1hBcDlOWlpOX1JvU3B2QXdEY3RRamtnaW1Vd2hkTzhpMExmVk9uRlBFUGpYUmNZQUN3eXA5TTQzdlhBcDVhYzJCd09vODNwQUc2dEQ3a25mR1Y4bjE1RzlrVjRYeDBYNFR3QkxhNFZvdk5YMHF6RVlOS1pIT0lDRmp5dlNyQW1WOV90R1hZVWQ2SnFDTG8zM0NvdGVRZw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Morreu Sam Neill, estrela de Parque Jurássico e Peaky Blinders, aos 78 anos - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLUNEaXJXYTZtV3lIN1Fma3ZSZWZ2OHJNWFFvTHNaNGN2aTlUbkN4TlF0a0hoVmVoS2M0V1gxMFJObkdTT0pndXQzMG11M0tadjVZWjhzM2NwOVA2MVdBRy1DMk1tMlpLYWphVHQxOEpDWlNuSnpXc3FrQ1BrejhYQ1QxNGhkNURucEdTVEZla28wWUhRejNpSEpOeUl1QVF0QXF5cm5YaU9rTFpkVTBnemcwZUdPbWFVSUhZd3dORDY5eFE2N2ZJLXQxUQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Edinho em lágrimas com a morte de Manu: \\\"Cuidarei do teu filho como meu\\\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHdkMHBBd09EMk1XNHVrSHo5aVJKWXB6NWtYWU1wWWloUnZsNnM2cjI3ZVEzUlg2MXIxenY1anRveEE3TjVGb3NFU0I5ejNKZkt5Z0dIMV8tOUJ6d295T05VdlJFR3N1cG02U25uOENVbFM0SXc4elVFQnFLWUhycXZnUnF5YURsQlJEYVQyTjJnWUF1SS12SG5pUHQxSUZzSnc?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ Morreu o ator Sam Neill, estrela de 'Jurassic Park' ]]>",
+          "link": "https://www.sabado.pt/gps/detalhe/morreu-o-ator-sam-neill-estrela-de-jurassic-park",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Morreu Sam Neill, o eterno Dr. Alan Grant de &quot;Parque Jurássico&quot;, aos 78 anos",
+          "link": "https://sol.iol.pt/cultura/noticias/morreu-sam-neill-o-eterno-dr-alan-grant-de-parque-jurassico-aos-78-anos/20260713/6a54973a0cf2b42132dba381",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Manú, antigo jogador do Benfica, morre aos 43 anos em acidente de viação",
+          "link": "https://sol.iol.pt/desporto/noticias/manu-antigo-jogador-do-benfica-morre-aos-43-anos-em-acidente-de-viacao/20260713/6a54b3b90cf2f6a1a1e70674",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Ator neozelandês Sam Neill (“Jurassic Park” e “O Piano”) morre aos 78 anos",
+          "link": "https://eco.sapo.pt/2026/07/13/ator-neozelandes-sam-neill-jurassic-park-e-o-piano-morre-aos-78-anos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Morreu o ator Sam Neill. Foi estrela de \"Parque Jurássico\" e \"Peaky Blinders\"",
+          "link": "https://www.jornaldenegocios.pt/economia/cultura/detalhe/morreu-o-ator-sam-neill-foi-estrela-de-parque-jurassico-e-peaky-blinders",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
     },
     {
       "id": "mundial",
@@ -5874,9 +6361,70 @@
         "2026-06-29",
         "2026-07-01",
         "2026-07-04",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-13"
       ],
       "articles": [
+        {
+          "date": "2026-07-13",
+          "title": "Mariano Rajoy acusado de racismo por dizer que França joga “sem franceses” - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYThSZ0o1ZGFfb1JuSExCMW4wNFNKOFRjUThDQ09jX2dHMjB3ekh3cnZZd0J0Ujg3YjRGbDJsT0JCUzQ2RFg4dkowYlByWGtsc0Q4aUR3cnRzTm96N2ZpdnZ0SGEwRVhTM21WQTZMMTFOLXN4UjhNTVNRVU5tUEZ2V2RVNUpHSDd1R2d2dzFMQkR0d1ZSd3BBbjhjZlBiQXZrNzMwWVpSRVBTZ0ZzcktRQVM1Y1V6bEU?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "No Chão da Lagoa, Albuquerque avisou Montenegro de que acabou o tempo das “ilhas adjacentes” - Público",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNcjZ0VmdlRzhRYlplZ3NMZ0pYX0R0M1djd0M5cVF4QWRzUlNFSmVKQUphR0F4ZzJid2h1UjIwWmZreTVwbVF1bEhMOV9qbUdpbHRJM2FRWXdURTkzdUptLVVfeGtxZXVlWVVGZkJ3a3drVkpUenFEVkhEQUxiYzRXYjJBZnd3TDJzWURPV0k4djRablZza1poazhMZVVxQ0FoemtaWXRlRGZ1VTZldzRiSDUyNmFrUFhob3pHenVyZ1VQaVBwQkhyUw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Israel marca eleições legislativas para 27 de Outubro - Público",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTFGMlRtRjRXMnFkeFhHWHJpLXdxRDlUdjJUbjN6V2ZnX3dyaHRYUEJfaGxzM2p6aUtYenJXOGZXNHRyODU0T1JKTHJqZGl3b1lqd05RX1VKQ3R3M0FVazlEQ2tESk1oWGpuQjBFR1VKclVpN1E2cE1adndNQ3dPOGhKM2puN3loVnlaTUhOcldkQTVXRG1kY2hiUnNyOGNsV25n?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "\"Vais pagá-las\". Ventura diz que MAI o ameaçou e pede reunião urgente a Seguro. Ministro desmente: \"O que disse foi 'têm zero'\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU2xBUWpwc1J3blNIMU53MVJ1QUhGakRFdVVRNnBfMHBocmxnbWI1MFVVclZRT3VxdnlXNy1wVEIyZ0FkWkR5d1pIV3dWMDBRc2c4dmpOOGVtb2d2bUxUQm8zVTFwOVJKOUJrM2p4Y1h6dnlBc0FFNmpyNnZGTkhUYkQwZUE3ajhFWld6dzhuYWUtWFFfbHVkZjlvSDJwSlBtdHVGdXNSbmZ6eGlUS1pmWjFreGpmeGxMeGpsQmNqRTJGQ3RIcHk4XzVlNVFTYjdJdzBZZHNQX0p2bEtkWl9PM2g4VjdqbkVyRUVibW5OMkNhQVRDbUxvOVNQS2FpaDloNXBzZW9BSHEwOW8?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "”Reconheço que hoje faria de maneira diferente\": Ministro Luís Neves responde a polémica com empreiteiro amigo - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMEpnT0dRRWpxZnVfMTRMVnF3T3J1SGU5cTJUREVRVGVQd0JZTnZCcWticDlzU0JCQ3Rid3JRRzA1ay1KZWdldHFZU2NMbE5lM1Ayek5lTnhuWFNsVWtoSEhrcFJjcFZiZzd2OVZGNVJhYWJOcnBqdl9wR2JtVVA2LXZtUjY5NVVFV2ZKZ3NRUnR3V2NSakdzQVpfRXRScm9zM1NhOW5LbDdpUjhGRko4RGVveGJsOGQ4MGJUc0tEWlplUzV1RHkwVDVJSVpQXy0xdUlCQW81cDFPQjF2eUpnd19HdWNnWU52NGVlT3VB?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "<![CDATA[ Primeiro-ministro mantém confiança no ministro da Educação  ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/primeiro-ministro-mantem-confianca-no-ministro-da-educacao",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "PS exige explicações sobre acesso de membros do Ministério ao espaço onde estão os exames",
+          "link": "https://www.rtp.pt/noticias/politica/ps-exige-explicacoes-sobre-acesso-de-membros-do-ministerio-ao-espaco-onde-estao-os-exames_n1752988",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Jorge Pinto quer Livre \"no poder já no próximo ciclo eleitoral\" - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRUVOU0NPUlpIVW5BS2tZV1N3NXYwdElqWW81YmVqckJpNl90ekdYNWxJN2VEYWgya21vZVJfa21pdjhveDljUklDLXBRUjNZVDM3LUduYndLbVI1ZWhveXRyWlBuazBOQVkyM2hPek1jQjB0bUJrSjZVT2x4NTljMkRxUGRGbHV6Si1Lek5lWC14U2VqR2pWSDFqN3Z0WVljU3ZkT2NyZ0I?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Chega acusa ministro da Administração Interna de ameaçar André Ventura e pede reunião urgente ao Presidente da República",
+          "link": "https://sol.iol.pt/politica/noticias/chega-acusa-ministro-da-administracao-interna-de-ameacar-andre-ventura-e-pede-reuniao-urgente-ao-presidente-da-republica/20260712/6a53e98a0cf2f6a1a1e705eb",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-13",
+          "title": "Livre quer chegar ao poder no próximo ciclo eleitoral e desafia PS a travar revisão constitucional da direita",
+          "link": "https://sol.iol.pt/politica/noticias/livre-quer-chegar-ao-poder-no-proximo-ciclo-eleitoral-e-desafia-ps-a-travar-revisao-constitucional-da-direita/20260712/6a53c2220cf2f6a1a1e705cb",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-07",
           "title": "PSD quase duplica lucro em 2025, PS e Bloco são os únicos a registar prejuízo - Público",
@@ -6053,7 +6601,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-13"
     },
     {
       "id": "prestacao-social",

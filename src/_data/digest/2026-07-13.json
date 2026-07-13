@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-13",
+  "meta": {
+    "generatedAt": "2026-07-13T11:21:52.147Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "morte",
+        "label": "Morte"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "medio-oriente",
+        "label": "Médio Oriente"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "desporto",
+        "label": "Desporto"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      },
+      {
+        "id": "burlas",
+        "label": "Burlas"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destacou a morte de Sam Neill e de Manú, a polémica na correção dos exames nacionais, os confrontos entre EUA e Irão no Estreito de Ormuz, incêndios em Banguecoque e no interior norte, e a possibilidade de expansão do Mundial de futebol."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso noticiou a morte de Sam Neill, os ataques de Trump ao Irão e o bloqueio no Estreito de Ormuz, a polémica com a correção dos exames e as ameaças entre Ventura e o ministro da Administração Interna."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador cobriu a polémica dos exames com o pedido de desculpas do ministro, o incêndio em Fontainebleau e o resgate de um casal em Almería, além da reação de Bernardo Silva ao Mundial e a eleição dos novos porta-vozes do Livre."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias abordou a queda dos preços das casas, os contratos da Mota-Engil no México, a morte de Lindsay Graham e a inauguração de exposições culturais."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias deu relevo à morte do ex-jogador Manú, à detenção de 65 pessoas em Hong Kong, ao incêndio em Guimarães e às declarações do Catar sobre o Irão."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã focou-se no incêndio em Fontainebleau, nos números da área ardida em 2025, no pedido de desculpas do ministro da Educação e nos alertas para fraudes com dados pessoais."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias destacou a iniciativa da UE para Gaza, a atualização sobre o ébola na RDCongo, o pedido de desculpas do ministro da Educação e os resultados de Wimbledon e do FC Porto."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias deu atenção à correção dos exames nacionais, aos incêndios em Almería e Loures, aos confrontos no Médio Oriente e à venda de relvado do Mundial pela FIFA."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF noticiou o aumento do preço do Brent, os incêndios em Almería e Fontainebleau, a polémica dos exames e os alertas da PSP e Airbnb sobre burlas em alojamentos."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios cobriu a subida da Euribor, o incêndio em Fontainebleau, a compra da Ambar, a crise no Médio Oriente e a garantia do governo sobre a correção dos exames."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto reportou a acusação do PS ao Governo sobre a crise geopolítica, o lançamento do modo mota no Waze, o aumento de burlas e as concentrações de polícias no Porto."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO destacou o adiamento das limitações às redes sociais pela UE, a correção dos exames, a responsabilização do Irão por Rangel e o aumento da produção na construção."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico noticiou a mobilização de 884 milhões de euros para Gaza, a subida do valor das fusões e aquisições, a quebra na bolsa de Lisboa e a correção dos exames."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol deu ênfase à morte de Sam Neill e de Manú, à preventiva dos No Name Boys, à venda de relvado do Mundial, aos sismos na Venezuela e à polémica entre Chega e o ministro."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado destacou a morte de Sam Neill, a confiança de Montenegro no ministro da Educação, os alertas para burlas bancárias e os incêndios em Banguecoque e Fontainebleau."
+      }
+    ]
+  }
+}
