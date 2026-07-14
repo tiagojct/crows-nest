@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-14",
+  "meta": {
+    "generatedAt": "2026-07-14T10:06:11.965Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "educacao",
+        "label": "Educação"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "gibraltar",
+        "label": "Gibraltar"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "futebol",
+        "label": "Futebol"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "imigracao",
+        "label": "Imigração"
+      },
+      {
+        "id": "petroleo",
+        "label": "Petróleo"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca a queda do muro de Gibraltar, a escalada militar no Médio Oriente, a polémica dos exames nacionais e a descoberta de gravuras rupestres em Alfândega da Fé."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso aborda a crise dos exames nacionais, a operação secreta israelita, a polémica das declarações de Rajoy e o aumento das margens da Galp."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador cobre a queixa da IL contra Ventura, a onda de calor na Europa, os incêndios em França e o aumento das burlas em alojamento."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias reporta os ataques dos EUA ao Irão, a detenção em Macau, a gratuitidade dos transportes no Porto e a preocupação com a Guiné-Bissau."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias noticia o conflito Irão-EUA, a condenação no Panamá, o alerta para bilhetes falsos e a linha de metro do Campo Alegre."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã destaca a confiança de Montenegro no ministro da Educação, as detenções por violência doméstica, o dossiê Maddie e os ataques dos EUA ao Irão."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias informa sobre o inquérito a Ventura, a correção dos exames nacionais, o incêndio em Banguecoque e o Mundial2026."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias aborda a crise nos exames nacionais, a prisão dos No Name Boys, a polémica em torno do ministro Luís Neves e a queda do muro de Gibraltar."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF reporta os exames nacionais, o conflito Irão-EUA, os incêndios em França e a polémica sobre declarações xenófobas de Rajoy."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios foca-se na escalada do petróleo, a habitação jovem, os resultados da banca e o euro digital."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO destaca o euro digital, o petróleo nos máximos, a atribuição automática de NISS a imigrantes e as comunidades de energia renovável."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico cobre a bolsa no vermelho, o conflito Irão-EUA, as exportações chinesas de automóveis e o investimento em IA em França."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticia a queda do muro de Gibraltar, a polémica Rajoy, os incêndios em Portugal, o acidente em Castro Daire e a investigação à morte de Ann Widdecombe."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado destaca a queixa contra Ventura, o filme 'A Odisseia', o incêndio em Banguecoque, o Mundial2026 e as organizações de ambiente a pedir cidades adaptadas ao calor."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto reporta detenções por violência doméstica, a detenção de estrangeiros em Díli, o lucro da Ericsson e o acordo comercial UE-México."
+      }
+    ]
+  }
+}
