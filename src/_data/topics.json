@@ -490,6 +490,43 @@
       "lastSeen": "2026-07-12"
     },
     {
+      "id": "ambiente",
+      "label": "Ambiente",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-15"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Zero avisa para falsa solução em barragem no Mondego",
+          "link": "https://observador.pt/2026/07/15/barragem-de-girabolhos-e-falsa-solucao-para-as-cheias-do-mondego-avisa-associacao-zero/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ Quase 20 mil quilómetros de estradas e caminhos florestais limpos após tempestades  ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/quase-20-mil-quilometros-de-estradas-e-caminhos-florestais-limpos-apos-tempestades",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Quercus contra barragem de Girabolhos pede cancelamento do concurso público",
+          "link": "https://www.rtp.pt/noticias/pais/quercus-contra-barragem-de-girabolhos-pede-cancelamento-do-concurso-publico_n1753458",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Nova tecnologia permite medir humidade florestal na Península Ibérica para prevenir incêndios",
+          "link": "https://www.jornaldenegocios.pt/sustentabilidade/detalhe/nova-tecnologia-permite-medir-humidade-florestal-na-peninsula-iberica-para-prevenir-incendios",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-07-15"
+    },
+    {
       "id": "arbitragem",
       "label": "Arbitragem",
       "group": "press",
@@ -1663,9 +1700,28 @@
         "2026-07-04",
         "2026-07-06",
         "2026-07-07",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-15"
       ],
       "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Com CGD, BCP e Unicre, Portugal será um dos principais países a testar o euro digital - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZGNCdFZPU1o2Y1FaSTNJME5OVHgzRU5TSDJBaDZPMkVvSl9ZX210VjZub1E1YXR3NkFRb0ZJWEdTYWk1bUtrRGhpSWNaUkpqdlhyTnNqSFB2d3FjQVd2TVN2MnFzNno5MHRQUmNIbU9kWkxCWnVZQm5oWGRWUEViVUg2YjQxYlF2X1BCRGQxRHprNF9VYXFRaWgteGR0TG1tYTR3U2o1REtBdy1uZ1J3Ui1Vb0FOQkxQeDRHNGV6YWM4aFk?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "TAP. Privatização não deve confinar-se a preço e exige \"ponderação e descrição\"",
+          "link": "https://www.rtp.pt/noticias/economia/tap-privatizacao-nao-deve-confinar-se-a-preco-e-exige-ponderacao-e-descricao_n1753479",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Savannah concluiu Estudo Definitivo de Viabilidade da mina de lítio em Boticas",
+          "link": "https://www.jornaldenegocios.pt/empresas/detalhe/savannah-concluiu-estudo-definitivo-de-viabilidade-da-mina-de-litio-em-boticas",
+          "outlet": "Jornal de Negócios"
+        },
         {
           "date": "2026-07-13",
           "title": "Ministros analisam opções para restringir comércio da UE com colonatos ilegais - Público",
@@ -1878,7 +1934,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-15"
     },
     {
       "id": "educacao",
@@ -2257,9 +2313,28 @@
         "2026-07-09",
         "2026-07-10",
         "2026-07-11",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-15"
       ],
       "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Exames. Declarações de Montenegro \"caíram muito mal\"",
+          "link": "https://observador.pt/programas/resposta-pronta/exames-declaracoes-de-montenegro-cairam-muito-mal/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ Correção de exames adiada para esta quarta-feira ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/20260715-110334-correcao-de-exames-adiada-para-esta-quarta-feira",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Ministro da Educação garante que 99% dos exames nacionais estão corrigidos",
+          "link": "https://eco.sapo.pt/2026/07/15/ministro-da-educacao-garante-que-99-dos-exames-nacionais-estao-corrigidos/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-13",
           "title": "Professores convocados para corrigir exames a três dias do final do processo | Exames nacionais - Público",
@@ -2748,7 +2823,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-15"
     },
     {
       "id": "fifa",
@@ -4194,6 +4269,37 @@
       "lastSeen": "2026-07-10"
     },
     {
+      "id": "internacional",
+      "label": "Internacional",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-15"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Malásia vai deportar todos os israelitas que entrem no país",
+          "link": "https://observador.pt/2026/07/15/malasia-vai-deportar-todos-os-israelitas-que-entrem-no-pais/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ UE prolonga proteção temporária para refugiados ucranianos até março de 2028 ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/ue-prolonga-protecao-temporaria-para-refugiados-ucranianos-ate-marco-de-2028",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Bombardeamentos de Israel em Gaza fazem 13 mortos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM25hZXJLVDI5ZGdOcV95QU5Hc2RqbUhzX0g3MGRhT0IyaHFrb0g0WHRGZ2pTMHhBNG43ZFNldVNpT1ZwLUNzUWJ0WVpVN096Xy01b1hmbXBjeUZPNnN2bkRJQ0xoMGgtWVVoSS11OG83aFM5bWtUOGJNeFBCLXFxanFlOW9YemdROW9TU2NhalY1YkE?oc=5",
+          "outlet": "Jornal de Notícias"
+        }
+      ],
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-07-15"
+    },
+    {
       "id": "irao",
       "label": "Irão",
       "group": "press",
@@ -4206,9 +4312,34 @@
         "2026-07-08",
         "2026-07-09",
         "2026-07-12",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ],
       "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Trump troca “portagem” de 20% no estreito de Ormuz por investimento árabe nos EUA - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeDIzbjdLdkhwdmFwcklKOVgyc3FFU0cxWGQ0ZkZGNGtEVWhDcTdndE5rZGpCdHFGSXJmbXJHYkVQUlRwMjNHcHBsdG9ncmhPOEVWQW5WUU1XM3BWYU8xWUJReU03ay0teUJYbmV5aEU4WEo4d2dkcUpGQklnQ29CZUVNVXZVdEtXam9qZUFFb2RkcUZKMnI5UWRIWVhDTnJNMFlxVmdoZlNrZ1lmd3RMTUVzdjRLX1ZjNXRKdG8ydHAzakk?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "EUA lançam novos ataques contra o Irão e reimpõem bloqueio naval - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb01BYm5EUkl4UjhXT3JIQ3BKWTl3RjRTY1R5cTNUY1A4SHREQTZjQ2pzQXVfVldPaDdYNzcxcmVzYU9aSXRScFREZC1temFtaWtuSHBJa3MySTBNV0s2UUdtMWhkVWZLSW1VdXdMX243ak5pdWV1aThJMWNBUjF3S25nWS1HeDl6MkVRelp4dWpzcEYtanFQMVFYWQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ EUA revelam imagens de nova onda de ataques ao Irão   ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/eua-revelam-imagens-de-nova-onda-de-ataques-ao-irao",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Irão: EUA lançam novos ataques antes de retomar bloqueio aos portos iranianos - Jornal Económico",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSzV5M0pvSUFOdDRjc00zR04yMllkUzVJcWtwbXVpZ1JiUWdobDVBV2VTUzR5bFNocVdwOGVuZWktRmpkN3o2QVpFanF2bFl3V2NSdmxrSFl6dm9lUkJOTWRHTU5jS0tsX2JQa0xCRjlTbGlObmJBd1ZaVkx4ZGtWSDR0U1pVeE5DYk1YMmZycTNLeGVIbWpubEhMejBpZ092NjVWbmlaVkJNX0hBeUlZVDlrcEJwaXk4bWc?oc=5",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-07-14",
           "title": "Preço do petróleo sobe mais 4% com escalada militar no Médio Oriente - Público",
@@ -4595,7 +4726,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "id": "irs",
@@ -4713,11 +4844,31 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-07-04"
+        "2026-07-04",
+        "2026-07-15"
       ],
-      "articles": [],
+      "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Tribunal da Relação confirma pena máxima para triplo homicida em barbearia na Penha de França - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd0VxOW56Z09COUVJYUJUUGJCQjhkZF91VFdRYXZuN2lnQ2NoQWMtbnNKLTZlOU5JSENNbkdVZWlmYVRvcjlJZXVoRnl0SEk2NHBDUHRrWF9KeHZYay1raEU0VTFObHN1RlZ0TmxqM0UwSUtOeTRCYjQ4N2pMWFdnNDUyU0FCaXFjcUNBb0c4MUc4elNRMUtBamNfYzkwQUYtNGtjTE1uX3B5OTVRWGl4NjU5NWk2bFhHMUhmTXF1SUZrWXY5WGQzSVZmaklfd0paelBpMWtQSnpMM1RzMWdLTldHZFJmSmg2?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Acórdão do Tribunal Constitucional muda proteção na violência doméstica? - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmdjNGhtZk9UVW9fb21faVZ1VWdIRzlNOVZfc19WdlprZTlpb09nRTdfQ0hGbGN6dU1LUjV3TnV1ZzhDRUJjUHBtYUJmdU5OSjJLRklyOFRaVlo4WTdYQ2JFT3liVk5EY3VfUFJ3QXBXT1E2Q0x0ZVJDSmZuRHM3dzZkby1iYnc0dUozSjhoamExMDhzUEEtSTgtYmpvazZmZ3lZag?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ Enfermeiro detido por suspeitas de tráfico de droga  ]]>",
+          "link": "https://www.cmjornal.pt/portugal/detalhe/enfermeiro-detido-por-suspeitas-de-trafico-de-droga",
+          "outlet": "Correio da Manhã"
+        }
+      ],
       "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-15"
     },
     {
       "id": "le-pen",
@@ -5235,9 +5386,34 @@
         "2026-07-07",
         "2026-07-10",
         "2026-07-11",
-        "2026-07-12"
+        "2026-07-12",
+        "2026-07-15"
       ],
       "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "Dia 35 do Mundial 2026. Argentina-Inglaterra às 20h",
+          "link": "https://observador.pt/liveblogs/dia-35-do-mundial-2026-argentina-e-inglaterra-encontram-se-num-frente-a-frente-pela-ultima-vaga-na-final/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ Euforia em Madrid: milhares de adeptos celebram apuramento de Espanha para a final do Campeonato do Mundo ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/euforia-em-madrid-milhares-de-adeptos-celebram-apuramento-de-espanha-para-a-final-do-campeonato-do-mundo",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Campeã Argentina e Inglaterra procuram segunda vaga na final",
+          "link": "https://www.rtp.pt/noticias/futebol-internacional/campea-argentina-e-inglaterra-procuram-segunda-vaga-na-final_d1753468",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Espanha derrota França por 2-0 e garante lugar na final do Campeonato do Mundo",
+          "link": "https://sol.iol.pt/desporto/noticias/espanha-derrota-franca-por-2-0-e-garante-lugar-na-final-do-campeonato-do-mundo/20260715/6a573c720cf2f6a1a1e70c2a",
+          "outlet": "Sol"
+        },
         {
           "date": "2026-07-12",
           "title": "A bola foi desviada por um cabo antes do golo de Inglaterra? FIFA garante que não - Público",
@@ -6146,7 +6322,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-12"
+      "lastSeen": "2026-07-15"
     },
     {
       "id": "nacionalidade",
@@ -6508,9 +6684,34 @@
         "2026-07-04",
         "2026-07-07",
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ],
       "articles": [
+        {
+          "date": "2026-07-15",
+          "title": "“O nosso Bloco acabou”: 60 militantes desfiliam-se do BE - Público",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMk1CemMweGNhR1lReDkzLVVfN0Y4RFZTOUVXSHNKMXB1T1pEZzlFb3ptYUFFTmQ2TGphcHN1YXRtU01WbmpCTnllRy1LTFQ4RFppbUNGMzZwQlVabTNJeEdkcDhwTkQ0SjVaQ091MlB6eUdjd292OWtCNDljOE5VM0llclZUbkJhLXZMZS1mOE5rSDZMQXV4SVJkY2ZnLVM2WVE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ Tanque afinal é uma piscina: Luís Neves não comunicou obras em monte à autarquia de Odemira ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/tanque-afinal-e-uma-piscina-luis-neves-nao-comunicou-obras-em-monte-a-autarquia-de-odemira",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "<![CDATA[ Estado da Nação: Chega afasta crise política e diz estar disponível para continuar a dialogar com o Governo ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/estado-da-nacao-chega-afasta-crise-politica-e-diz-estar-disponivel-para-continuar-a-dialogar-com-o-governo",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-15",
+          "title": "Governo, patrões e sindicatos voltam à Concertação Social",
+          "link": "https://www.rtp.pt/noticias/pais/governo-patroes-e-sindicatos-voltam-a-concertacao-social_n1753489",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-07-14",
           "title": "Aguiar-Branco dá sequência a queixa da IL contra Ventura",
@@ -6765,7 +6966,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "id": "prestacao-social",

@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-15",
+  "meta": {
+    "generatedAt": "2026-07-15T10:10:09.262Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "fallback",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "politica",
+        "label": "Política"
+      },
+      {
+        "id": "economia",
+        "label": "Economia"
+      },
+      {
+        "id": "justica",
+        "label": "Justiça"
+      },
+      {
+        "id": "ambiente",
+        "label": "Ambiente"
+      },
+      {
+        "id": "internacional",
+        "label": "Internacional"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "No Público, os destaques vão para a crise na correção dos exames nacionais, a saída de 60 militantes do Bloco de Esquerda e os ataques dos EUA ao Irão."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso foca-se na polémica dos exames nacionais, na desfiliação de 60 bloquistas e na condenação do irmão de Pedro Sánchez."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador aborda a correção dos exames, a deportação de israelitas na Malásia e o estudo de viabilidade da mina de lítio em Boticas."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O DN reporta a polémica dos exames, a subida do petróleo e as reclamações contra a Coca-Cola."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O JN destaca os ataques dos EUA ao Irão, a morte de seis trabalhadores em Bruxelas e o Mundial de futebol."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O CM cobre a correção dos exames, as tempestades e a polémica em torno do ministro Luís Neves."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP noticia a correção dos exames, a visita de Von der Leyen a Kiev e o Mundial de futebol."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC dá ênfase ao Mundial, à polémica dos exames e à condenação do triplo homicida da barbearia."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF acompanha o Mundial, a economia e o festival Vaudeville Rendez-Vous."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios foca-se na economia, com destaque para a privatização da TAP, o euro digital e a economia chinesa."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto aborda a economia, o ambiente e a política internacional."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO cobre a economia, os exames nacionais e a inteligência artificial."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico destaca a economia, os exames e os ataques ao Irão."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticia o Mundial, a tragédia na Venezuela e a polémica em Odemira."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado reporta o Mundial, o Estado da Nação e a remoção do muro de Gibraltar."
+      }
+    ]
+  }
+}
