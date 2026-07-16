@@ -1365,6 +1365,25 @@
       "lastSeen": "2026-07-09"
     },
     {
+      "id": "combustiveis",
+      "label": "Combustíveis",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-16"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "Governo admite pela primeira vez limitar temporariamente margens dos combustíveis",
+          "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/governo-admite-pela-primeira-vez-limitar-temporariamente-margens-dos-combustiveis",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    {
       "id": "crime",
       "label": "Crime",
       "group": "press",
@@ -2067,6 +2086,49 @@
       "lastSeen": "2026-07-14"
     },
     {
+      "id": "estado-da-nacao",
+      "label": "Estado da Nação",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-16"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "Estado da nação: reformismo ou incompetência governativa?",
+          "link": "https://observador.pt/programas/explicador/estado-da-nacao-reformismo-ou-incompetencia-governativa/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Debate do Estado da Nação: o mesmo disco riscado de sempre?",
+          "link": "https://observador.pt/programas/contra-corrente/debate-do-estado-da-nacao-o-mesmo-disco-riscado-de-sempre/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "PS lança baralho de cartas para criticar Governo \"ausente\"",
+          "link": "https://observador.pt/2026/07/16/ps-lanca-baralho-de-cartas-da-ad-e-jogos-online-para-criticar-governo-incompetente-em-dia-de-debate-do-estado-da-nacao/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Estado da Nação: Luís Montenegro abre debate marcado por exames nacionais e críticas a Luís Neves",
+          "link": "https://jornaleconomico.sapo.pt/noticias/estado-da-nacao-luis-montenegro-abre-debate-marcado-por-exames-nacionais-e-criticas-a-luis-neves/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ Estado da nação: Primeiro-ministro abre debate com exames nacionais no centro da polémica ]]>",
+          "link": "https://www.sabado.pt/ultima-hora/detalhe/estado-da-nacao-primeiro-ministro-abre-debate-com-exames-nacionais-no-centro-da-polemica",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    {
       "id": "eua",
       "label": "EUA",
       "group": "press",
@@ -2314,9 +2376,82 @@
         "2026-07-10",
         "2026-07-11",
         "2026-07-13",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-16"
       ],
       "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "Exames ainda estão a ser corrigidos. EduQA convoca escolas",
+          "link": "https://observador.pt/2026/07/16/exames-eduqa-convoca-escolas-para-reuniao-online-para-ensinar-como-alunos-poderao-consultar-provas-digitalizadas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Ministro da Educação fala em \"risco\" de notas dos exames não serem publicadas amanhã",
+          "link": "https://www.jornaldenegocios.pt/economia/educacao/detalhe/ministro-da-educacao-fala-em-risco-de-notas-dos-exames-nao-serem-publicadas-amanha",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Divulgação de notas? \"Enquanto não estiverem todas corrigidas, há risco\"",
+          "link": "https://www.noticiasaominuto.com/pais/3022376/estamos-neste-momento-a-aguardar-a-conclusao-de-algumas-provas#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Exames. \"É importante que decisores políticos parem de enganar o país\"",
+          "link": "https://www.noticiasaominuto.com/pais/3022326/exames-e-importante-que-decisores-politicos-parem-de-enganar-o-pais#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "“Há sempre risco de as notas não serem publicadas”, diz ministro da Educação",
+          "link": "https://eco.sapo.pt/2026/07/16/ha-sempre-risco-de-as-notas-nao-serem-publicadas-diz-ministro-da-educacao/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Professores vão classificar exames nacionais esta quinta-feira",
+          "link": "https://eco.sapo.pt/2026/07/16/professores-vao-classificar-exames-nacionais-esta-quinta-feira/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Fernando Alexandre: “Problema não é do ministro, é do sistema educativo”",
+          "link": "https://jornaleconomico.sapo.pt/noticias/fernando-alexandre-problema-nao-e-do-ministro-e-do-sistema-educativo/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Exames nacionais dominam Debate do Estado da Nação e colocam Governo sob forte pressão",
+          "link": "https://sol.iol.pt/politica/noticias/exames-nacionais-dominam-debate-do-estado-da-nacao-e-colocam-governo-sob-forte-pressao/20260716/6a58a8af0cf2f6a1a1e70e7a",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ Ministro diz que faltam professores para classificar exames em falta ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/ministro-diz-que-faltam-professores-para-classificar-exames-em-falta",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ Exames continuam a ser corrigidos esta quinta-feira e problemas na plataforma persistem ]]>",
+          "link": "https://www.sabado.pt/ultima-hora/detalhe/exames-continuam-a-ser-corrigidos-esta-quinta-feira-e-problemas-na-plataforma-persistem",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ Professores que corrigiram exames falam de \"anarquia\": \"Era impossível isto correr bem\" ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/professores-que-corrigiram-exames-falam-de-anarquia-era-impossivel-isto-correr-bem",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ \"Não há professores classificadores disponíveis\", diz ministro da Educação sobre caos na correção dos exames nacionais ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/nao-ha-professores-classificadores-disponiveis-diz-ministro-da-educacao-sobre-caos-na-correcao-dos-exames-nacionais",
+          "outlet": "Correio da Manhã"
+        },
         {
           "date": "2026-07-15",
           "title": "Exames. Declarações de Montenegro \"caíram muito mal\"",
@@ -2823,7 +2958,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "id": "fifa",
@@ -4313,9 +4448,64 @@
         "2026-07-09",
         "2026-07-12",
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-16"
       ],
       "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "EUA estudaram ataque a Cuba, mas guerra com Irão trava plano",
+          "link": "https://observador.pt/2026/07/16/pentagono-tera-estudado-cenarios-para-atacar-cuba-mas-tensao-com-irao-trava-para-ja-qualquer-operacao-militar/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ EUA divulgam imagens de ataques aéreos a vários alvos no Irão ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/eua-divulgam-imagens-de-ataques-aereos-a-varios-alvos-no-irao",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ Trump anuncia libertação de cidadã norte-americana detida no Irão desde 2024 ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/trump-anuncia-libertacao-de-cidada-norte-americana-detida-no-irao-desde-2024",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Irão avisa que o Estreito de Ormuz é uma \"linha vermelha\" e vai resistir até ao fim",
+          "link": "https://www.rtp.pt/noticias/mundo/irao-avisa-que-o-estreito-de-ormuz-e-uma-linha-vermelha-e-vai-resistir-ate-ao-fim_n1753738",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Paquistão pede que norte americanos e iranianos retomem negociações",
+          "link": "https://www.rtp.pt/noticias/mundo/paquistao-pede-que-norte-americanos-e-iranianos-retomem-negociacoes_n1753721",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Estados Unidos terminam nova onda de ataques aéreos no Irão",
+          "link": "https://www.jornaldenegocios.pt/economia/mundo/detalhe/estados-unidos-terminam-nova-onda-de-ataques-aereos-no-irao",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Teerão diz que Ormuz é uma “linha vermelha” e ameaça alargar guerra no Golfo",
+          "link": "https://eco.sapo.pt/2026/07/16/teerao-diz-que-ormuz-e-uma-linha-vermelha-e-ameaca-alargar-guerra-no-golfo/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Exército dos EUA termina nova onda de ataques aéreos no Irão",
+          "link": "https://eco.sapo.pt/2026/07/16/exercito-dos-eua-termina-nova-onda-de-ataques-aereos-no-irao/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ EUA divulgam imagens de ataques aéreos a vários alvos no Irão  ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/eua-divulgam-imagens-de-ataques-aereos-a-varios-alvos-no-irao",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-15",
           "title": "Trump troca “portagem” de 20% no estreito de Ormuz por investimento árabe nos EUA - Público",
@@ -4726,7 +4916,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "id": "irs",
@@ -5207,6 +5397,43 @@
       "lastSeen": "2026-06-29"
     },
     {
+      "id": "luis-neves",
+      "label": "Luís Neves",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-16"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "O “lapso” de Neves e um governador que não crê em milagres",
+          "link": "https://observador.pt/newsletters/360/o-lapso-de-luis-neves-a-nacao-que-vai-a-exame-e-um-governador-que-nao-acredita-em-milagres/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Das obras na PJ ao “amigo” empreiteiro: tudo o que sabe da polémica que envolve Luís Neves",
+          "link": "https://eco.sapo.pt/2026/07/16/das-obras-na-pj-ao-amigo-empreiteiro-tudo-o-que-sabe-da-polemica-que-envolve-luis-neves/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Ministro Luís Neves escondeu empresa da mulher em três declarações",
+          "link": "https://sol.iol.pt/sociedade/noticias/luis-neves-escondeu-empresa-da-mulher/20260716/6a5896380cf2f6a1a1e70e65",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Luís Neves apenas declarou empresa da mulher após tomada de posse",
+          "link": "https://www.jornaldenegocios.pt/economia/politica/detalhe/ministro-da-administracao-interna-escondeu-empresa-que-pertence-a-mulher",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    {
       "id": "medio-oriente",
       "label": "Médio Oriente",
       "group": "press",
@@ -5387,9 +5614,76 @@
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-16"
       ],
       "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "O francês que sacrificou tudo e Mbappé a igualar Pelé",
+          "link": "https://observador.pt/2026/07/16/o-frances-que-sacrificou-tudo-mbappe-a-igualar-pele-e-o-fim-de-um-mito-as-historias-do-mundial-2018/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "\"Só espero não ser tão estúpido quando me retirar...\"",
+          "link": "https://observador.pt/liveblogs/dia-36-do-mundial-esta-decidido-espanha-e-argentina-defrontam-se-na-final/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Messi soma tantas contribuições para golo como jogos em Mundiais",
+          "link": "https://www.rtp.pt/noticias/futebol-internacional/messi-soma-tantas-contribuicoes-para-golo-como-jogos-em-mundiais_d1753719",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "\"Despeçam-no\". 12% envergonham Inglaterra e já se pede a cabeça de Tuchel",
+          "link": "https://www.noticiasaominuto.com/desporto/3022378/despecam-no-12-envergonham-inglaterra-e-ja-se-pede-a-cabeca-de-tuchel#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Casal que se conheceu no Mundial de 1986 regressa ao México e recria foto",
+          "link": "https://www.noticiasaominuto.com/mundo/3022322/casal-que-se-conheceu-no-mundial-de-1986-regressa-ao-mexico-e-recria-foto#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "A fotografia que antecipou a história: Messi e Yamal reencontram-se na final do Mundial 19 anos depois de se conhecerem",
+          "link": "https://sol.iol.pt/desporto/noticias/a-fotografia-que-antecipou-a-historia-messi-e-yamal-reencontram-se-na-final-do-mundial-19-anos-depois-de-se-conhecerem/20260716/6a58ae4f0cf2b42132dbabd8",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Há 19 anos, quando a fotografia foi tirada, ninguém imaginava que os dois seriam os protagonistas da final do Mundial 2026",
+          "link": "https://sol.iol.pt/fotos/ha-19-anos-quando-a-fotografia-foi-tirada-ninguem-imaginava-que-os-dois-seriam-os-protagonistas-da-final-do-mundial-2026/6a58a6c10cf2b42132dbabc4",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Lionel Messi fez o que só ele sabe fazer: Argentina está na final do Mundial e Inglaterra vai para casa desolada",
+          "link": "https://sol.iol.pt/desporto/noticias/aos-90-2-minutos-lionel-messi-fez-o-que-so-ele-sabe-fazer-argentina-esta-na-final-do-mundial-e-inglaterra-vai-para-casa-desolada/20260715/6a580fbb0cf2b42132dbab8f",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Euforia albiceleste, silêncio inglês: As melhores imagens do jogo que apurou a Argentina para a final do Mundial",
+          "link": "https://sol.iol.pt/fotos/euforia-albiceleste-silencio-ingles-as-melhores-imagens-do-jogo-que-apurou-a-argentina-para-a-final-do-mundial/6a580e1e0cf2b42132dbab4b",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Cândido Costa revela que esteve prestes a ser detido nos EUA durante o Mundial 2026",
+          "link": "https://sol.iol.pt/desporto/noticias/candido-costa-revela-que-esteve-prestes-a-ser-detido-nos-eua-durante-o-mundial-2026/20260715/6a57df930cf2f6a1a1e70dad",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "<![CDATA[ A história repete-se. Argentina dá a volta à Inglaterra e apura-se para a final do Mundial ]]>",
+          "link": "https://www.sabado.pt/desporto/mundial-2026/detalhe/a-historia-repete-se-argentina-da-a-volta-a-inglaterra-e-apura-se-para-a-final-do-mundial",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-15",
           "title": "Dia 35 do Mundial 2026. Argentina-Inglaterra às 20h",
@@ -6322,7 +6616,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "id": "nacionalidade",
@@ -6622,6 +6916,49 @@
       ],
       "firstSeen": "2026-07-12",
       "lastSeen": "2026-07-12"
+    },
+    {
+      "id": "pan",
+      "label": "PAN",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-16"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "Oposição interna do PAN pede demissão de Inês Sousa Real e exige novo Congresso",
+          "link": "https://www.rtp.pt/noticias/politica/oposicao-interna-do-pan-pede-demissao-de-ines-sousa-real-e-exige-novo-congresso_n1753737",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "PAN. Oposição interna pede demissão de Sousa Real e exige novo Congresso",
+          "link": "https://www.noticiasaominuto.com/politica/3022375/pan-oposicao-interna-pede-demissao-de-sousa-real-e-exige-novo-congresso#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Oposição interna do PAN pede demissão de Inês Sousa Real e exige novo Congresso",
+          "link": "https://eco.sapo.pt/2026/07/16/oposicao-interna-do-pan-pede-demissao-de-ines-sousa-real-e-exige-novo-congresso/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "“Demissão”: Inês Sousa Real sofre contestação interna no PAN",
+          "link": "https://jornaleconomico.sapo.pt/noticias/demissao-ines-sousa-real-sofre-contestacao-interna-no-pan/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-16",
+          "title": "Oposição interna do PAN pede demissão de Inês Sousa Real",
+          "link": "https://www.jornaldenegocios.pt/economia/justica/detalhe/oposicao-interna-do-pan-pede-demissao-de-ines-sousa-real",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
     },
     {
       "id": "petroleo",
@@ -8499,9 +8836,16 @@
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-16"
       ],
       "articles": [
+        {
+          "date": "2026-07-16",
+          "title": "EUA não vão impedir regresso de Corina Machado à Venezuela",
+          "link": "https://observador.pt/2026/07/16/eua-dizem-que-nao-vao-impedir-regresso-de-maria-corina-machado-a-venezuela/",
+          "outlet": "Observador"
+        },
         {
           "date": "2026-07-06",
           "title": "Número de mortes dos sismos na Venezuela sobe para 3342 e o de feridos para 16.740 - Público",
@@ -8744,7 +9088,7 @@
         }
       ],
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-16"
     }
   ]
 }

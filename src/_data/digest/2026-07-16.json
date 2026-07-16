@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-16",
+  "meta": {
+    "generatedAt": "2026-07-16T10:18:22.303Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "estado-da-nacao",
+        "label": "Estado da Nação"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "pan",
+        "label": "PAN"
+      },
+      {
+        "id": "luis-neves",
+        "label": "Luís Neves"
+      },
+      {
+        "id": "venezuela",
+        "label": "Venezuela"
+      },
+      {
+        "id": "combustiveis",
+        "label": "Combustíveis"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destacou a crise nos exames nacionais, o debate do Estado da Nação, a vitória da Argentina no Mundial, e a polémica em torno do ministro Luís Neves."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso noticiou o caos na correção dos exames, o debate do Estado da Nação, a aprovação da morte assistida em França, e as tensões no Irão."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador focou-se no estado da nação, na correção dos exames, na final do Mundial e nas tensões entre EUA e Irão."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias abordou a crise no PAN, o estado da nação, os sismos na Venezuela, e o ministro Luís Neves."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias destacou a final do Mundial, a situação na Venezuela, os ataques ao Irão e o impacto do calor nos alimentos."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã noticiou a falta de professores para exames, os ataques ao Irão, e a morte de Sam Neill."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias deu destaque à correção dos exames, à crise no PAN e às tensões no Médio Oriente."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias focou-se no Mundial, na crise dos exames e na polémica de Luís Neves."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF relatou a correção dos exames, a retirada de protetor solar e o mercado de transferências."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios destacou o risco nas notas dos exames, a compra da Glovo pela Uber e a limitação das margens dos combustíveis."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto cobriu a reação à derrota de Inglaterra, a crise nos exames e a contestação no PAN."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO noticiou a economia, o risco nas notas dos exames, as tensões no Irão e a polémica de Luís Neves."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico abordou a crise no PAN, o debate do Estado da Nação e o mercado imobiliário."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol destacou a final do Mundial, os exames nacionais e as revelações sobre Luís Neves."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado noticiou a correção dos exames, o debate do Estado da Nação e a final do Mundial."
+      }
+    ]
+  }
+}
