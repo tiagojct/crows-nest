@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-17",
+  "meta": {
+    "generatedAt": "2026-07-17T10:06:42.176Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "fallback",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "luis-neves",
+        "label": "Luís Neves"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "combustiveis",
+        "label": "Combustíveis"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "inteligencia-artificial",
+        "label": "Inteligência Artificial"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público cobre a polémica dos exames nacionais, o caso do atrelado de Luís Neves e os ataques dos EUA ao Irão."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso noticia a crise dos exames, as suspeitas sobre Luís Neves e a subida dos combustíveis."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador reporta sobre os exames nacionais, o caso Luís Neves e o perigo de incêndios."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O DN aborda os exames, o caso Luís Neves e os ataques dos EUA ao Irão."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O JN fala dos exames, do encerramento do Boavista e da subida dos combustíveis."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O CM destaca os exames, o caso Luís Neves e a guerra no Médio Oriente."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP cobre os exames, a reabertura da Gulbenkian e a inflação na zona euro."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC noticia os exames, o caso Luís Neves e os ataques ao Irão."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF foca os exames, a subida dos combustíveis e os incêndios."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Negócios aborda os exames, a inflação e o uso de IA nas empresas."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O NA cobre a final do Mundial, a subida dos combustíveis e os exames."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO reporta os exames, a inflação e a subida dos combustíveis."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O JE destaca a Venezuela, as tarifas dos EUA ao Brasil e a bolsa."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol fala dos exames, do caso Luís Neves e da praga de pulgas."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado cobre os exames, o caso Luís Neves e os ataques ao Irão."
+      }
+    ]
+  }
+}
