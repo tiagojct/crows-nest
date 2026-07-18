@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-18",
+  "meta": {
+    "generatedAt": "2026-07-18T09:40:50.047Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "eua",
+        "label": "EUA"
+      },
+      {
+        "id": "luis-neves",
+        "label": "Luís Neves"
+      },
+      {
+        "id": "combustiveis",
+        "label": "Combustíveis"
+      },
+      {
+        "id": "fuga-de-amoniaco",
+        "label": "Fuga de Amoníaco"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "habitacao",
+        "label": "Habitação"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público noticia a polémica dos exames nacionais, o reforço do desconto nos combustíveis e a escalada do conflito entre os EUA e o Irão."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso cobre os atrasos nas notas dos exames, a polémica envolvendo o ministro Luís Neves e a subida do preço da habitação."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador destaca o conflito no Médio Oriente, a fuga de amoníaco em Matosinhos e os constrangimentos nos exames nacionais."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias foca-se no caso Luís Neves, na final do Mundial e nos problemas na divulgação das notas dos exames."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias reporta a fuga de amoníaco no Porto, o aumento do preço da habitação e as dificuldades dos alunos com as notas."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã dá conta da fuga de amoníaco, da subida dos combustíveis e da detenção de um professor por abuso de menores."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias faz a cobertura dos incêndios no Canadá e em Espanha, da fuga de amoníaco e da situação dos exames nacionais."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias aborda a ameaça iraniana, a fuga de amoníaco e a polémica dos exames, incluindo a posição do ministro da Educação."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF centra-se na atualização do desconto nos combustíveis e na garantia do ministro de que as notas dos exames serão publicadas."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios analisa os resultados dos exames, o desconto nos combustíveis e as movimentações políticas em torno do caso Luís Neves."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto noticia o ataque iraniano a bases dos EUA, as notas dos exames e a detenção de um professor."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO cobre o conflito EUA-Irão, a exigência de explicações a Luís Neves e os problemas na classificação dos exames."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico destaca o ataque do Irão, a ameaça de teto aos combustíveis e a estratégia para a agricultura."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol relata a fuga de amoníaco, o caso Luís Neves e as curiosidades do Mundial de futebol."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado dá conta da fuga de amoníaco, do atrelado com químicos ligado a Luís Neves e dos exames nacionais sem notas."
+      }
+    ]
+  }
+}
