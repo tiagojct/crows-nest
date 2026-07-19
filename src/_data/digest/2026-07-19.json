@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-19",
+  "meta": {
+    "generatedAt": "2026-07-19T09:58:18.846Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "eua",
+        "label": "EUA"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "tate",
+        "label": "Tate"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "agua",
+        "label": "Água"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público destaca ataques entre Irão e EUA, ataque russo a Kiev, incêndio florestal em Ovar, final do Mundial e venda de Trincão ao Al-Ahli."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Expresso aborda a detenção dos irmãos Tate, novos bombardeamentos dos EUA no Irão, crise nos exames nacionais e a polémica em torno do ministro Luís Neves."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador noticia as eleições em São Tomé, a escalada Irão-EUA, o incêndio no Hospital CUF e a final do Mundial entre Espanha e Argentina."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Diário de Notícias cobre o ataque russo a Kiev, a suspensão de notas nos exames, a prisão dos irmãos Tate e a duplicação da taxa sobre habitações em Paris."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Jornal de Notícias reporta a crise da água em Almada, o abuso de uma sobrinha por um militar, o recorde mundial da milha de Josh Kerr e a polémica dos exames."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Correio da Manhã destaca a final do Mundial, a detenção dos Tate, o incêndio no Hospital CUF e a recuperação das reservas de água em Almada."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP Notícias relata o ataque russo a Kiev, os bombardeamentos dos EUA no Irão, a demissão de Luís Neves por parte do Chega e as eleições em São Tomé."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC Notícias informa sobre a final do Mundial, a detenção dos Tate, a suspenção de notas nos exames e a possibilidade de prisão de Netanyahu na ONU."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF noticia a venda de Trincão ao Al-Ahli, a crise da água em Almada e a ponte cultural entre Valença e Tui."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Jornal de Negócios foca o prémio recorde do Mundial, a sondagem política sobre Ventura e Carneiro, a crise da água e os novos bombardeamentos no Irão."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto cobre a abertura de urnas em São Tomé, o ataque russo a Kiev, a falha do Facebook e Instagram e a detenção dos irmãos Tate."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO aborda a resolução das notas suspensas, a final do Mundial, a proibição da destruição de stocks pela UE e a crise hídrica em Almada."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Jornal Económico reporta os bombardeamentos dos EUA no Irão, a demissão de Luís Neves, a crise dos exames e o novo PM britânico."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol noticia o caos nos exames nacionais, a conquista do bronze pela Inglaterra no Mundial, a polémica de Luís Neves e o resgate de um gato na Venezuela."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado destaca o ataque russo a Kiev, a detenção dos Tate, o incêndio no Hospital CUF e a final do Mundial entre Argentina e Espanha."
+      }
+    ]
+  }
+}
