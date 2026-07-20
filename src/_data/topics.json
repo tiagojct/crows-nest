@@ -454,6 +454,37 @@
       "lastSeen": "2026-07-10"
     },
     {
+      "id": "aliexpress",
+      "label": "AliExpress",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-20"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "<![CDATA[ Bruxelas multa AliExpress em 550 milhões de euros por venda de produtos ilegais  ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/bruxelas-multa-aliexpress-em-550-milhoes-de-euros-por-venda-de-produtos-ilegais",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Bruxelas multa AliExpress em 550 milhões de euros por venda de produtos ilegais",
+          "link": "https://www.rtp.pt/noticias/economia/bruxelas-multa-aliexpress-em-550-milhoes-de-euros-por-venda-de-produtos-ilegais_n1754565",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Bruxelas multa AliExpress em 550 ME por venda de produtos ilegais",
+          "link": "https://www.jornaldenegocios.pt/empresas/detalhe/bruxelas-multa-aliexpress-em-550-me-por-venda-de-produtos-ilegais",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
+    },
+    {
       "id": "almada",
       "label": "Almada",
       "group": "press",
@@ -2523,9 +2554,82 @@
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ],
       "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "Notas das provas finais do 9.º ano serão enviadas ainda hoje às escolas. Pautas afixadas na 2.ª feira - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdWJvNU9IaXFHRXFvalAwaFFoVkVSSEFXd2Z3Y0RYenhfNHhrVzlJbklsU3B1cG9xR2hwdkx1Nk83aXJOLVcyUGNpNjNHR3ZkTUNxekEyVFRZbXJIUDBybnFKZmJIYXFoemtvb3dJZktEU25lcWdfRFpEOEZSenoxbjJNaVZlck9VazFwY2dpbmxQekg5RU5TbzBKNlFmSHJnLW9QcG83M2N0TVZ2Wm5lWTN2QlEwY1FjZ3JHaHRPSVoxdU1pWTdSUkhyTVVjZ185dHpF?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Comissão de utentes denuncia “situação indigna e desumana” nas urgências de Portimão - Público",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa3ZmU09uRDZ4MkVZdXRGQVFydFdkT3FQU3FCbHp4THViekpNNHZiQW04eFp5cUVrSXVtLWYyY091NWE4SHJLdGJkNDRxeGZUQS1rOWp2WmZla3BFMWNnX1ZDRGRiZ3BPOFRaUmdSeGlQQnI5STVmTFBCTmFobEh1dFRRbWtuaE9VdXA0TC1UbXFhdHJoR0VLQkkzXzBzcV9aWDhsNEVYODFJWnp6d2VOMTViLXVobzZ6QUY2ZmgzemdBZ2JPWVFGSHpR?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Quase 57 mil vagas em jogo no ensino superior, num ano muito atípico. Candidaturas começam hoje - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3JtVFJyb21nRi1jOGYxX3lZODJKaDJmR0dpQ25WdnB1cG5LckdGdk9JNXlNdVZxeERnUWlydjFHeVpaY1hHTDEwbFc1OVVaMkZVci00V1lTa1NQX3NsQlB6Y1BVbWIxeS12QjdweUNzRWxkakNPTTBweEJMSnZMSWZDR1Mwb2ZTN2JvX3F1b0U0MlUzeXllbkRxajRNRmlua1dQU1EyU2JXN0lSaXhrRk1vZzIwbTRhQ1V1aElWTWdyVzQ5N2JwTnpnZEZ2Ynh1RXFr?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "O caos nos exames já aconteceu noutros países? Na Suécia, o processo de digitalização não correu bem e o Governo recuou - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONFp0QUZhbVlHY2pfbmx4ampCVi1CeEVXU1BkaEpIVU5uVGtNYzJCcWJtZUJiUWtGcmhBV281cXJSak8zX2JmY2haVDRDdXJyZk5RZHc5QnpYdjJ0RW9ZRll1XzBkU0daQWNNSlpxdzZ5Q2k0SFJPLURtQ2lDR0VQWmY1Mi1oV09tVEs0SXFIVm5QWFZXRklVZHphX2wtQ1pJb2dJeVRCaXhFY3JucjhWOTd1U2VHSE9YTl9jckxvZEt6aW5uZ25pWFRHbnpVQ0xnc01jcDlSbF9JeTBMclp6RXVyRDFBQW5jUDJDWXJvN1RRWW1fU0JPYmVVbw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Bastonário dos Advogados sobre os exames: Estado “pode ser processado por danos” aos alunos, “foi isso que vimos” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPLTV3cWYwWjA0aXFlYUpPQUJIQk9LeEdaa2EzOW9ZQThZTkxOWEp4OVptLUVlU0ZOSnZJNzU2X2QwQWo3YnZZYXlxOUNFX2hMNnBfM05nRUtqWE1LQmh4ZWdtUUFTdDl0RTZFQU12T1hsOVJaM2pDd1hUZWRjRjB0bGhEcklEUG5WV1NTZDJGLVBSZGhUUkZvLVFpa2d1RnUxa2ZYRlNkX0ZxXzhFaWZBQlJEd2lSajRPQThXdktxZUlNY0MxRndYV09uRlU4bnp2NmcwMVNNTHFaZy1oM0tkZHoyX3M3ZFpyTGVvLXU5ay1ya2hXOTJNLUZQZzVCV29NQWN6M2I2X2FRUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Exames nacionais: sugestões para a retoma da credibilidade e para salvar o acesso ao ensino superior - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWk9sZkphclVxYXJJdWZxMTZUbzY4Qi05dlo3anJaeldCZnBvSzVvSlBjMFFoN3pLck83ZkdFanNFUW1rWmdVT01JdUpyRTNJN2JodTZubW1NUHVYcXZLWGJpVjdUZ2YxWU5lNmpVckV3RjA1YTlDVmVnMDFrcFdQNDhURWhyeGhKZmVFaXVzc0NmM09LZXRISG5LSllHajAxa2RFdTRjblZIRHlPSExOb3JCUEdaZ2I0UTdvdllhZ0RIZmFnZG5fQ0E4LUFUMGFiMDBjSC16V0p0bkIyZl9udA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Pais e alunos à beira de um ataque de nervos - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3dLSmpYYS00eHFCTURsVUxZNWgydGlYWF8wRkdMcGR0b01aV2g2ODdZaFFiWlVGRGdfeml4clBvVU1xdGl0ejdLVjZRbzEteFVvamx1WWFxSW1XX1Y1N0VFeVRnVEJMdjdjOHhKNF8xN1pUWDY0bmlNZko1NEdRY29sa3IyOHF2blFkT01MTjduUk54UEFNYlNEWDNIS2lTUnVOVzNUQUEwSGRKNUppUg?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Candidaturas ao ensino superior arrancam esta segunda-feira, apesar dos problemas nos exames nacionais - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOUh5MWcxOTV1NDV5VVpVbjFUa3R1dzJaZFNVb1l6M3ljTm5tZzMtZGhFVGc4MlBsM2R4dTV3NGI1Q0dyY01CMDJ3V3dmWmlKcTlDWUJFZERDVEI4WXd5aHJpMDlTY29LT01NRXhtMExsRXgzQTZ2VW9MaVl3X2VPcU9UeVBEcWVlZzQzWGpySkFRa0ZwOFFGa0NEd3JtUVBNSmwwdDVTV0FnWFVlWlBGcEVpU1U2Z2JhQ01iSWxUZjYzdzZGdnNieWtLSUlNMnpTWXJDVkVIQVMyeV9Ha3dkVkV2Y2tTMnlMbHV5MTdPWlVXS245a2RndEl3?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "MetaPROF constitui bolsa de reapreciação para apoiar alunos",
+          "link": "https://observador.pt/2026/07/20/exames-movimento-metaprof-constitui-bolsa-de-reapreciacao-para-apoiar-alunos/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Maioria das escolas já afixou notas das provas do 9.º ano",
+          "link": "https://observador.pt/2026/07/20/maioria-das-escolas-ja-afixou-notas-das-provas-do-9-o-ano/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Exames. \"O processo de correção merece nota negativa\"",
+          "link": "https://observador.pt/programas/resposta-pronta/exames-processo-de-correcao-merece-nota-negativa/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Exames. \"Era muito arriscado passar para a generalização\"",
+          "link": "https://observador.pt/programas/explicador/exames-era-muito-arriscado-passar-para-a-generalizacao/",
+          "outlet": "Observador"
+        },
         {
           "date": "2026-07-19",
           "title": "<![CDATA[ Governo pede \"desculpa\" a alunos e famílias pelo caos nos exames nacionais ]]>",
@@ -3206,7 +3310,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     {
       "id": "fifa",
@@ -4880,9 +4984,34 @@
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ],
       "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "Jordânia evacua porto e aeroporto de Aqaba devido a \"ameaça credível\" - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYkJuOGo4WkM1cmtMbk5VV2hqMmFZZUE4SXRRSXNVOGR6NTRiTm5NQ194aW1qV2doX1VmR0lxVEYtUmxESFpNcFUzZXlEQTM1VXhOanBuaURhNi1XcnZaV09WcVczSTh5VUVHczM3dHBiTU94VG9DQjNZOUtVcmp2bkhTT3AwQWg0UlFqa2pNT205UGhXek1feTFreUY?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "EUA não têm mísseis para uma guerra prolongada com o Irão",
+          "link": "https://observador.pt/2026/07/20/eua-nao-tem-reservas-suficientes-de-misseis-para-sustentar-uma-nova-guerra-em-grande-escala-contra-o-irao-avisa-militar-norte-americano/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "\"Atacámo-los com muita força\": EUA concluem 9.ª ronda de ataques contra o Irão - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ0EyZFBpMDdRXzZ1OG1MSlI1U2RrZ0w5WGdWYmFGd2NwMGpfTWRhWGRORTBweE1BTFhwVWgwVGhfb2ZhYjBMZ0RNSE92QzlrNFBQYmJTaVRFUHdiTThBMFI1aVZWdVdYM3lxb1pJRE1vQi1LSmsxZXM3aGdlakM1cVRSY2dTNjJKODVRY3FqQWpPTENiS0FSVjFyYzNFNExCSmJscUF4elBSdEc1eEtnZ3JDQjZ0c3FwWHRTVGZVMFBxeUw0WnpxZEdRaTVXTzBHdUt3LVgydEloOHFlNlNPejR0emVCYjdVNlpWVkc1eVpSU1E0?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "EUA concluem nona ronda de ataques contra o Irão após cessar-fogo provisório",
+          "link": "https://eco.sapo.pt/2026/07/20/eua-concluem-nona-ronda-de-ataques-contra-o-irao-apos-cessar-fogo-provisorio/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-19",
           "title": "Irão e EUA trocam novos ataques após morte de dois militares norte-americanos na Jordânia - Público",
@@ -5425,7 +5554,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     {
       "id": "irs",
@@ -6177,9 +6306,82 @@
         "2026-07-16",
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ],
       "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "Prémios a rodos para Espanha, com Rodri (o melhor do torneio) à cabeça - Público",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEVIckJSZUlhMEJuaTdaZTBtdHZTSmtUVWxmYnZSaUkxb0tNb2Y5NTJZQ3NGN0NDaVFUNWwtR0w2NzgtbUl4S1h1V3hPV0dTVkpLODRGMVo3M1ViNm5GeEhQY1dlTEo2NFRRUEZyUU5Pb1pFT0pSR1ZlWGJoRFVsY0hRQS1kMTNTWW84NHdtUFc3Mjl3Znc3b1VzeUMwOGkzZFNrbnJtemYzN1U5?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "As lágrimas encurtaram a conferência de Scaloni: “Dói-me a alma” | Mundial 2026 - Público",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlZLRWZ1bGZrUTU0MFBwT0MyeFFmY3EzTFVxZWJna29CT1FocXF6aERJWl9PZGlHMGFNODdLYlNGajhJUXNGMkEyeUVBa2UtMVFqWEFvRWhFRXoxRE8wUlI4YTNkeUpfMFh3TjNmYy1sOFdLczZiekFvSG5HUk1lUUxBWTRXTlNoTTcxcUhwZzB6Mnktd2U3QzF2Z1pVaTRZcWJnTnBzZDg4RnA3LXc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Ayamonte, uma festa luso-espanhola na vitória de Espanha - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS291WUFaWEtsUVdSMU5HaTRHT045WXFnMzBvVkJKbTZSaUZoR1BiRm9LcVFhVXVLQm9XanRRc0tUOGRac0d6TW5iZEhKcEd6ZFBwT3Boa1o2SUhaQnpYMHNRWl8yVFB6cndDTldJOVJ1VHhSVkdEemJIYXYxdkZYUGtkTTlxenoyemg1WWtmOVJpdW5nUW5SMFhJUHVuWlJCNWZsN3lPV2RhUQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Jovem de 13 anos morre durante festejos pela vitória de Espanha no Mundial - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnJUaG1CM1RzZmhmQmlJdDdGZ21nV2k2R19CY1FpNUszNWN4ZGJrOUFwc0xNOFYxZmkxcWtGU3pXVnEyVkNTdVhBOFhqRF9JU1BFa0RtQWd0QWw2S3g2cFpkOW5VMkhpUGhBMkJvOXpyMzI4N1hENjFXcFVZSGNJeGZRc2NScnhlenNOVGVPNlVxVzB1R1I0NGh2ZDdsWUp6M0xMNkhXNmtjUk9vcFZBSE8tVW1PQ0k?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "A Espanha trabalhou para chegar ao título e a Argentina não teve milagre - Público",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHUyN3V5d29PYTVjUEVyV0ZfM2V3OXhobU9CbFNVUEc1RF9kVnJqYnZ4Z2NTWVZFNVMxeFNkWThSY3B3LWQ1SGh1M25ZVVBXRUcxamg5NVluS09zMFg5a3pBbGxmcE9NbV9ieWlvMElfSHIzUERCZVVyRXBtWXdsOFBobjFMYVcyMXVYeWNzYXhUdmZsNzhERDdsdmFRRlItc0xkR09rLWlvVFNwQW9IaXNDbllHLTBPM280aw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Até nos prémios individuais houve hegemonia espanhola: Rodri melhor jogador, Unai Simón melhor guarda-redes, Cubarsí ganha nos jovens - Tribuna Expresso",
+          "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdnVUeHJWMEpQR3c0dGtwSDFuYlRjY0lBRHZSaVdnOHVHbkZ3c0phZU8tbjhpTEIwT2UzTTIzZkN1TWd2VHFoVXMwdmgzOHplMEowODhKQTF3VURZaG1HRzJKd0xXamhCOVdIT3drdUJFMGhnbXVDV213VGN1ZUdyLTY0ZEduaWxzOWIybnd2bVpzanBWWXowcnMzUEcza1cwSzZxelJuMlB5NFNNNkJ4MFhGdWFZTUlqRF9haVBPNWdPMU9Ga3VDeWZWNlRUbm5vUlN0SXRoWS1ZREhnUmJLRkFSUHdqVnZrZks5ZXRiUjBYZlZUaW03Y1ZpRWNjQzg1aHlHcmNHZE10SmVhMDFxNnpIUGlTWHRYSEM0?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Shakira, Madonna, Justin Bieber e até os Marretas: o vídeo do espetáculo de intervalo da final do Mundial de Futebol - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWUlBWWNkc1FVcXJGSW1hVHlRX08zbVp4cHcwWFgtRGllY1Nhd1dldDJGZTFjYmVtelR3VHFZYm1INE1LTTNSY0x2LXk2SUotZXoyUnNHQVJsaUVERkxhQ3J5aEdtM1B2dDZaaHh4X1VOQnlxTl9HYWZzQlRuR1VHZExNa0l0RlR5YUJENVd5WENSZDU1SXNTdmNiZFpDbXRwQklCY3dYQUdMVVBxcHZkOUVBSjgwU1FSdzUxTmQxZGY5Wno0X21aS1NVTVdiZFU0UEk1Q2RtVDRYLWtHS0ZOcUJJMkpqc2Z1bXlNbTVIWjBudnJSenZzLUI3bEU?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Ferran Torres derruba a muralha argentina e Espanha é, outra vez, campeã do mundo - Tribuna Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQXzU3R0hfQVJ1V25PbExxM3o1NFVmLUZSOXA3dlVjRzRsemUtYkh6M1BTOVkyb3pZMVJBSVc0NHh4dTROc3dTV3VGS2J5WUJDT2lKS2QzdmJlYXBlTVo0a3VXeU91eFJIRk5NdWNONTZsS3NIclJvMk1lWDEwaTFXa0FZNmpFck5CVkRNSjlRTVA4QWo3enhBelpqS3ZfN3RWTDlaRFo1d0llaV9URm9XbnUtTWFmUFhkeVhGdWZqOUk5RkdtRENncHRqb21xVk56b3c2eTIwWQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Messi e Yamal frente a frente na final que decide o campeão do mundo - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnpSOXhyS1Q5NWNNU2MyVU1UV0RRLTd2X3dmRGYyS25kLTRzRFJ2YmlpWFlrQnllT2hkNVl6ZThrUy1lNFczejl2ZXpDV3RkT2ZqS2dIQlF3Sk13aGdwNUlXejBxY3VEZHhrSmFwR0NzX0hSTTZ5LWEtZkNOLWRuNTNpNDdrbHNlR0hvRVBKbkRMTkFTOFkxaW56WkxydkU?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Revista de imprensa. Festa espanhola e alojamento estudantil - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWUx5bDNnSEVSbmItclhxcFZsN2tHQ1RhVmpMZzRxaUJqa2gzLTBvdmM4eVZodVdjYWhYMnFOR2lyVzRlNjR0SzZrSndIY3NBbWFub2JSQzJTVl84Y0V3bG4tbm5ZbnZFVmRoTHFnTVJVcWxfTGI2NWVTdWF4ZHYteGpjd19iTlAyYzBUcS1kTXI?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Espanha derruba Argentina no prolongamento e vence o Mundial - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdGZDblhzeXdQZ1pURHc4VGNESEhBNmxua3hzUGxqUzRLTG9GRlJiOGpzTmRCbFlTeHo3Snp4dU9wbUxIRE54WTh6RnRVVnIzSVdvZHhOYkR5QU5nUFQ1Zm00dXh3ZWF6aDV4MlVoajhLLXhQWVRBOFNCLUtTMHBhOVdGNURKNjhLbjlnaDExTEhXM2Q0TEhwdGZjSEJvUQ?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Piqué e Clara Chía esperados na final do Mundial com Shakira em destaque - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMm95MkJ6dGh0a1pJbWFaeGY2TTluY2J5NkNQaXFHcHlwaVdCSUt0ZEdxd2RMZ1g5bVZBRW13a1FsRzFJRGhNU1ZmVzJFc2dWaWhZZHR5aS1EWFp2ckdSUkl2UlZoeTRyUGJ3S0s3ckl3R0FaUFhsUXpNR05Jbk9jbHBFQzNDaDV3S09RSzJBa0R1cFhha3k2OVhobi1lTkQ3bzNqekp6bUxRendSNnFNUEowT1Y?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
         {
           "date": "2026-07-19",
           "title": "A Inglaterra saiu consolada, a França salvou a face - Público",
@@ -7250,7 +7452,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     {
       "id": "nacionalidade",
@@ -8209,6 +8411,49 @@
       "lastSeen": "2026-06-27"
     },
     {
+      "id": "reino-unido",
+      "label": "Reino Unido",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-20"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "Burnham torna-se hoje o sétimo primeiro-ministro do Reino Unido em dez anos - Público",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZHBqUEZCVVFYYjBrUUQ4ZlFWTzhRN1BmU0hQUjJfRUF6WWpYVnlibzExMkV2Qy1FcWYwUTV5ei1rNXhJTzc3cUd2bERoUXRtMUlvYUw2X2cwWVJocUktdkdubkpwMktyT2pZaEJNNkdtTnRpVGRpRGR0R3hBZVpoS1lkNWVZN2UwRVJZMmExNW5mLVc3aHE1b0lNd1RxbXZHNV9pT2hNU1JYTVUzVmxfWE9rdDNHRlNrV0p4dFNn?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "10h. Andy Burnham assume a chefia do Governo do Reino Unido",
+          "link": "https://observador.pt/programas/noticiario/as-noticias-das-10h-2412/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Starmer abandona Governo: \"O meu trabalho está feito\"",
+          "link": "https://observador.pt/liveblogs/andy-burnham-toma-hoje-posse-como-primeiro-ministro-do-reino-unido-starmer-fala-pela-ultima-vez-em-downing-street/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Keir Starmer: \"O meu trabalho está feito!\"",
+          "link": "https://www.rtp.pt/noticias/mundo/keir-starmer-o-meu-trabalho-esta-feito_n1754579",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "\"O meu trabalho está feito\". Starmer sai de cena no Reino Unido",
+          "link": "https://www.jornaldenegocios.pt/economia/europa/detalhe/o-meu-trabalho-esta-feito-starmer-sai-de-cena-no-reino-unido",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
+    },
+    {
       "id": "rock-in-rio",
       "label": "Rock in Rio",
       "group": "press",
@@ -8256,6 +8501,80 @@
       ],
       "firstSeen": "2026-06-28",
       "lastSeen": "2026-06-28"
+    },
+    {
+      "id": "ryanair",
+      "label": "Ryanair",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-20"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "Lucro da Ryanair entre abril e junho cai 34% - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVdxcmx3ODM4a3BzaFRJa0M3WWItLXFRQ0NBcTV6WWZFRG5kckZ4bTA3ODdtekVwNmhZM2lFckJYbGRoQ2FsdXlYOWZaTGUwU0dJZ01RSXpQWXAxc2laX2t4dXZoUmY3OVotelJ6NDRhdHl3bkh2TExEbFBlN2ZLdGRscTFZdWF3bGg0M2lhYmJieHdUTVlpRE9kd0pBWFR1T1g5eDJlbllCSmx2MFdPOGRR?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Lucro da Ryanair cai 34% para 538 milhões de euros",
+          "link": "https://observador.pt/2026/07/20/lucro-da-ryanair-cai-34-entre-abril-e-junho-para-538-milhoes-de-euros/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Ryanair lucra menos com combustível mais caro e bilhetes mais baixos",
+          "link": "https://eco.sapo.pt/2026/07/20/ryanair-lucra-menos-com-combustivel-mais-caro-e-bilhetes-mais-baixos/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Subida do preço do jet fuel leva lucro da Ryanair a afundar 34% no segundo trimestre",
+          "link": "https://www.jornaldenegocios.pt/empresas/transportes/aviacao/detalhe/subida-do-preco-do-jet-fuel-leva-lucro-da-ryanair-a-afundar-34-no-segundo-trimestre",
+          "outlet": "Jornal de Negócios"
+        }
+      ],
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "id": "salgado",
+      "label": "Salgado",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-20"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "Salgado absolvido no caso de corrupção do Banco do Brasil",
+          "link": "https://observador.pt/2026/07/20/ricardo-salgado-absolvido-no-processo-de-corrupcao-ligado-ao-banco-do-brasil/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Arguidos do processo do BES do Brasil foram absolvidos",
+          "link": "https://www.rtp.pt/noticias/pais/arguidos-do-processo-do-bes-do-brasil-foram-absolvidos_n1754578",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Ricardo Salgado e restantes arguidos absolvidos de alegada corrupção no Brasil",
+          "link": "https://jornaleconomico.sapo.pt/noticias/ricardo-salgado-e-restantes-arguidos-absolvidos-de-alegada-corrupcao-no-brasil/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "<![CDATA[ Ricardo Salgado e restantes arguidos absolvidos de alegada corrupção no Brasil ]]>",
+          "link": "https://www.sabado.pt/ultima-hora/detalhe/ricardo-salgado-e-restantes-arguidos-absolvidos-de-alegada-corrupcao-no-brasil",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
     },
     {
       "id": "sanofi",
@@ -9317,9 +9636,34 @@
         "2026-07-02",
         "2026-07-06",
         "2026-07-17",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ],
       "articles": [
+        {
+          "date": "2026-07-20",
+          "title": "<![CDATA[ Kiev reivindica novos ataques de longo alcance em Moscovo ]]>",
+          "link": "https://www.cmjornal.pt/mais-cm/especiais/guerra-na-ucrania/detalhe/kiev-reivindica-novos-ataques-de-longo-alcance-em-moscovo",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Ataque russo contra navio mercante com bandeira da Guiné-Bissau faz pelo menos seis mortos - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdnN1T0tuZC1kVkZIcUF6cndmU21TN3RJZjlkd1RTcFpqa3RIRmdIWFJiSmxiVkt1Qkw2WWx3Qi1BX0pwNGpzTmZzb1F3Tmg0eGZ0VGpMN2pLREZDN3k2Y2ctUGdNci1QbmhranRZbGttXzlJRDFSNGhrUmw1Q19GVnZiT3NDaW94Y0JvTFlEcm5MbkoxbmpfcEVoaXFKR3FXNHVERHVuN3lLbjZ1elo4OEpndUtQQ0ZfaXUyZ1ZrLXdkUnhpZkIwcGU1M2tOQ0xQQTM0QTlzRGNOcXhoOWc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Míssil russo mata pelo menos 10 marinheiros de navio com bandeira da Guiné-Bissau - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaVE5dDB0VFRqRmI4TFhrYjhSZ2hmbF9ZQlZPbnE1OEgwUWVLVDNCd0RSNmdZZ2tCeDB4OUZ5MXhhTVFPck5BNnF3Q0VUWHczOFZkNVNRWHpHeDZOaGtIQTFMdmNzVDFJYzhxMGFWWV9qcHRjamZHYUhkNmNUa3FIalpBMXBTU1JMcV8yWUgwRklUTGt6Vjk3a3hiczJFZTBYb0FRV2YySC1wU2NNMDJHel81LWNaNDJXNE1RRVdTTGdFTlRSaGJXem9uY2REUkdIUHNjWUNTckxmaUxTTEhr?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-20",
+          "title": "Kiev reivindica novos ataques de longo alcance em Moscovo",
+          "link": "https://eco.sapo.pt/2026/07/20/kiev-reivindica-novos-ataques-de-longo-alcance-em-moscovo/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-19",
           "title": "Ucrânia denuncia “ataque terrorista brutal” contra Kiev que envolveu 40 mísseis balísticos - Público",
@@ -9532,7 +9876,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     {
       "id": "venezuela",

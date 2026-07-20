@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-20",
+  "meta": {
+    "generatedAt": "2026-07-20T11:08:43.767Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "reino-unido",
+        "label": "Reino Unido"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "ryanair",
+        "label": "Ryanair"
+      },
+      {
+        "id": "aliexpress",
+        "label": "AliExpress"
+      },
+      {
+        "id": "salgado",
+        "label": "Salgado"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destacou o caos nos exames nacionais, a vitória de Espanha no Mundial com a morte de um jovem durante os festejos, e a crise política no Reino Unido com a tomada de posse de Andy Burnham."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso focou-se nos problemas dos exames, na final do Mundial com as celebridades no intervalo, e na economia com a quebra de lucros da Ryanair e a compra do Casino da Figueira pela Cirsa."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador noticiou a absolvição de Ricardo Salgado, a crise dos exames com a bolsa de reapreciação, e os ataques dos EUA ao Irão, além da quebra de lucros da Ryanair."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias cobriu a final do Mundial, as notas suspensas dos exames, e o aumento das temperaturas em Portugal."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias destacou a vitória de Espanha no Mundial, a polémica dos exames com o pedido de prolongamento de prazos, e o desaparecimento de um jovem no rio Minho."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã deu ênfase aos exames nacionais com alunos ainda sem notas, à euforia da vitória de Espanha com reações de Trump, e à multa do AliExpress pela UE."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP noticiou a saída de Keir Starmer do cargo de primeiro-ministro britânico, a absolvição no caso BES, os erros nas pautas de exames, e a final do Mundial que foi o programa mais visto."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC focou-se na final do Mundial com a vitória de Espanha, na tragédia da morte de um jovem nos festejos, nos erros nas notas dos exames, e nos ataques dos EUA ao Irão."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF cobriu as notas dos exames ainda por afixar, a análise à final do Mundial, e o caos no acesso ao ensino superior com movimento de protesto."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios destacou a volatilidade das ações da Impresa, a subida da taxa de juro no crédito à habitação, a multa do AliExpress, e a quebra de lucros da Ryanair."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto noticiou os ataques ucranianos em Moscovo, a final do Mundial, a saída de Starmer, e o nascimento do quarto filho de JD Vance."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO deu destaque aos acordos da Savannah para venda de lítio, ao erro na correção dos exames de Física e Química, à disponibilidade dos reitores para adiar o calendário de acesso, e aos ataques ucranianos."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico focou-se na absolvição de Ricardo Salgado, nas declarações do ministro da Educação sobre os exames, e na reeleição de Carlos Vila Nova em São Tomé."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol noticiou a vitória de Espanha no Mundial com a tragédia de um jovem morto, os exames nacionais com a criação de uma bolsa de reapreciação, e os sismos na Venezuela."
+      },
+      {
+        "name": "Sábado",
+        "summary": "A Sábado destacou a absolvição de Ricardo Salgado, a crise dos exames com pedidos de abolição de taxas, e a festa da vitória de Espanha no Mundial com reações de Trump."
+      }
+    ]
+  }
+}
