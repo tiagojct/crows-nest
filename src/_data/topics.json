@@ -1415,6 +1415,55 @@
       "lastSeen": "2026-07-09"
     },
     {
+      "id": "cesarianas",
+      "label": "Cesarianas",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-21"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Cesarianas quadriplicaram no ano passado",
+          "link": "https://observador.pt/2026/07/21/proporcao-de-cesarianas-programadas-quadruplicou-no-ano-passado/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Proporção de cesarianas programadas quadruplicou no ano passado - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGFxMU1NUFVVY2stTFFMUW5uNXNtajNCeU1JOXBWRURYYm1jMTQ0TjN4WjZtNVp6RGNSNEpVYm9oMXZtM25xdWdiYUhOX0YwbzZzSEtPMHk3ZzRSS1AzR0NHdThza3poU2VFYURlbXZST2VGVTJzVkJHWmhOY2xBX1FVXy1nbG1NczhmYUR5aVkwZjA?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Proporção de cesarianas programadas quadruplicou no ano passado ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/proporcao-de-cesarianas-programadas-quadruplicou-no-ano-passado",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Proporção de cesarianas programadas quadruplicou no ano passado",
+          "link": "https://www.rtp.pt/noticias/pais/proporcao-de-cesarianas-programadas-quadruplicou-no-ano-passado_n1754817",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Proporção de cesarianas programadas quadruplicou no ano passado",
+          "link": "https://www.noticiasaominuto.com/pais/3024740/proporcao-de-cesarianas-programadas-quadruplicou-no-ano-passado#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Cesarianas programadas disparam em Portugal e já representam mais de quatro em cada 10 cirurgias",
+          "link": "https://sol.iol.pt/sociedade/noticias/cesarianas-programadas-disparam-em-portugal-e-ja-representam-mais-de-quatro-em-cada-10-cirurgias/20260721/6a5f41ba0cf2f6a1a1e71814",
+          "outlet": "Sol"
+        }
+      ],
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
       "id": "combustiveis",
       "label": "Combustíveis",
       "group": "press",
@@ -2555,9 +2604,82 @@
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-21"
       ],
       "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Reitores disponíveis para adiar calendário de acesso ao Ensino Superior - Público",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcHN5cG9wSkV4MU1xakhHNGhkaHpfOTNPdWhBNXVPRWFBVW5mc2lwdEI2QnhVZWNxaHV3UVlvMUJ6TEUwM2p3RTRIMlhOQ3FiaEdWYTRJdTBwSnlrVjdQNTRCZ1RUdE1aNXF5blpzd0hISEMtcDY2QmR1YVlzR1pvRE5Ha0dqUFdNcGs1bjZWem5na0lkZHNsVmY4MUVwbDV0aGRFUW9NS0VUNmRjZTB0U1pQa1JoS256RXZleXJfZ0lNajQ2Q1E?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Ministro mantém datas da 2ª fase dos exames mas cria época especial em Setembro. Afinal, que alunos podem ir? - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSXFCMkxrYktabTVXbkFiTzA4Z3ZMUGM5MGw0dnBQZjdJUEdGZWFqazNUc2RnX2Q5UHhIRHZKUUJfTFBLSG4yQnJTd1J4NGJnY0l6a1N6eEhLT3NWS1I1YjFwRlJNTXcxa3dEOFlGX1g5Uk83N3FhWmhWMEpyUHpkQjgtRk00bmpTWkpxX0tZc1dKRFJnbTBDQ0JzVTI0OXpTR2tWdDJVeEhwU0J6QnUtemhjU1c1eDRPMGhfaHdWa3ZSZzdtQkdrTi1jRHVTRngtdXBhTW5qSFNWcGxRdmNtUzlrUjlIck5sWDZHOUg5TFpyMlRDRjB5NFNteXNyLXhiZUlQQw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Exames: o Ministro perdeu mesmo o resto das folhas?",
+          "link": "https://observador.pt/programas/e-o-vencedor-e/exames-o-ministro-perdeu-mesmo-o-resto-das-folhas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "\"Encarregados de educação podem ter direito a indemnizações\"",
+          "link": "https://observador.pt/programas/explicador/exames-encarregados-de-educacao-podem-ter-direito-a-indemnizacoes/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "A política do Governo chumba nos exames - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5odEJ5LWZUX0Z4T1ZXcGViSldReVJwVVlnNURIbFl6VDVVQmJfSUNDMGpHSUZPZDNLWmROdUJxVTZ5Y29fVmdYMDFQbGVDWWhYSndiTHRjRVMwTmNSMFE1bzAwY3I0LXBUX19CTnhtNXhaY3FRVEE?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Exames: Alargado prazo de inscrição para 2.ª fase de Geografia devido a erro na avaliação - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0VnQ2prVXZleWl2czFzeFR0MWU2blFJekRtTmVsb3Y0cUxrNkpjaTlZcXQ1TnA0VWtDZzVGRkk4YzZEYVJJdzNMbDkweUZlNEdKZ21UeVVFVjR3WUdRWWZYeko4cUlER2ZQS0pQZlNGQXJGMEpKUDItNmhWYjRxcWVaMDlQbUx3UFdPTUxsMGlwcE1NLUFGc1hBNGNVVlJzNXFtX3dib3NWbEc0d2ZabQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Reitores disponíveis para adiar calendário de acesso ao Ensino Superior - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONER1SVZ2QVpob1lrcmx2NXEwRHpGMEVyclpQS1diZzM1MTAza0pIWHFRZGZJbDJoXzdrLUR0WWVFRHB1VjVfUzZyem4wbFdqQzJoOHI1WGpveW5jd3NPbGU0ZlVaRUNseHUyemFDRjJMNjNqRUl5R1hjS04ybDZGeXB3OFpQelFyaTZwZUZHQ3AwcnB6TV9DQzlpYnFvYTFIWk5fV1MwS285MGNoZC04R3k0bko?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Arranca a segunda fase dos exames com incerteza dos alunos sobre notas na primeira - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWR1WEZEemRNalhYeXRNbGhsWURDRWJkaUMzT1liUTJFMGVSeGZwNkkxYVAwSGluX29lcmVpaFNvbmkzWW5pNFd6elRfQWs0ZWEwZ09SSHhtR2dWOGJhQi11NlFRdHVVejdnZ1JJWHZQVjdRZjN1M0ttcFJoY1prUzdmejM2NkxMalc1RWxaOER2X1JxOFBVT010MnA3cVAyQkptaXYxeElnYWYycjh1YnR5VlBqeWtybndXNnFKaDRIeVU?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Presidente do EduQa garante que sistema de digitalização foi \"testado várias vezes\" ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/presidente-do-eduqa-garante-que-sistema-de-digitalizacao-foi-testado-varias-vezes",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ \"Os exames em papel existem e estão seguros\": Fernando Alexandre responde no Parlamento ao caos dos exames nacionais ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/os-exames-em-papel-existem-e-estao-seguros-fernando-alexandre-responde-no-parlamento-ao-caos-dos-exames-nacionais",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Alunos com exames trocados durante digitalização têm dois dias para reclamar correção ]]>",
+          "link": "https://www.cmjornal.pt/sociedade/detalhe/alunos-com-exames-trocados-durante-digitalizacao-tem-dois-dias-para-reclamar-correcao",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Ministro da Educação diz que vantagens da avaliação digital ultrapassam os riscos",
+          "link": "https://www.rtp.pt/noticias/pais/ministro-da-educacao-diz-que-vantagens-da-avaliacao-digital-ultrapassam-os-riscos_e1754812",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-07-20",
           "title": "Notas das provas finais do 9.º ano serão enviadas ainda hoje às escolas. Pautas afixadas na 2.ª feira - Público",
@@ -3310,7 +3432,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "id": "fifa",
@@ -4985,9 +5107,52 @@
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-21"
       ],
       "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "EUA confirmam terceiro soldado morto e atacam Irão pela nona noite consecutiva - Público",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNWtLaGliRm0wNTVVVEpXd3MyMm9iX2FJTDhMU0x5UUwxa3lyT1duNVhabldZV2JERk9Iak5ETmlzRmQxV1p5d2I0Z0RwWHR1OVJGRE5mN2tyTGdtZnZrZXFKeUYwOGJRR3V2N3V3N2xrWkxQWmFSSllPUWFRZWFFck1zRHlId3ExZy1IejNJY1lzY0QtM1VyeVJ4Sk5EUHlYcmVVRktKeG1RWGFWMnJhOTlwaVhfWlZ5YmFTZXpDNG9oM3BaM3c?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Trump garante que o Irão \"pagará o preço várias vezes\" por cada baixa no exército norte-americano - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMTVsT3NnTXhkS0hEZC1wQjlzN01Ob3o0RlVfRDdvOF9WMkVIRUZRdzNUa0ZQdS1YdVBZTEM4X21JRC1yaldoMV9Td19hRWhGeXVZNzRNOXdpaXZXel9Cd1djaE81U1FKY3h1VUcxRHR1LWcwLUcwY3VkSG82ZmZXZmh6MmhRNmVmNVRVZk5jX1BtcDVfN1NWdUpZYWcyRjFrY2JBaFRMaDZJTWJxZDZQTk8yTGFEUms1VDlYNw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Governo da Jordânia diz que país foi alvo de drones iranianos",
+          "link": "https://www.rtp.pt/noticias/mundo/governo-da-jordania-diz-que-pais-foi-alvo-de-drones-iranianos_n1754806",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Irão retalia contra EUA e ataca radares e sistemas de defesa norte-americanos",
+          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/irao-retalia-contra-eua-e-ataca-radares-e-sistemas-de-defesa-norte-americanos_n1754799",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Pentágono ocultou dezenas de feridos norte-americanos na guerra com o Irão - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbHFXWlZEZnYxZFJJT1NfLWQ0Y2xiTlgxeFV6R2xGVk5oZ2FXV3pLVloxUjdNZnY5V3plUF9XT25xUjEtcVRsQjVYN2hBbllUZWhGTVZTVXh2b2ExWGVFcDdsUXlZQXFsNmlMcmJCc1JfZkJOMzFzbFRHbmVqc21fc0lHbjNJYm0tZlJKMENoMnJBZXFldDE0RXpqSjlxN0c4RG5FT0FENVJZMWV0SGNFOVhVNnVFVjFUaDlDTkZ3cGVrY2gxTURFemdUVkNFQ0JkTEtVaWtBX0IxZnVSTFkteEN2VVlEbG5N?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "EUA voltam a atacar o Irão: é a 10.ª vez desde o fim do cessar-fogo - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFoyZkpHY1pDMUlyX2g2b0w2V2lTYVhZUUF0TjhFT293N19ITmViRGNhOVIzakNuNnZFMUlLbDl0akFEMTRrSzNKMzhwSmtCOUo5cmxpRUJCNXVUdVNsZzN5aU9xYlAwV3cyVDRXcHAtOEh1MFJFNXpLVkFIMGxEWjR2dy1TYjY1MW00UnpkblBJNjVPM1lCTGx4ZUNEZDMxeS1SVWFPWHlmaWRVX0ZMOHFWYXYzVmpVWlBLRzU5TE9KRF93TTNtTmY4c0VLNDg?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Bahrein atacado por Teerão em resposta a ofensiva dos EUA",
+          "link": "https://www.noticiasaominuto.com/mundo/3024751/bahrein-atacado-por-teerao-em-resposta-a-ofensiva-dos-eua#utm_source=rss-ultima-hora&utm_medium=rss&utm_campaign=rssfeed",
+          "outlet": "Notícias ao Minuto"
+        },
         {
           "date": "2026-07-20",
           "title": "Jordânia evacua porto e aeroporto de Aqaba devido a \"ameaça credível\" - Diário de Notícias",
@@ -5554,7 +5719,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "id": "irs",
@@ -6201,6 +6366,61 @@
       "lastSeen": "2026-07-13"
     },
     {
+      "id": "montenegro",
+      "label": "Montenegro",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-21"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Primeiro-ministro não vai tirar férias no verão",
+          "link": "https://observador.pt/2026/07/21/primeiro-ministro-nao-vai-tirar-ferias-no-verao-e-estara-a-coordenar-atividade-do-governo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Primeiro-ministro não vai tirar férias no verão e estará a \"coordenar atividade do Governo\" ]]>",
+          "link": "https://www.cmjornal.pt/politica/detalhe/primeiro-ministro-nao-vai-tirar-ferias-no-verao-e-estara-a-coordenar-atividade-do-governo",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Montenegro sem férias no verão e a \"coordenar atividade do Governo\"",
+          "link": "https://www.rtp.pt/noticias/politica/montenegro-sem-ferias-no-verao-e-a-coordenar-atividade-do-governo_n1754811",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Criticado por ir ao futebol, Montenegro abdica de férias para “coordenar atividade do Governo”",
+          "link": "https://eco.sapo.pt/2026/07/21/primeiro-ministro-nao-vai-tirar-ferias-no-verao-e-estara-a-coordenar-atividade-do-governo/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Primeiro-ministro não vai tirar férias no verão e estará a “coordenar atividade do Governo”",
+          "link": "https://jornaleconomico.sapo.pt/noticias/primeiro-ministro-nao-vai-tirar-ferias-no-verao-e-estara-a-coordenar-atividade-do-governo/",
+          "outlet": "Jornal Económico"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Luís Montenegro abdica das férias de verão e vai manter-se ao leme do Governo durante agosto",
+          "link": "https://sol.iol.pt/politica/noticias/luis-montenegro-abdica-das-ferias-de-verao-e-vai-manter-se-ao-leme-do-governo-durante-agosto/20260721/6a5f385e0cf2b42132dbb52b",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Luís Montengro não vai tirar férias no verão e estará a \"coordenar atividade do Governo\" ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/luis-montengro-nao-vai-tirar-ferias-no-verao-e-estara-a-coordenar-atividade-do-governo",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
       "id": "morte",
       "label": "Morte",
       "group": "press",
@@ -6307,9 +6527,82 @@
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-21"
       ],
       "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Golo de Ferran Torres que tornou Espanha campeã abanou o solo, mostram sismógrafos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcWhRUE1NWEsyNGphNkduVlc2UVBaN2VVbml6YldiY0R6RW44T1ZvVi1mdklRdDNXT2VxWEI1TzR0aFByanFheUlyT1FLVjlpNmdlMF9vMGppSUFKWENGWTBzNnJkU3VJQmhJN1NVYkxydFB4cm51blZmRngwNGtQMXJJNGo5OTNjazhuRTFWY3ZxNVlXbWQ4ajNuMDhSZmpieG9nLU1vS1IwcnBQb2lzeWV4WWIwb21mbUEybE1Dcm9TSGhlQ0FlNzh6TQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Um milhão de pessoas recebe a selecção espanhola numa Madrid em delírio - Público",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHJQWWstYXIxS2w4cFFPOVVGdnNMOWVJS0lPdXI5LVZQVHp4WWRSQkNLMmw2MmY1OFJMMjhtYm1EVWs3MFJnZFRXZl9QVVloeDZEUzRvT2stZVBGcGJVOU9CX0pMTlNFc1RWTHNQUzN5VUVIeTNZNHAydV81NmpHRVJ6cWRyNTVSMXlYMjBKVF9SZHF1ekRDSjRKYzRXcVcza2ZxanBER1RoN2tielhYdS1BYnA?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "FIFA anuncia investigação aos distúrbios após o apito final do Espanha-Argentina - Público",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVB4WEg0Qlh6OTNnSDZQNEwwbk1KdjdSd1QyMmhxc3VXanp3SGpnT1NEYkFldVZqVlA1amdYSzEwN1FWcHczbEJ1V3RHa05EX3pPXzRKMElNLXNhYlNrWEN5al9sYjVPWlRQd1A3NVBpVmZCbExGRWx6YkhEakpHYmxSTkpvZGNNQU5HTTlSRjlDd0hRV2NSQ0VXM1pUOTd2MEZFWnpXMmZLWDljZ0ZKaU0ta1lUc2pXV1h3N1JZNVg3Mld6NmN3VQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "1 milhão e 300 mil euros: Drake apostou na Argentina para ganhar o Mundial e perdeu - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOTGlTUDhNZEdzTFYxQnlpVVZQdzBxeGtVVnZtdmZ5Y1NvM3FHd1k1TDkxSVZTZTM0bmVCZnVWdzNSMjFaamZ4YkpHVnJIOWlZejA5N1EtME5nSmpGbGU0THBFdGFlS241Z3l5dXY2TC1kN1lhYnVUUFVCT2dMYkVlZXpxRlNvLWN4ZHNmNjcyVjJFQ2V1OW1jTC1UTEpMSktrc1FKVVdmM3lrUk9Db0FJYzRUdVV3dFRZajNoZDllcVRfT3dLTlc0MnNvSno5VXhwWkFTNkJnNlFxcHc3TGV5LXQ4ZFlGeHVRNlhYVEVwalBObzhuaHpsSWxRak1yS1JsVnNCeHZEQUdYbHNTNm4xa2phUGtSTkZBampmblhVWWhjS1pfWVN4NEZ4M0hPVVYwYS01QUw5RHNVd2laQUhBUTdZVWs0QVNCeXFUQmdfRmJfNGwzMFVEZ3BBNGxJeTdHSUZhdWxnMkptSDVTYWZKQ2FuMjgwTjhvdXZ2SkN1elVOMVYtWTRWQ2xCZ1l1cjlRbUw5aVVvbXhKOGtYdFE?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Trump na final do Mundial: vaias, uma dança a mais e dois cumprimentos que não aconteceram - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOEVWS0l4LWVzb21tX1U5WUhuM1c0Y3RmTWZkdFRuc0JzbXRwSEpZZXVCLVktWENZLWRzX0VoMWhPUElGbUxwQWdzTHpfNnVqbVdiSk56dUs5ZFZ3djZPOFNhZm9wbE53eUdzdUZNU3BUNlQ5QWRrdlpJdm4yY083Z2dDTWFFRG9UUy01M0JlQ0lVT3pIMkZ1cXFUVlFDOTkyLUtQQVZ1aUxyN3h1dTcxbC1lX2hlazQzOU5qMzFJTGNya2dBeUplMndhTTM?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ \"Foi uma vitória épica\": Rei de Espanha destaca jornada da seleção até à conquista do Campeonato do Mundo de Futebol ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/foi-uma-vitoria-epica-rei-de-espanha-destaca-jornada-da-selecao-ate-a-conquista-do-campeonato-do-mundo-de-futebol",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ O melhor da grande \"fiesta\" dos campeões do Mundo nas ruas de Madrid em menos de um minuto ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/o-melhor-da-grande-fiesta-dos-campeoes-do-mundo-nas-ruas-de-madrid-em-menos-de-um-minuto",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ José Luís Arnaut foi o único português na zona VIP do Mundial 2026 ]]>",
+          "link": "https://www.cmjornal.pt/vidas/ultimas/detalhe/jose-luis-arnaut-foi-o-unico-portugues-na-zona-vip-do-mundial-2026",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "FIFA investiga seleção da Argentina por agressões após a final do Mundial - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUnBUMEhKR1FLMWlNc3lhVUlzN0FKcF9HNzdna3pBbzBwWjVOZ3JnZmhHbHczd3NqTDRQcEJmbUtyRVZvZG9wamVNaWFPbGtaT1VoeHJDTG9IMENFOFNnSEtteld2WFJuQ2ZDeEN3R291N1dVYUwtQWhEQnFfQzhmU01maGxXbGVESXRSRGstLTFKVjNKT2w5Ym51S3FnUXpyWm5LYmNCTk5pTW1NWFAzRXdJcloxT2VmenQ0S3pFbVNqNHhMMEY5aXdZbEcyaG54aHlNVDVZNGJLWjhMWlkwLVRSdGo?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Vídeo viral: piloto espanhol 'engana' adeptos argentinos em pleno voo - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxQWlZucldna1dRUjNZOExFZi1qcUE5dGExVUdWTWl4a3NVUXZRUS14TzVyNjZtUWRmUWxfS0NTem5jbDNWQjZaNEd4QVJxMVBIMjN3a3NRYmdOSFZSM1dkLURGVVh4bFY5eUNKTFVZd2xXWXVOVERZRTBCUnpTdlN4VVJfLUoxMENKQzkxb1NibFNPQ2pSV0Q2TXhNX1hjWFgtUmFjSVdmeTBVR1NHNEdVV0ItTTIwV2xxQlFBd21udXJkT0E3ZTUyckxKbUZ4UDd2YmhQdzJVZ1lfUF9iUDNkV05fUzZteTYtTnNKNG1IWDR6WFhTN3ZiYkV0b0x4QWNueUxFdTBaeE5UY05ZeGxIREJ1MHBJRlJSSUR2YU5zUzFlUEdqYlh4cFVKaC1ha2tvMWxKbHVnZkpLYng1T1ZlMTJzVlBiQXVRcjZrN1QxWFNUVmV0ZWFpdVpVRU0yMTVkRk9TX2NlOXlHVEJPRlpnWE9CdTgxVGpGaGFlcjRLZ3ktUnNpNkpfZDVVZUgwZm1ZS1RwNkJiZlpvZ0NlRERmeFdwdTZKZGNmOElxX1dPVGw2ZXkxNjdIbGg4NmFmM0s4c1lycDVwbXVieWRPS19GcjMySWpCUzJUbk5QaFNndEZhREFCMGkyNWIwX2FCLVkxMXJVYjhYZ3ZHZzRlUXBWeVRqYjVNU2pxM3Fj?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Sabia que festejos da vitória de Espanha no Mundial2026 foram registados por sismógrafos? - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOS0psQXdLMlZmWXJtMXNYUmNKZjRQampCVWYwZTdMYXdGVTBMZnNuYW9VbkFjQUhMYkJaMkFQdDNncEZGeWJ3ZHh3UkZqM21RdXBRbjB6RmpCWkduWWtpUUdrSG9PbWpmZ0hlSWNGb1AwLU5FU3cySlU1MlFkVVNFY3VpUEJENFB3d2J3U0paZW1xZm0zS1d2TS10MGJQZ09sWC1GMGRjclZHNnRSQ2dkak9fTW9QYkxWenRlZ3Q3RWwzV0daTVBHdHVfQlNFVGpkU0Y1M014bGJZMXVaVDZ1ZjdGVG9LZU5PQWQ0dWdLc2xBZw?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Euforia dos \"reis do mundo\" invade ruas de Madrid: mais de um milhão de pessoas recebe seleção espanhola - TSF",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjRBS1Qxam1BcXcxUEhDN0g5MFpucVlRZHk4cmtCc2dlZ2trUUU2Z3hzWnBfQzBRWkZvTGw2ajVLclFLeE4xZHFTTDRCU1cyekNfaTF0WnFaMlVwbG9kdWduZml0dWlMYVo5czViZmUyV2paWTI2REpUSHZIdWZuX1BLR3NybndOWlcza3ZXUHZjM203NW1DcnppNDkxYlhiTl9oa3hKdkliV3l6VzRGZXoxUW1fUmE4YWZXZmdOdUwxNGl2Zlh6NF9PSVh1UQ?oc=5",
+          "outlet": "TSF"
+        },
         {
           "date": "2026-07-20",
           "title": "Prémios a rodos para Espanha, com Rodri (o melhor do torneio) à cabeça - Público",
@@ -7452,7 +7745,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "id": "nacionalidade",
@@ -8545,9 +8838,34 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-21"
       ],
       "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Ricardo Salgado absolvido de processo do Banco Espírito Santo e Banco do Brasil - Público",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU2dnREpZZUY5a29panVNVEtSOE1yOXFEdUVTM1RfWW9DVXhBMjBBNlZVVndqQ09JNG53N2pERHFMT2tERVlHQmFsR3dSVEFlTDJOV19wOGhZbnR6OWdmT3F4YkVtMnUwS1hkSVF0NFExajhiQlFzUm9TaEszaUVTN211a1lmZ2pwWS1oTjgybFBNQlFHVFhBU3VuOFpCUXM5dEp1T3hPYV9rSHlkaGM3RW9mVnNpaGhKdGVYcGw4TVRnMThLSXg0?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Ricardo Salgado absolvido em processo de alegada corrupção no Banco do Brasil - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVmV2Q2ZqOTFQdDAyel9BdE1TY3ItZ0F1UDZyOUxKVGJleTVybEE4eW5XNVJTZFUwd244aGhDbFlSRmFDRzc0eWZlVURMZE5jTFZQaUJ5VmN3V2RPMTJnWVZsWnlkQjRfQmwybzdQbU1WZTFabG1aLWdVdDJuWnpQdnpiUkFQb3l1VUdkNGlZaFQ1Ri01ZTdyZGZleEx6dFlKQi03NUUxaThVbldIbU1zR29ZQUZOVUgtVjN3X2xnZFBsS0U?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Ricardo Salgado absolvido de corrupção no processo BES Brasil - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaC1Zcl9HV1lEcjhCYjBVbnd1NEZRSXl4NGxHSFgwZ3hjT3I1M0h6blpJM2d3dTdvbU9MUkRFa0hub1h3ODVuYWFacXRWaHdjOENYZUc1YjloQWdDbUNZWnJPT3haSGtWOEx4eXRHaHBERjkyRzN3cFhLbWhtLWk3UWFfSHlseTBVVnV2S2h1LVdxS3hwT2xfWDNvaUVGMEEzb2dtZlBRdWhrc0wyYU5HMndkRC1xcDV0ckE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Ricardo Salgado e restantes arguidos absolvidos de alegada corrupção no Brasil - TSF",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeE9jNXJnSnhqdkFYLXZvMUI4UnB0djZNbk1jZHZtS21DbThzSFBDMWRORWpkOUZrb0VzdnRlODc1Y21SZjBQLUc0XzVUcmVWb084UkIzd1dkOEhUWWZRRmN3SFFiMnAyb21nRkZvelNnaHNJekFibjVDR1dRSHFsZ29FTjI0TWtOUVhNRzBOZzFPTTM5YjYxQWp0NzFXX3FxRHZLVmxXdGpySmZxNzdv?oc=5",
+          "outlet": "TSF"
+        },
         {
           "date": "2026-07-20",
           "title": "Salgado absolvido no caso de corrupção do Banco do Brasil",
@@ -8574,7 +8892,7 @@
         }
       ],
       "firstSeen": "2026-07-20",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "id": "sanofi",
@@ -9387,9 +9705,34 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-06-25"
+        "2026-06-25",
+        "2026-07-21"
       ],
       "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Trump impõe taxas de 50% sobre maioria dos produtos do Canadá | EUA - Público",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQTItU0Q5M2ZVXzcwdHZSc1JsNlFYUW5zUXJFQmNQNFFOdk1qMmdLYVJacTZzNDc0TVVRY2VhWVQ1VEZWcVR4SkNEb0ZmcWYyTm9tbmJnRm1rR1kyRUFZeDlrbm1OVWhrN0VvZEV5aG5zak85QS1pd3BOT21nVXp0UWtqamt3VklVWnlONlN0WjRHRzRTaEQtRVVSc3JHeEZtejhfbkRR?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Primeiro-ministro do Canadá pronto para \"intensificar\" negociações com Trump sobre tarifas - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYkdWMjRpSEs0RG5PVmN6RnA4QlIyaUVyUEtJWGZ4MkxZOURUTFloVUlMWlVSTmZ2S2hSaGs0Q25zbGdzZWhtMUEwOWdXWS1sRW0zQ0RoVVBKSUJVck9QN0pYZkpQUThyTTdBZ0ZXV1ZlWUllVFp0azFPd0NmT3l4MXBFYi1HV21lR2xEbUNVVURlckFyZ1FISHZPbjNqZHAxamVFaHVTMHdPN1gtMURBX3llVV9vZnQt?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Trump impõe tarifa de 50% sobre maioria dos produtos do Canadá",
+          "link": "https://eco.sapo.pt/2026/07/21/trump-impoe-tarifa-de-50-sobre-maioria-dos-produtos-do-canada/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Primeiro-ministro do Canadá pronto para \"intensificar\" negociações com Trump sobre as tarifas ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/primeiro-ministro-do-canada-pronto-para-intensificar-negociacoes-com-trump-sobre-as-tarifas",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-06-25",
           "title": "Tarifas. Conselho da UE dá aval final ao acordo com os EUA",
@@ -9422,7 +9765,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-07-21"
     },
     {
       "id": "tate",
@@ -10142,6 +10485,73 @@
       ],
       "firstSeen": "2026-07-01",
       "lastSeen": "2026-07-16"
+    },
+    {
+      "id": "volta",
+      "label": "Volta",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-21"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-21",
+          "title": "Sistema Volta atinge 100 milhões de embalagens, com desafios na higiene urbana verificados noutros países - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUGlBWWFrOG9STVp5Mk5iNTJSMFhLMndNcklHd1dELWZzTkNUeEhKaG9kQWkxYm1DSk5mN1Zac1FvaWVRZW5IdHVWY3NnUWRkQWxtUFhTQWlVUmlpMWhXLXNXQzF2SjRMWkR2VnZsLS12WERFZ0lranZxNE5XZnlZR2d6VFRfV3ZJQi0yd19aQ1J2aDhZMEwycDM4Q1doOFFpZ3hhcU9NYjFwQ294cmpRRzRHNEtGMmtmZEYxVFc3dXdSYzFEN3F4WXoxZjIzY0tqOEJDZHI4TEI5OU92RW4yOXQ4NTZ6MW1jWGxNTXRYRFVxR1RpV0hEVm9tdXQ4N28?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Volta. Caça ao lixo tem \"tendência a diminuir\", diz SDR",
+          "link": "https://observador.pt/2026/07/21/volta-recolheu-100-milhoes-de-embalagens-em-tres-meses-caca-ao-lixo-tem-tendencia-a-diminuir-diz-sdr/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Sistema Volta atinge as 100 milhões de embalagens devolvidas - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU5nZ29VVzZybkxLRXRSRHlHZUt3a3VpeTZEbmpOMTZPQTRFbFpQR0dLTmc1VkJ3cm9LbHBWc25BZWY0a1Q1M1JPZHdjRnlnUkZaek1ZQkp4TnRrdXFwZFlBeEV1U3RvQjRXVDNHQVloa1BGRDZNb1BhLVpGaUJTOUtyT2pEZkdBWkFSNVBFcmk2eFZ5d0E?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "\"Volta\". Sistema de depósito atinge os 100 milhões de embalagens devolvidas",
+          "link": "https://www.rtp.pt/noticias/pais/volta-sistema-de-deposito-atinge-os-100-milhoes-de-embalagens-devolvidas_n1754798",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Devolvidas 100 milhões de embalagens em três meses do Sistema de Depósito e Reembolso",
+          "link": "https://www.jornaldenegocios.pt/empresas/detalhe/devolvidas-100-milhoes-de-embalagens-em-tres-meses-do-sistema-de-deposito-e-reembolso",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Volta vê problemas de higiene urbana como “pontuais”. Já foram recolhidas 100 milhões de embalagens",
+          "link": "https://eco.sapo.pt/2026/07/21/volta-ve-problemas-de-higiene-urbana-como-pontuais-e-diz-que-noutros-paises-tambem-aconteceram-mas-reduziram-se/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Sistema Volta já recolheu 100 milhões de embalagens, mas vandalismo nos caixotes continua a preocupar",
+          "link": "https://sol.iol.pt/sociedade/noticias/sistema-volta-ja-recolheu-100-milhoes-de-embalagens-mas-vandalismo-nos-caixotes-continua-a-preocupar/20260721/6a5f2e380cf2b42132dbb508",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "Vizinhos em Lisboa pedem pontos de recolha do sistema Volta para evitar lixo espalhado nas ruas",
+          "link": "https://sol.iol.pt/sociedade/noticias/vizinhos-em-lisboa-pedem-pontos-de-recolha-do-sistema-volta-para-evitar-lixo-espalhado-nas-ruas/20260720/6a5e662c0cf2b42132dbb3dc",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-21",
+          "title": "<![CDATA[ Sistema de depósito de embalagens atinge os 100 milhões ]]>",
+          "link": "https://www.sabado.pt/dinheiro/detalhe/sistema-de-deposito-de-embalagens-atinge-os-100-milhoes",
+          "outlet": "Sábado"
+        }
+      ],
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
     }
   ]
 }

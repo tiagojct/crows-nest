@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-21",
+  "meta": {
+    "generatedAt": "2026-07-21T10:31:10.482Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "tarifas",
+        "label": "Tarifas"
+      },
+      {
+        "id": "mundial",
+        "label": "Mundial"
+      },
+      {
+        "id": "cesarianas",
+        "label": "Cesarianas"
+      },
+      {
+        "id": "volta",
+        "label": "Volta"
+      },
+      {
+        "id": "montenegro",
+        "label": "Montenegro"
+      },
+      {
+        "id": "salgado",
+        "label": "Salgado"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "O Público destaca as tarifas de Trump sobre o Canadá, os ataques dos EUA ao Irão, a absolvição de Ricardo Salgado, a vitória de Espanha no Mundial e os constrangimentos nos exames nacionais."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso aborda o sistema Volta, a aposta de Drake no Mundial, a absolvição de Ricardo Salgado, a posse de Andy Burnham e os exames nacionais."
+      },
+      {
+        "name": "Observador",
+        "summary": "O Observador reporta o aumento das cesarianas, a tempestade no Chile, os sismos na Venezuela, a ausência de férias de Montenegro, os exames nacionais e o sistema Volta."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "O Diário de Notícias cobre os exames nacionais, o aumento das cesarianas, as ameaças de Trump ao Irão e as negociações com o Canadá."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "O Jornal de Notícias noticia o sistema Volta e a segunda fase dos exames nacionais."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "O Correio da Manhã foca a celebração do Mundial, os exames nacionais, o aumento das cesarianas e a decisão de Montenegro de não tirar férias."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "A RTP Notícias divulga declarações do ministro da Educação, o aumento das cesarianas, a ausência de férias de Montenegro, os ataques do Irão e o sistema Volta."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "A SIC Notícias noticia a absolvição de Ricardo Salgado, a investigação da FIFA, os protestos nos exames, os ataques ao Irão e a tempestade no Chile."
+      },
+      {
+        "name": "TSF",
+        "summary": "A TSF informa sobre a tomada de posse de Andy Burnham, os exames nacionais, a absolvição de Ricardo Salgado e a euforia do Mundial em Madrid."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "O Jornal de Negócios aborda os exames nacionais e o sistema Volta."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "O Notícias ao Minuto cobre os exames nacionais, a celebração do Mundial, as cesarianas e o ataque do Irão ao Bahrein."
+      },
+      {
+        "name": "ECO",
+        "summary": "O ECO noticia os exames nacionais, a ausência de férias de Montenegro, o sistema Volta e as tarifas de Trump ao Canadá."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "O Jornal Económico reporta os exames nacionais e a ausência de férias de Montenegro."
+      },
+      {
+        "name": "Sol",
+        "summary": "O Sol destaca as cesarianas, a ausência de férias de Montenegro, o sistema Volta, os exames nacionais, o Mundial e os sismos na Venezuela."
+      },
+      {
+        "name": "Sábado",
+        "summary": "O Sábado noticia os exames nacionais, a ausência de férias de Montenegro, o sistema Volta, as tarifas de Trump e a celebração do Mundial."
+      }
+    ]
+  }
+}
