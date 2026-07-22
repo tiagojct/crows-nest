@@ -490,9 +490,28 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-07-12"
+        "2026-07-12",
+        "2026-07-22"
       ],
       "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Almada: moção de censura a Inês de Medeiros é chumbada, mas gritou-se “demissão” - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdnVXSl9nRU5QX1V4Tkxrb3ZQbmllOG5fSkdxVmdCNGxfQkMydWszcVgwejFyOFAyYnhOQWhIcXhFMm5yd0kxYm9mcFVNck5jNFBqdWViYk9teUVUOUtmRFg4QXlRdGU0QXRfa04weVl2WFZ4eGVLbXpDS3UxZThpeW1RWlZyZUtRQmFTQThLeTU4UlVkUGpueDJjRVp2X0F4YXBCVk90dU9nRlVaeW9vdWI3dnFiWmtf?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Almada. Rejeitada moção de censura do PSD a Inês de Medeiros",
+          "link": "https://observador.pt/2026/07/22/assembleia-municipal-de-almada-rejeitou-mocao-de-censura-do-psd-a-ines-de-medeiros/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "<![CDATA[ Assembleia Municipal de Almada rejeitou moção de censura do PSD a Inês de Medeiros ]]>",
+          "link": "https://www.sabado.pt/portugal/detalhe/assembleia-municipal-de-almada-rejeitou-mocao-de-censura-do-psd-a-ines-de-medeiros",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-12",
           "title": "Almada: água continua própria para consumo embora possa apresentar ”alterações” após cortes de abastecimento - Expresso",
@@ -537,7 +556,7 @@
         }
       ],
       "firstSeen": "2026-07-12",
-      "lastSeen": "2026-07-12"
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "ambiente",
@@ -2605,9 +2624,82 @@
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Já saíram as médias nacionais dos exames: notas de Português e Biologia descem, Matemática sobe - Público",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQXhiUXEyNjNrZ0ItYjRhSzNsclB5MmdhX1dnVXcwVWhKSGMxQjFDZVhGUk9NYlVSaV90QjJ5SWdhaUpfRERLclRwNXdZRm9NUWd6bUNEWXl0S19VWWN2bjFMeEpVdWRKRjlmU2l4UUF3eDg2ZzFhTTdhMnlDWmthREdXVDcxaEVLSXRVeDZjOUdkaG9rX29tTlpjaHlmS21MYUo3WjhLTHRUWUxHYUJOUk9KNElONGpma2VUS0lTejdxWUg1RDZLQzFOYkl3aVF3TGhHaElYYnM?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Só 300 alunos se candidataram ao superior no primeiro dia do prazo. No ano passado foram dez mil - Público",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRGVyMW42SVE4VzBpQUdvODJmN3hjLTlHS1czaGxSeDZLOElXcm0tZFR1VGtNbW9kOGtqSkZDNnNFdmNWcUlRRC1JVmQ5Ynd0dWx2NUZUSEo1Y2tFVmF6VEFhZ0tiZnlLem9BTmRKeTJwcFBRQjYzRlJTWDZaTm45VXRMazlZREhNNFdFU0s0bnlMUlpkWm9oQ01RbUVrelprTGw4dmNyNGMySEFsYzRTWU5vSEdZNW1EdDM4VEMzMTd6NFE?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Seguro avisa Montenegro que é “obrigatório” salvaguardar “igualdade” entre alunos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObG92NFlDUV9HZUxxMzlDQ3h3LVZjcm11S3FZck5nM2tFOXVrYng4ZFp0NF9fSktWVlJTYS1COWJzWjZQTG00cC1sRm9EX1ZVSDlrZ3Nmdi1BcjBsOEdNT1JFV291MzNrYlAxU1BRMDRtY0g0T29mZGRvZzdlU2NhTjQ4TWhWSTB2bUQycWtPWU5TV0F3UzhvRmdmS1hSZG9MdG55ZHZWLVRQQ01hZ0hOTW1HUFpnSjJPWWc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Médias da 1ª fase: Matemática sobe, Português e Biologia descem; Geografia pode ter mais um erro - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZUJIMElpU1NfakQzMGRyWXkxVEV3VnRuak5BVjlWc0NLYVVwVFVTQ3AyUDJLVUlsWkhVdmJ4bm5ZREIwUVROV3Q1bTI4SEN6UG83QW51NC1fVWNLQzg4aEJjbU5UNnkyaWpZM0NkQXl6eTBaOEtsUkZJbUJMeElkMWRReE5vMUd5WlFuWlRidGhPR1ZzeG1aZDlNYTdpYXBpUE9tZEctSGttOUw2LVZOc05tUGF4ZmFpZHIxTlhycjJ0RnBraGVRbXVoSTFJT0pQbXgzM28tNE1WYVlXMGZCRXhCYjNYODh6Z1pkS0swVGw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Alunos que estão a fazer exames na 2ª fase podem repetir provas em Setembro e contará a melhor nota - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOVlhYzFWSzZMbjBydU9TT05RazRNS0tITkcwVFZGM2E4d0dQaEFPd2YwUHdDMVRsaGNzN2ZCNU5VbnA0SWRybmVUZ2duY2RvYUFmWnJqMnJTRXhvRmZSUHgtbTcwVXZQT19aQXBxUWhMRFYtNUxQWnY0SS1kSDM2UHRFaFcxZDdKNnFpR3lneGNjc3l0UjNORVFxNUVpdnVTUzE1d0xHeFBRV2tzVk9kcDZKSm1sVEhjdk9YNm1uQVhsWlJjT01FbWlkZ3czTzUtTmtJb1VOTDlILVprUmNTbw?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Ex-presidente do Júri de Exames confirma que não deixou relatório porque não lhe foi pedido: \"Como é que decide sem informações do JNE?\" - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQRzdlcGpnQ3JEMno2X1RUOVdmZHppVi0tQkFELVFaRkV0M1BlbDI0cG9GQlN5eEtlYlc0WTNvM2Vqb25Cd0xEVG9mSEtreGI2UWoyNllhN1VWZHhEYloyXzg4SnMxSXVBc1ppbjdtbHdVQ3RQaWVjdkJMMTdOMTZGNG5URklRd0FXVDdYdUtoUW1vdzhiS19tLU9qdzBjcFNqVXd4dmpJWVRkSEVvYmZNU3Z5ZVZkeHU1SV8xQlZQTE5Xb0U2bVNiTkRrUThSUFVUUWVaVmVJd3hqcG5FTTFRX1JIa1ZBNVBhRWFCOHlESXBOSGNYZ3hEVFEwOFdTQkt1eUZrUmxQckxNWlA1b3hFdWFENGpZSXlidnQ3M1gxQ1ZKb3BVdHI0?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Médias nacionais dos exames da 1ª fase: descida a Português e Biologia, subida a Matemática - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVjhWY0FBdWhRRGxoN21QNHREc3dWRzh2VWFMSUJqS0hOTUZIUjFCUGZSQkdaUTc5anV1TjJoQjhDRUlqYWpJRGVPdGxTdzBLRXEySTM4QjFfU0RkeEV3QmVVcFdtcnlpTGVtM09xdUZKUXItUFhCMXFCcjZuOUQ4emlNXzhMMF9hSjk4ZVN3WGdoemtySUxpc0xVSm9iSDl3Q3NCbkh0QXE4OEVNY3JxU0NQcmdFRFdhUS1Qbk5fdy0tT0dtT1BuMVhGbHJzeFpDTTJER09rMmdkTVB4MjY1ZUpIRDNRY3JRLVBv?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Fernando Alexandre admite que \"Estado falhou\" nos exames: ministro e ex-presidente do JNE trocam acusações sobre teste-piloto - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOS2JUbXVWZjBkLXZDMzhOR05jT0hiQTIzTUpjUlViZWN6TkZaUU1yekVzVGFCNmQwc29LVktxR0hnVmw4bHgza2FCQTVVbW9JYXRoeTNZb01vWEc4UmN6ZnBkN1oydzQxT2lCVWRSOVNrUXh2eVc1RlhjbTA3ODB4Q1JScG9rZ1NtQTJTcm9WcWRZSEFuNFhUMHhURDFmaGZWb244VEpWUmZUU3dmWjNCcGJ6UTZtOVdaM2RHWHBaZC0wdWVLWllGTDJGeVMwLXF6OGdpLW1ZVW1VSVRWSFhFZmtIUG9iRTdlQ3dUZk5aM2luWGd6RnBmU25pNjl5Z0lwbnFz?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Presidente do EduQa: foram detetados “problemas informáticos inesperados” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbFM5MlhrNC1tSjBTYTNnbUFnaHRQb2JRcUVUNTNmY1VSMkJXOTFCUkV4S2ZHTno1S2dGS1owWGRIajNQZ1ZKUXhSZDB3THVqc0lnN1VyQmRIRDdsdmV3clc1aVpuUFdqTEtFVnJHWWJFNFVaWWVKVWVrOGlIUm9NZ005Q05nR3U3SkJISzdHdk5vMnJLdi00SXpSVk45bGpycGZBbGNnMzJsT3JkdHRwLVozcURGUVBULTRlUGdkVFEtX0h0bmlNRDd3amZRSFBUYkE4?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Mais de 60 mil alunos não receberam ainda a prova, ministro confia que “até ao final da semana” todos vão saber a sua nota - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYzAtMkZfR2dKVlhlbHQ2MFZLU0ZTTm12TGRWZWNlY0dFOHRVTTZVTWtYTE85UDJVSkcweUR5MzdMWmJmVVB0clFYREVsZGRySlhhRXQzS0hILTJEVVltaDMxZzhTbFRCSkZmMVRHSTg4MXNFMjlFbmNkbzdvQlgzbTZya2JwcGNxeGs5b1pzdm9IN1pqb0UyaTFvN2RYQ1RCdDBfcEUzenJ2NHNtbGlvSWZsRTZ1ZnRtZm8xMElOdERQejBNME9FRFQtRG5EWEJIX251UFlrSFRvV2gxV2VmZ1NaTmJURHRySVc3X0tMUjZ2WHhjVWFuQkQ3YU4?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Montenegro: exames fantasma e a falta de férias",
+          "link": "https://observador.pt/programas/e-o-vencedor-e/montenegro-exames-fantasma-e-a-falta-de-ferias/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Exames nacionais: Época especial entre 3 e 8 de setembro e aberta aos alunos elegíveis para 2.ª fase - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXMwb3lCT0JVM3JLVGhrem5fZEhTTVhNV1gzUGtvWDN5MXg2YnZEX293Y1JXaFRiY0JFbndJLV9aVWttSy1od3RMQUdxd2gtQU9MVjV1Q19qRXhSLU01RW1IMVdBVHlnb3NydVNFVnk3c0FrZ3R4RmxhTWx0cUxJUF9kSjM5MGRlZTR6dDRYQkVuTXpjbFNGYVBKWjNDSEFGai1RWjltQi12ZEN0OUIxdXJSWDhsU29FVzFvVXhRRFM?oc=5",
+          "outlet": "Diário de Notícias"
+        },
         {
           "date": "2026-07-21",
           "title": "Reitores disponíveis para adiar calendário de acesso ao Ensino Superior - Público",
@@ -3432,7 +3524,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "fifa",
@@ -3642,6 +3734,25 @@
       ],
       "firstSeen": "2026-07-18",
       "lastSeen": "2026-07-18"
+    },
+    {
+      "id": "fumo",
+      "label": "Fumo",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-22"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Espanha quer proibir menores de fumar e alarga veto geral às esplanadas - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVBobjRxWmZSY21GTDdTbUdEZk5WenJOUUhCM1VYbmEtVnhPeFlQZWtOTXZiVjZuVXY0OWZpZEhtd0tLczNJZi1mcjNiVHRpMWl0VjhBd25RcHBKTm92V3dVY016S1lEVDIxbU1sTjVTOGx5X25mYXhEdUxlOXJlVDR6UDZNVmFvM09KYTFUVG5GX3JJZ2d4QkpKMk1hWWFCVjFWR2VyVU52eHpEd08zMnotdFlMeTl6bUtZ?oc=5",
+          "outlet": "Público"
+        }
+      ],
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "futebol",
@@ -5108,9 +5219,46 @@
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ],
       "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Irão retalia contra Bahrein e Jordânia em décima noite de bombardeamentos norte-americanos - Público",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX3BxOUpPVHBUYXRwUnBMNWVsTlRYSWxObFNqeE5sRmJwTDc1OHk5aU54MnFpYnh0bXhWT3JET0pPLXdSTVZDVk80VHNmSnNPYllISjdRV2RHeXZST2tZYVlSR29BTzFPcGlXd2Z2UWZmQzBKTzIyV21xeGJmWWc0bVlKSjhGek5KLXdkWENEMndldnMzeEliZnhhY2U5RzRGNzVBdzdiZ05Sbk9ITGVLaU5TeTZYcGxXcTFGZjZ6UC1XV3UyRGVfRmhn?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "<![CDATA[ EUA atacam o Irão pela 11.ª noite consecutiva ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/eua-atacam-o-irao-pela-11-noite-consecutiva",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "EUA retomam ataques contra o Irão. Trump ameaça atacar instalação nuclear subterrânea",
+          "link": "https://www.rtp.pt/noticias/guerra-no-medio-oriente/eua-retomam-ataques-contra-o-irao-trump-ameaca-atacar-instalacao-nuclear-subterranea_n1755088",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Guerra com Irão já custou 37,5 mil milhões de dólares aos EUA. Pentágono pede mais verbas ao Congresso",
+          "link": "https://eco.sapo.pt/2026/07/22/guerra-com-irao-ja-custou-375-mil-milhoes-de-dolares-aos-eua-pentagono-pede-mais-verbas-ao-congresso/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "<![CDATA[ EUA atacam o Irão pela 11.ª noite consecutiva ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/eua-atacam-o-irao-pela-11-noite-consecutiva",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "<![CDATA[ Irão: Secretário da Defesa dos EUA estima que guerra custe 32,9 mil milhões de euros ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/irao-secretario-da-defesa-dos-eua-estima-que-guerra-custe-32-9-mil-milhoes-de-euros",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-21",
           "title": "EUA confirmam terceiro soldado morto e atacam Irão pela nona noite consecutiva - Público",
@@ -5719,7 +5867,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "irs",
@@ -6207,9 +6355,40 @@
       "occurrences": [
         "2026-07-16",
         "2026-07-17",
-        "2026-07-18"
+        "2026-07-18",
+        "2026-07-22"
       ],
       "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Luís Neves promete explicações. MP vai investigar se houve crime no caso do atrelado | Polícia Judiciária - Público",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQXzVib0pIUUNXYmVrS3NvbkRyNlNpSmJxbFR5TkJTNVU3TnJhVXpja0E2QkVHeGZHMzBmWTZtYzIycHA5VWRzbi14OFA1QklwTVl3S1VOQUlCOGpnUURZakZaakduQTdQX3hTVF92RC1LQW5NTnR0OVktNy1KUl9sb2tEM3F0QnZ4VnJOYkZ1MjdYY1pLZ01JbTdrbUw2d2p5eEV0UC14SDIwX0NXcU4xNmxOWFFTdlkxMzdRRkxzSjZRaGgtSHRF?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Caso Luís Neves: PJ encontrou indícios de abuso de poder e descaminho no caso do atrelado que estava à guarda de empreiteiro - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOajZfaXdxYVU5bzMxdUJoR3VndlpxbU5UUnFjWmJsT0ExTUxHMmxvN2dFM085MEp4VDNCeXd6b0M3cGl6UHVoR0hGamphLVZMVjFtb3ZMZWQzSjR4U18wSzlRbEFydm1QTnRSZ09jaGFFTkJtNWJXZlQxZTVVNy1heFhxLVpOWG9rZm41UHpPMWhaMjZoYm5IZ2padExycEt5am54S1NWU1N6VGx6T1dIVjJmRlNzY1d1dThJcUdhLWZMV1IwT2NMZEkwQi1JTlJaY1Q5YW03Nk5NeFBGMlVDV2tJZHZkdlh5NE9LMExNbE1QLWpFMFQwV1daeTYzb1N0c2JZ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "O caminho apertado de Luís Neves - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xSl9XOG45SzRkWnU0enk3bVU2bThlM05wRGxDdEdjUlBHcEptdUFOZThGcmNkZzZKYXZobUdiemh1dkp3QjI5LXJMTnBWYkI0cnl5RVc1OVNMOEt3UlZNdUdMWTd3QkltUzVLVw?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Luís Neves Gate: do atrelado de droga em casa do amigo à investigação da PJ",
+          "link": "https://eco.sapo.pt/2026/07/22/luis-neves-gate-do-atrelado-de-droga-em-casa-do-amigo-a-investigacao-da-pj/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "PJ fez 17 contratos de 2,2 milhões com empresa de amigo de Luís Neves",
+          "link": "https://jornaleconomico.sapo.pt/noticias/pj-fez-17-contratos-de-22-milhoes-com-empresa-de-amigo-de-luis-neves/",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-07-18",
           "title": "Amigo de Luís Neves guardou bidões com químicos para processar droga, apreendidos com o atrelado - Expresso",
@@ -6284,7 +6463,7 @@
         }
       ],
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-18"
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "medio-oriente",
@@ -7906,6 +8085,31 @@
       "lastSeen": "2026-07-08"
     },
     {
+      "id": "naufragio",
+      "label": "Naufrágio",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-22"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Pelo menos 53 mortos e dezenas de desaparecidos em naufrágio de ferry na Guiana - Público",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZjhMcWMxeXJtOS0wSHduZF8yckJ6TzRPcnV4WHJLTmdKWjRSN3FnVG1kSHlOYVhRV0oyc2xLcXIyc0FzV3h3cENOUDBmOWVfVkExR1FXSW1JWEg4T1F5dnRral9iQmlGRmVVbVBYcTRaZzJiS3AtMUF4RmF0R3ZFeUpnY2VMR3lrX1k3bTJUV3hoS0czMWdDUERxMTFOWF80TjFQRjNDVjhCSnY1VHBqeHBIbG1ncnc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "<![CDATA[ Sobe para 53 o número de mortos após naufrágio de barco com 177 pessoas em Guiana ]]>",
+          "link": "https://www.cmjornal.pt/mundo/detalhe/sobe-para-53-o-numero-de-mortos-apos-naufragio-de-barco-com-177-pessoas-em-guiana",
+          "outlet": "Correio da Manhã"
+        }
+      ],
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
       "id": "neonazis",
       "label": "Neonazis",
       "group": "press",
@@ -8745,6 +8949,91 @@
       ],
       "firstSeen": "2026-07-20",
       "lastSeen": "2026-07-20"
+    },
+    {
+      "id": "represas",
+      "label": "Represas",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-22"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Morreu Luís Represas, aos 69 anos - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdGlWV2xWTl9nWE1mMXhwU3J2WnhBVnpMZUlJQXBHcHlnUDNET0dXdmNrV1RGdko0VDlCUHZBNjlKQVM0eFhGeEJUclFJdFFvVUdhQXZoeGc5TmFNUWdiQkhSZFZSei1Sazc4YnJkaWNsQVprNWZWRUdXRE5Pc0xxMDA0YVY?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "\"Represas tem o dom de transformar palavras em luz\"",
+          "link": "https://observador.pt/programas/resposta-pronta/ricardo-ribeiro-represas-tem-o-dom-de-transformar-palavras-em-luz/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "José Cid: \"O Luís era um cantor excecional\"",
+          "link": "https://observador.pt/programas/resposta-pronta/jose-cid-o-luis-era-um-cantor-excecional-e-com-a-voz-muito-limpida/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "\"Foi um duro murro no estômago a morte de Luís Represas\"",
+          "link": "https://observador.pt/programas/resposta-pronta/ana-gomes-foi-um-duro-murro-no-estomago-a-morte-de-luis-represas/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Anabela: \"A voz de Luís Represas é única e insubstituível\"",
+          "link": "https://observador.pt/programas/resposta-pronta/a-voz-de-luis-represas-e-unica-e-insubstituivel/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "\"Trovante tiveram grandes momentos na Festa do Avante\"",
+          "link": "https://observador.pt/programas/resposta-pronta/trovante-tiveram-grandes-momentos-na-festa-do-avante/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "\"Luís transpirava a sua verdade e procurava beleza no mundo\"",
+          "link": "https://observador.pt/programas/resposta-pronta/luis-transpirava-a-sua-verdade-e-procurava-beleza-no-mundo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Simone: \"Vou levá-lo no meu coração até a vida me deixar\"",
+          "link": "https://observador.pt/programas/resposta-pronta/vou-leva-lo-no-meu-coracao-ate-a-vida-me-deixar/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "\"Canções do Represas fazem parte da nossa memória coletiva\"",
+          "link": "https://observador.pt/programas/resposta-pronta/cancoes-do-represas-fazem-parte-da-nossa-memoria-coletiva/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "\"Voz de Luís Represas é incomparável, única e diferente\"",
+          "link": "https://observador.pt/programas/resposta-pronta/voz-de-luis-represas-e-incomparavel-unica-e-diferente/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Morreu Luís Represas, aos 69 anos, uma das vozes mais marcantes da música portuguesa - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TdXJNYWFKbWxkUUJfWFY1cUZVdUNtTmRIOHBPdU1DdW1Bbkg3VTNQMXN5djRoYml0M2gzWUtzM1ZFeVdQaHZsLUF3cjVhcU4ycnExV3FMcWc4clBMTTdJOVdiNHY1OFpWcHhR?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "<![CDATA[ 'Timor': a música que Luís Represas cantava para despertar consciências ]]>",
+          "link": "https://www.cmjornal.pt/cultura/detalhe/timor-a-musica-que-luis-represas-cantava-para-despertar-consciencias",
+          "outlet": "Correio da Manhã"
+        }
+      ],
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "rock-in-rio",
@@ -9980,9 +10269,28 @@
         "2026-07-06",
         "2026-07-17",
         "2026-07-19",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-22"
       ],
       "articles": [
+        {
+          "date": "2026-07-22",
+          "title": "Zelensky demite o comandante das Forças Armadas da Ucrânia - Público",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2ZrcF9Sc2NrYnZyOHM4QUl5S21SNTJTdGdFUWJncmMwRnZIQWNtSWR3ZjhOUzkyQVlqa294NVNQLWdnRDNiMWVuNTdLSnl6UktqUUZNd2V5UXBlZ3dlaU1VdkJBaHAxZU5iN2hZX3o5Q0dsQnFsU2ZfTTdZbUxxQ3U3bmhxbjVLWFJWazY1MGk5dDRDSE5lTzhkSEc0UGpEWVA4OThUSFQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Cedendo ao apelo da rua, Zelensky nomeou novo comandante das forças armadas - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ3ZES3laYmRRakRiTFFmVGlrU2U1c3F3N0xnWjNBdlpReEJaY3Zwa1h3blZWVTVuem85QnFTNFp3cVNBZ2QycnpMdk9jNUFBM0lScVY0eFVQcnB5ME1zN013UkZpcE84dmNFeWR1dG5ucmtuUXhrVkdGbjU4Rk1HWFhOOWNvWGxYRUp3elJMa3NuZ3lmOTRtcWpEY2xGUU10N2lCU1hqOUx1OFpCUzdSZTlKMmNVOWk5NUw5RUhQZXNFcmk1cWpMWA?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-22",
+          "title": "Zelensky nomeia Ihor Skybiuk como chefe do Estado-Maior da Ucrânia",
+          "link": "https://www.rtp.pt/noticias/mundo/zelensky-nomeia-ihor-skybiuk-como-chefe-do-estado-maior-da-ucrania_n1755103",
+          "outlet": "RTP Notícias"
+        },
         {
           "date": "2026-07-20",
           "title": "<![CDATA[ Kiev reivindica novos ataques de longo alcance em Moscovo ]]>",
@@ -10219,7 +10527,7 @@
         }
       ],
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-22"
     },
     {
       "id": "venezuela",

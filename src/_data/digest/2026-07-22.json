@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-22",
+  "meta": {
+    "generatedAt": "2026-07-22T10:31:51.517Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "represas",
+        "label": "Represas"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "ucrania",
+        "label": "Ucrânia"
+      },
+      {
+        "id": "luis-neves",
+        "label": "Luís Neves"
+      },
+      {
+        "id": "almada",
+        "label": "Almada"
+      },
+      {
+        "id": "fumo",
+        "label": "Fumo"
+      },
+      {
+        "id": "naufragio",
+        "label": "Naufrágio"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público noticia a morte de Luís Represas, o atraso nas notas dos exames nacionais e os bombardeamentos dos EUA ao Irão."
+      },
+      {
+        "name": "Expresso",
+        "summary": "O Expresso destaca a morte de Luís Represas, a polémica dos exames e as investigações ao ministro Luís Neves."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador reporta a morte de Luís Represas, o arranque das candidaturas ao ensino superior e os lucros do Santander."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "DN dá conta da morte de Luís Represas, da época especial de exames e do caso Luís Neves."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "JN cobre o caos nos exames nacionais, a morte de Luís Represas e um homicídio no Porto."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "CM foca a morte de Luís Represas, os ataques ao Irão e o naufrágio na Guiana."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP Notícias informa sobre a morte de Luís Represas, a nomeação do novo comandante ucraniano e a época especial de exames."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC Notícias aborda a crise nos exames, a morte de Luís Represas e a proibição de fumar em Espanha."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF centra-se nos problemas nos exames nacionais e na morte de Luís Represas."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Jornal de Negócios destaca os lucros da Iberdrola e do Santander, o novo aeroporto e a morte de Luís Represas."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto reporta a morte de Luís Represas, os erros nos exames e os ataques ao Irão."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO dá ênfase à guerra no Médio Oriente, ao caso Luís Neves e ao projeto do novo aeroporto."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Jornal Económico foca o caso Luís Neves, a subida dos combustíveis e o crédito à habitação."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol publica sobre a morte de Luís Represas, o sismo em Évora e o arranque das candidaturas ao ensino superior."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado destaca a morte de Luís Represas, os ataques ao Irão e a moção de censura em Almada."
+      }
+    ]
+  }
+}
