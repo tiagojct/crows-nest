@@ -185,6 +185,49 @@
       "lastSeen": "2026-06-27"
     },
     {
+      "id": "aeroporto",
+      "label": "Aeroporto",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-23"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Novo aeroporto custará até 8,9 mil milhões e ficará a 20 minutos de Lisboa - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUzliYXFuR05NV2NhVUlSUk9tRTFCUXJ2V3g3Yk16d1RIbDdtdGY0bHdkSS1OalVFbkt5Qk9RbzNUZjJvRnNhUFU2bGkxcmxIdEo0bG1UVE8xc3pEeVEzbVZJNk4wUTJvVDRfX0xTajM0OFZvdEFycU1XRkxzNEFaN1dhLTVHcElBUkIzYU5HSGdTMnN6TUNMNlJWaVhvWlBlNXQ2OVFVTVFuYnhJS3dLOUpTblFBeDd2SHNEU3lEYi01QmNaYkNNcFFnMHdkUE0?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Nova estimativa sobre preço do Aeroporto é realista?",
+          "link": "https://observador.pt/programas/explicador/nova-estimativa-sobre-preco-do-aeroporto-e-realista/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Aeroporto Luís de Camões custará entre 7,9 e 8,9 mil milhões de euros - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSmtPbXZlLXB4NWg2V0t1MEpIemtIRTdlZ20yNzAxQk5UczBlRE8wSld2NGVGX01NbWtvdDVWX1RteWs3SE9UdWZIeW92TTFpdkppcDlQWG1pSkFESXpsMUpsX0JwYzBON21BMllMRjBYc3pHRzExNmJGTkN4LVZsQ2tPdENrTEpMUmdoUXRfN3QyTmI3dXZodWh5RkowQVFsaTdVNWE2ZkxNZ1JsdW93N2xJSWpjaUlZS2hr?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Governo abandona 2034 e traça nova data de abertura para novo aeroporto - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVkI2R0M5NnZYSGoyUDl6NmlqYk1MOWpkbU9WaFc5RkR1NWpwc2liZTdGXzl1eUNZbFBLSm1JNEVhTU45YXdOeUQtUS1OTTAzc2dmMHdTYldKRDdpTU5rMXk0b0tCWHFJeG1VdUozZ0o1MU1XZWZkbnBrbUdLUm9oVVpQUnpvRFRnWkxEZGhnVDRQMGpwX2VGRjNHVTlMaWxOTEQtMU5WemtzbG5xMV9HWVJwS0hod0JiWFBzdjk5VUtuYlRHOU5FRFZoNkhRbGRHcXc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Novo aeroporto ficará a 20 minutos do centro de Lisboa por ferrovia - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2ZyLVlZZ3lPOEVNaE54WU9JRmZ0N0tnTzREcnE0Wkk2bnBxb01BTU5NWjJFNnRqUzkzZ05pOVZCSUNjbW4ya3ZsVkJGbW45alBwZUt4NTgxNjlEekhtZXBpbHNfVUdUMlJ4eHlCWVB3RXlUdFluLW4wRTNkZXlycjlXY1BKX3NDbG5NeU9zZWgzS3dRUHh3enBySWtldnJkVG9OTjFuWDNXYVFYenI0bHpFV2FEamZsNEVBazZOZGUtbWdyeUtrNzg4cw?oc=5",
+          "outlet": "SIC Notícias"
+        }
+      ],
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    {
       "id": "afd",
       "label": "AfD",
       "group": "press",
@@ -2625,9 +2668,58 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ],
       "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Exame da 2.ª fase de Matemática A: veja aqui a prova e os critérios de correcção - Público",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjAtcEctNy1UYmRfUGZQT2ZPTTVaXzJkVnBrbHUzNXpZTzVXSUVxa1NxWm56N1VIZy1zaGZneUVWWW5zNWtZS2JQNWRUajFUekRXSVhIWDdQNTdDcjVpM1pwRlpKaVprSTNpVUQ0OVg4UTc2WlVXOHVKRHRjem10MVR4Yk9HVF9QcVcxWnlabjA3Wm1ad3RPeFItMElnSnhvVWVzMF9mMGpUaVhhVXpBaVVOd3J2aWQtcXBN?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Exame da 2.ª fase de MACS: veja aqui a prova e os critérios de correcção - Público",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR1ZySGVwR0ZFMlY3eE9YaHNNUEtpN0M4N3ZKa2h3cWJkeFhkeFlfRl9YMGFDaG5Jd3JyZGtEcVZ5REFmR1Q5S0x5WTVHNmdyV0ROOTVibFFId0dGZkRZZUlSNzgtMnBhd2pzMHluSGdqRThNb2NUal9YdFJ4YTlUMFpkMmd6Z3hyN1FnTnc4ckNLYnNXWG83S0QtamtWZmhaYkhXck9zRFlmbU9rekg1Nzk4bw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Detetados novos erros nos exames. Mais de cinco mil classificações subiram - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXh4c2dLVnVfNUhCLVZCLW9SRXRJcGlhYmZ6dWJKaHM5X0tSYzQ3VGtSVlZiNVJTWENER0wySDdaTG9LSzBLWV9uVks2eTdxQ2Q0cFNuN3hBc3Q4b1pSYUw2WmlGRS1HdTdBSGhnbUlhR19WRUZYRmc0aHU2MmVhUGYwWmI4NGtfQnFRT0tteHI5RzdBVmxxOWVNMGFkSVhTTWQ1YlNMNA?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "EduQA assume falha no caso de aluna que ficou sem nota em três exames e está a resolver com “a maior urgência” - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNejJsU2R3YmlGSDZrYWMzb3hrblVOTF9TcEFzMjBRbjc4bmlzOFN0YVJPM1EyRlZoeW9zTVgwanF3Q0xpZ2h2NEFZSVhURVVDMmk4eldLQzVkTWkyQWt5LWVsQ0pvdk5aYk1yaDFSUTdRNFl6XzkxZ1lyYW8yS2FYQXJ4Tk5WVzNvaks5Um0tZnEzVm90cFhLTDFJUFZtdnlPczdBcFgybTVnLVU3RkpOV3ZBb0RfR0otQmpfUkhqYVFCRDBOb2lOWVliWWhOejdJd1ZCM01fWlR4ek15Sm1CQk1zUm80ekRpRTRSMFo4czUxeWZTNURBcg?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Exames: alunos não poderão reprovar na sequência da correção de erros de classificação - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYWU3Y1p4bnVESS16T3I4TnR5Ni1qU0daSDRoNGJDSmRxWFJsSzlMemRIS3l6SGNRaWpXRllMUUs5YUVjZ1I0QXlNS0lZVll1cGFVajhBUGM2cDY3eks3endraDBaZ3NaWHBEdlYySHFxRm1XTFNHY3RZcGZ1b21sVW51US13VDBLdlp0bV9QQjBZZmpUdEpNVTdNZm1xemRyLUNYaVUtcmh5aEktX0NsYnduSkl0czNWOUY5SVNhWEZ1R2JCX0VHc3hNWHhidGZsQWdaODUwb3RUQQ?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Júri nacional de exames reclassifica mais de seis mil provas após erros em quatro disciplinas - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLXNUX3U4bUpmLVFYVEFXazlFM19RZzh6UUFhVTFBdjNMOHZWZ2xpdHl5U2E2THFCUkJvZ0dQWG5ubVlpRkdycGRWTUhkSTZnMDlfTkhEZVlJcFB0QXBTTTg2bjZ4X2V1SV9tUXFIbmFrM0NEdGJwUGVqWHZVR082OWxyRlFIRTlEZFEyekl6Qk5lV1I2VExtX0VQZ05tTm4yY2lXZDJCZFRaT1E0b21WOXNqMUM2aGFBUVRLRVAtVU9UT3A5SGFsRTZ5MVRMU0NrTDJnR3RSM2NwOXhQOWhwTUNmSFc?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Exames Nacionais: Correção não poderá fixar notas inferiores a 9,5 valores",
+          "link": "https://sol.iol.pt/sociedade/noticias/exames-nacionais-correcao-nao-podera-fixar-notas-inferiores-a-9-5-valores/20260722/6a6112110cf2f6a1a1e71ae4",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "\"Ministro da Educação tomou decisões com ligeireza\"",
+          "link": "https://observador.pt/programas/comissao-de-inquerito/ministro-da-educacao-tomou-decisoes-com-ligeireza/",
+          "outlet": "Observador"
+        },
         {
           "date": "2026-07-22",
           "title": "Já saíram as médias nacionais dos exames: notas de Português e Biologia descem, Matemática sobe - Público",
@@ -3524,7 +3616,7 @@
         }
       ],
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "fifa",
@@ -4324,9 +4416,82 @@
         "2026-07-14",
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-23"
       ],
       "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Incêndios lavram em Toledo. Mais de 10 mil pessoas retiradas perto de Bordéus - Público",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWdCc0hvaXBOTUgwdVVnajV2dzRpZDY4RWxWekpNYWlGYU0xUkZ5NWNGdHh1T3R2YV9sbm5kelcxYTBpc1Vud3Bvb3VQWHNvNFhQYms3VVQzdWZUQWcxXzVNVmNhUklSUFlQVmo1QTdhNDJsM2thQVVTQXprNVBSaFRPZUwyMkNWS0o3bXBTNXZ0QTZPVy0yVlRNaVNGeGdJUWdIdEhZanJVWlBnZTRkVG9tVGJiMUpTRlRBVUEzNUZ0NnBweHE4WHVLZ1hRdFhMN01wUWVSSQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Incêndio em Alijó mobiliza mais de 600 operacionais e obriga ao corte do IC5 - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMURDMnVwNHhPWWxHVHIxUTBOd0NYUkdmN3h3Q2NKMTIyZFZYVHNNWW56cEhVTFFzTkYtWURObVJ5SmRTU1hTZmxNMzlRVUJ2TW93Ui1JZ2ZLSU1scTZMVjgzTkVwZno3czB1NzNKdk9iT1J5YXRtc25uTG1WT1NMN0pXU2d0UWxieERuQUgtX0tLMXRkemZkeHRXS3JLZklDdms0QzBLTGJhNl82SUQxRzY1R05mT2JXX1B0RU0yOW9iVnVV?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Chamas em Alijó mobilizaram mais de 500 operacionais durante a noite - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGtkR1FRdF9odl9Ycmg1aEhIbUd5QklReUF1N1FGcFl0Y0tuaEczZ2hyWXBpVk44SzM0VWtLQzdiTm9aRGNPc3N1dzBCZ1dEcWlqRTlTS0tQX090OGlPNC0zMnZzNlR1RXhQTGctZzN0WjROSFM5ekdQSUVHX2FIbmJJV3hwc29rd3lQMTFDMjZmTkVUU3RUX0NMejB0aXBvazQ5aUNLYlVUQmY5N2U0RUtpUzNjVDNBSHc?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Dominado fogo no concelho de Alijó - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOOXZiaDBLMTkwS0puUW80UjEwdHBSNGt4eUZnZHhYM1NXTUZscmgySmZEeGNRTWphNW1JdlVXMjczc0gwWExUaUswc3hlX2hpN054WXJ2QjlWY2djNkZXcHU1VEhBMEZrTlVqQ3pkLXFJVmViMFhoZDI1dUNKRk1UZTU0LW5keHlJeTRPaE1GWEN4djBINVZ3cTIxX3dISkhTenlfZlBCOWpWTm9NOW0xYUx6UEs1bjVzblo5cXlpVEk4U1NrVWMxUVZEZ3FSVktiZnpwbUdST3dLd0RPMTc1Z1FUc0R2VXRRcmtnOUdldzhSSDFVOEM3TUdHSnp0dUN5d01rcF84THExNHNVWDRNVmd0TmQzVnlhLWwyRTktZ3RQNEt2U2c4QVdielNZV1FPVnpJZUdPZkJaY3MzS0h2TQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Meia centena de concelhos em perigo máximo",
+          "link": "https://observador.pt/2026/07/23/cerca-de-50-concelhos-de-nove-distritos-em-perigo-maximo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Incêndio em França obriga à retirada de mais de 10 mil pessoas - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUhsX1JtSGhsV19uNndHOWRGNlZjR1ptUFp5UUpheHVqRkctREQxUEdTMEdOSmhDcjBJQUpfaTVYaEw5UzJVVDJ3Mi0tYXhXSlRzWFpmSDJ5djJZVHFCTDE1Ym5WZEcyS1MwMlpoZ0R0WnJzWGFUWGszUVEwdGRIN2FXckZFTmJjZDFZbWZ5WnZ0OVZx?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Espanha. Bombeiros conseguem controlar incêndios",
+          "link": "https://www.rtp.pt/noticias/mundo/espanha-bombeiros-conseguem-controlar-incendios_n1755333",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Incêndio em Gondomar reacendeu",
+          "link": "https://www.rtp.pt/noticias/pais/incendio-em-gondomar-reacendeu_n1755331",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Incêndio em Mafra mobiliza 113 operacionais e sete aeronaves - TSF",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdWxyM1AyQWMyc2tKZDZiV0FvRTFrNXV0M1k3c21renJTQ2lsRWFhanFqX0lhUHlFUXZZWDhkS2UxMGo5Qm42OEVWNVhfWFY2U3pOS0hNMTNoMGZMR3l4TVI0YVhYQVpaa014WElDZm5LLTd5eG82UDNNMWJPV05OR2ZGeVM1eWhuRW9ZRklUbmx2UDFJcVM3NUNRelFtUnhlQ2lVTkdtSV8?oc=5",
+          "outlet": "TSF"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Nove distritos sob alerta. Há cerca de 50 concelhos em perigo máximo de incêndio",
+          "link": "https://sol.iol.pt/sociedade/noticias/nove-distritos-sob-alerta-ha-cerca-de-50-concelhos-em-perigo-maximo-de-incendio/20260723/6a61c4ff0cf2b42132dbb899",
+          "outlet": "Sol"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "<![CDATA[ Vídeo mostra incêndio próximo de habitações na região de Madrid  ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/video-mostra-incendio-proximo-de-habitacoes-na-regiao-de-madrid",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "<![CDATA[ Pedro Sánchez visita frente de fogo que já consumiu mais de 32 mil hectares em Espanha ]]>",
+          "link": "https://www.sabado.pt/video/detalhe/pedro-sanchez-visita-frente-de-fogo-que-ja-consumiu-mais-de-32-mil-hectares-em-espanha",
+          "outlet": "Sábado"
+        },
         {
           "date": "2026-07-19",
           "title": "Dominado incêndio florestal em Ovar - Público",
@@ -5025,7 +5190,7 @@
         }
       ],
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "inflacao",
@@ -5149,9 +5314,40 @@
       "group": "press",
       "aliases": [],
       "occurrences": [
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-23"
       ],
       "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Inteligência artificial da OpenAI escapa a testes de segurança e ataca base de dados da Hugging Face - Público",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWHVCeTJubXlqT3NXLW5uLWIyY0U2Ul9vNXpha0NyNzVKN1UtMHpZaWFtXzhyTFpCNnZLTkdnZXNObU9qTl9LQkRpVzRHdzNKbWZvd2dTRFNXQVFqRmljYzAxdVhXZjhDNk53LVljR1o2REJxQlpxbDBnbFF6WGVHU2hTVVRhZXQ3WFpmd0o1S25UV25tdDBaWVJSZURueDljSDdQRmZxczJoUEppNjRkeWE3VUhYMXB1aWtpQkUxb1E0RTB5cXIxbFRZNWIwemg5d3lFUGc3WQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "PS acusa Governo de ter promovido plataforma de IA “Amália” sem fiabilidade - Público",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVUZWSUd6dmU0ampxU0ZBaWExTW5tMkdOQ2diLWVSR1lHU3VHbk4zblVDWVppV3RudzdmdjFnTHEydTlDREpPMkVEU2pERklqRXVzZkxxV2d5Q3RfbXg0OUtIMHdTaGw4dTdvLWhUVGsySnlnZXFpaVNzUnF0NUt3NEVZYVlFM0NjS3B5SG1CQ3Q3STJ3V01tRUxvTWkyZEtRYXdYUnN5RDRWakVqZ3luVWh2U3VELVVlNWc?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "AMD vai investir 4,4 mil milhões na Anthropic em acordo que inclui encomendas de processadores para IA - Dinheiro Vivo",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV3FsZWh2R1k1S2NzMFNsYWpFbzRWajc1Q1d2LVRMREh3SGQtUEhBSjB4Wk0yem1BbERjZUZBZUcweWc5bUNYYy1tYkl4MXNldWx5eDhIdzN5YjlDMmVESGV4T2VHcjhWNElKMnRGYXNOZ3NhU21sQmdSNWZnd3JGcEFxYVhFeXBNV2hXRkw1UEI1Qnk2eDJHZDh2cHI1NnJ6UkZPZk5Vd24yb1Y0OVZZV3Y5bk9VSVY4R2Q1RmF0T1RjUFlONWowOEdmTzAwVGY5?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Empresa hackeada por modelos da OpenAI vê incidente como um \"alerta\"",
+          "link": "https://www.rtp.pt/noticias/mundo/empresa-hackeada-por-modelos-da-openai-ve-incidente-como-um-alerta_n1755324",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "China volta a licenciar robotáxis após revisão de segurança",
+          "link": "https://observador.pt/2026/07/23/china-retoma-licencas-para-robotaxis-apos-incidente-em-wuhan/",
+          "outlet": "Observador"
+        },
         {
           "date": "2026-07-17",
           "title": "Um professor universitário suspeitou da utilização de IA num teste e decidiu contra-atacar - Público",
@@ -5166,7 +5362,7 @@
         }
       ],
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "internacional",
@@ -5220,9 +5416,52 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ],
       "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "UNESCO declara antiga cidade grega na Crimeia como Património Mundial em Perigo - Público",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaWk1MWRVSkxlSTlyYWZTNFdwVEhScDVLSFg4RkFoTzRWUEJkME5lMXg0NzNYNk5qcHZLbWFXQ2ZtSEhhZmF0QXZSRGg1bWc5TjBvWlJVSkVjX1hTLXh1VWdXYm4zYWZHMFUtbHg1NWhKTlM5bkdvSzhrT2RtRXVuV0R6WHZPRTVJaFBEekE4NkZMdEpLQjJZTXZ0RGIxYUNYVWc0Q3ZHWmc0R2N4MmxTY3BiSVpnVFlPUUtsNU9YWElRNmtoOWM5eDJkaG44Zw?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Arábia Saudita assina acordo com EUA para lançar programa nuclear civil e enriquecer urânio - Público",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR3lEbWJRSnRpRXJMVXV5ckU0cVBjRUlIZ2M2U01TZi1kNFY1YWxsMGltdXI3anFVRHhSTWRON2ZPa3Z1TnRFMkg4UUVILXc1U1AwRzBIX0d0a2gzczlhOTl0OFhiUlRxZ1d0Smw2aE4tZUgtc2N4eW5ETWxmU0o5N09BZ3hCWDNCX3ViYUdnRkt3bmlIeXlHM3BwNkV1N0NGUktjbmJoUzN1LWNkaW5wbzZEVjFIR0xHN1NLNjNjOE0zQ3lVYW5JaGVIODc4RHhfY0E?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Trump afirma que o Irão \"vai pagar generosamente\" e reconhece impacto do conflito nos preços dos combustíveis - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNanh3NkRQUElJcXlxb3FMTDVMdm96VmtTNk10Ym95aC1UTkhSa1hwX0w3TTI5ZUUzYlZRUWtJaVhyNkxqVUpTc1dhdjdwUEdqSHNaTWR2M1poVjlqcnBMYzI4OVhLSHY1WmNESUkxbl9JVzBCNjE5YXZwRGhpamVSZDFNSDU1U3JKZmZMX2V3NzZiVlBiSVBWRTVfYmFXRHllbDNzVERMaVpEME15MTN6a3VxejdrMV9XOHZzTndDdDBOajJSYTQwTjc4TllzaVBRUnc?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "<![CDATA[ EUA atacam o Irão pela 12.ª noite consecutiva ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/videos/detalhe/eua-atacam-o-irao-pela-12-noite-consecutiva",
+          "outlet": "Correio da Manhã"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Barril do Brent dispara e vale mais de 98 dólares",
+          "link": "https://www.rtp.pt/noticias/economia/barril-do-brent-dispara-e-vale-mais-de-98-dolares_n1755337",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Nova frente no conflito. Houthis reivindicam ataques no Mar Vermelho",
+          "link": "https://www.rtp.pt/noticias/mundo/nova-frente-no-conflito-houthis-reivindicam-ataques-no-mar-vermelho_n1755317",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Irão “estará pronto muito em breve” para acordo nuclear que trave conflito",
+          "link": "https://eco.sapo.pt/2026/07/23/irao-estara-pronto-muito-em-breve-para-acordo-nuclear-que-trave-conflito/",
+          "outlet": "ECO"
+        },
         {
           "date": "2026-07-22",
           "title": "Irão retalia contra Bahrein e Jordânia em décima noite de bombardeamentos norte-americanos - Público",
@@ -5867,7 +6106,7 @@
         }
       ],
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "irs",
@@ -6464,6 +6703,91 @@
       ],
       "firstSeen": "2026-07-16",
       "lastSeen": "2026-07-22"
+    },
+    {
+      "id": "luis-represas",
+      "label": "Luís Represas",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-23"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Morreu Luís Represas, a voz do Trovante, cantor de Feiticeira ou Timor - Público",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2I0SHZ3YTB6MXJUOHZUa2FFcUtaakxUR3dfSGpPTlNUdDZ0YVVCZ08wTWNaOXlCNTlwWi03VlNHRVpxbmhuX2JOQTVlQUl5b2dseDJ6YldUT21rTXdyVXM2UkNzT3ZXSy1NNkhXRUl6YVlJRFZnWU1rVGRUNmxFWkdBcV9OSTNWdldmUEJ4dmkzV2lhdmw1UV9BYndjZmFmRVJvaWhtRzFhWktlX01OMlBlOTVoTngxVWh2Q3BfWQ?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Luís Represas, para sempre em Boa Hora | Comentário - Público",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSmRPRWptSWNoWVA1Rkp0dDVXbjdITXF4S1RtdGJBN2d2NjVYSFBkdHNyRDI0Vl9JT3pUY0FhcXdQZ1JpTzhJSTBkazl1UHVGWjBVcElQTGtHYzNudUpzSUFxSUp5UE5Xa0FSY1Q3bXlObzI5LUs3c3JSTnhZMThMeF82bDFTWkszMHZQTFp5bjVILXZX?oc=5",
+          "outlet": "Público"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Luís Represas (1956-2026): “Gostava que as minhas canções continuassem a ser ouvidas daqui a 100 anos” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPSlVXV2tXRC1BT0tzcVh6ZUNtWnVmcEZCQTluYUJEN0dCMTFpNmtvZGVGUXNVb1dOWUw3U3lJajdnZjN6ZExxeHZvM2RhY181SEtXbE9YXzNDSkxEaC1uN0tOY3J2MHZsLWtaSW1WZG5VNkFxdTJ3TnZBN0NUV1BXVjhTd1BGZEtaVFBHMW5STFBTZTdtVDlBVlZ2MzEwTVVMSVpPeFNqNU9BYXZXem9Qd1huV1V2b2Fhamo1ZUp2RzA5cTlLc0NjbGdvejlHc29iNng0WFFWS2NWYWpnOWtQenJUX2NOUEVWZzM1cmc2dXRfRFFPMlhZMGljRTRqRVk1LVRiY1haYTJkbkNRcGhXdl81RnVDZlRUYjE3RG9aQlBjcmdMVVBiRjFjNzZxLTloek9rVWdkeFpJRGxnUHRLZlVaR1lwLUtWMzJmTE82SW9MSEVUQmpDTno4Q3BSbEp5MW9yeUx0TU9oNUZUSmVSSFJNZXRoNHJuc3JqNUxiMnhLLUdDb3NCa2EwNUFQcTJLT19RdHpyS2x3bXZvbzhPS0FXd0YzeFBBZm55T0EwZ3JOWWRKc1N3WFFtSnZqV2FZ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Pedro Abrunhosa sobre Luís Represas: “A morte não devia levar os que cantam o poema mais difícil, o da dignidade humana” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQX29kNVZ2a09MZGFWc0dKRk9hYmNrdFJWSGh4cHdvMHFWbTNNX0JReUU2dVVGLWl2dDdqb2VMMzJWSUs0YVFXZXNockRhZXBFSTlFNUk0dkJWbVNHUV9Yd21qSE93MWN0cDhReGU3ME12U1JmTkhwQ2lJOUx3bjVaNk9tSWpMX1AyVU40VTZHZE9IdkpVSnloU2RSSzNsMnhzOEYwU1RtNWN5MHJzZ09zQUl6bHFKbnVUcU1SZzVPSE1yYnU4bF9IQnQteEpOVkNFc1FoTVdfenJsWV84UDBrMkpFTEFZR25NWTVhbGcxQ0VtMTVrcGEtUzZVbzFSOFdm?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Luís Represas (1956-2026): “Nos Trovante tínhamos curiosidade de saber o que tocava o tipo do Camboja, o da Geórgia soviética ou o chileno” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNa2hVekIzdHAxZGdJY0xiUlNpWS1MeGVpTGNCTzAwTFl5R2RqYkVpVGxRM0pRTlluMC01eWZWTm5FbTdwVlpFOHc4MndJUGJRQW1FaEZVbHhuWnBGaldpZDdENEZZeDhjVUJRbUtTQ3lfYjQ1RVc0Zi1iV0FrRDlrQnV5bzZ2eUZhZnUtTzFnUEF6SDNjNWRwMXB4ZnFfVFBrMWFhRmJxczZnTElRVEtobUdlZ21jUWdoLTZqeW85RHEzU3k5eWpoMVFBeEg3U1NtM0pOZjhtMmUtMHcwVEtxWldxSkRpYlU1a2VYcndEQ3FOSE10V0cxZlhIMWJUR2I2dGgxOVdZVHpVVXk2TVp5STR1a3BCNUIyYkVKTE5R?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Sérgio Godinho recorda Luís Represas: “Hoje, de repente, tenho uma grande saudade do Luís” - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOU2NPajBLZFAyNmx5SmNUcHFGU2xUM0g0Zl9JVkptbEVzQjQxYjB4NkY0bXJLSV85dmxSZmJFd0FDRTB3enRkcXpxN2RsOWpyN21QX3VRak9TODJNWjZKcmc5dDduQlIyemVGRm9XVXB6RkVyb3BrN1lNR3FESGh2UTZSYk83bXJBOXBFaXA5dFNSQ2VQelUxa1UxYzBQcnJ3anFnbXJKd1NvbEZ4V01yZDJWZGxWNWRJZjAyWVhDbjM5dTg3VzU1YnFadllGd19xejFZWm5GUQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "“Até sempre, meu camarada”: João Gil despede-se de Luís Represas - Expresso",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS2FEeTRDbmNJYVBsY2VBbVBjQ1l1cFRzOW8wSFJHR1VhXzdha1U2RXV2bm5vbXNKbTJKRUpzdmJETXBLNDhYVnQ2cWlmSmRCU1UzZkhDTEpORnJjR1JiWEFaRFQ4algza3pxMmtkYk1vRUZncDduQTZvQUp4VE54ckMydWpzMGRzYmpWQThqa1NseGZYZjBSdkJhUE8teVdfbEpDd3B2UUo3Zk1mME1HRTFvUDh0QQ?oc=5",
+          "outlet": "Expresso"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Luís Represas: \"A palavra não é uma bengala da música\" - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzNYcWpDcFJDOWV3QjBHaUJRNzdWSXBrV1I2a0d3Y2NrcmV1TGt3dkhYVTk4UkNkY0UzLTFKM0l6QW5Ibng2VDRNZ1daemFvOEUwY3BGbC1McWNvUlBXTG5sTEpuSUlIdm8yZEo3OGg2MXc3bVNiVkJIWTRhNHBlYTdMNXVENTM4TlI1aUhxTF9OMjI5bGI0cw?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Nuno Represas - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4V2FiLVc5c2drZ1dtT1dnTDR5c1NaeHBGOWtYTnF3Rm5SY0NqR2xjUHZyWTZsalpQRlItMVFaTF9tcnpTajdFenNOZVBUZWM?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "A morte de Luís Represas e outros temas em 60 segundos - Jornal de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaVJ5OHZfcXJ5bDlGa3pIeE10T0hIaE5pd3JXVzRDdHlVMzROY1R4MjRSa3hDQ0Fsd2tMT2NJbXZUVHh5TzdxcmI4N0xjZHpFSTk2aURDM1NfZkp3eWRwcmRqajlLeWVUZUM3bjhyR29HRVB1MGRneWw4MUd3azhCRnpDSHMwQ3ctOFFtZ3h3?oc=5",
+          "outlet": "Jornal de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Já se sabe quando são as cerimónias fúnebres de Luís Represas - SIC Notícias",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdENKN1FUN1ByM0ZVVWFfdGVKdzhBV2wyaDNPRFpBa1U4Q2VseEpXVVVIaUNvbW1fSnFfNzM1bUROZXdFak1wbEFPSUFUUm9DUEZQeU0zRTd4Z3ppWWFxa2IybFhYMWVTelhxaDllRE9aZlNZQS1ENi03WFJuNG9VaFVnVS1rY3NpSzZzWFRaZnl2ZXBVV1Exei1EVFJ0eEFvdnFRaWtSdU8xekVWSzd0WDJ1WjJLdzJrMTRhbkltRWl0YjgzRVFqSTFPTkExR08zUEE?oc=5",
+          "outlet": "SIC Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "<![CDATA[ Painel do 'Noite das Estrelas' recorda o momento em que conheceu Luís Represas ]]>",
+          "link": "https://www.cmjornal.pt/cmtv/programas/entretenimento/noite-das-estrelas/detalhe/painel-do-noite-das-estrelas-recorda-o-momento-em-que-conheceu-luis-represas",
+          "outlet": "Correio da Manhã"
+        }
+      ],
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "medio-oriente",
@@ -8300,9 +8624,58 @@
       "aliases": [],
       "occurrences": [
         "2026-07-08",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-23"
       ],
       "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Lucros da TotalEnergies duplicam para 4,8 mil milhões",
+          "link": "https://observador.pt/2026/07/23/lucros-da-totalenergies-duplicam-para-48-mil-milhoes-de-euros-no-2-o-trimestre/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Repsol triplica lucros para 2.201 milhões de euros até junho",
+          "link": "https://observador.pt/2026/07/23/lucros-da-repsol-mais-do-que-triplicam-para-2-201-milhoes-ate-junho-com-subida-dos-precos-do-petroleo/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Barril do Brent dispara e vale mais de 98 dólares",
+          "link": "https://www.rtp.pt/noticias/economia/barril-do-brent-dispara-e-vale-mais-de-98-dolares_n1755337",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Lucros da TotalEnergies duplicam para 4,8 mil milhões de euros no 2.º trimestre",
+          "link": "https://www.rtp.pt/noticias/economia/lucros-da-totalenergies-duplicam-para-48-mil-milhoes-de-euros-no-2o-trimestre_n1755313",
+          "outlet": "RTP Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Lucro da TotalEnergies dispara 73% para 11,2 mil milhões de euros até junho",
+          "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/lucro-da-totalenergies-dispara-73-para-11-2-mil-milhoes-de-euros-ate-junho",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Lucros da Repsol dispararam 265% até junho à boleia da subida do petróleo",
+          "link": "https://www.jornaldenegocios.pt/empresas/energia/detalhe/lucros-da-repsol-dispararam-265-ate-junho-a-boleia-da-subida-do-petroleo",
+          "outlet": "Jornal de Negócios"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Subida dos preços do petróleo mais do que triplica lucros da Repsol",
+          "link": "https://eco.sapo.pt/2026/07/23/subida-dos-precos-do-petroleo-mais-do-que-triplica-lucros-da-repsol/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Petróleo: preço do barril do Brent dispara e já vale mais de 98 dólares",
+          "link": "https://jornaleconomico.sapo.pt/noticias/petroleo-preco-do-barril-do-brent-dispara-e-ja-vale-mais-de-98-dolares/",
+          "outlet": "Jornal Económico"
+        },
         {
           "date": "2026-07-14",
           "title": "Preço do petróleo sobe mais 4% com escalada militar no Médio Oriente - Público",
@@ -8341,7 +8714,7 @@
         }
       ],
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "politica",
@@ -9182,6 +9555,49 @@
       ],
       "firstSeen": "2026-07-20",
       "lastSeen": "2026-07-21"
+    },
+    {
+      "id": "sancoes",
+      "label": "Sanções",
+      "group": "press",
+      "aliases": [],
+      "occurrences": [
+        "2026-07-23"
+      ],
+      "articles": [
+        {
+          "date": "2026-07-23",
+          "title": "Sanções à Rússia avançam após UE ceder a Portugal e à Grécia",
+          "link": "https://observador.pt/2026/07/23/uniao-europeia-chega-a-acordo-sobre-o-21-o-pacote-sancoes-a-russia-apos-varias-negociacoes-e-cedencias-incluindo-a-portugal/",
+          "outlet": "Observador"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Um \"passo decisivo\". Von der Leyen e Costa saúdam acordo sobre 21.º pacote de sanções à Rússia - Diário de Notícias",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN1JQcUVzczRyMTd3eFZaUFNwOXpfV0tOQUtwU3dZYVBRcXV0SzN5eG5IVE16ckhqUkFQYmhUSWVsT3BNQUxKZmhEaWtjemhxLXF2VEx5SnBFd2dxb0dzenA5cllaNFJZc3lkUjFFcFljQ2NWY1hlLWgxcmVzUW1xZVhNWUJ0VDdIZDFkWjIyOFViM1VmTW4zWF9QbDhBeEc5SkJfQlFiMEFXRktaZnZ1S0doOHIxQQ?oc=5",
+          "outlet": "Diário de Notícias"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Embaixadores da UE com acordo político sobre 21.º pacote de sanções à Rússia",
+          "link": "https://eco.sapo.pt/2026/07/23/embaixadores-da-ue-com-acordo-politico-sobre-21-o-pacote-de-sancoes-a-russia/",
+          "outlet": "ECO"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "<![CDATA[ Ucrânia: Von der Leyen e António Costa saúdam acordo sobre 21.º pacote de sanções à Rússia ]]>",
+          "link": "https://www.sabado.pt/mundo/detalhe/ucrania-von-der-leyen-e-antonio-costa-saudam-acordo-sobre-21-pacote-de-sancoes-a-russia",
+          "outlet": "Sábado"
+        },
+        {
+          "date": "2026-07-23",
+          "title": "Países da UE chegam a acordo sobre 21.º pacote de sanções contra a Rússia",
+          "link": "https://www.rtp.pt/noticias/mundo/paises-da-ue-chegam-a-acordo-sobre-21o-pacote-de-sancoes-contra-a-russia_n1755316",
+          "outlet": "RTP Notícias"
+        }
+      ],
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
     },
     {
       "id": "sanofi",

@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-23",
+  "meta": {
+    "generatedAt": "2026-07-23T10:31:11.965Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "luis-represas",
+        "label": "Luís Represas"
+      },
+      {
+        "id": "inteligencia-artificial",
+        "label": "Inteligência Artificial"
+      },
+      {
+        "id": "sancoes",
+        "label": "Sanções"
+      },
+      {
+        "id": "irao",
+        "label": "Irão"
+      },
+      {
+        "id": "aeroporto",
+        "label": "Aeroporto"
+      },
+      {
+        "id": "petroleo",
+        "label": "Petróleo"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público noticia a morte de Luís Represas, os incêndios em Espanha e França, e os incidentes de inteligência artificial com a OpenAI."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Expresso cobre os incêndios em Alijó, a morte de Luís Represas e as reações, e o novo aeroporto de Lisboa."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador destaca o acordo da UE sobre sanções à Rússia, os lucros das petrolíferas, e o alerta de incêndios em Portugal."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Diário de Notícias aborda o conflito Irão-EUA, as sanções à Rússia, e a morte de Luís Represas."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Jornal de Notícias dá destaque à morte de Luís Represas, aos erros nos exames nacionais, e ao atropelamento em Matosinhos."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Correio da Manhã foca os ataques dos EUA ao Irão, os incêndios em Espanha, e a recordação de Luís Represas."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP Notícias noticia a subida do petróleo, o acordo de sanções à Rússia, e os incêndios em Gondomar e Espanha."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC Notícias aborda o custo do novo aeroporto, os erros nos exames, e a cerimónia fúnebre de Luís Represas."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF reporta o incêndio em Mafra, a investigação a Luís Neves, e as notícias de última hora."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Jornal de Negócios foca os lucros recorde da TotalEnergies e Repsol, as sanções à Rússia, e a venda de participações do Estado."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto destaca a subida do petróleo, os ataques houthis, e o incêndio em Boticas."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO cobre o acordo de sanções à Rússia, os lucros das petrolíferas, e as prioridades do PS para o OE2027."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Jornal Económico dá ênfase à subida do petróleo, às vendas de automóveis, e à multa da UE ao AliExpress."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol noticia os incêndios em Espanha, os exames nacionais, e a morte de Luís Represas."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado aborda os incêndios em Espanha, o acordo de sanções à Rússia, e a vitória judicial dos Santamaria."
+      }
+    ]
+  }
+}
