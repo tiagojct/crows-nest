@@ -1,0 +1,121 @@
+{
+  "date": "2026-07-24",
+  "meta": {
+    "generatedAt": "2026-07-24T10:26:12.088Z",
+    "sources": {
+      "Público": "fallback",
+      "Expresso": "fallback",
+      "Observador": "primary",
+      "Diário de Notícias": "fallback",
+      "Jornal de Notícias": "fallback",
+      "Correio da Manhã": "primary",
+      "RTP Notícias": "primary",
+      "SIC Notícias": "fallback",
+      "TSF": "fallback",
+      "Jornal de Negócios": "primary",
+      "Notícias ao Minuto": "primary",
+      "ECO": "primary",
+      "Jornal Económico": "primary",
+      "Sol": "primary",
+      "Sábado": "primary"
+    }
+  },
+  "press": {
+    "topics": [
+      {
+        "id": "almada",
+        "label": "Almada"
+      },
+      {
+        "id": "luis-neves",
+        "label": "Luís Neves"
+      },
+      {
+        "id": "incendios",
+        "label": "Incêndios"
+      },
+      {
+        "id": "exames",
+        "label": "Exames"
+      },
+      {
+        "id": "tarifas",
+        "label": "Tarifas"
+      },
+      {
+        "id": "musica",
+        "label": "Música"
+      },
+      {
+        "id": "futebol",
+        "label": "Futebol"
+      },
+      {
+        "id": "morte",
+        "label": "Morte"
+      }
+    ],
+    "outlets": [
+      {
+        "name": "Público",
+        "summary": "Público destaca a morte de uma bebé esquecida num carro em Almada, a polémica em torno do ministro Luís Neves, incêndios em França, e a morte do músico Luís Represas."
+      },
+      {
+        "name": "Expresso",
+        "summary": "Expresso aborda a tragédia em Almada, o caso Luís Neves, as novas tarifas de Trump, e a morte do baterista Vicky Marques."
+      },
+      {
+        "name": "Observador",
+        "summary": "Observador cobre a morte de uma criança em Almada, vários acidentes mortais, o caso Luís Neves, e a polémica dos exames nacionais."
+      },
+      {
+        "name": "Diário de Notícias",
+        "summary": "Diário de Notícias foca-se no Estoril Open, nas tarifas de Trump, e na polémica do exame de Matemática."
+      },
+      {
+        "name": "Jornal de Notícias",
+        "summary": "Jornal de Notícias noticia os incêndios em França que obrigaram a retiradas."
+      },
+      {
+        "name": "Correio da Manhã",
+        "summary": "Correio da Manhã destaca a morte de uma bebé em Almada, incêndios em França e Espanha, e a polémica dos exames."
+      },
+      {
+        "name": "RTP Notícias",
+        "summary": "RTP Notícias aborda a morte da criança em Almada, o caso Luís Neves, os incêndios em Espanha, e a nomeação de Jürgen Klopp."
+      },
+      {
+        "name": "SIC Notícias",
+        "summary": "SIC Notícias cobre a tragédia em Almada, o caso Luís Neves, as tarifas de Trump, e a morte de uma jovem na praia."
+      },
+      {
+        "name": "TSF",
+        "summary": "TSF destaca a Liga Europa com o Benfica e o Estoril Open, e a polémica dos exames."
+      },
+      {
+        "name": "Jornal de Negócios",
+        "summary": "Jornal de Negócios foca-se no caso Luís Neves e na polémica envolvendo o ministro."
+      },
+      {
+        "name": "Notícias ao Minuto",
+        "summary": "Notícias ao Minuto noticia a polémica dos exames, o futebol, e os incêndios em Espanha."
+      },
+      {
+        "name": "ECO",
+        "summary": "ECO cobre o caso Luís Neves, as tarifas de Trump, e os incêndios em Espanha."
+      },
+      {
+        "name": "Jornal Económico",
+        "summary": "Jornal Económico destaca a nomeação de Klopp e os incêndios em Espanha."
+      },
+      {
+        "name": "Sol",
+        "summary": "Sol noticia várias mortes (criança na Maia, jovens em acidentes) e o caso Luís Neves."
+      },
+      {
+        "name": "Sábado",
+        "summary": "Sábado aborda a polémica dos exames, o funeral de Luís Represas, e o caso Luís Neves."
+      }
+    ]
+  }
+}
